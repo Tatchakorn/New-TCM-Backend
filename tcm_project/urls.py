@@ -20,10 +20,12 @@ schema_view = get_schema_view(
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('patients/', include('patients.urls')),  # patients app
+    path('patients/', include('patients.urls')),    # patients app
+    path('users/', include('users.urls')),          # users app
     path('api-auth/', include('rest_framework.urls')),
     path('patients/auth/', include('dj_rest_auth.urls')),
-    path('patients/auth/registration', include('dj_rest_auth.registration.urls')),
+    path('patients/auth/registration',
+        include('dj_rest_auth.registration.urls')),
     path('swagger/', schema_view.with_ui(
         'swagger', cache_timeout=0), name='schema-swagger-ui'),
     path('redoc/', schema_view.with_ui(

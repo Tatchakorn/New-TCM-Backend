@@ -26,7 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'django.contrib.sites',
-    
+
     # 3rd party
     'corsheaders',
     'rest_framework',
@@ -40,6 +40,7 @@ INSTALLED_APPS = [
 
     # Local
     'patients.apps.PatientsConfig',
+    'users.apps.UsersConfig',
 ]
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'

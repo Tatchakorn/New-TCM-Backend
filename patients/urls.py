@@ -1,8 +1,6 @@
-from django.urls import path
 from rest_framework.routers import SimpleRouter
-from .views import PatientViewSet, UserViewSet
+from .views import PatientViewSet
 
 router = SimpleRouter()
-router.register('users', UserViewSet, basename='users')
-router.register('', UserViewSet, basename='patients')
+router.register('', PatientViewSet, basename='patients')
 urlpatterns = router.urls
