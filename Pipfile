@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 django = "*"
 djangorestframework = "*"
+django-allauth = "*"
+dj-rest-auth = "*"
 
 [dev-packages]
 pycodestyle = "*"
