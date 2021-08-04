@@ -39,9 +39,13 @@ INSTALLED_APPS = [
     'drf_yasg',
 
     # Local
-    'patients.apps.PatientsConfig',
-    'users.apps.UsersConfig',
+    'patients',
+    'users',
 ]
+
+# Use custom user
+AUTH_USER_MODEL = 'users.CustomUser'
+
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 SITE_ID = 1
@@ -67,6 +71,14 @@ CORS_ORIGIN_WHITELIST = (
 )
 
 # Use Email for authentication
+# ACCOUNT_USER_MODEL_USERNAME_FIELD = None
+# ACCOUNT_EMAIL_REQUIRED = True
+# ACCOUNT_UNIQUE_EMAIL = True
+# ACCOUNT_USERNAME_REQUIRED = False
+# ACCOUNT_AUTHENTICATION_METHOD = 'email'
+# ACCOUNT_EMAIL_VERIFICATION = 'mandatory'
+# ACCOUNT_CONFIRM_EMAIL_ON_GET = True
+
 ACCOUNT_AUTHENTICATION_METHOD = 'email'
 ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_USERNAME_REQUIRED = False

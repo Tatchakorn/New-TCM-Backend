@@ -23,9 +23,9 @@ urlpatterns = [
     path('patients/', include('patients.urls')),    # patients app
     path('users/', include('users.urls')),          # users app
     path('api-auth/', include('rest_framework.urls')),
-    path('patients/auth/', include('dj_rest_auth.urls')),
-    path('patients/auth/registration',
-        include('dj_rest_auth.registration.urls')),
+    path('auth/', include('dj_rest_auth.urls')),
+    path('auth/registration/', include('dj_rest_auth.registration.urls')),
+    path('accounts/', include('allauth.urls')),
     path('swagger/', schema_view.with_ui(
         'swagger', cache_timeout=0), name='schema-swagger-ui'),
     path('redoc/', schema_view.with_ui(
