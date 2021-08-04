@@ -1,10 +1,8 @@
 from django.urls import path
+from rest_framework.routers import SimpleRouter
+from .views import PatientViewSet, UserViewSet
 
-from .views import PatientList, PatientDetial, UserList, UserDetial
-
-urlpatterns = [
-    path('<int:pk>/', PatientDetial.as_view()),
-    path('', PatientList.as_view()),
-    path('users/<int:pk>/', UserDetial.as_view()),
-    path('users/', UserList.as_view()),
-]
+router = SimpleRouter()
+router.register('users', UserViewSet, basename='users')
+router.register('', UserViewSet, basename='patients')
+urlpatterns = router.urls

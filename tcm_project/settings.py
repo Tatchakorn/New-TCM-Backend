@@ -33,8 +33,8 @@ INSTALLED_APPS = [
     'allauth',
     'allauth.account',
     'allauth.socialaccount',
-    'dj_rest_auth', # Still have problems
-    'dj_rest_auth.registration', # Still have problems
+    'dj_rest_auth',
+    'dj_rest_auth.registration',
 
     # Local
     'patients.apps.PatientsConfig',
@@ -52,6 +52,16 @@ REST_FRAMEWORK = {
         'rest_framework.authentication.TokenAuthentication',
     ],
 }
+
+CORS_ORIGIN_WHITELIST = (
+    # Vue
+    'http://127.0.0.1:8080',
+    'http://localhost:8080',
+
+    # Django
+    'http://127.0.0.1:8000',
+    'http://localhost:8000',
+)
 
 # Use Email for authentication
 ACCOUNT_AUTHENTICATION_METHOD = 'email'
