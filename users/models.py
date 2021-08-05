@@ -8,6 +8,8 @@ from django.contrib.auth.models import (
     BaseUserManager,
 )
 
+from patients.models import PatientsInfo
+
 class CustomAccountManager(BaseUserManager):
 
     def create_user(self,
@@ -49,7 +51,7 @@ class CustomAccountManager(BaseUserManager):
 class CustomUser(AbstractBaseUser, PermissionsMixin):
 
     email = models.EmailField(_('email address'), unique=True)
-    username = models.CharField(max_length=150)
+    username = models.CharField(max_length=150,  unique=True)
     start_date = models.DateTimeField(default=timezone.now)
     is_staff = models.BooleanField(default=False)
     is_active = models.BooleanField(default=False)
@@ -63,3 +65,13 @@ class CustomUser(AbstractBaseUser, PermissionsMixin):
 
     def __str__(self) -> str:
         return self.username
+
+
+class OwnPatient(models.Model):
+    doctor = models.OneToOneField(CustomUser, on_delete=models.CASCADE)
+    patients = models.ManyToManyField(PatientsInfo)
+
+
+class PastPatient(models.Model):
+    doctor = models.OneToOneField(CustomUser, on_delete=models.CASCADE)
+    patients = models.ManyToManyField(PatientsInfo)

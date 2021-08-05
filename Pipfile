@@ -16,6 +16,9 @@ django-cors-headers = "*"
 [dev-packages]
 pycodestyle = "*"
 autopep8 = "*"
+django-extensions = "*"
+pydotplus = "*"
 
 [requires]
 python_version = "3.8"
+
