@@ -15,11 +15,15 @@ class Migration(migrations.Migration):
         migrations.AlterField(
             model_name='ownpatients',
             name='doctor',
-            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),
+            field=models.ForeignKey(
+                on_delete=django.db.models.deletion.CASCADE,
+                to=settings.AUTH_USER_MODEL),
         ),
         migrations.AlterField(
             model_name='pastpatients',
             name='doctor',
-            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to=settings.AUTH_USER_MODEL),
+            field=models.ForeignKey(
+                on_delete=django.db.models.deletion.CASCADE,
+                to=settings.AUTH_USER_MODEL),
         ),
     ]

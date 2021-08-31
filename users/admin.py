@@ -9,8 +9,8 @@ class CustomUserAdmin(UserAdmin):
     ordering = ('-start_date',)
     list_display = ('email', 'username', 'is_active', 'is_staff')
     fieldsets = (
-        (None, {'fields': ('email','username', 'role')}),
-        ('Permission', {'fields': ('is_staff','is_active')}),
+        (None, {'fields': ('email', 'username', 'role')}),
+        ('Permission', {'fields': ('is_staff', 'is_active')}),
     )
 
 

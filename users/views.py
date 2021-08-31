@@ -22,4 +22,3 @@ class PastPatientViewSet(viewsets.ModelViewSet):
 class OwnPatientViewSet(viewsets.ModelViewSet):
     queryset = OwnPatient.objects.all()
     serializer_class = OwnPatientSerializer
-
