@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'dj_rest_auth',
     'dj_rest_auth.registration',
     'drf_yasg',
-    'django_extensions',  # Experiment
+    # 'django_extensions',  # Experiment
 
     # Local
     'patients',
@@ -47,18 +47,27 @@ INSTALLED_APPS = [
 # Use custom user
 AUTH_USER_MODEL = 'users.CustomUser'
 
+# For images
+MEDIA_ROOT = Path(BASE_DIR).joinpath('media')
+MEDIA_URL = '/media/'
+
 
 EMAIL_BACKEND = 'django.core.mail.backends.console.EmailBackend'
 SITE_ID = 1
 
 REST_FRAMEWORK = {
     'DEFAULT_PERMISSION_CLASSES': [
+        # 'rest_framework.permissions.AllowAny',
         'rest_framework.permissions.IsAuthenticated',
     ],
     'DEFAULT_AUTHENTICATION_CLASSES': [  # new
         'rest_framework.authentication.SessionAuthentication',
         'rest_framework.authentication.TokenAuthentication',
     ],
+}
+
+REST_AUTH_REGISTER_SERIALIZERS = {
+    'REGISTER_SERIALIZER': 'users.serializers.UserRegistrationSerializer'
 }
 
 CORS_ORIGIN_WHITELIST = (
@@ -85,9 +94,10 @@ ACCOUNT_EMAIL_REQUIRED = True
 ACCOUNT_USERNAME_REQUIRED = False
 
 AUTHENTICATION_BACKENDS = (
-    # Needed to login by username in Django admin, regardless of `allauth`
-    "django.contrib.auth.backends.ModelBackend",
-
+    # Need to login by username in Django admin, regardless of `allauth`
+    # "django.contrib.auth.backends.ModelBackend",
+    # Allow is_active = False
+    'django.contrib.auth.backends.AllowAllUsersModelBackend',
     # `allauth` specific authentication methods, such as login by e-mail
     "allauth.account.auth_backends.AuthenticationBackend",
 )

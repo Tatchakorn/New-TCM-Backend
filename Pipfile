@@ -12,6 +12,7 @@ pyyaml = "*"
 uritemplate = "*"
 drf-yasg = "*"
 django-cors-headers = "*"
+pillow = "*"
 
 [dev-packages]
 pycodestyle = "*"
@@ -21,4 +22,3 @@ pydotplus = "*"
 
 [requires]
 python_version = "3.8"
-

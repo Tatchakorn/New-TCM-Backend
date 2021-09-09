@@ -1,12 +1,12 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
 
-from .models import CustomUser, OwnPatient, PastPatient
+from .models import CustomUser
 
 
 class CustomUserAdmin(UserAdmin):
     model = CustomUser
-    ordering = ('-start_date',)
+    ordering = ('-date_joined',)
     list_display = ('email', 'username', 'is_active', 'is_staff')
     fieldsets = (
         (None, {'fields': ('email', 'username', 'role')}),
@@ -15,5 +15,3 @@ class CustomUserAdmin(UserAdmin):
 
 
 admin.site.register(CustomUser, CustomUserAdmin)
-admin.site.register(OwnPatient)
-admin.site.register(PastPatient)

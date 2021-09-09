@@ -20,10 +20,15 @@ class PatientsInfo(models.Model):
     medical_order_number = models.CharField(max_length=200)
     path = models.CharField(max_length=200)
     period = models.IntegerField()
-    register_time = models.TimeField(default=timezone.now)
+    register_time = models.DateTimeField(default=timezone.now)
     remark = models.CharField(max_length=200, blank=True, null=True)
     selected = models.BooleanField(default=False)
     status = models.CharField(max_length=200)
 
     def __str__(self) -> str:
         return self.name
+
+class DiagnosisInfo(PatientsInfo):
+    diagnosis_data = models.JSONField(default=dict)
+    gan_img = models.ImageField(upload_to='yan', default='default.jpg')
+    she_img = models.ImageField(upload_to='she', default='default.jpg')
