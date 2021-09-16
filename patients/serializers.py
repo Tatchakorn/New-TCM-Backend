@@ -1,18 +1,37 @@
-from typing import Any
 from rest_framework import serializers
-from django.contrib.auth import get_user_model
-from dj_rest_auth import serializers as rest_auth_serializers
-
-from .models import PatientsInfo
+from .models import PatientsInfo, DiagnosisInfo
 
 
 class PatientInfoSerializer(serializers.ModelSerializer):
-
+    # id = serializers.IntegerField(source='pk')
+    cardId = serializers.CharField(source='card_id')
+    consultationNo = serializers.IntegerField(source='consultation_no')
+    medicalOrderNumber = serializers.CharField(source='medical_order_number')
+    registerTime = serializers.DateTimeField(source='register_time', format=r"%a, %d %b %Y %H:%M:%S %Z")
     class Meta:
         model = PatientsInfo
-        fields = '__all__'
+        fields = (
+            'id',
+            'name',
+            'gender',
+            'arrears',
+            'department',
+            'path',
+            'period',
+            'remark',
+            'selected',
+            'status',
+            'cardId',
+            'consultationNo',
+            'medicalOrderNumber',
+            'registerTime',
+        )
 
-    cardId = serializers.CharField(source='card_id')
-    consultationNo = serializers.CharField(source='consultation_no')
-    medicalOrderNumber = serializers.CharField(source='medical_order_number')
-    registerTime = serializers.CharField(source='register_time')
+
+class DiagnosisInfoSerializer(serializers.ModelSerializer):
+    diagnosisData = serializers.JSONField(source='diagnosis_data')
+    serializers.ImageField
+    class Meta:
+        model = DiagnosisInfo
+        fields = ('diagnosisData', 'gan_img', 'she_img',)
+    

@@ -2,6 +2,10 @@ from django.db import models
 from django.utils import timezone
 
 
+def upload_to(instance, filename):
+    return f'she/{filename}'
+
+
 class PatientsInfo(models.Model):
     class Gender(models.TextChoices):
         MALE = 'M', ('男')
@@ -28,7 +32,8 @@ class PatientsInfo(models.Model):
     def __str__(self) -> str:
         return self.name
 
+
 class DiagnosisInfo(PatientsInfo):
     diagnosis_data = models.JSONField(default=dict)
-    gan_img = models.ImageField(upload_to='yan', default='default.jpg')
-    she_img = models.ImageField(upload_to='she', default='default.jpg')
+    gan_img = models.ImageField(upload_to='yan', null=True)
+    she_img = models.ImageField(upload_to='she', null=True)

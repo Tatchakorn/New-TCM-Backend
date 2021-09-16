@@ -13,12 +13,13 @@ uritemplate = "*"
 drf-yasg = "*"
 django-cors-headers = "*"
 pillow = "*"
+djangorestframework-simplejwt = "*"
 
 [dev-packages]
 pycodestyle = "*"
-autopep8 = "*"
 django-extensions = "*"
 pydotplus = "*"
+autopep8 = "*"
 
 [requires]
 python_version = "3.8"
