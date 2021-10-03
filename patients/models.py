@@ -1,9 +1,7 @@
 from django.db import models
+from django.db.models.base import Model
 from django.utils import timezone
-
-
-def upload_to(instance, filename):
-    return f'she/{filename}'
+from rest_framework import serializers
 
 
 class PatientsInfo(models.Model):
@@ -33,7 +31,29 @@ class PatientsInfo(models.Model):
         return self.name
 
 
-class DiagnosisInfo(PatientsInfo):
+class DiagnosisInfo(models.Model):
+    patient = models.ForeignKey(
+        PatientsInfo,
+        related_name='diagnosis',
+        on_delete=models.CASCADE)
     diagnosis_data = models.JSONField(default=dict)
-    gan_img = models.ImageField(upload_to='yan', null=True)
-    she_img = models.ImageField(upload_to='she', null=True)
+
+
+class YanImages(models.Model):
+    diagnosis = models.ForeignKey(
+        DiagnosisInfo,
+        related_name='yan_imgs',
+        on_delete=models.CASCADE)
+    image = models.ImageField(upload_to='images/yan', null=True)
+    date = models.DateTimeField(default=timezone.now)
+    remark = models.CharField(max_length=200, blank=True, null=True)
+
+
+class SheImages(models.Model):
+    diagnosis = models.ForeignKey(
+        DiagnosisInfo,
+        related_name='she_imgs',
+        on_delete=models.CASCADE)
+    image = models.ImageField(upload_to='images/she', null=True)
+    date = models.DateTimeField(default=timezone.now)
+    remark = models.CharField(max_length=200, blank=True, null=True)

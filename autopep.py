@@ -1,12 +1,6 @@
 import glob
 import os
-
-
-def check_import() -> None:
-    try:
-        import autopep8
-    except ModuleNotFoundError or ImportError:
-        print('install autopep8')
+import autopep8
 
 
 def autopep() -> None:
@@ -17,5 +11,4 @@ def autopep() -> None:
 
 
 if __name__ == '__main__':
-    check_import()
     autopep()
