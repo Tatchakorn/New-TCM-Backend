@@ -8,7 +8,7 @@ class YanImagesSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = YanImages
-        fields = ('diagnosis', 'image', 'date', 'remark',)
+        fields = ('id', 'diagnosis', 'image', 'date', 'remark',)
 
 
 class SheImagesSerializer(serializers.ModelSerializer):
@@ -16,7 +16,7 @@ class SheImagesSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = SheImages
-        fields = ('diagnosis', 'image', 'date', 'remark',)
+        fields = ('id', 'diagnosis', 'image', 'date', 'remark',)
 
 
 class DiagnosisInfoSerializer(serializers.ModelSerializer):
@@ -28,7 +28,7 @@ class DiagnosisInfoSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = DiagnosisInfo
-        fields = ('patient', 'diagnosisData', 'yanImages', 'sheImages',)
+        fields = ('id', 'patient', 'diagnosisData', 'yanImages', 'sheImages',)
 
 
 class PatientInfoSerializer(serializers.ModelSerializer):
