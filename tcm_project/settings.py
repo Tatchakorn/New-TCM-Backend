@@ -2,6 +2,8 @@ import os
 from pathlib import Path
 from corsheaders.defaults import default_headers
 from datetime import timedelta
+import django_heroku
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -11,16 +13,17 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
-SECRET_KEY = 'django-insecure-fbwe4do^nt8=ll4u2_8+lt-#l&ugs%nzbfa&^@n8yns6jb%_jr'
+# SECRET_KEY = 'django-insecure-fbwe4do^nt8=ll4u2_8+lt-#l&ugs%nzbfa&^@n8yns6jb%_jr'
+SECRET_KEY = os.environ.get('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [
-    '192.168.1.103',
-    '127.0.0.1',
-]
-
+# ALLOWED_HOSTS = [
+#     '192.168.1.103',
+#     '127.0.0.1',
+# ]
+ALLOWED_HOSTS = ['*']
 
 # Application definition
 
@@ -50,6 +53,7 @@ INSTALLED_APPS = [
     'patients',
     'users',
     'diseases',
+    'medicines',
 ]
 
 # Use custom user
@@ -151,6 +155,7 @@ AUTHENTICATION_BACKENDS = (
 
 MIDDLEWARE = [
     'django.middleware.security.SecurityMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
     'django.contrib.sessions.middleware.SessionMiddleware',
     'corsheaders.middleware.CorsMiddleware',
     'django.middleware.common.CommonMiddleware',
@@ -234,3 +239,7 @@ STATIC_URL = '/static/'
 # https://docs.djangoproject.com/en/3.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+
+# Activate Django-Heroku.
+django_heroku.settings(locals())
