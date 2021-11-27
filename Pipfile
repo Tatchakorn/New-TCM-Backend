@@ -15,9 +15,9 @@ django-cors-headers = "*"
 pillow = "*"
 djangorestframework-simplejwt = "*"
 whitenoise = "*"
-django-heroku = "*"
 gunicorn = "*"
 psycopg2 = "*"
+python-dotenv = "*"
 
 [dev-packages]
 pycodestyle = "*"

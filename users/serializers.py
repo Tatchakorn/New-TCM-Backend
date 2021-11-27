@@ -1,6 +1,6 @@
 from typing import Any
 from rest_framework import serializers
-
+from rest_framework.validators import UniqueValidator
 from .models import CustomUser
 
 
@@ -13,39 +13,26 @@ class UserSerializer(serializers.ModelSerializer):
 
 class UserRegistrationSerializer(serializers.ModelSerializer):
 
+    email = serializers.EmailField(
+        validators=[UniqueValidator(queryset=CustomUser.objects.all())])
+
     password2 = serializers.CharField(
         style={'input_type': 'password'}, write_only=True)
 
     class Meta:
         model = CustomUser
-        fields = ['username', 'email', 'role', 'password', 'password2', ]
+        fields = ['username', 'email', 'password', 'password2', ]
         extra_kwargs = {
             'password': {
                 'write_only': True
             }
         }
 
-    def validate_email(self, email):
-        # Get the email
-        email = self.cleaned_data.get('email')
-
-        # Check to see if any users already exist with this email as a
-        # username.
-        try:
-            match = CustomUser.objects.get(email=email)
-        except CustomUser.DoesNotExist:
-            # Unable to find a user, this is fine
-            return email
-
-        # A user was found with this as a username, raise an error.
-        raise serializers.ValidationError(
-            'This email address is already in use.')
-
-    def save(self, request):
+    # def save(self, request):
+    def save(self, *args, **kwargs):
         user = CustomUser(
             email=self.validated_data['email'],
             username=self.validated_data['username'],
-            role=self.validated_data['role'],
         )
 
         password = self.validated_data['password']
@@ -56,6 +43,6 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
                 {'password': 'Passwords must match.'})
 
         user.set_password(password)
-        user.user_permissions.set(['is_active'], True)
         user.save()
+        # user.user_permissions.set(['is_active'], True)
         return user

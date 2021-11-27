@@ -62,12 +62,12 @@ class CustomUser(AbstractBaseUser, PermissionsMixin):
         auto_now_add=True)
     last_login = models.DateField(verbose_name='last login', auto_now=True)
 
-    role = models.CharField(max_length=100)
-    # photo_url = models.URLField(max_length=200)
+    role = models.CharField(max_length=100, default='醫師')
+    photo_url = models.URLField(max_length=200, default='')
 
     objects = CustomAccountManager()
     USERNAME_FIELD = 'email'
-    REQUIRED_FIELDS = ['username', 'role']
+    REQUIRED_FIELDS = ['username']
 
     def __str__(self) -> str:
         return self.username
