@@ -119,7 +119,8 @@ REST_AUTH_REGISTER_SERIALIZERS = {
     'REGISTER_SERIALIZER': 'users.serializers.UserRegistrationSerializer'
 }
 
-CORS_ORIGIN_WHITELIST = (
+CORS_ALLOW_ORIGINS = (
+    'https://tcm2.apulse.ai/',
     # Vue
     'http://127.0.0.1:8080',
     'http://localhost:8080',
@@ -189,10 +190,20 @@ WSGI_APPLICATION = 'tcm_project.wsgi.application'
 # Database
 # https://docs.djangoproject.com/en/3.2/ref/settings/#databases
 
+# DATABASES = {
+#     'default': {
+#         'ENGINE': 'django.db.backends.sqlite3',
+#         'NAME': BASE_DIR / 'db.sqlite3',
+#     }
+# }
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': BASE_DIR / 'db.sqlite3',
+        'ENGINE': 'django.db.backends.postgresql_psycopg2',
+        'NAME': 'test',
+        'USER': 'postgres',
+        'PASSWORD': os.environ.get('DB_PWD'),
+        'HOST': 'localhost',
+        'PORT': '5432',
     }
 }
 
