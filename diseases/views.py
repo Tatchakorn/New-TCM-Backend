@@ -11,7 +11,6 @@ class StandardResultsSetPagination(PageNumberPagination):
 
 
 class DiseasesViewset(viewsets.ModelViewSet):
-    
     pagination_class = StandardResultsSetPagination
     queryset = Diseases.objects.all()
     serializer_class = DiseasesSerializer

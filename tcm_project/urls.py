@@ -23,10 +23,11 @@ schema_view = get_schema_view(
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('patients/', include('patients.urls')),    # patients app
-    path('users/', include('users.urls')),          # users app
-    path('diseases/', include('diseases.urls')),    # diseases app
-    path('medicines/', include('medicines.urls')),    # medicines app
+    path('patients/', include('patients.urls')),        # patients app
+    path('users/', include('users.urls')),              # users app
+    path('diseases/', include('diseases.urls')),        # diseases app
+    path('medicines/', include('medicines.urls')),      # medicines app
+    path('pulse/', include('pulse.urls')),              # pulse app
     path('api-auth/', include('rest_framework.urls')),
     path('auth/', include('dj_rest_auth.urls')),
     path('auth/registration/', include('dj_rest_auth.registration.urls')),
