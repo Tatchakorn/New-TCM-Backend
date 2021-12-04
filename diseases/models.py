@@ -5,3 +5,8 @@ class Diseases(models.Model):
     code = models.CharField(max_length=32)
     ch_name = models.CharField(max_length=255)
     en_name = models.CharField(max_length=255)
+
+    class Meta:
+        verbose_name_plural = "Diseases"
+        ordering = ['code']
+

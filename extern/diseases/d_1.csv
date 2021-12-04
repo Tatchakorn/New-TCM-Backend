@@ -1,0 +1,1947 @@
+,code,en_name,ch_name
+0,C00,Malignant neoplasm of lip,唇惡性腫瘤
+1,C000,Malignant neoplasm of external upper lip,上唇外側惡性腫瘤
+2,C001,Malignant neoplasm of external lower lip,下唇外側惡性腫瘤
+3,C002,"Malignant neoplasm of external lip, unspecified",唇外側惡性腫瘤，未特定
+4,C003,"Malignant neoplasm of upper lip, inner aspect",上唇內側惡性腫瘤
+5,C004,"Malignant neoplasm of lower lip, inner aspect",下唇內側惡性腫瘤
+6,C005,"Malignant neoplasm of lip, unspecified, inner aspect",唇內側惡性腫瘤，未特定
+7,C006,"Malignant neoplasm of commissure of lip, unspecified",唇連合惡性腫瘤，未特定
+8,C008,Malignant neoplasm of overlapping sites of lip,重疊部位性之唇惡性腫瘤
+9,C009,"Malignant neoplasm of lip, unspecified",唇惡性腫瘤，未特定
+10,C01,Malignant neoplasm of base of tongue,舌基部惡性腫瘤
+11,C02,Malignant neoplasm of other and unspecified parts of tongue,其他及未特定部位之舌部惡性腫瘤
+12,C020,Malignant neoplasm of dorsal surface of tongue,舌背面惡性腫瘤
+13,C021,Malignant neoplasm of border of tongue,舌(邊)緣惡性腫瘤
+14,C022,Malignant neoplasm of ventral surface of tongue,舌腹面惡性腫瘤
+15,C023,"Malignant neoplasm of anterior two-thirds of tongue, part unspecified",舌前三分之二部位之惡性腫瘤，未特定部位
+16,C024,Malignant neoplasm of lingual tonsil,舌扁桃體惡性腫瘤
+17,C028,Malignant neoplasm of overlapping sites of tongue,重疊部位性之舌惡性腫瘤
+18,C029,"Malignant neoplasm of tongue, unspecified",舌部惡性腫瘤，未特定
+19,C03,Malignant neoplasm of gum,齒齦惡性腫瘤
+20,C030,Malignant neoplasm of upper gum,上齒齦惡性腫瘤
+21,C031,Malignant neoplasm of lower gum,下齒齦惡性腫瘤
+22,C039,"Malignant neoplasm of gum, unspecified",齒齦惡性腫瘤，未特定
+23,C04,Malignant neoplasm of floor of mouth,口底惡性腫瘤
+24,C040,Malignant neoplasm of anterior floor of mouth,口底前部惡性腫瘤
+25,C041,Malignant neoplasm of lateral floor of mouth,口底側部惡性腫瘤
+26,C048,Malignant neoplasm of overlapping sites of floor of mouth,重疊部位性之口底惡性腫瘤
+27,C049,"Malignant neoplasm of floor of mouth, unspecified",口底惡性腫瘤，未特定
+28,C05,Malignant neoplasm of palate,顎惡性腫瘤
+29,C050,Malignant neoplasm of hard palate,硬顎惡性腫瘤
+30,C051,Malignant neoplasm of soft palate,軟顎惡性腫瘤
+31,C052,Malignant neoplasm of uvula,懸雍垂惡性腫瘤
+32,C058,Malignant neoplasm of overlapping sites of palate,重疊部位性之顎惡性腫瘤
+33,C059,"Malignant neoplasm of palate, unspecified",顎惡性腫瘤，未特定
+34,C06,Malignant neoplasm of other and unspecified parts of mouth,其他及未特定部位之口腔惡性腫瘤
+35,C060,Malignant neoplasm of cheek mucosa,頰粘膜惡性腫瘤
+36,C061,Malignant neoplasm of vestibule of mouth,口前庭部惡性腫瘤
+37,C062,Malignant neoplasm of retromolar area,臼齒後區惡性腫瘤
+38,C068,Malignant neoplasm of overlapping sites of other and unspecified parts of mouth,重疊部位性之口腔其他及未特定部位惡性腫瘤
+39,C0680,Malignant neoplasm of overlapping sites of unspecified parts of mouth,重疊部位性之未特定口腔惡性腫瘤
+40,C0689,Malignant neoplasm of overlapping sites of other parts of mouth,重疊部位性之口腔其他部位惡性腫瘤
+41,C069,"Malignant neoplasm of mouth, unspecified",口惡性腫瘤，未特定
+42,C07,Malignant neoplasm of parotid gland,腮腺惡性腫瘤
+43,C08,Malignant neoplasm of other and unspecified major salivary glands,其他及未特定主要唾液腺惡性腫瘤
+44,C080,Malignant neoplasm of submandibular gland,頜下腺惡性腫瘤
+45,C081,Malignant neoplasm of sublingual gland,舌下腺惡性腫瘤
+46,C089,"Malignant neoplasm of major salivary gland, unspecified",主要唾液腺惡性腫瘤，未特定
+47,C09,Malignant neoplasm of tonsil,扁桃腺惡性腫瘤
+48,C090,Malignant neoplasm of tonsillar fossa,扁桃腺窩惡性腫瘤
+49,C091,Malignant neoplasm of tonsillar pillar (anterior) (posterior),"扁桃腺柱(前,後)惡性腫瘤"
+50,C098,Malignant neoplasm of overlapping sites of tonsil,重疊部位性之扁桃體惡性腫瘤
+51,C099,"Malignant neoplasm of tonsil, unspecified",扁桃腺惡性腫瘤，未特定
+52,C10,Malignant neoplasm of oropharynx,口咽惡性腫瘤
+53,C100,Malignant neoplasm of vallecula,會厭谿部惡性腫瘤
+54,C101,Malignant neoplasm of anterior surface of epiglottis,會厭前面惡性腫瘤
+55,C102,Malignant neoplasm of lateral wall of oropharynx,口咽側壁惡性腫瘤
+56,C103,Malignant neoplasm of posterior wall of oropharynx,口咽後壁惡性腫瘤
+57,C104,Malignant neoplasm of branchial cleft,鰓裂惡性腫瘤
+58,C108,Malignant neoplasm of overlapping sites of oropharynx,重疊部位性之口咽惡性腫瘤
+59,C109,"Malignant neoplasm of oropharynx, unspecified",口咽惡性腫瘤，未特定
+60,C11,Malignant neoplasm of nasopharynx,鼻咽惡性腫瘤
+61,C110,Malignant neoplasm of superior wall of nasopharynx,鼻咽上壁惡性腫瘤
+62,C111,Malignant neoplasm of posterior wall of nasopharynx,鼻咽後壁惡性腫瘤
+63,C112,Malignant neoplasm of lateral wall of nasopharynx,鼻咽側壁惡性腫瘤
+64,C113,Malignant neoplasm of anterior wall of nasopharynx,鼻咽前壁惡性腫瘤
+65,C118,Malignant neoplasm of overlapping sites of nasopharynx,重疊部位性之鼻咽惡性腫瘤
+66,C119,"Malignant neoplasm of nasopharynx, unspecified",鼻咽惡性腫瘤，未特定
+67,C12,Malignant neoplasm of pyriform sinus,梨狀竇惡性腫瘤
+68,C13,Malignant neoplasm of hypopharynx,下咽惡性腫瘤
+69,C130,Malignant neoplasm of postcricoid region,環狀軟骨後部惡性腫瘤
+70,C131,"Malignant neoplasm of aryepiglottic fold, hypopharyngeal aspect",杓狀軟骨皺壁下咽面惡性腫瘤
+71,C132,Malignant neoplasm of posterior wall of hypopharynx,下咽後壁惡性腫瘤
+72,C138,Malignant neoplasm of overlapping sites of hypopharynx,重疊部位性之下咽惡性腫瘤
+73,C139,"Malignant neoplasm of hypopharynx, unspecified",下咽惡性腫瘤，未特定
+74,C14,"Malignant neoplasm of other and ill-defined sites in the lip, oral cavity and pharynx",其他及界定不明部位之唇、口腔及咽惡性腫瘤
+75,C140,"Malignant neoplasm of pharynx, unspecified",咽部惡性腫瘤，未特定
+76,C142,Malignant neoplasm of Waldeyer's ring,Waldeyer氏扁桃環惡性腫瘤
+77,C148,"Malignant neoplasm of overlapping sites of lip, oral cavity and pharynx",重疊部位性之唇，口腔及咽惡性腫瘤
+78,C15,Malignant neoplasm of esophagus,食道惡性腫瘤
+79,C153,Malignant neoplasm of upper third of esophagus,食道上三分之一惡性腫瘤
+80,C154,Malignant neoplasm of middle third of esophagus,食道中三分之一惡性腫瘤
+81,C155,Malignant neoplasm of lower third of esophagus,食道下三分之一惡性腫瘤
+82,C158,Malignant neoplasm of overlapping sites of esophagus,食道重疊性部位之惡性腫瘤
+83,C159,"Malignant neoplasm of esophagus, unspecified",食道惡性腫瘤，未特定
+84,C16,Malignant neoplasm of stomach,胃惡性腫瘤
+85,C160,Malignant neoplasm of cardia,賁門部惡性腫瘤
+86,C161,Malignant neoplasm of fundus of stomach,胃底部惡性腫瘤
+87,C162,Malignant neoplasm of body of stomach,胃體部惡性腫瘤
+88,C163,Malignant neoplasm of pyloric antrum,幽門竇惡性腫瘤
+89,C164,Malignant neoplasm of pylorus,幽門部惡性腫瘤
+90,C165,"Malignant neoplasm of lesser curvature of stomach, unspecified",胃小彎惡性腫瘤，未特定
+91,C166,"Malignant neoplasm of greater curvature of stomach, unspecified",胃大彎惡性腫瘤，未特定
+92,C168,Malignant neoplasm of overlapping sites of stomach,胃重疊性部位之惡性腫瘤
+93,C169,"Malignant neoplasm of stomach, unspecified",胃惡性腫瘤，未特定
+94,C17,Malignant neoplasm of small intestine,小腸惡性腫瘤
+95,C170,Malignant neoplasm of duodenum,十二指腸惡性腫瘤
+96,C171,Malignant neoplasm of jejunum,空腸惡性腫瘤
+97,C172,Malignant neoplasm of ileum,迴腸惡性腫瘤
+98,C173,Meckel's diverticulum,Meckel氏憩室
+99,C178,Malignant neoplasm of overlapping sites of small intestine,重疊部位性之小腸惡性腫瘤
+100,C179,"Malignant neoplasm of small intestine, unspecified",小腸惡性腫瘤，未特定
+101,C18,Malignant neoplasm of colon,結腸惡性腫瘤
+102,C180,Malignant neoplasm of cecum,盲腸惡性腫瘤
+103,C181,Malignant neoplasm of appendix,闌尾惡性腫瘤
+104,C182,Malignant neoplasm of ascending colon,升結腸惡性腫瘤
+105,C183,Malignant neoplasm of hepatic flexure,結腸肝(彎)曲部惡性腫瘤
+106,C184,Malignant neoplasm of transverse colon,橫結腸惡性腫瘤
+107,C185,Malignant neoplasm of splenic flexure,結腸脾(彎)曲部惡性腫瘤
+108,C186,Malignant neoplasm of descending colon,降結腸惡性腫瘤
+109,C187,Malignant neoplasm of sigmoid colon,乙狀結腸惡性腫瘤
+110,C188,Malignant neoplasm of overlapping sites of colon,大腸重疊性部位之惡性腫瘤
+111,C189,"Malignant neoplasm of colon, unspecified",結腸惡性腫瘤，未特定
+112,C19,Malignant neoplasm of rectosigmoid junction,直腸乙狀結腸連接處惡性腫瘤
+113,C20,Malignant neoplasm of rectum,直腸惡性腫瘤
+114,C21,Malignant neoplasm of anus and anal canal,肛門及肛(門)管惡性腫瘤
+115,C210,"Malignant neoplasm of anus, unspecified",肛門惡性腫瘤，未特定
+116,C211,Malignant neoplasm of anal canal,肛管惡性腫瘤
+117,C212,Malignant neoplasm of cloacogenic zone,泄殖腔帶惡性腫瘤
+118,C218,"Malignant neoplasm of overlapping sites of rectum, anus and anal canal",重疊部位性之直腸、肛門及肛(門)管惡性腫瘤
+119,C22,Malignant neoplasm of liver and intrahepatic bile ducts,肝及肝內膽管惡性腫瘤
+120,C220,Liver cell carcinoma,肝上皮細胞癌(肝細胞癌)
+121,C221,Intrahepatic bile duct carcinoma,肝內膽管癌
+122,C222,Hepatoblastoma,肝芽細胞瘤
+123,C223,Angiosarcoma of liver,肝血管肉瘤
+124,C224,Other sarcomas of liver,肝其他肉瘤
+125,C227,Other specified carcinomas of liver,其他特定的肝上皮細胞癌
+126,C228,"Malignant neoplasm of liver, primary, unspecified as to type",原發性肝惡性腫瘤，未特定型
+127,C229,"Malignant neoplasm of liver, not specified as primary or secondary",未特定為原發性或續發性之肝惡性腫瘤
+128,C23,Malignant neoplasm of gallbladder,膽囊惡性腫瘤
+129,C24,Malignant neoplasm of other and unspecified parts of biliary tract,其他及未特定部位之膽道惡性腫瘤
+130,C240,Malignant neoplasm of extrahepatic bile duct,肝外膽管惡性腫瘤
+131,C241,Malignant neoplasm of ampulla of Vater,十二指腸壺腹惡性腫瘤
+132,C248,Malignant neoplasm of overlapping sites of biliary tract,重疊部位性之膽道惡性腫瘤
+133,C249,"Malignant neoplasm of biliary tract, unspecified",膽道惡性腫瘤，未特定
+134,C25,Malignant neoplasm of pancreas,胰臟惡性腫瘤
+135,C250,Malignant neoplasm of head of pancreas,胰臟頭部惡性腫瘤
+136,C251,Malignant neoplasm of body of pancreas,胰臟體部惡性腫瘤
+137,C252,Malignant neoplasm of tail of pancreas,胰臟尾部惡性腫瘤
+138,C253,Malignant neoplasm of pancreatic duct,胰管惡性腫瘤
+139,C254,Malignant neoplasm of endocrine pancreas,胰內分泌性惡性腫瘤
+140,C257,Malignant neoplasm of other parts of pancreas,胰其他部位之惡性腫瘤
+141,C258,Malignant neoplasm of overlapping sites of pancreas,重疊部位性之胰臟惡性腫瘤
+142,C259,"Malignant neoplasm of pancreas, unspecified",胰臟惡性腫瘤，未特定
+143,C26,Malignant neoplasm of other and ill-defined digestive organs,消化系統內其他及界定不明部位惡性腫瘤
+144,C260,"Malignant neoplasm of intestinal tract, part unspecified",腸道惡性腫瘤，未特定部位
+145,C261,Malignant neoplasm of spleen,脾惡性腫瘤
+146,C269,Malignant neoplasm of ill-defined sites within the digestive system,消化系統內界定不明的部位惡性腫瘤
+147,C30,Malignant neoplasm of nasal cavity and middle ear,鼻腔及中耳惡性腫瘤
+148,C300,Malignant neoplasm of nasal cavity,鼻腔惡性腫瘤
+149,C301,Malignant neoplasm of middle ear,中耳惡性腫瘤
+150,C31,Malignant neoplasm of accessory sinuses,副鼻竇惡性腫瘤
+151,C310,Malignant neoplasm of maxillary sinus,上頜竇惡性腫瘤
+152,C311,Malignant neoplasm of ethmoidal sinus,篩竇惡性腫瘤
+153,C312,Malignant neoplasm of frontal sinus,額竇惡性腫瘤
+154,C313,Malignant neoplasm of sphenoid sinus,蝶竇惡性腫瘤
+155,C318,Malignant neoplasm of overlapping sites of accessory sinuses,重疊部位性之副鼻竇惡性腫瘤
+156,C319,"Malignant neoplasm of accessory sinus, unspecified",副鼻竇惡性腫瘤，未特定
+157,C32,Malignant neoplasm of larynx,喉惡性腫瘤
+158,C320,Malignant neoplasm of glottis,聲門惡性腫瘤
+159,C321,Malignant neoplasm of supraglottis,上聲門惡性腫瘤
+160,C322,Malignant neoplasm of subglottis,下聲門惡性腫瘤
+161,C323,Malignant neoplasm of laryngeal cartilage,喉軟骨惡性腫瘤
+162,C328,Malignant neoplasm of overlapping sites of larynx,重疊部位性之喉惡性腫瘤
+163,C329,"Malignant neoplasm of larynx, unspecified",喉惡性腫瘤，未特定
+164,C33,Malignant neoplasm of trachea,氣管惡性腫瘤
+165,C34,Malignant neoplasm of bronchus and lung,支氣管及肺惡性腫瘤
+166,C340,Malignant neoplasm of main bronchus,主支氣管惡性腫瘤
+167,C3400,"Malignant neoplasm of main bronchus, unspecified side",未特定側性主支氣管惡性腫瘤
+168,C3401,Malignant neoplasm of right main bronchus,右側主支氣管惡性腫瘤
+169,C3402,Malignant neoplasm of left main bronchus,左側主支氣管惡性腫瘤
+170,C341,"Malignant neoplasm of upper lobe, bronchus or lung",上葉、支氣管或肺惡性腫瘤
+171,C3410,"Malignant neoplasm of upper lobe, bronchus or lung, unspecified side",未特定側性肺上葉、支氣管或肺惡性腫瘤
+172,C3411,"Malignant neoplasm of upper lobe, right bronchus or lung",上葉之右側支氣管或肺惡性腫瘤
+173,C3412,"Malignant neoplasm of upper lobe, left bronchus or lung",上葉之左側支氣管或肺惡性腫瘤
+174,C342,"Malignant neoplasm of middle lobe, right bronchus or lung",中葉之右側支氣管或肺惡性腫瘤
+175,C343,"Malignant neoplasm of lower lobe, bronchus or lung",下葉、支氣管或肺惡性腫瘤
+176,C3430,"Malignant neoplasm of lower lobe, bronchus or lung, unspecified side",下葉之未特定側性支氣管或肺惡性腫瘤
+177,C3431,"Malignant neoplasm of lower lobe, right bronchus or lung",下葉之右支氣管或肺惡性腫瘤
+178,C3432,"Malignant neoplasm of lower lobe, left bronchus or lung",下葉之左支氣管或肺惡性腫瘤
+179,C348,Malignant neoplasm of overlapping sites of bronchus and lung,重疊部位性之支氣管及肺惡性腫瘤
+180,C3480,"Malignant neoplasm of overlapping sites of bronchus and lung, unspecified side",重疊部位性之支氣管及肺惡性腫瘤，未特定側性
+181,C3481,Malignant neoplasm of overlapping sites of right bronchus and lung,重疊部位性之支氣管及肺惡性腫瘤
+182,C3482,Malignant neoplasm of overlapping sites of left bronchus and lung,重疊部位性之支氣管及肺惡性腫瘤
+183,C349,"Malignant neoplasm of bronchus or lung, unspecified",支氣管及肺惡性腫瘤
+184,C3490,"Malignant neoplasm of bronchus or lung, unspecified, unspecified side",未特定側性支氣管及肺惡性腫瘤，未特定
+185,C3491,"Malignant neoplasm of right bronchus or lung, unspecified",右側支氣管或肺惡性腫瘤，未特定
+186,C3492,"Malignant neoplasm of left bronchus or lung, unspecified",左側支氣管或肺惡性腫瘤，未特定
+187,C37,Malignant neoplasm of thymus,胸腺惡性腫瘤
+188,C38,"Malignant neoplasm of heart, mediastinum and pleura",心臟、縱隔及胸(肋)膜之惡性腫瘤
+189,C380,Malignant neoplasm of heart,心臟惡性腫瘤
+190,C381,Malignant neoplasm of anterior mediastinum,前縱膈惡性腫瘤
+191,C382,Malignant neoplasm of posterior mediastinum,後縱膈惡性腫瘤
+192,C383,"Malignant neoplasm of mediastinum, part unspecified",縱膈惡性腫瘤，未特定部位
+193,C384,Malignant neoplasm of pleura,胸(肋)膜惡性腫瘤
+194,C388,"Malignant neoplasm of overlapping sites of heart, mediastinum and pleura",心臟、縱隔及胸(肋)膜重疊性部位之惡性腫瘤
+195,C39,Malignant neoplasm of other and ill-defined sites in the respiratory system,呼吸系統內其他及界定不明部位惡性腫瘤
+196,C390,"Malignant neoplasm of upper respiratory tract, part unspecified",上呼吸道惡性腫瘤，未特定部位
+197,C399,"Malignant neoplasm of lower respiratory tract, part unspecified",下呼吸道惡性腫瘤，未特定部位
+198,C40,Malignant neoplasm of bone and articular cartilage of limbs,肢體骨及關節軟骨惡性腫瘤
+199,C400,Malignant neoplasm of scapula and long bones of upper limb,上肢長骨及肩胛骨之惡性腫瘤
+200,C4000,"Malignant neoplasm of scapula and long bones of upper limb, unspecified side",上肢長骨及肩胛骨之惡性腫瘤，未特定側性
+201,C4001,Malignant neoplasm of scapula and long bones of right upper limb,右側上肢長骨及肩胛骨之惡性腫瘤
+202,C4002,Malignant neoplasm of scapula and long bones of left upper limb,左側上肢長骨及肩胛骨之惡性腫瘤
+203,C401,Malignant neoplasm of short bones of upper limb,上肢短骨惡性腫瘤
+204,C4010,"Malignant neoplasm of short bones of upper limb, unspecified side",上肢短骨惡性腫瘤，未特定側性
+205,C4011,Malignant neoplasm of short bones of right upper limb,右側上肢短骨惡性腫瘤
+206,C4012,Malignant neoplasm of short bones of left upper limb,左側上肢短骨惡性腫瘤
+207,C402,Malignant neoplasm of long bones of lower limb,下肢長骨惡性腫瘤
+208,C4020,"Malignant neoplasm of long bones of lower limb, unspecified side",下肢長骨惡性腫瘤，未特定側性
+209,C4021,Malignant neoplasm of long bones of right lower limb,右側下肢長骨惡性腫瘤
+210,C4022,Malignant neoplasm of long bones of left lower limb,左側下肢長骨惡性腫瘤
+211,C403,Malignant neoplasm of short bones of lower limb,下肢短骨惡性腫瘤
+212,C4030,"Malignant neoplasm of short bones of lower limb, unspecified side",下肢短骨惡性腫瘤，未特定側性
+213,C4031,Malignant neoplasm of short bones of right lower limb,右側下肢短骨惡性腫瘤
+214,C4032,Malignant neoplasm of short bones of left lower limb,左側下肢短骨惡性腫瘤
+215,C408,Malignant neoplasm of overlapping sites of bone and articular cartilage of limb,重疊部位性之肢體骨及關節軟骨惡性腫瘤
+216,C4080,"Malignant neoplasm of overlapping sites of bone and articular cartilage of limb, unspecified side",重疊部位性之肢體骨及關節軟骨惡性腫瘤，未特定側性
+217,C4081,Malignant neoplasm of overlapping sites of bone and articular cartilage of right limb,重疊部位性之右側肢體骨及關節軟骨惡性腫瘤
+218,C4082,Malignant neoplasm of overlapping sites of bone and articular cartilage of left limb,重疊部位性之左側肢體骨及關節軟骨惡性腫瘤
+219,C409,"Malignant neoplasm of bones and articular cartilage of limb, unspecified",肢體骨及關節軟骨惡性腫瘤
+220,C4090,"Malignant neoplasm of bones and articular cartilage of limb, unspecified, unspecified side",肢骨及關節軟骨惡性腫瘤，未特定，未特定側性
+221,C4091,"Malignant neoplasm of bones and articular cartilage of right limb, unspecified",右側肢骨及關節軟骨惡性腫瘤，未特定
+222,C4092,"Malignant neoplasm of bones and articular cartilage of left limb, unspecified",左側肢骨及關節軟骨惡性腫瘤，未特定
+223,C41,Malignant neoplasm of bone and articular cartilage of other and unspecified sites,其他及未特定部位之肢體骨及關節軟骨惡性腫瘤
+224,C410,Malignant neoplasm of bones of skull and face,顱骨及顏面骨之惡性腫瘤
+225,C411,Malignant neoplasm of mandible,下頜骨惡性腫瘤
+226,C412,Malignant neoplasm of vertebral column,脊柱(椎)惡性腫瘤
+227,C413,"Malignant neoplasm of ribs, sternum and clavicle",肋骨，胸骨及鎖骨之惡性腫瘤
+228,C414,"Malignant neoplasm of pelvic bones, sacrum and coccyx",骨盆(骨)，薦骨及尾骨之惡性腫瘤
+229,C419,"Malignant neoplasm of bone and articular cartilage, unspecified",骨及關節軟骨之惡性腫瘤，未特定
+230,C43,Malignant melanoma of skin,皮膚惡性黑色素瘤
+231,C430,Malignant melanoma of lip,唇惡性黑色素瘤
+232,C431,"Malignant melanoma of eyelid, including canthus",眼瞼惡性黑色素瘤、含眼角
+233,C4310,"Malignant melanoma of eyelid, including canthus, unspecified side",未特定側性眼瞼惡性黑色素瘤，含眼角
+234,C4311,"Malignant melanoma of right eyelid, including canthus",右側眼瞼惡性黑色素瘤，含眼角
+235,C4312,"Malignant melanoma of left eyelid, including canthus",左側眼瞼惡性黑色素瘤，含眼角
+236,C432,Malignant melanoma of ear and external auricular canal,耳及外耳道惡性黑色素瘤
+237,C4320,"Malignant melanoma of ear and external auricular canal, unspecified side",未特定側性耳及外耳道惡性黑色素瘤
+238,C4321,Malignant melanoma of right ear and external auricular canal,右側耳及外耳道惡性黑色素瘤
+239,C4322,Malignant melanoma of left ear and external auricular canal,左側耳及外耳道惡性黑色素瘤
+240,C433,Malignant melanoma of other and unspecified parts of face,顏面其他及未特定部位之惡性黑色素瘤
+241,C4330,Malignant melanoma of unspecified part of face,顏面未特定部位之惡性黑色素瘤
+242,C4331,Malignant melanoma of nose,鼻惡性黑色素瘤
+243,C4339,Malignant melanoma of other parts of face,顏面其他部位之惡性黑色素瘤
+244,C434,Malignant melanoma of scalp and neck,頭皮及頸惡性黑色素瘤
+245,C435,Malignant melanoma of trunk,軀幹惡性黑色素瘤
+246,C4351,Malignant melanoma of anal skin,肛門皮膚惡性黑色素瘤
+247,C4352,Malignant melanoma of skin of breast,乳房皮膚惡性黑色素瘤
+248,C4359,Malignant melanoma of other part of trunk,軀幹其他部位惡性黑色素瘤
+249,C436,"Malignant melanoma of upper limb, including shoulder",上肢惡性黑色素瘤、含肩
+250,C4360,"Malignant melanoma of upper limb, including shoulder, unspecified side",未特定側性上肢惡性黑色素瘤，含肩
+251,C4361,"Malignant melanoma of right upper limb, including shoulder",右側上肢惡性黑色素瘤，含肩
+252,C4362,"Malignant melanoma of left upper limb, including shoulder",左側上肢惡性黑色素瘤，含肩
+253,C437,"Malignant melanoma of lower limb, including hip",下肢惡性黑色素瘤、含髖
+254,C4370,"Malignant melanoma of lower limb, including hip, unspecified side",未特定側性下肢惡性黑色素瘤，含髖
+255,C4371,"Malignant melanoma of right lower limb, including hip",右側下肢惡性黑色素瘤，含髖
+256,C4372,"Malignant melanoma of left lower limb, including hip",左側下肢惡性黑色素瘤，含髖
+257,C438,Overlapping malignant melanoma of skin,皮膚重疊性惡性黑色素瘤
+258,C439,"Malignant melanoma of skin, unspecified",皮膚惡性黑色素瘤，未特定
+259,C44,Other malignant neoplasm of skin,其他皮膚之惡性黑色素瘤
+260,C440,Malignant neoplasm of skin of lip,唇部皮膚之惡性腫瘤
+261,C441,"Malignant neoplasm of skin of eyelid, including canthus",眼瞼皮膚之惡性腫瘤、含眼角
+262,C4410,"Malignant neoplasm of skin of eyelid, including canthus, unspecified side",未特定側性眼瞼皮膚之惡性腫瘤，含眼角
+263,C4411,"Malignant neoplasm of skin of right eyelid, including canthus",右側眼瞼皮膚之惡性腫瘤，含眼角
+264,C4412,"Malignant neoplasm of skin of left eyelid, including canthus",左側眼瞼皮膚之惡性腫瘤，含眼角
+265,C442,Malignant neoplasm of skin of ear and external auricular canal,耳及外耳道皮膚之惡性腫瘤
+266,C4420,"Malignant neoplasm of skin of ear and external auricular canal, unspecified side",未特定側性耳及外耳道皮膚之惡性腫瘤
+267,C4421,Malignant neoplasm of skin of right ear and external auricular canal,右側耳及外耳道皮膚之惡性腫瘤
+268,C4422,Malignant neoplasm of skin of left ear and external auricular canal,左側耳及外耳道皮膚之惡性腫瘤
+269,C443,Malignant neoplasm of skin of other and unspecified parts of face,顏面其他及未特定部位皮膚之惡性腫瘤
+270,C4430,Malignant neoplasm of skin of unspecified part of face,顏面未特定部位皮膚之惡性腫瘤
+271,C4431,Malignant neoplasm of skin of nose,鼻皮膚之惡性腫瘤
+272,C4439,Malignant neoplasm of skin of other parts of face,顏面其他部位皮膚之惡性腫瘤
+273,C444,Malignant neoplasm of skin of scalp and neck,頭皮及頸部皮膚之惡性腫瘤
+274,C445,Malignant neoplasm of skin of trunk,軀幹皮膚之惡性腫瘤
+275,C4451,Malignant neoplasm of anal skin,肛門皮膚之惡性腫瘤
+276,C4452,Malignant neoplasm of skin of breast,乳房皮膚之惡性腫瘤
+277,C4459,Malignant neoplasm of other part of trunk,軀幹其他部位皮膚之惡性腫瘤
+278,C446,"Malignant neoplasm of skin of upper limb, including shoulder",上肢皮膚之惡性腫瘤、含肩
+279,C4460,"Malignant neoplasm of skin of upper limb, including shoulder, unspecified side",未特定側性上肢皮膚之惡性腫瘤，含肩
+280,C4461,"Malignant neoplasm of skin of right upper limb, including shoulder",右側上肢皮膚之惡性腫瘤，含肩
+281,C4462,"Malignant neoplasm of skin of left upper limb, including shoulder",左側上肢皮膚之惡性腫瘤，含肩
+282,C447,"Malignant neoplasm of skin of lower limb, including hip",下肢皮膚之惡性腫瘤、含髖
+283,C4470,"Malignant neoplasm of skin of lower limb, including hip, unspecified side",未特定側性下肢皮膚之惡性腫瘤，含髖
+284,C4471,"Malignant neoplasm of skin of right lower limb, including hip",右側下肢皮膚之惡性腫瘤，含髖
+285,C4472,"Malignant neoplasm of skin of left lower limb, including hip",左側下肢皮膚之惡性腫瘤，含髖
+286,C448,Malignant neoplasm of overlapping sites of skin,皮膚重疊性部位之惡性腫瘤
+287,C449,"Malignant neoplasm of skin, unspecified",皮膚之惡性腫瘤，未特定
+288,C45,Mesothelioma,間皮瘤
+289,C450,Mesothelioma of pleura,胸(肋)膜間皮瘤
+290,C451,Mesothelioma of peritoneum,腹膜間皮瘤
+291,C452,Mesothelioma of pericardium,心包膜間皮瘤
+292,C457,Mesothelioma of other sites,其他部位間皮瘤
+293,C459,"Mesothelioma, unspecified",間皮瘤，未特定
+294,C46,Kaposi's sarcoma,卡波西氏肉瘤
+295,C460,Kaposi's sarcoma of skin,皮膚卡波西氏肉瘤
+296,C461,Kaposi's sarcoma of soft tissue,軟組織卡波西氏肉瘤
+297,C462,Kaposi's sarcoma of palate,顎卡波西氏肉瘤
+298,C463,Kaposi's sarcoma of lymph nodes,淋巴結卡波西氏肉瘤
+299,C464,Kaposi's sarcoma of gastrointestinal sites,胃腸道卡波西氏肉瘤
+300,C465,Kaposi's sarcoma of lung,肺卡波西氏肉瘤
+301,C4650,"Kaposi's sarcoma of lung, unspecified side",未特定側性肺卡波西(Kaposi)(氏)肉瘤
+302,C4651,Kaposi's sarcoma of right lung,右側肺卡波西氏肉瘤
+303,C4652,Kaposi's sarcoma of left lung,左側肺卡波西氏肉瘤
+304,C467,Kaposi's sarcoma of other sites,其他部位卡波西氏肉瘤
+305,C469,"Kaposi's sarcoma, unspecified",卡波西氏肉瘤，未特定
+306,C47,Malignant neoplasm of peripheral nerves and autonomic nervous system,周邊神經及自主神經系統之惡性腫瘤
+307,C470,"Malignant neoplasm of peripheral nerves of head, face and neck",頭、顏面及頸周邊神經之惡性腫瘤
+308,C471,"Malignant neoplasm of peripheral nerves of upper limb, including shoulder",上肢周邊神經之惡性腫瘤、含肩(部)
+309,C4710,"Malignant neoplasm of peripheral nerves of upper limb, including shoulder, unspecified side",未特定側性上肢周邊神經之惡性腫瘤，含肩(部)
+310,C4711,"Malignant neoplasm of peripheral nerves of right upper limb, including shoulder",右側上肢周邊神經之惡性腫瘤，含肩(部)
+311,C4712,"Malignant neoplasm of peripheral nerves of left upper limb, including shoulder",左側上肢周邊神經之惡性腫瘤，含肩(部)
+312,C472,"Malignant neoplasm of peripheral nerves of lower limb, including hip",下肢周邊神經之惡性腫瘤、含髖(部)
+313,C4720,"Malignant neoplasm of peripheral nerves of lower limb, including hip, unspecified side",未特定側性下肢周邊神經之惡性腫瘤，含髖(部)
+314,C4721,"Malignant neoplasm of peripheral nerves of right lower limb, including hip",右側下肢周邊神經之惡性腫瘤，含髖(部)
+315,C4722,"Malignant neoplasm of peripheral nerves of left lower limb, including hip",左側下肢周邊神經之惡性腫瘤，含髖(部)
+316,C473,Malignant neoplasm of peripheral nerves of thorax,胸(部)周邊神經之惡性腫瘤
+317,C474,Malignant neoplasm of peripheral nerves of abdomen,腹(部)周邊神經之惡性腫瘤
+318,C475,Malignant neoplasm of peripheral nerves of pelvis,骨盆(腔)周邊神經之惡性腫瘤
+319,C476,"Malignant neoplasm of peripheral nerves of trunk, unspecified",軀幹周邊神經之惡性腫瘤，未特定
+320,C478,Malignant neoplasm of overlapping sites of peripheral nerves and autonomic nervous system,周邊神經及自主神經系統重疊性部位之惡性腫瘤
+321,C479,"Malignant neoplasm of peripheral nerves and autonomic nervous system, unspecified",周邊神經及自主神經系統之惡性腫瘤，未特定
+322,C48,Malignant neoplasm of retroperitoneum and peritoneum,後腹腔及腹膜惡性腫瘤
+323,C480,Malignant neoplasm of retroperitoneum,後腹腔惡性腫瘤
+324,C481,Malignant neoplasm of specified parts of peritoneum,腹膜特定部位之惡性腫瘤
+325,C482,"Malignant neoplasm of peritoneum, unspecified",腹膜惡性腫瘤，未特定
+326,C488,Malignant neoplasm of overlapping sites of retroperitoneum and peritoneum,後腹腔及腹膜重疊部位之惡性腫瘤
+327,C49,Malignant neoplasm of other connective and soft tissue,其他結締及軟組織之惡性腫瘤
+328,C490,"Malignant neoplasm of connective and soft tissue of head, face and neck",頭、顏面及頸的結締及軟組織之惡性腫瘤
+329,C491,"Malignant neoplasm of connective and soft tissue of upper limb, including shoulder",上肢結締及軟組織之惡性腫瘤、含肩(部)
+330,C4910,"Malignant neoplasm of connective and soft tissue of upper limb, including shoulder, unspecified side",未特定側性上肢結締及軟組織之惡性腫瘤，含肩(部)
+331,C4911,"Malignant neoplasm of connective and soft tissue of right upper limb, including shoulder",右側上肢結締及軟組織之惡性腫瘤，含肩(部)
+332,C4912,"Malignant neoplasm of connective and soft tissue of left upper limb, including shoulder",左側上肢結締及軟組織之惡性腫瘤，含肩(部)
+333,C492,"Malignant neoplasm of connective and soft tissue of lower limb, including hip",下肢結締及軟組織之惡性腫瘤、含髖(部)
+334,C4920,"Malignant neoplasm of connective and soft tissue of lower limb, including hip, unspecified side",未特定側性下肢結締及軟組織之惡性腫瘤，含髖(部)
+335,C4921,"Malignant neoplasm of connective and soft tissue of right lower limb, including hip",右側下肢結締及軟組織之惡性腫瘤，含髖(部)
+336,C4922,"Malignant neoplasm of connective and soft tissue of left lower limb, including hip",左側下肢結締及軟組織之惡性腫瘤，含髖(部)
+337,C493,Malignant neoplasm of connective and soft tissue of thorax,胸(部)結締及軟組織之惡性腫瘤
+338,C494,Malignant neoplasm of connective and soft tissue of abdomen,腹(部)結締及軟組織之惡性腫瘤
+339,C495,Malignant neoplasm of connective and soft tissue of pelvis,骨盆(腔)結締及軟組織之惡性腫瘤
+340,C496,"Malignant neoplasm of connective and soft tissue of trunk, unspecified",軀幹結締及軟組織之惡性腫瘤，未特定
+341,C498,Malignant neoplasm of overlapping sites of connective and soft tissue,結締及軟組織重疊性部位之惡性腫瘤
+342,C499,"Malignant neoplasm of connective and soft tissue, unspecified",結締及軟組織之惡性腫瘤，未特定
+343,C4a,Merkel cell carcinoma,梅克爾細胞癌
+344,C4a0,Merkel cell carcinoma of lip,唇梅克爾細胞癌
+345,C4a1,"Merkel cell carcinoma of eyelid,including canthus",眼瞼梅克爾細胞癌、含眼角
+346,C4a10,"Merkel cell carcinoma of eyelid, including canthus, unspecified side",未特定側性眼瞼梅克爾細胞癌，含眼角
+347,C4a11,"Merkel cell carcinoma of right eyelid, including canthus",右側眼瞼梅克爾細胞癌，含眼角
+348,C4a12,"Merkel cell carcinoma of left eyelid, including canthus",左側眼瞼梅克爾細胞癌，含眼角
+349,C4a2,Merkel cell carcinoma of ear and external auricular canal,耳及外耳道梅克爾細胞癌
+350,C4a20,"Merkel cell carcinoma of ear and external auricular canal, unspecified side",未特定側性耳及外耳道梅克爾細胞癌
+351,C4a21,Merkel cell carcinoma of right ear and external auricular canal,右側耳及外耳道梅克爾細胞癌
+352,C4a22,Merkel cell carcinoma of left ear and external auricular canal,左側耳及外耳道梅克爾細胞癌
+353,C4a3,Merkel cell carcinoma of other and unspecified parts of face,顏面其他及未特定部位梅克爾細胞癌
+354,C4a30,Merkel cell carcinoma of unspecified part of face,顏面未特定部位梅克爾細胞癌
+355,C4a31,Merkel cell carcinoma of nose,鼻梅克爾細胞癌
+356,C4a39,Merkel cell carcinoma of other parts of face,顏面其他部位梅克爾細胞癌
+357,C4a4,Merkel cell carcinoma of scalp and neck,頭皮及頸梅克爾細胞癌
+358,C4a5,Merkel cell carcinoma of trunk,軀幹梅克爾細胞癌
+359,C4a51,Merkel cell carcinoma of anal skin,肛門皮膚梅克爾細胞癌
+360,C4a52,Merkel cell carcinoma of skin of breast,乳房皮膚梅克爾細胞癌
+361,C4a59,Merkel cell carcinoma of other part of trunk,軀幹其他部位梅克爾細胞癌
+362,C4a6,"Merkel cell carcinoma of upper limb, including shoulder",上肢梅克爾細胞癌、含肩
+363,C4a60,"Merkel cell carcinoma of upper limb, including shoulder, unspecified side",未特定側性上肢梅克爾細胞癌，含肩
+364,C4a61,"Merkel cell carcinoma of right upper limb, including shoulder",右側上肢梅克爾細胞癌，含肩
+365,C4a62,"Merkel cell carcinoma of left upper limb, including shoulder",左側上肢梅克爾細胞癌，含肩
+366,C4a7,"Merkel cell carcinoma of lower lower limb,including hip",下肢梅克爾細胞癌、含髖
+367,C4a70,"Merkel cell carcinoma of lower limb, including hip, unspecified side",未特定側性下肢梅克爾細胞癌，含髖
+368,C4a71,"Merkel cell carcinoma of right lower limb, including hip",右側下肢梅克爾細胞癌，含髖
+369,C4a72,"Merkel cell carcinoma of left lower limb, including hip",左側下肢梅克爾細胞癌，含髖
+370,C4a8,Merkel cell carcinoma of overlapping sites,重疊部位性梅克爾細胞癌
+371,C4a9,"Merkel cell carcinoma, unspecified",梅克爾細胞癌，未特定
+372,C50,Malignant neoplasm of breast,乳房惡性腫瘤
+373,C500,Malignant neoplasm of nipple and areola,乳房乳頭及乳暈之惡性腫瘤
+374,C5001,"Malignant neoplasm of nipple and areola, female",女性乳房乳頭及乳暈之惡性腫瘤
+375,C50011,"Malignant neoplasm of nipple and areola, right female breast",女性右側乳房乳頭及乳暈之惡性腫瘤
+376,C50012,"Malignant neoplasm of nipple and areola, left female breast",女性左側乳房乳頭及乳暈之惡性腫瘤
+377,C50019,"Malignant neoplasm of nipple and areola, unspecified female breast",女性未特定乳房乳頭及乳暈之惡性腫瘤
+378,C5002,"Malignant neoplasm of nipple and areola, male",男性乳房乳頭及乳暈之惡性腫瘤
+379,C50021,"Malignant neoplasm of nipple and areola, right male breast",男性右側乳房乳頭及乳暈之惡性腫瘤
+380,C50022,"Malignant neoplasm of nipple and areola, left male breast",男性左側乳房乳頭及乳暈之惡性腫瘤
+381,C50029,"Malignant neoplasm of nipple and areola, unspecified male breast",男性未特定乳房乳頭及乳暈之惡性腫瘤
+382,C501,Malignant neoplasm of central portion of breast,乳房中央位置之惡性腫瘤
+383,C5011,"Malignant neoplasm of central portion of breast, female",女性乳房中央位置之惡性腫瘤
+384,C50111,Malignant neoplasm of central portion of right female breast,女性右側乳房中央位置之惡性腫瘤
+385,C50112,Malignant neoplasm of central portion of left female breast,女性左側乳房中央位置之惡性腫瘤
+386,C50119,Malignant neoplasm of central portion of unspecified female breast,女性未特定乳房之中央位置惡性腫瘤
+387,C5012,"Malignant neoplasm of central portion of breast, male",男性乳房中央位置之惡性腫瘤
+388,C50121,Malignant neoplasm of central portion of right male breast,男性右側乳房中央位置之惡性腫瘤
+389,C50122,Malignant neoplasm of central portion of left male breast,左側男性乳房中央位置之惡性腫瘤
+390,C50129,Malignant neoplasm of central portion of unspecified male breast,男性未特定乳房中央位置之惡性腫瘤
+391,C502,Malignant neoplasm of upper-inner quadrant of breast,乳房內上四分之一惡性腫瘤
+392,C5021,"Malignant neoplasm of upper-inner quadrant of breast, female",女性乳房內上四分之一惡性腫瘤
+393,C50211,Malignant neoplasm of upper-inner quadrant of right female breast,女性右側乳房內上四分之一惡性腫瘤
+394,C50212,Malignant neoplasm of upper-inner quadrant of left female breast,左側女性乳房內上四分之一惡性腫瘤
+395,C50219,Malignant neoplasm of upper-inner quadrant of unspecified female breast,女性未特定乳房內上四分之一惡性腫瘤
+396,C5022,"Malignant neoplasm of upper-inner quadrant of breast,male",男性乳房內上四分之一惡性腫瘤
+397,C50221,Malignant neoplasm of upper-inner quadrant of right male breast,男性右側乳房內上四分之一惡性腫瘤
+398,C50222,Malignant neoplasm of upper-inner quadrant of left male breast,男性左側乳房內上四分之一惡性腫瘤
+399,C50229,Malignant neoplasm of upper-inner quadrant of unspecified male breast,男性未特定乳房內上四分之一惡性腫瘤
+400,C503,Malignant neoplasm of upper-inner quadrant of breast,乳房內下四分之一惡性腫瘤
+401,C5031,"Malignant neoplasm of upper-inner quadrant of breast,female",女性乳房內下四分之一惡性腫瘤
+402,C50311,Malignant neoplasm of lower-inner quadrant of right female breast,女性右側乳房內下四分之一惡性腫瘤
+403,C50312,Malignant neoplasm of lower-inner quadrant of left female breast,左側女性乳房內下四分之一惡性腫瘤
+404,C50319,Malignant neoplasm of lower-inner quadrant of unspecified female breast,女性未特定乳房內下四分之一惡性腫瘤
+405,C5032,"Malignant neoplasm of upper-inner quadrant of breast,male",男性乳房內下四分之一惡性腫瘤
+406,C50321,Malignant neoplasm of lower-inner quadrant of right male breast,男性右側乳房內下四分之一惡性腫瘤
+407,C50322,Malignant neoplasm of lower-inner quadrant of left male breast,男性左側乳房內下四分之一惡性腫瘤
+408,C50329,Malignant neoplasm of lower-inner quadrant of unspecified male breast,男性未特定乳房內下四分之一惡性腫瘤
+409,C504,Malignant neoplasm of upper-outer quadrant of breast,乳房外上四分之一惡性腫瘤
+410,C5041,"Malignant neoplasm of upper-outer quadrant of breast,female",女性乳房外上四分之一惡性腫瘤
+411,C50411,Malignant neoplasm of upper-outer quadrant of right female breast,女性右側乳房外上四分之一惡性腫瘤
+412,C50412,Malignant neoplasm of upper-outer quadrant of left female breast,女性左側乳房外上四分之一惡性腫瘤
+413,C50419,Malignant neoplasm of upper-outer quadrant of unspecified female breast,女性未特定乳房外上四分之一惡性腫瘤
+414,C5042,"Malignant neoplasm of upper-outer quadrant of breast,male",男性乳房外上四分之一惡性腫瘤
+415,C50421,Malignant neoplasm of upper-outer quadrant of right male breast,男性右側乳房外上四分之一惡性腫瘤
+416,C50422,Malignant neoplasm of upper-outer quadrant of left male breast,男性左側乳房外上四分之一惡性腫瘤
+417,C50429,Malignant neoplasm of upper-outer quadrant of unspecified male breast,男性未特定乳房外上四分之一惡性腫瘤
+418,C505,Malignant neoplasm of upper-outer quadrant of breast,乳房外下四分之一惡性腫瘤
+419,C5051,"Malignant neoplasm of lower-outer quadrant of breast,female",女性乳房外下四分之一惡性腫瘤
+420,C50511,Malignant neoplasm of lower-outer quadrant of right female breast,女性右側乳房外下四分之一惡性腫瘤
+421,C50512,Malignant neoplasm of lower-outer quadrant of left female breast,女性左側乳房外下四分之一惡性腫瘤
+422,C50519,Malignant neoplasm of lower-outer quadrant of unspecified female breast,女性未特定乳房外下四分之一惡性腫瘤
+423,C5052,"Malignant neoplasm of lower-outer quadrant of breast, male",男性乳房外下四分之一惡性腫瘤
+424,C50521,Malignant neoplasm of lower-outer quadrant of right male breast,男性右側乳房外下四分之一惡性腫瘤
+425,C50522,Malignant neoplasm of lower-outer quadrant of left male breast,男性左側乳房外下四分之一惡性腫瘤
+426,C50529,Malignant neoplasm of lower-outer quadrant of unspecified male breast,男性未特定乳房外下四分之一惡性腫瘤
+427,C506,Malignant neoplasm of axillary tail of breast,乳房腋側尾端之惡性腫瘤
+428,C5061,"Malignant neoplasm of axillary tail of breast, female",女性乳房腋側尾端之惡性腫瘤
+429,C50611,Malignant neoplasm of axillary tail of right female breast,女性右側乳房腋側尾端之惡性腫瘤
+430,C50612,Malignant neoplasm of axillary tail of left female breast,女性左側乳房腋側尾端之惡性腫瘤
+431,C50619,Malignant neoplasm of axillary tail of unspecified female breast,女性未特定乳房腋側尾端之惡性腫瘤
+432,C5062,"Malignant neoplasm of axillary tail of breast, male",男性乳房腋側尾端之惡性腫瘤
+433,C50621,Malignant neoplasm of axillary tail of right male breast,男性右側乳房腋側尾端之惡性腫瘤
+434,C50622,Malignant neoplasm of axillary tail of left male breast,男性左側乳房腋側尾端之惡性腫瘤
+435,C50629,Malignant neoplasm of axillary tail of unspecified male breast,男性未特定乳房腋側尾端之惡性腫瘤
+436,C508,Malignant neoplasm of overlapping sites of breast,乳房重疊性部位之惡性腫瘤
+437,C5081,"Malignant neoplasm of overlapping sites of breast, female",女性乳房重疊性部位之惡性腫瘤
+438,C50811,Malignant neoplasm of overlapping sites of right female breast,女性右側乳房重疊性部位之惡性腫瘤
+439,C50812,Malignant neoplasm of overlapping sites of left female breast,女性左側乳房重疊性部位之惡性腫瘤
+440,C50819,Malignant neoplasm of overlapping sites of unspecified female breast,女性未特定乳房重疊性部位之惡性腫瘤
+441,C5082,"Malignant neoplasm of overlapping sites of breast, male",男性乳房重疊性部位之惡性腫瘤
+442,C50821,Malignant neoplasm of overlapping sites of right male breast,男性右側乳房重疊性部位之惡性腫瘤
+443,C50822,Malignant neoplasm of overlapping sites of left male breast,男性左側乳房重疊性部位之惡性腫瘤
+444,C50829,Malignant neoplasm of overlapping sites of unspecified male breast,男性未特定乳房重疊性部位之惡性腫瘤
+445,C509,Malignant neoplasm of breast of unspecified site,未特定部位乳房惡性腫瘤
+446,C5091,"Malignant neoplasm of breast of unspecified site, female",女性未特定部位乳房惡性腫瘤
+447,C50911,Malignant neoplasm of unspecified site of right female breast,女性右側乳房未特定部位惡性腫瘤
+448,C50912,Malignant neoplasm of unspecified site of left female breast,左側女性乳房未特定部位惡性腫瘤
+449,C50919,Malignant neoplasm of unspecified site of unspecified female breast,女性乳房未特定部位惡性腫瘤
+450,C5092,"Malignant neoplasm of breast of unspecified site,male",男性未特定部位乳房惡性腫瘤
+451,C50921,Malignant neoplasm of unspecified site of right male breast,男性右側乳房未特定部位惡性腫瘤
+452,C50922,Malignant neoplasm of unspecified site of left male breast,男性左側乳房未特定部位惡性腫瘤
+453,C50929,Malignant neoplasm of unspecified site of unspecified male breast,男性乳房未特定部位惡性腫瘤
+454,C51,Malignant neoplasm of vulva,外陰惡性腫瘤
+455,C510,Malignant neoplasm of labium majus,大陰唇惡性腫瘤
+456,C511,Malignant neoplasm of labium minus,小陰唇惡性腫瘤
+457,C512,Malignant neoplasm of clitoris,陰蒂惡性腫瘤
+458,C518,Malignant neoplasm of overlapping sites of vulva,外陰之重疊部位性惡性腫瘤
+459,C519,"Malignant neoplasm of vulva, unspecified",外陰惡性腫瘤，未特定
+460,C52,Malignant neoplasm of vagina,陰道惡性腫瘤
+461,C53,Malignant neoplasm of cervix uteri,子宮頸惡性腫瘤
+462,C530,Malignant neoplasm of endocervix,子宮頸內部惡性腫瘤
+463,C531,Malignant neoplasm of exocervix,子宮頸外部惡性腫瘤
+464,C538,Malignant neoplasm of overlapping sites of cervix uteri,子宮頸之重疊部位性惡性腫瘤
+465,C539,"Malignant neoplasm of cervix uteri, unspecified",子宮頸惡性腫瘤，未特定
+466,C54,Malignant neoplasm of corpus uteri,子宮體惡性腫瘤
+467,C540,Malignant neoplasm of isthmus uteri,子宮峽部惡性腫瘤
+468,C541,Malignant neoplasm of endometrium,子宮內膜惡性腫瘤
+469,C542,Malignant neoplasm of myometrium,子宮肌層惡性腫瘤
+470,C543,Malignant neoplasm of fundus uteri,子宮底惡性腫瘤
+471,C548,Malignant neoplasm of overlapping sites of corpus uteri,子宮體之重疊部位性惡性腫瘤
+472,C549,"Malignant neoplasm of corpus uteri, unspecified",子宮體惡性腫瘤，未特定
+473,C55,"Malignant neoplasm of uterus, part unspecified",子宮惡性腫瘤，未特定
+474,C56,Malignant neoplasm of ovary,卵巢惡性腫瘤
+475,C560,Malignant neoplasm of right ovary,右側卵巢惡性腫瘤
+476,C561,Malignant neoplasm of left ovary,左側卵巢惡性腫瘤
+477,C569,"Malignant neoplasm of ovary, unspecified side",未特定側性卵巢惡性腫瘤
+478,C57,Malignant neoplasm of other and unspecified female genital organs,其他及未特定女性生殖器官之惡性腫瘤
+479,C570,Malignant neoplasm of fallopian tube,輸卵管惡性腫瘤
+480,C5700,"Malignant neoplasm of fallopian tube, unspecified side",未特定側性輸卵管惡性腫瘤
+481,C5701,Malignant neoplasm of right fallopian tube,右側輸卵管惡性腫瘤
+482,C5702,Malignant neoplasm of left fallopian tube,左側輸卵管惡性腫瘤
+483,C571,Malignant neoplasm of broad ligament,闊韌帶惡性腫瘤
+484,C5710,"Malignant neoplasm of broad ligament, unspecified side",未特定側性闊韌帶惡性腫瘤
+485,C5711,Malignant neoplasm of right broad ligament,右側闊韌帶惡性腫瘤
+486,C5712,Malignant neoplasm of left broad ligament,左側闊韌帶惡性腫瘤
+487,C572,Malignant neoplasm of round ligament,圓韌帶惡性腫瘤
+488,C5720,"Malignant neoplasm of round ligament, unspecified side",未特定側性圓韌帶惡性腫瘤
+489,C5721,Malignant neoplasm of right round ligament,右側圓韌帶惡性腫瘤
+490,C5722,Malignant neoplasm of left round ligament,左側圓韌帶惡性腫瘤
+491,C573,Malignant neoplasm of parametrium,子宮旁結締組織惡性腫瘤
+492,C574,"Malignant neoplasm of uterine adnexa, unspecified",子宮附屬器官之惡性腫瘤，未特定
+493,C577,Malignant neoplasm of other specified female genital organs,其他特定的女性生殖器官之惡性腫瘤
+494,C578,Malignant neoplasm of overlapping sites of female genital organs,女性生殖器官之重疊部位性惡性腫瘤
+495,C579,"Malignant neoplasm of female genital organ, unspecified",女性生殖器官惡性腫瘤，未特定
+496,C58,Malignant neoplasm of placenta,胎盤惡性腫瘤
+497,C60,Malignant neoplasm of penis,陰莖惡性腫瘤
+498,C600,Malignant neoplasm of prepuce,包皮惡性腫瘤
+499,C601,Malignant neoplasm of glans penis,龜頭惡性腫瘤
+500,C602,Malignant neoplasm of body of penis,陰莖惡性腫瘤
+501,C608,Malignant neoplasm of overlapping sites of penis,陰莖之重疊部位性惡性腫瘤
+502,C609,"Malignant neoplasm of penis, unspecified",陰莖惡性腫瘤，未特定
+503,C61,Malignant neoplasm of prostate,攝護腺惡性腫瘤
+504,C62,Malignant neoplasm of testis,睪丸之惡性腫瘤
+505,C620,Malignant neoplasm of undescended testis,未下降睪丸[隱睪]之惡性腫瘤
+506,C6200,"Malignant neoplasm of undescended testis, unspecified side",未特定側性未下降睪丸[隱睪]之惡性腫瘤
+507,C6201,Malignant neoplasm of undescended right testis,右側未下降睪丸[隱睪]之惡性腫瘤
+508,C6202,Malignant neoplasm of undescended left testis,左側未下降睪丸[隱睪]之惡性腫瘤
+509,C621,Malignant neoplasm of descended testis,下降睪丸之惡性腫瘤
+510,C6210,"Malignant neoplasm of descended testis, unspecified side",未特定側性下降睪丸之惡性腫瘤
+511,C6211,Malignant neoplasm of descended right testis,右側下降睪丸之惡性腫瘤
+512,C6212,Malignant neoplasm of descended left testis,左側下降睪丸之惡性腫瘤
+513,C629,"Malignant neoplasm of testis, unspecified",睪丸之惡性腫瘤
+514,C6290,"Malignant neoplasm of testis, unspecified, unspecified side",未特定側性睪丸之惡性腫瘤
+515,C6291,"Malignant neoplasm of right testis, unspecified",右側睪丸之惡性腫瘤，未特定
+516,C6292,"Malignant neoplasm of left testis, unspecified",左側睪丸之惡性腫瘤，未特定
+517,C63,Malignant neoplasm of other and unspecified male genital organs,其他及未特定男性生殖器官之惡性腫瘤
+518,C630,Malignant neoplasm of epididymis,副睪惡性腫瘤
+519,C6300,"Malignant neoplasm of epididymis, unspecified side",未特定側性副睪惡性腫瘤
+520,C6301,Malignant neoplasm of right epididymis,右側副睪惡性腫瘤
+521,C6302,Malignant neoplasm of left epididymis,左側副睪惡性腫瘤
+522,C631,Malignant neoplasm of spermatic cord,精索惡性腫瘤
+523,C6310,"Malignant neoplasm of spermatic cord, unspecified side",未特定側性精索惡性腫瘤
+524,C6311,Malignant neoplasm of right spermatic cord,右側精索惡性腫瘤
+525,C6312,Malignant neoplasm of left spermatic cord,左側精索惡性腫瘤
+526,C632,Malignant neoplasm of scrotum,陰囊惡性腫瘤
+527,C637,Malignant neoplasm of other specified male genital organs,其他特定的男性生殖器官之惡性腫瘤
+528,C638,Malignant neoplasm of overlapping sites of male genital organs,男性生殖器官重疊性部位之惡性腫瘤
+529,C639,"Malignant neoplasm of male genital organ, unspecified",男性生殖器官之惡性腫瘤，未特定
+530,C64,"Malignant neoplasm of kidney, except renal pelvis",腎臟惡性腫瘤、腎盂除外
+531,C640,"Malignant neoplasm of right kidney, except renal pelvis",右側腎惡性腫瘤，腎盂除外
+532,C641,"Malignant neoplasm of left kidney, except renal pelvis",左側腎惡性腫瘤，腎盂除外
+533,C649,"Malignant neoplasm of kidney, except renal pelvis, unspecified side","腎臟惡性腫瘤,腎盂除外，未特定側性"
+534,C65,Malignant neoplasm of renal pelvis,腎盂惡性腫瘤
+535,C650,Malignant neoplasm of right renal pelvis,右側腎盂惡性腫瘤
+536,C651,Malignant neoplasm of left renal pelvis,左側腎盂惡性腫瘤
+537,C659,"Malignant neoplasm of renal pelvis, unspecified side",腎盂惡性腫瘤，未特定側性
+538,C66,Malignant neoplasm of ureter,輸尿管惡性腫瘤
+539,C660,Malignant neoplasm of right ureter,右側輸尿管惡性腫瘤
+540,C661,Malignant neoplasm of left ureter,左側輸尿管惡性腫瘤
+541,C669,"Malignant neoplasm of ureter, unspecified side",輸尿管惡性腫瘤，未特定側性
+542,C67,Malignant neoplasm of bladder,膀胱惡性腫瘤
+543,C670,Malignant neoplasm of trigone of bladder,膀胱三角惡性腫瘤
+544,C671,Malignant neoplasm of dome of bladder,膀胱圓頂惡性腫瘤
+545,C672,Malignant neoplasm of lateral wall of bladder,膀胱側壁惡性腫瘤
+546,C673,Malignant neoplasm of anterior wall of bladder,膀胱前壁惡性腫瘤
+547,C674,Malignant neoplasm of posterior wall of bladder,膀胱後壁惡性腫瘤
+548,C675,Malignant neoplasm of bladder neck,膀胱頸惡性腫瘤
+549,C676,Malignant neoplasm of ureteric orifice,輸尿管口惡性腫瘤
+550,C677,Malignant neoplasm of urachus,臍尿管惡性腫瘤
+551,C678,Malignant neoplasm of overlapping sites of bladder,膀胱之重疊部位性惡性腫瘤
+552,C679,"Malignant neoplasm of bladder, unspecified",膀胱惡性腫瘤，未特定
+553,C68,Malignant neoplasm of other and unspecified urinary organs,其他及未特定泌尿器官之惡性腫瘤
+554,C680,Malignant neoplasm of urethra,尿道惡性腫瘤
+555,C681,Malignant neoplasm of paraurethral glands,尿道旁腺惡性腫瘤
+556,C688,Malignant neoplasm of overlapping sites of urinary organs,泌尿器官之重疊部位性惡性腫瘤
+557,C689,"Malignant neoplasm of urinary organ, unspecified",泌尿器官之惡性腫瘤，未特定
+558,C69,Malignant neoplasm of eye and adnexa,眼及附屬器官惡性腫瘤
+559,C690,Malignant neoplasm of conjunctiva,結膜惡性腫瘤
+560,C6900,"Malignant neoplasm of conjunctiva, unspecified side",未特定側性結膜惡性腫瘤
+561,C6901,Malignant neoplasm of right conjunctiva,右側結膜惡性腫瘤
+562,C6902,Malignant neoplasm of left conjunctiva,左側結膜惡性腫瘤
+563,C691,Malignant neoplasm of cornea,角膜惡性腫瘤
+564,C6910,"Malignant neoplasm of cornea, unspecified side",未特定側性角膜惡性腫瘤
+565,C6911,Malignant neoplasm of right cornea,右側角膜惡性腫瘤
+566,C6912,Malignant neoplasm of left cornea,左側角膜惡性腫瘤
+567,C692,Malignant neoplasm of retina,視網膜惡性腫瘤
+568,C6920,"Malignant neoplasm of retina, unspecified side",未特定側性視網膜惡性腫瘤
+569,C6921,Malignant neoplasm of right retina,右側視網膜惡性腫瘤
+570,C6922,Malignant neoplasm of left retina,左側視網膜惡性腫瘤
+571,C693,Malignant neoplasm of choroid,脈絡膜惡性腫瘤
+572,C6930,"Malignant neoplasm of choroid, unspecified side",未特定側性眼脈絡膜惡性腫瘤
+573,C6931,Malignant neoplasm of right choroid,右側眼脈絡膜惡性腫瘤
+574,C6932,Malignant neoplasm of left choroid,左側眼脈絡膜惡性腫瘤
+575,C694,Malignant neoplasm of ciliary body,睫狀體惡性腫瘤
+576,C6940,"Malignant neoplasm of ciliary body, unspecified side",未特定側性睫狀體惡性腫瘤
+577,C6941,Malignant neoplasm of right ciliary body,右側睫狀體惡性腫瘤
+578,C6942,Malignant neoplasm of left ciliary body,左側睫狀體惡性腫瘤
+579,C695,Malignant neoplasm of lacrimal gland and duct,淚腺及淚管惡性腫瘤
+580,C6950,"Malignant neoplasm of lacrimal gland and duct, unspecified side",未特定側性淚腺及淚管惡性腫瘤
+581,C6951,Malignant neoplasm of right lacrimal gland and duct,右側淚腺及淚管惡性腫瘤
+582,C6952,Malignant neoplasm of left lacrimal gland and duct,左側淚腺及淚管惡性腫瘤
+583,C696,Malignant neoplasm of orbit,眼眶惡性腫瘤
+584,C6960,"Malignant neoplasm of orbit, unspecified side",未特定側性眼眶惡性腫瘤
+585,C6961,Malignant neoplasm of right orbit,右側眼眶惡性腫瘤
+586,C6962,Malignant neoplasm of left orbit,左側眼眶惡性腫瘤
+587,C698,Malignant neoplasm of overlapping sites of eye and adnexa,眼及附屬器官之重疊部位性惡性腫瘤
+588,C6980,"Malignant neoplasm of overlapping sites of eye and adnexa, unspecified side","眼及附屬器官之重疊部位性惡性腫瘤,未特定側性"
+589,C6981,Malignant neoplasm of overlapping sites of right eye and adnexa,右側眼及附屬器官之重疊部位性惡性腫瘤
+590,C6982,Malignant neoplasm of overlapping sites of left eye and adnexa,左側眼及附屬器官之重疊部位性惡性腫瘤
+591,C699,"Malignant neoplasm of eye, unspecified",眼惡性腫瘤
+592,C6990,"Malignant neoplasm of eye, unspecified, unspecified side",未特定側眼惡性腫瘤，未特定
+593,C6991,"Malignant neoplasm of right eye, unspecified",右側眼惡性腫瘤，未特定
+594,C6992,"Malignant neoplasm of left eye, unspecified",左側眼惡性腫瘤，未特定
+595,C70,Malignant neoplasm of cerebral meninges,大腦膜惡性腫瘤
+596,C700,Malignant neoplasm of cerebral meninges,大腦膜惡性腫瘤
+597,C701,Malignant neoplasm of spinal meninges,脊髓膜惡性腫瘤
+598,C709,"Malignant neoplasm of meninges, unspecified",腦(脊髓)膜惡性腫瘤，未特定
+599,C71,Malignant neoplasm of brain,腦惡性腫瘤
+600,C710,"Malignant neoplasm of cerebrum, except lobes and ventricles",大腦(腦葉及腦室除外)惡性腫瘤
+601,C711,Malignant neoplasm of frontal lobe,額葉惡性腫瘤
+602,C712,Malignant neoplasm of temporal lobe,顳葉惡性腫瘤
+603,C713,Malignant neoplasm of parietal lobe,頂葉惡性腫瘤
+604,C714,Malignant neoplasm of occipital lobe,枕葉惡性腫瘤
+605,C715,Malignant neoplasm of cerebral ventricle,大腦室惡性腫瘤
+606,C716,Malignant neoplasm of cerebellum,小腦惡性腫瘤
+607,C717,Malignant neoplasm of brain stem,腦幹惡性腫瘤
+608,C718,Malignant neoplasm of overlapping sites of brain,腦之重疊部位性惡性腫瘤
+609,C719,"Malignant neoplasm of brain, unspecified",腦惡性腫瘤，未特定
+610,C72,"Malignant neoplasm of spinal cord, cranial nerves and other parts of central nervous system",脊髓、顱神經及其他中樞神經系統部位惡性腫瘤
+611,C720,Malignant neoplasm of spinal cord,脊髓惡性腫瘤
+612,C721,Malignant neoplasm of cauda equina,馬尾惡性腫瘤
+613,C722,Malignant neoplasm of olfactory nerve,嗅覺神經惡性腫瘤
+614,C7220,"Malignant neoplasm of olfactory nerve, unspecified side",嗅覺神經惡性腫瘤，未特定側性
+615,C7221,Malignant neoplasm of right olfactory nerve,右側嗅覺神經惡性腫瘤
+616,C7222,Malignant neoplasm of left olfactory nerve,左側嗅覺神經惡性腫瘤
+617,C723,Malignant neoplasm of optic nerve,視神經惡性腫瘤
+618,C7230,"Malignant neoplasm of optic nerve, unspecified side",視神經惡性腫瘤，未特定側性
+619,C7231,Malignant neoplasm of right optic nerve,右側視神經惡性腫瘤
+620,C7232,Malignant neoplasm of left optic nerve,左側視神經惡性腫瘤
+621,C724,Malignant neoplasm of acoustic nerve,聽神經惡性腫瘤
+622,C7240,"Malignant neoplasm of acoustic nerve, unspecified side",聽神經惡性腫瘤，未特定側性
+623,C7241,Malignant neoplasm of right acoustic nerve,右側聽神經惡性腫瘤
+624,C7242,Malignant neoplasm of left acoustic nerve,左側聽神經惡性腫瘤
+625,C725,Malignant neoplasm of other and unspecified cranial nerves,其他及未特定顱神經惡性腫瘤
+626,C7250,Malignant neoplasm of unspecified cranial nerve,未特定顱神經惡性腫瘤
+627,C7259,Malignant neoplasm of other cranial nerves,其他顱神經惡性腫瘤
+628,C729,"Malignant neoplasm of central nervous system, unspecified",中樞神經系統惡性腫瘤，未特定
+629,C73,Malignant neoplasm of thyroid gland,甲狀腺惡性腫瘤
+630,C74,Malignant neoplasm of adrenal gland,腎上腺惡性腫瘤
+631,C740,Malignant neoplasm of cortex of adrenal gland,腎上腺皮質惡性腫瘤
+632,C7400,"Malignant neoplasm of cortex of adrenal gland, unspecified side",腎上腺皮質惡性腫瘤，未特定側性
+633,C7401,Malignant neoplasm of cortex of right adrenal gland,右側腎上腺皮質惡性腫瘤
+634,C7402,Malignant neoplasm of cortex of left adrenal gland,左側腎上腺皮質惡性腫瘤
+635,C741,Malignant neoplasm of medulla of adrenal gland,腎上腺髓質惡性腫瘤
+636,C7410,"Malignant neoplasm of medulla of adrenal gland, unspecified side",腎上腺髓質惡性腫瘤，未特定側性
+637,C7411,Malignant neoplasm of medulla of right adrenal gland,右側腎上腺髓質惡性腫瘤
+638,C7412,Malignant neoplasm of medulla of left adrenal gland,左側腎上腺髓質惡性腫瘤
+639,C749,"Malignant neoplasm of adrenal gland, unspecified",腎上腺惡性腫瘤，未特定
+640,C7490,"Malignant neoplasm of adrenal gland, unspecified, unspecified side",腎上腺惡性腫瘤，未特定側性
+641,C7491,"Malignant neoplasm of right adrenal gland, unspecified",右側腎上腺惡性腫瘤，未特定
+642,C7492,"Malignant neoplasm of left adrenal gland, unspecified",左側腎上腺惡性腫瘤，未特定
+643,C75,Malignant neoplasm of other endocrine glands and related structures,內分泌腺及相關結構惡性腫瘤
+644,C750,Malignant neoplasm of parathyroid gland,副甲狀腺惡性腫瘤
+645,C751,Malignant neoplasm of pituitary gland,腦下腺惡性腫瘤
+646,C752,Malignant neoplasm of craniopharyngeal duct,顱咽管惡性腫瘤
+647,C753,Malignant neoplasm of pineal gland,松果腺惡性腫瘤
+648,C754,Malignant neoplasm of carotid body,頸動脈體惡性腫瘤
+649,C755,Malignant neoplasm of aortic body and other paraganglia,主動脈體及其他副神經節之惡性腫瘤
+650,C758,"Malignant neoplasm with pluriglandular involvement, unspecified",多腺體侵犯之惡性腫瘤，未特定
+651,C759,"Malignant neoplasm of endocrine gland, unspecified",內分泌腺惡性腫瘤，未特定
+652,C76,Malignant neoplasm of other and ill-defined sites,其他及界定不明部位之惡性腫瘤
+653,C760,"Malignant neoplasm of head, face and neck",頭，顏面及頸之惡性腫瘤
+654,C761,Malignant neoplasm of thorax,胸部惡性腫瘤
+655,C762,Malignant neoplasm of abdomen,腹部惡性腫瘤
+656,C763,Malignant neoplasm of pelvis,骨盆惡性腫瘤
+657,C764,Malignant neoplasm of upper limb,上肢惡性腫瘤
+658,C7640,"Malignant neoplasm of upper limb, unspecified side",上肢惡性腫瘤，未特定側性
+659,C7641,Malignant neoplasm of right upper limb,右側上肢惡性腫瘤
+660,C7642,Malignant neoplasm of left upper limb,左側上肢惡性腫瘤
+661,C765,Malignant neoplasm of lower limb,下肢惡性腫瘤
+662,C7650,"Malignant neoplasm of lower limb, unspecified side",下肢惡性腫瘤，未特定側性
+663,C7651,Malignant neoplasm of right lower limb,右側下肢惡性腫瘤
+664,C7652,Malignant neoplasm of left lower limb,左側下肢惡性腫瘤
+665,C767,Malignant neoplasm of other ill-defined sites,其他界定不明部位之惡性腫瘤
+666,C77,Secondary and unspecified malignant neoplasm of lymph nodes,淋巴結之續發性及未明性惡性腫瘤
+667,C770,"Secondary and unspecified malignant neoplasm of lymph nodes of head, face and neck",頭，顏面及頸部淋巴結之續發性及未明性惡性腫瘤
+668,C771,Secondary and unspecified malignant neoplasm of intrathoracic lymph nodes,胸腔內淋巴結之續發性及未明性惡性腫瘤
+669,C772,Secondary and unspecified malignant neoplasm of intra-abdominal lymph nodes,腹腔內淋巴結之續發性及未明性惡性腫瘤
+670,C773,Secondary and unspecified malignant neoplasm of axilla and upper limb lymph nodes,腋窩及上肢淋巴結之續發性及未明性惡性腫瘤
+671,C774,Secondary and unspecified malignant neoplasm of inguinal and lower limb lymph nodes,鼠蹊及下肢淋巴結之續發性及未明性惡性腫瘤
+672,C775,Secondary and unspecified malignant neoplasm of intrapelvic lymph nodes,骨盆內淋巴結之續發性及未明性惡性腫瘤
+673,C778,Secondary and unspecified malignant neoplasm of lymph nodes of multiple regions,多發部位淋巴結之續發性及未明性惡性腫瘤
+674,C779,"Secondary and unspecified malignant neoplasm of lymph node, unspecified",淋巴結之續發性及未明性惡性腫瘤，未特定
+675,C78,Secondary malignant neoplasm of respiratory and digestive organs,呼吸及消化器官之續發性惡性腫瘤
+676,C780,Secondary malignant neoplasm of lung,肺續發性惡性腫瘤
+677,C7800,"Secondary malignant neoplasm of lung, unspecified side",未特定側肺續發性惡性腫瘤
+678,C7801,Secondary malignant neoplasm of right lung,右側肺續發性惡性腫瘤
+679,C7802,Secondary malignant neoplasm of left lung,左側肺續發性惡性腫瘤
+680,C781,Secondary malignant neoplasm of mediastinum,縱膈之續發性惡性腫瘤
+681,C782,Secondary malignant neoplasm of pleura,胸(肋)膜之續發性惡性腫瘤
+682,C783,Secondary malignant neoplasm of other and unspecified respiratory organns,其他及未特定呼吸器官之續發性惡性腫瘤
+683,C7830,Secondary malignant neoplasm of unspecified respiratory organ,未特定呼吸器官之續發性惡性腫瘤
+684,C7839,Secondary malignant neoplasm of other respiratory organs,其他呼吸器官之續發性惡性腫瘤
+685,C784,Secondary malignant neoplasm of small intestine,小腸續發性惡性腫瘤
+686,C785,Secondary malignant neoplasm of large intestine and rectum,大腸及直腸之續發性惡性腫瘤
+687,C786,Secondary malignant neoplasm of retroperitoneum and peritoneum,後腹腔及腹膜之續發性惡性腫瘤
+688,C787,Secondary malignant neoplasm of liver and intrahepatic bile duct,肝及肝內膽管之續發性惡性腫瘤
+689,C788,Secondary malignant neoplasm of other and unspecified digestive organns,其他及未特定消化器官之續發性惡性腫瘤
+690,C7880,Secondary malignant neoplasm of unspecified digestive organ,未特定消化器官之續發性惡性腫瘤
+691,C7889,Secondary malignant neoplasm of other digestive organs,其他消化器官之續發性惡性腫瘤
+692,C79,Secondary malignant neoplasm of other sites,其他部位之續發性惡性腫瘤
+693,C790,Secondary malignant neoplasm of kidney and renal pelvis,腎及腎盂之續發性惡性腫瘤
+694,C7900,"Secondary malignant neoplasm of kidney and renal pelvis, unspecified side",未特定側腎及腎盂之續發性惡性腫瘤
+695,C7901,Secondary malignant neoplasm of right kidney and renal pelvis,右側腎及腎盂之續發性惡性腫瘤
+696,C7902,Secondary malignant neoplasm of left kidney and renal pelvis,左側腎及腎盂之續發性惡性腫瘤
+697,C791,Secondary malignant neoplasm of bladder and other and unspecified urinary organs,其他及未特定膀胱與泌尿器官之續發性惡性腫瘤
+698,C7910,Secondary malignant neoplasm of unspecified urinary organs,未特定泌尿器官之續發性惡性腫瘤
+699,C7911,Secondary malignant neoplasm of bladder,膀胱續發性惡性腫瘤
+700,C7919,Secondary malignant neoplasm of other urinary organs,其他泌尿器官之續發性惡性腫瘤
+701,C792,Secondary malignant neoplasm of skin,皮膚之續發性惡性腫瘤
+702,C793,Secondary malignant neoplasm  of brain and cerebral meninges,腦及腦膜續發性惡性腫瘤
+703,C7931,Secondary malignant neoplasm of brain,腦續發性惡性腫瘤
+704,C7932,Secondary malignant neoplasm of cerebral meninges,腦膜續發性惡性腫瘤
+705,C794,Secondary malignant neoplasm of other and unspecified parts of nerous system,神經系統其他及未特定部位之續發性惡性腫瘤
+706,C7940,Secondary malignant neoplasm of unspecified part of nervous system,神經系統未特定部位之續發性惡性腫瘤
+707,C7949,Secondary malignant neoplasm of other parts of nervous system,神經系統其他部位之續發性惡性腫瘤
+708,C795,Secondary malignant neoplasm of bone and bone marrow,骨骼及骨髓續發性惡性腫瘤
+709,C7951,Secondary malignant neoplasm of bone,骨骼續發性惡性腫瘤
+710,C7952,Secondary malignant neoplasm of bone marrow,骨髓續發性惡性腫瘤
+711,C796,Secondary malignant neoplasm of ovary,卵巢續發性惡性腫瘤
+712,C7960,"Secondary malignant neoplasm of ovary, unspecified side",未特定側卵巢續發性惡性腫瘤
+713,C7961,Secondary malignant neoplasm of right ovary,右側卵巢續發性惡性腫瘤
+714,C7962,Secondary malignant neoplasm of left ovary,左側卵巢續發性惡性腫瘤
+715,C797,Secondary malignant neoplasm of adrenal gland,腎上腺之續發性惡性腫瘤
+716,C7970,"Secondary malignant neoplasm of adrenal gland, unspecified side",未特定側腎上腺之續發性惡性腫瘤
+717,C7971,Secondary malignant neoplasm of right adrenal gland,右側腎上腺之續發性惡性腫瘤
+718,C7972,Secondary malignant neoplasm of left adrenal gland,左側腎上腺之續發性惡性腫瘤
+719,C798,Secondary malignant neoplasm of other specified sites,其他特定部位之續發性惡性腫瘤
+720,C7981,Secondary malignant neoplasm of breast,乳房之續發性惡性腫瘤
+721,C7982,Secondary malignant neoplasm of genital organs,生殖器官之續發性惡性腫瘤
+722,C7989,Secondary malignant neoplasm of other specified sites,其他特定部位之續發性惡性腫瘤
+723,C799,Secondary malignant neoplasm of unspecified site,未特定部位之續發性惡性腫瘤
+724,C7a,Malignant neuroendocrine tumors,惡性神經內分泌腫瘤
+725,C7a0,Malignant carcinoid tumors,惡性類癌
+726,C7a00,Malignant carcinoid tumor of unspecified site,未特定部位之惡性類癌
+727,C7a01,Malignant carcinoid tumors of the small intestine,小腸惡性類癌
+728,C7a010,Malignant carcinoid tumor of the duodenum,十二指腸惡性類癌
+729,C7a011,Malignant carcinoid tumor of the jejunum,空腸惡性類癌
+730,C7a012,Malignant carcinoid tumor of the ileum,迴腸惡性類癌
+731,C7a019,"Malignant carcinoid tumor of the small intestine, unspecified portion",小腸惡性類癌，未特定部位
+732,C7a02,"Malignant carcinoid tumors of the appendix, large intestine, and rectum",闌尾、大腸及直腸惡性類癌
+733,C7a020,Malignant carcinoid tumor of the appendix,闌尾惡性類癌
+734,C7a021,Malignant carcinoid tumor of the cecum,盲腸惡性類癌
+735,C7a022,Malignant carcinoid tumor of the ascending colon,升結腸惡性類癌
+736,C7a023,Malignant carcinoid tumor of the transverse colon,橫結腸惡性類癌
+737,C7a024,Malignant carcinoid tumor of the descending colon,降結腸惡性類癌
+738,C7a025,Malignant carcinoid tumor of the sigmoid colon,乙狀結腸惡性類癌
+739,C7a026,Malignant carcinoid tumor of the rectum,直腸惡性類癌
+740,C7a029,"Malignant carcinoid tumor of the large intestine, unspecified portion",大腸惡性類癌，未特定部位
+741,C7a09,Malignant carcinoid tumors of other sites,其他部位惡性類癌
+742,C7a090,Malignant carcinoid tumor of the bronchus and lung,支氣管及肺惡性類癌
+743,C7a091,Malignant carcinoid tumor of the thymus,胸腺惡性類癌
+744,C7a092,Malignant carcinoid tumor of the stomach,胃惡性類癌
+745,C7a093,Malignant carcinoid tumor of the kidney,腎惡性類癌
+746,C7a094,Malignant carcinoid tumor of the foregut NOS,前腸惡性類癌
+747,C7a095,Malignant carcinoid tumor of the midgut NOS,中腸惡性類癌
+748,C7a096,Malignant carcinoid tumor of the hindgut NOS,後腸惡性類癌
+749,C7a098,Malignant carcinoid tumors of other sites,其他部位惡性類癌
+750,C7a1,Malignant poorly differentiated neuroendocrine tumors,分化不良型惡性神經內分泌腫瘤
+751,C7a8,Other malignant neuroendocrine tumors,其他惡性神經內分泌腫瘤
+752,C7b,Secondary neuroendocrine tumors,續發性神經內分泌腫瘤
+753,C7b0,Secondary carcinoid tumors,續發性惡性類癌
+754,C7b00,"Secondary carcinoid tumors, unspecified site",續發性惡性類癌，未特定部位
+755,C7b01,Secondary carcinoid tumors of distant lymph nodes,遠處淋巴結續發性惡性類癌
+756,C7b02,Secondary carcinoid tumors of liver,肝之續發性惡性類癌
+757,C7b03,Secondary carcinoid tumors of bone,骨骼之續發性惡性類癌
+758,C7b04,Secondary carcinoid tumors of peritoneum,腹膜之續發性惡性類癌
+759,C7b09,Secondary carcinoid tumors of other sites,其他部位之續發性惡性類癌
+760,C7b1,Secondary Merkel cell carcinoma,續發性Merkel細胞癌
+761,C7b8,Other secondary neuroendocrine tumors,其他續發性惡性神經外胚層腫瘤
+762,C80,Malignant neoplasm without specification of site,惡性腫瘤未併有未特定部位
+763,C800,"Disseminated malignant neoplasm, unspecified",未特定性之全身瀰漫性惡性腫瘤，未特定
+764,C801,"Malignant (primary) neoplasm, unspecified",原發性惡性腫瘤，未特定
+765,C802,Malignant neoplasm associated with transplanted organ,與移植器官相關之惡性腫瘤
+766,C81,Hodgkin lymphoma,何杰金淋巴瘤
+767,C810,Nodular lymphocyte predominant Hodgkin lymphoma,結節性淋巴球為主之何杰金淋巴瘤
+768,C8100,"Nodular lymphocyte predominant Hodgkin lymphoma, unspecified site",結節性淋巴球為主之Hodgkin(何杰金)淋巴瘤，未特定部位
+769,C8101,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of head, face, and neck","頭,臉及頸部淋巴結結節性淋巴球為主之Hodgkin(何杰金)淋巴瘤"
+770,C8102,"Nodular lymphocyte predominant Hodgkin lymphoma, intrathoracic lymph nodes",胸腔內淋巴結結節性淋巴球為主之何杰金淋巴瘤
+771,C8103,"Nodular lymphocyte predominant Hodgkin lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結結節性淋巴球為主之何杰金淋巴瘤
+772,C8104,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結結節性淋巴球為主之何杰金淋巴瘤
+773,C8105,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結結節性淋巴球為主之何杰金淋巴瘤
+774,C8106,"Nodular lymphocyte predominant Hodgkin lymphoma, intrapelvic lymph nodes",骨盆內淋巴結結節性淋巴球為主之何杰金淋巴瘤
+775,C8107,"Nodular lymphocyte predominant Hodgkin lymphoma, spleen",脾臟內淋巴結結節性淋巴球為主之何杰金淋巴瘤
+776,C8108,"Nodular lymphocyte predominant Hodgkin lymphoma, lymph nodes of multiple sites",多部位淋巴結結節性淋巴球為主之何杰金淋巴瘤
+777,C8109,"Nodular lymphocyte predominant Hodgkin lymphoma, extranodal and solid organ sites",淋巴結外、實質器官結節性淋巴球為主之何杰金淋巴瘤
+778,C811,Nodular sclerosis classical Hodgkin lymphoma,結節硬化性典型何杰金淋巴瘤
+779,C8110,"Nodular sclerosis classical Hodgkin lymphoma, unspecified site",未特定部位之結節硬化性典型何杰金淋巴瘤
+780,C8111,"Nodular sclerosis classical Hodgkin lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之結節硬化性典型何杰金淋巴瘤
+781,C8112,"Nodular sclerosis classical Hodgkin lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之結節硬化性典型何杰金淋巴瘤
+782,C8113,"Nodular sclerosis classical Hodgkin lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之結節硬化性典型何杰金淋巴瘤
+783,C8114,"Nodular sclerosis classical Hodgkin lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之結節硬化性典型何杰金淋巴瘤
+784,C8115,"Nodular sclerosis classical Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之結節硬化性典型何杰金淋巴瘤
+785,C8116,"Nodular sclerosis classical Hodgkin lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之結節硬化性典型何杰金淋巴瘤
+786,C8117,"Nodular sclerosis classical Hodgkin lymphoma, spleen",脾臟之結節硬化性典型何杰金淋巴瘤
+787,C8118,"Nodular sclerosis classical Hodgkin lymphoma, lymph nodes of multiple sites",多發部位淋巴結之結節硬化性典型何杰金淋巴瘤
+788,C8119,"Nodular sclerosis classical Hodgkin lymphoma, extranodal and solid organ sites",淋巴結外、實質器官之結節硬化性典型何杰金淋巴瘤
+789,C812,Mixed cellularity classical Hodgkin lymphoma,混合細胞典型何杰金淋巴瘤
+790,C8120,"Mixed cellularity classical Hodgkin lymphoma, unspecified site",未特定部位之混合細胞典型何杰金淋巴瘤
+791,C8121,"Mixed cellularity classical Hodgkin lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之混合細胞典型何杰金淋巴瘤
+792,C8122,"Mixed cellularity classical Hodgkin lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之混合細胞典型何杰金淋巴瘤
+793,C8123,"Mixed cellularity classical Hodgkin lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之混合細胞典型何杰金淋巴瘤
+794,C8124,"Mixed cellularity classical Hodgkin lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之混合細胞典型何杰金淋巴瘤
+795,C8125,"Mixed cellularity classical Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之混合細胞典型何杰金淋巴瘤
+796,C8126,"Mixed cellularity classical Hodgkin lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之混合細胞典型何杰金淋巴瘤
+797,C8127,"Mixed cellularity classical Hodgkin lymphoma, spleen",脾臟之混合細胞典型何杰金淋巴瘤
+798,C8128,"Mixed cellularity classical Hodgkin lymphoma, lymph nodes of multiple sites",多處淋巴結之混合細胞典型何杰金淋巴瘤
+799,C8129,"Mixed cellularity classical Hodgkin lymphoma, extranodal and solid organ sites",結節外實體器官之混合細胞典型何杰金淋巴瘤
+800,C813,Lymphocytic depletion classical Hodgkin lymphoma,淋巴球缺乏典型何杰金淋巴瘤
+801,C8130,"Lymphocytic depletion classical Hodgkin lymphoma, unspecified site",未特定部位之淋巴球缺乏典型何杰金淋巴瘤
+802,C8131,"Lymphocytic depletion classical Hodgkin lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之淋巴球缺乏典型何杰金淋巴瘤
+803,C8132,"Lymphocytic depletion classical Hodgkin lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之淋巴球缺乏型何杰金淋巴瘤
+804,C8133,"Lymphocytic depletion classical Hodgkin lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之淋巴球缺乏典型何杰金淋巴瘤
+805,C8134,"Lymphocytic depletion classical Hodgkin lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之淋巴球缺乏典型何杰金淋巴瘤
+806,C8135,"Lymphocytic depletion classical Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之淋巴球缺乏典型何杰金淋巴瘤
+807,C8136,"Lymphocytic depletion classical Hodgkin lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之淋巴球缺乏典型何杰金淋巴瘤
+808,C8137,"Lymphocytic depletion classical Hodgkin lymphoma, spleen",脾臟之淋巴球缺乏典型何杰金淋巴瘤
+809,C8138,"Lymphocytic depletion classical Hodgkin lymphoma, lymph nodes of multiple sites",多部位淋巴結之淋巴球缺乏典型何杰金淋巴瘤
+810,C8139,"Lymphocytic depletion classical Hodgkin lymphoma, extranodal and solid organ sites",結節外實體器官之淋巴球缺乏典型何杰金淋巴瘤
+811,C814,Lymphocyte-rich classical Hodgkin lymphoma,富含淋巴球典型何杰金淋巴瘤
+812,C8140,"Lymphocyte-rich classical Hodgkin lymphoma, unspecified site",未特定部位之富含淋巴球典型何杰金淋巴瘤
+813,C8141,"Lymphocyte-rich classical Hodgkin lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之富含淋巴球典型何杰金淋巴瘤
+814,C8142,"Lymphocyte-rich classical Hodgkin lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之富含淋巴球典型何杰金淋巴瘤
+815,C8143,"Lymphocyte-rich classical Hodgkin lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之富含淋巴球典型何杰金淋巴瘤
+816,C8144,"Lymphocyte-rich classical Hodgkin lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之富含淋巴球典型何杰金淋巴瘤
+817,C8145,"Lymphocyte-rich classical Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",鼠蹊及下肢淋巴結富含淋巴球型何杰金淋巴瘤
+818,C8146,"Lymphocyte-rich classical Hodgkin lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之富含淋巴球典型何杰金淋巴瘤癌
+819,C8147,"Lymphocyte-rich classical Hodgkin lymphoma, spleen",脾臟內淋巴結之富含淋巴球典型何杰金淋巴瘤
+820,C8148,"Lymphocyte-rich classical Hodgkin lymphoma, lymph nodes of multiple sites",多部位淋巴結之富含淋巴球典型何杰金淋巴瘤
+821,C8149,"Lymphocyte-rich classical Hodgkin lymphoma, extranodal and solid organ sites",結節外實體器官之富含淋巴球典型何杰金淋巴瘤
+822,C817,Other classical Hodgkin lymphoma,其他典型何杰金淋巴瘤
+823,C8170,"Other classical Hodgkin lymphoma, unspecified site",未特定部位之其他典型何杰金淋巴瘤
+824,C8171,"Other classical Hodgkin lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之其他典型何杰金淋巴瘤
+825,C8172,"Other classical Hodgkin lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之其他典型何杰金淋巴瘤
+826,C8173,"Other classical Hodgkin lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之其他典型何杰金淋巴瘤
+827,C8174,"Other classical Hodgkin lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之其他型何杰金淋巴瘤
+828,C8175,"Other classical Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之其他典型何杰金淋巴瘤
+829,C8176,"Other classical Hodgkin lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之其他典型何杰金淋巴瘤
+830,C8177,"Other classical Hodgkin lymphoma, spleen",脾臟之其他典型何杰金淋巴瘤
+831,C8178,"Other classical Hodgkin lymphoma, lymph nodes of multiple sites",多部位淋巴結之其他典型何杰金淋巴瘤
+832,C8179,"Other classical Hodgkin lymphoma, extranodal and solid organ sites",結節外實體器官之其他典型何杰金淋巴瘤
+833,C819,"Hodgkin lymphoma, unspecified",何杰金淋巴瘤
+834,C8190,"Hodgkin lymphoma, unspecified, unspecified site",未特定部位之何杰金淋巴瘤
+835,C8191,"Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck","頭,臉及頸部淋巴結之何杰金淋巴瘤"
+836,C8192,"Hodgkin lymphoma, unspecified, intrathoracic lymph nodes",胸腔內淋巴結之何杰金淋巴瘤
+837,C8193,"Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",腹腔內淋巴結之何杰金淋巴瘤
+838,C8194,"Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之何杰金淋巴瘤
+839,C8195,"Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之何杰金淋巴瘤
+840,C8196,"Hodgkin lymphoma, unspecified, intrapelvic lymph nodes",骨盆內淋巴結之何杰金淋巴瘤
+841,C8197,"Hodgkin lymphoma, unspecified, spleen",脾臟之何杰金淋巴瘤
+842,C8198,"Hodgkin lymphoma, unspecified, lymph nodes of multiple sites",多部位淋巴結之何杰金淋巴瘤
+843,C8199,"Hodgkin lymphoma, unspecified, extranodal and solid organ sites",結節外實體器官之何杰金淋巴瘤
+844,C82,Follicular lymphoma,濾泡型淋巴瘤
+845,C820,Follicular lymphoma grade I,I期濾泡型淋巴瘤
+846,C8200,"Follicular lymphoma grade I, unspecified site",未特定部位之I期濾泡型淋巴瘤
+847,C8201,"Follicular lymphoma grade I, lymph nodes of head, face, and neck","頭,臉及頸部淋巴結之I期濾泡型淋巴瘤"
+848,C8202,"Follicular lymphoma grade I, intrathoracic lymph nodes",胸腔內淋巴結之I期濾泡型淋巴瘤
+849,C8203,"Follicular lymphoma grade I, intra-abdominal lymph nodes",腹腔內淋巴結之I期濾泡性淋巴瘤
+850,C8204,"Follicular lymphoma grade I, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之I期濾泡型淋巴瘤
+851,C8205,"Follicular lymphoma grade I, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之I期濾泡型淋巴瘤
+852,C8206,"Follicular lymphoma grade I, intrapelvic lymph nodes",骨盆內淋巴結之I期濾泡型淋巴瘤
+853,C8207,"Follicular lymphoma grade I, spleen",脾臟之I期濾泡型淋巴瘤
+854,C8208,"Follicular lymphoma grade I, lymph nodes of multiple sites",多部位淋巴結之I期濾泡型淋巴瘤
+855,C8209,"Follicular lymphoma grade I, extranodal and solid organ sites",結節外實體器官之I期濾泡型淋巴瘤
+856,C821,Follicular lymphoma grade II,II期濾泡型淋巴瘤
+857,C8210,"Follicular lymphoma grade II, unspecified site",未特定部位之II期濾泡型淋巴瘤
+858,C8211,"Follicular lymphoma grade II, lymph nodes of head, face, and neck","頭,臉及頸部淋巴結之II期濾泡型淋巴瘤"
+859,C8212,"Follicular lymphoma grade II, intrathoracic lymph nodes",胸腔內淋巴結之II期濾泡型淋巴瘤
+860,C8213,"Follicular lymphoma grade II, intra-abdominal lymph nodes",腹腔內淋巴結之II期濾泡型淋巴瘤
+861,C8214,"Follicular lymphoma grade II, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之II期濾泡型淋巴瘤
+862,C8215,"Follicular lymphoma grade II, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之II期濾泡型淋巴瘤
+863,C8216,"Follicular lymphoma grade II, intrapelvic lymph nodes",骨盆內淋巴結之II期濾泡型淋巴瘤
+864,C8217,"Follicular lymphoma grade II, spleen",脾臟之II期濾泡型淋巴瘤
+865,C8218,"Follicular lymphoma grade II, lymph nodes of multiple sites",多部位淋巴結之II期濾泡型淋巴瘤
+866,C8219,"Follicular lymphoma grade II, extranodal and solid organ sites",結節外實體器官之II期濾泡型淋巴瘤
+867,C822,"Follicular lymphoma grade III, unspecified",III期濾泡型淋巴瘤
+868,C8220,"Follicular lymphoma grade III, unspecified, unspecified site",未特定部位之III期濾泡型淋巴瘤
+869,C8221,"Follicular lymphoma grade III, unspecified, lymph nodes of head, face, and neck","頭,臉及頸部淋巴結之III期濾泡型淋巴瘤"
+870,C8222,"Follicular lymphoma grade III, unspecified, intrathoracic lymph nodes",胸腔內淋巴結之III期濾泡型淋巴瘤
+871,C8223,"Follicular lymphoma grade III, unspecified, intra-abdominal lymph nodes",腹腔內淋巴結之III期濾泡型淋巴瘤
+872,C8224,"Follicular lymphoma grade III, unspecified, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之III期濾泡型淋巴瘤
+873,C8225,"Follicular lymphoma grade III, unspecified, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之III期濾泡型淋巴瘤
+874,C8226,"Follicular lymphoma grade III, unspecified, intrapelvic lymph nodes",骨盆內淋巴結之III期濾泡型淋巴瘤
+875,C8227,"Follicular lymphoma grade III, unspecified, spleen",脾臟之III期濾泡型淋巴瘤
+876,C8228,"Follicular lymphoma grade III, unspecified, lymph nodes of multiple sites",多部位淋巴結之III期濾泡型淋巴瘤
+877,C8229,"Follicular lymphoma grade III, unspecified, extranodal and solid organ sites",結節外及實體器官之III期濾泡型淋巴瘤
+878,C823,Follicular lymphoma grade IIIa,III期濾泡型淋巴瘤
+879,C8230,"Follicular lymphoma grade IIIa, unspecified site",未特定部位之IIIa期濾泡型淋巴瘤
+880,C8231,"Follicular lymphoma grade IIIa, lymph nodes of head, face, and neck","頭,臉及頸部淋巴結之IIIa期濾泡型淋巴瘤"
+881,C8232,"Follicular lymphoma grade IIIa, intrathoracic lymph nodes",胸腔內淋巴結之IIIa期濾泡型淋巴瘤
+882,C8233,"Follicular lymphoma grade IIIa, intra-abdominal lymph nodes",腹腔內淋巴結之IIIa期濾泡型淋巴瘤
+883,C8234,"Follicular lymphoma grade IIIa, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之IIIa期濾泡型淋巴瘤
+884,C8235,"Follicular lymphoma grade IIIa, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之IIIa期濾泡型淋巴瘤
+885,C8236,"Follicular lymphoma grade IIIa, intrapelvic lymph nodes",骨盆內淋巴結之IIIa期濾泡型淋巴瘤
+886,C8237,"Follicular lymphoma grade IIIa, spleen",脾臟之IIIa期濾泡型淋巴瘤
+887,C8238,"Follicular lymphoma grade IIIa, lymph nodes of multiple sites",多部位淋巴結之IIIa期濾泡型淋巴瘤
+888,C8239,"Follicular lymphoma grade IIIa, extranodal and solid organ sites",結節外及實體器官之IIIa期濾泡型淋巴瘤
+889,C824,Follicular lymphoma grade IIIb,IIIb期濾泡型淋巴瘤
+890,C8240,"Follicular lymphoma grade IIIb, unspecified site",IIIb期濾泡型淋巴瘤，未特定部位
+891,C8241,"Follicular lymphoma grade IIIb, lymph nodes of head, face, and neck","頭,臉及頸部淋巴結之IIIb期濾泡型淋巴瘤"
+892,C8242,"Follicular lymphoma grade IIIb, intrathoracic lymph nodes",胸腔內淋巴結之IIIb期濾泡型淋巴瘤
+893,C8243,"Follicular lymphoma grade IIIb, intra-abdominal lymph nodes",腹腔內淋巴結之IIIb期濾泡型淋巴瘤
+894,C8244,"Follicular lymphoma grade IIIb, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之IIIb期濾泡型淋巴瘤
+895,C8245,"Follicular lymphoma grade IIIb, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之IIIb期濾泡型淋巴瘤
+896,C8246,"Follicular lymphoma grade IIIb, intrapelvic lymph nodes",骨盆內淋巴結之IIIb期濾泡性淋巴瘤
+897,C8247,"Follicular lymphoma grade IIIb, spleen",脾臟之IIIb期濾泡型淋巴瘤
+898,C8248,"Follicular lymphoma grade IIIb, lymph nodes of multiple sites",多部位淋巴結之IIIb期濾泡型淋巴瘤
+899,C8249,"Follicular lymphoma grade IIIb, extranodal and solid organ sites",結節外及實體器官之IIIb期濾泡型淋巴瘤
+900,C825,Diffuse follicle center lymphoma,瀰漫性濾泡型中心淋巴瘤
+901,C8250,"Diffuse follicle center lymphoma, unspecified site",瀰漫性濾泡型中心淋巴瘤，未特定部位
+902,C8251,"Diffuse follicle center lymphoma, lymph nodes of head, face, and neck",頭、臉及頸部淋巴結之瀰漫性濾泡型中心淋巴瘤
+903,C8252,"Diffuse follicle center lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之瀰漫性濾泡型中心淋巴瘤
+904,C8253,"Diffuse follicle center lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之瀰漫性濾泡型中心淋巴瘤
+905,C8254,"Diffuse follicle center lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之瀰漫性濾泡型中心淋巴瘤
+906,C8255,"Diffuse follicle center lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之瀰漫性濾泡型中心淋巴瘤
+907,C8256,"Diffuse follicle center lymphoma, intrapelvic lymph nodes",骨盆腔內淋巴結之瀰漫性濾泡型中心淋巴瘤
+908,C8257,"Diffuse follicle center lymphoma, spleen",脾臟之瀰漫性濾泡型中心淋巴瘤
+909,C8258,"Diffuse follicle center lymphoma, lymph nodes of multiple sites",多部位淋巴結之瀰漫性濾泡型中心淋巴瘤
+910,C8259,"Diffuse follicle center lymphoma, extranodal and solid organ sites",結節外及實體器官之瀰漫性濾泡型中心淋巴瘤
+911,C826,Cutaneous follicle center lymphoma,皮膚濾泡型中心淋巴瘤
+912,C8260,"Cutaneous follicle center lymphoma, unspecified site",皮膚濾泡型中心淋巴瘤，未特定部位
+913,C8261,"Cutaneous follicle center lymphoma, lymph nodes of head, face, and neck",頭、臉及頸部淋巴結之皮膚濾泡型中心淋巴瘤
+914,C8262,"Cutaneous follicle center lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之皮膚濾泡型中心淋巴瘤
+915,C8263,"Cutaneous follicle center lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之皮膚濾泡型中心淋巴瘤
+916,C8264,"Cutaneous follicle center lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之皮膚濾泡型中心淋巴瘤
+917,C8265,"Cutaneous follicle center lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之皮膚濾泡型中心淋巴瘤
+918,C8266,"Cutaneous follicle center lymphoma, intrapelvic lymph nodes",骨盆腔內淋巴結之皮膚濾泡型中心淋巴瘤
+919,C8267,"Cutaneous follicle center lymphoma, spleen",脾臟之皮膚濾泡型中心淋巴瘤
+920,C8268,"Cutaneous follicle center lymphoma, lymph nodes of multiple sites",多部位淋巴結之皮膚濾泡型中心淋巴瘤
+921,C8269,"Cutaneous follicle center lymphoma, extranodal and solid organ sites",結節外及實體器官之皮膚濾泡型中心淋巴瘤
+922,C828,Other types of follicular lymphoma,其他類型濾胞型淋巴瘤
+923,C8280,"Other types of follicular lymphoma, unspecified site",其他類型濾胞型淋巴瘤，未特定部位
+924,C8281,"Other types of follicular lymphoma, lymph nodes of head, face, and neck",頭、臉及頸部淋巴結之其他類型濾胞型淋巴瘤
+925,C8282,"Other types of follicular lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之其他類型濾胞型淋巴瘤
+926,C8283,"Other types of follicular lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之其他類型濾胞型淋巴瘤
+927,C8284,"Other types of follicular lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之其他類型濾胞型淋巴瘤
+928,C8285,"Other types of follicular lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之其他類型濾胞型淋巴瘤
+929,C8286,"Other types of follicular lymphoma, intrapelvic lymph nodes",骨盆腔內淋巴結之其他類型濾胞型淋巴瘤
+930,C8287,"Other types of follicular lymphoma, spleen",脾臟之其他類型濾胞性淋巴瘤
+931,C8288,"Other types of follicular lymphoma, lymph nodes of multiple sites",多部位淋巴結之其他類型濾胞型淋巴瘤
+932,C8289,"Other types of follicular lymphoma, extranodal and solid organ sites",結節外及實體器官之其他類型濾泡型淋巴瘤
+933,C829,"Follicular lymphoma, unspecified",濾泡型淋巴瘤
+934,C8290,"Follicular lymphoma, unspecified, unspecified site",未特定部位之濾泡型淋巴瘤，未特定
+935,C8291,"Follicular lymphoma, unspecified, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之濾泡型淋巴瘤
+936,C8292,"Follicular lymphoma, unspecified, intrathoracic lymph nodes",胸腔內淋巴結之濾泡型淋巴瘤
+937,C8293,"Follicular lymphoma, unspecified, intra-abdominal lymph nodes",腹腔內淋巴結之濾泡型淋巴瘤
+938,C8294,"Follicular lymphoma, unspecified, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之濾泡型淋巴瘤
+939,C8295,"Follicular lymphoma, unspecified, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之濾泡型淋巴瘤
+940,C8296,"Follicular lymphoma, unspecified, intrapelvic lymph nodes",骨盆內淋巴結之濾泡型淋巴瘤
+941,C8297,"Follicular lymphoma, unspecified, spleen",脾臟之濾泡型淋巴瘤
+942,C8298,"Follicular lymphoma, unspecified, lymph nodes of multiple sites",多部位淋巴結之濾泡型淋巴瘤
+943,C8299,"Follicular lymphoma, unspecified, extranodal and solid organ sites",結節外實體器官之濾泡型淋巴瘤
+944,C83,Non-follicular lymphoma,非濾泡型淋巴瘤
+945,C830,Small cell B-cell lymphoma,小細胞B-細胞淋巴瘤
+946,C8300,"Small cell B-cell lymphoma, unspecified site",小細胞B-細胞淋巴瘤，未特定部位
+947,C8301,"Small cell B-cell lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之小細胞B-細胞淋巴瘤
+948,C8302,"Small cell B-cell lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之小細胞B-細胞淋巴瘤
+949,C8303,"Small cell B-cell lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之小細胞B-細胞淋巴瘤
+950,C8304,"Small cell B-cell lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之小細胞B-細胞淋巴瘤
+951,C8305,"Small cell B-cell lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之小細胞B-細胞淋巴瘤
+952,C8306,"Small cell B-cell lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之小細胞B-細胞淋巴瘤
+953,C8307,"Small cell B-cell lymphoma, spleen",脾臟之小細胞B-細胞淋巴瘤
+954,C8308,"Small cell B-cell lymphoma, lymph nodes of multiple sites",多部位淋巴結之小細胞B-細胞淋巴瘤
+955,C8309,"Small cell B-cell lymphoma, extranodal and solid organ sites",結節外實體器官之小細胞B-細胞淋巴瘤
+956,C831,Mantle cell lymphoma,被套細胞淋巴瘤
+957,C8310,"Mantle cell lymphoma, unspecified site",未特定部位之被套細胞淋巴瘤
+958,C8311,"Mantle cell lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之被套細胞淋巴瘤
+959,C8312,"Mantle cell lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之被套細胞淋巴瘤
+960,C8313,"Mantle cell lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之被套細胞淋巴瘤
+961,C8314,"Mantle cell lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之被套細胞淋巴瘤
+962,C8315,"Mantle cell lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之被套細胞淋巴瘤
+963,C8316,"Mantle cell lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之被套細胞淋巴瘤
+964,C8317,"Mantle cell lymphoma, spleen",脾臟之被套細胞淋巴瘤
+965,C8318,"Mantle cell lymphoma, lymph nodes of multiple sites",多部位淋巴結之被套細胞淋巴瘤
+966,C8319,"Mantle cell lymphoma, extranodal and solid organ sites",結節外實體器官之被套細胞淋巴瘤
+967,C833,Diffuse large B-cell lymphoma,瀰漫性巨大B-細胞淋巴瘤
+968,C8330,"Diffuse large B-cell lymphoma, unspecified site",未特定部位之瀰漫性巨大B-細胞淋巴瘤
+969,C8331,"Diffuse large B-cell lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之瀰漫性巨大B-細胞淋巴瘤
+970,C8332,"Diffuse large B-cell lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之瀰漫性巨大B-細胞淋巴瘤
+971,C8333,"Diffuse large B-cell lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之瀰漫性巨大B-細胞淋巴瘤
+972,C8334,"Diffuse large B-cell lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之瀰漫性大B-細胞淋巴瘤
+973,C8335,"Diffuse large B-cell lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之瀰漫性巨大B-細胞淋巴瘤
+974,C8336,"Diffuse large B-cell lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之瀰漫性巨大B-細胞淋巴瘤
+975,C8337,"Diffuse large B-cell lymphoma, spleen",脾臟之瀰漫性巨大B-細胞淋巴瘤
+976,C8338,"Diffuse large B-cell lymphoma, lymph nodes of multiple sites",多部位淋巴結之瀰漫性巨大B-細胞淋巴瘤
+977,C8339,"Diffuse large B-cell lymphoma, extranodal and solid organ sites",結節外實體器官之瀰漫性巨大B-細胞淋巴瘤
+978,C835,Lymphoblastic (diffuse) lymphoma,淋巴芽球性(瀰漫性)淋巴瘤
+979,C8350,"Lymphoblastic (diffuse) lymphoma, unspecified site",未特定部位之淋巴芽球性(瀰漫性)淋巴瘤
+980,C8351,"Lymphoblastic (diffuse) lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之淋巴芽球性(瀰漫性)淋巴瘤
+981,C8352,"Lymphoblastic (diffuse) lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之淋巴芽球性(瀰漫性)淋巴瘤
+982,C8353,"Lymphoblastic (diffuse) lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之淋巴芽球性(瀰漫性)淋巴瘤
+983,C8354,"Lymphoblastic (diffuse) lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之淋巴芽球性(瀰漫性)淋巴瘤
+984,C8355,"Lymphoblastic (diffuse) lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之淋巴芽球性(瀰漫性)淋巴瘤
+985,C8356,"Lymphoblastic (diffuse) lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之淋巴芽球性(瀰漫性)淋巴瘤
+986,C8357,"Lymphoblastic (diffuse) lymphoma, spleen",脾臟之淋巴芽球性(瀰漫性)淋巴瘤
+987,C8358,"Lymphoblastic (diffuse) lymphoma, lymph nodes of multiple sites",多部位淋巴結之淋巴芽球性(瀰漫性)淋巴瘤
+988,C8359,"Lymphoblastic (diffuse) lymphoma, extranodal and solid organ sites",結節外實體器官部位之淋巴芽球性(瀰漫性)淋巴瘤
+989,C837,Burkitt lymphoma,Burkitt淋巴瘤
+990,C8370,"Burkitt lymphoma, unspecified site",未特定部位之Burkitt淋巴瘤
+991,C8371,"Burkitt lymphoma, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之Burkitt淋巴瘤
+992,C8372,"Burkitt lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之Burkitt淋巴瘤
+993,C8373,"Burkitt lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之Burkitt淋巴瘤
+994,C8374,"Burkitt lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之Burkitt淋巴瘤
+995,C8375,"Burkitt lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之Burkitt淋巴瘤
+996,C8376,"Burkitt lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之Burkitt淋巴瘤
+997,C8377,"Burkitt lymphoma, spleen",脾臟之Burkitt淋巴瘤
+998,C8378,"Burkitt lymphoma, lymph nodes of multiple sites",多部位淋巴結之Burkitt淋巴瘤
+999,C8379,"Burkitt lymphoma, extranodal and solid organ sites",結節外實體器官部位之Burkitt淋巴瘤
+1000,C838,Other non-follicular lymphoma,其他非濾泡型淋巴瘤
+1001,C8380,"Other non-follicular lymphoma, unspecified site",未特定部位之其他非濾泡型淋巴瘤
+1002,C8381,"Other non-follicular lymphoma, lymph nodes of head, face, and neck",頭，臉及頸淋巴結之其他非濾泡型淋巴瘤
+1003,C8382,"Other non-follicular lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之其他非濾泡型淋巴瘤
+1004,C8383,"Other non-follicular lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之其他非濾泡型淋巴瘤
+1005,C8384,"Other non-follicular lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之其他非濾泡型淋巴瘤
+1006,C8385,"Other non-follicular lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之其他非濾泡型淋巴瘤
+1007,C8386,"Other non-follicular lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之其他非濾泡型淋巴瘤
+1008,C8387,"Other non-follicular lymphoma, spleen",脾臟之其他非濾泡型淋巴瘤
+1009,C8388,"Other non-follicular lymphoma, lymph nodes of multiple sites",多部位淋巴結之其他非濾泡型淋巴瘤
+1010,C8389,"Other non-follicular lymphoma, extranodal and solid organ sites",結節外實體器官之其他非濾泡型淋巴瘤
+1011,C839,"Non-follicular lymphoma, unspecified",非濾泡型淋巴瘤，未特定
+1012,C8390,"Non-follicular lymphoma, unspecified, unspecified site",未特定部位之非濾泡型淋巴瘤
+1013,C8391,"Non-follicular lymphoma, unspecified, lymph nodes of head, face, and neck",頭，臉及頸淋巴結之非濾泡型淋巴瘤
+1014,C8392,"Non-follicular lymphoma, unspecified, intrathoracic lymph nodes",胸腔內淋巴結之非濾泡型淋巴瘤
+1015,C8393,"Non-follicular lymphoma, unspecified, intra-abdominal lymph nodes",腹腔內淋巴結之非濾泡型淋巴瘤
+1016,C8394,"Non-follicular lymphoma, unspecified, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之非濾泡型淋巴瘤
+1017,C8395,"Non-follicular lymphoma, unspecified, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之非濾泡型淋巴瘤
+1018,C8396,"Non-follicular lymphoma, unspecified, intrapelvic lymph nodes",骨盆內淋巴結之非濾泡型淋巴瘤
+1019,C8397,"Non-follicular lymphoma, unspecified, spleen",脾臟之非濾泡型淋巴瘤
+1020,C8398,"Non-follicular lymphoma, unspecified, lymph nodes of multiple sites",多部位淋巴結之非濾泡型淋巴瘤
+1021,C8399,"Non-follicular lymphoma, unspecified, extranodal and solid organ sites",結節外實體器官之非濾泡型淋巴瘤
+1022,C84,Mature T/NK-cell lymphomas,成熟的T/NK細胞淋巴瘤
+1023,C840,Mycosis fungoides,蕈狀肉芽腫
+1024,C8400,"Mycosis fungoides, unspecified site",未特定部位之蕈狀肉芽腫
+1025,C8401,"Mycosis fungoides, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之蕈狀肉芽腫
+1026,C8402,"Mycosis fungoides, intrathoracic lymph nodes",胸腔內淋巴結之蕈狀肉芽腫
+1027,C8403,"Mycosis fungoides, intra-abdominal lymph nodes",腹腔內淋巴結之蕈狀肉芽腫
+1028,C8404,"Mycosis fungoides, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之蕈狀肉芽腫
+1029,C8405,"Mycosis fungoides, lymph nodes of inguinal region and lower limb",鼠蹊及下肢淋巴結之蕈狀肉芽腫
+1030,C8406,"Mycosis fungoides, intrapelvic lymph nodes",骨盆內淋巴結之蕈狀肉芽腫
+1031,C8407,"Mycosis fungoides, spleen",脾臟之蕈狀肉芽腫
+1032,C8408,"Mycosis fungoides, lymph nodes of multiple sites",多部位淋巴結之蕈狀肉芽腫
+1033,C8409,"Mycosis fungoides, extranodal and solid organ sites",結節外實體器官之蕈狀肉芽腫
+1034,C841,S'ezary disease,Sezry(塞札瑞)病
+1035,C8410,"Sezary disease, unspecified site",未特定部位之Sezary(塞札瑞)病
+1036,C8411,"Sezary disease, lymph nodes of head, face, and neck",頭，臉及頸部淋巴結之Sezary(塞札瑞)病
+1037,C8412,"Sezary disease, intrathoracic lymph nodes",胸腔內淋巴結之Sezary(塞札瑞)病
+1038,C8413,"Sezary disease, intra-abdominal lymph nodes",腹腔內淋巴結之Sezary(塞札瑞)病
+1039,C8414,"Sezary disease, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之Sezary(塞札瑞)病
+1040,C8415,"Sezary disease, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之Sezary(塞札瑞)病
+1041,C8416,"Sezary disease, intrapelvic lymph nodes",骨盆內淋巴結之Sezary(塞札瑞)病
+1042,C8417,"Sezary disease, spleen",脾臟之Sezary(塞札瑞)病
+1043,C8418,"Sezary disease, lymph nodes of multiple sites",多部位淋巴結之Sezary(塞札瑞)病
+1044,C8419,"Sezary disease, extranodal and solid organ sites",結節外實體器官之Sezary(塞札瑞)病
+1045,C844,"Peripheral T-cell lymphoma, not classified",周邊Ｔ細胞淋巴瘤，未分類
+1046,C8440,"Peripheral T-cell lymphoma, not classified, unspecified site",未特定部位之周邊Ｔ細胞淋巴瘤，未分類
+1047,C8441,"Peripheral T-cell lymphoma, not classified, lymph nodes of head, face, and neck","頭，臉及頸部淋巴結之周邊Ｔ細胞淋巴瘤,未分類"
+1048,C8442,"Peripheral T-cell lymphoma, not classified intrathoracic lymph nodes","胸腔內淋巴結之周邊Ｔ細胞淋巴瘤,未分類"
+1049,C8443,"Peripheral T-cell lymphoma, not classified, intra-abdominal lymph nodes","腹腔內淋巴結之周邊Ｔ細胞淋巴瘤,未分類"
+1050,C8444,"Peripheral T-cell lymphoma, not classified, lymph nodes of axilla and upper limb","腋窩及上肢淋巴結之周邊Ｔ細胞淋巴瘤,未分類"
+1051,C8445,"Peripheral T-cell lymphoma, not classified, lymph nodes of inguinal region and lower limb","腹股溝及下肢淋巴結之周邊Ｔ細胞淋巴瘤,未分類"
+1052,C8446,"Peripheral T-cell lymphoma, not classified, intrapelvic lymph nodes","骨盆內淋巴結之周邊Ｔ細胞淋巴瘤,未分類"
+1053,C8447,"Peripheral T-cell lymphoma, not classified, spleen","脾臟之周邊Ｔ細胞淋巴瘤,未分類"
+1054,C8448,"Peripheral T-cell lymphoma, not classified, lymph nodes of multiple sites","多部位淋巴結之周邊Ｔ細胞淋巴瘤,未分類"
+1055,C8449,"Peripheral T-cell lymphoma, not classified, extranodal and solid organ sites","結節外實體器官之周邊Ｔ細胞淋巴瘤,未分類"
+1056,C846,"Anaplastic large cell lymphoma, ALK-positive",異生性巨大細胞淋巴瘤LK-陽性
+1057,C8460,"Anaplastic large cell lymphoma, ALK-positive, unspecified site",未特定部位之異生性大細胞淋巴瘤ALK-陽性
+1058,C8461,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of head, face, and neck",頭，臉及頸淋巴結之異生性巨大細胞淋巴瘤ALK-陽性
+1059,C8462,"Anaplastic large cell lymphoma, ALK-positive, intrathoracic lymph nodes",胸腔內淋巴結之異生性巨大細胞淋巴瘤ALK-陽性
+1060,C8463,"Anaplastic large cell lymphoma, ALK-positive, intra-abdominal lymph nodes",腹腔內淋巴結之異生性巨大細胞淋巴瘤為ALK-陽性
+1061,C8464,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之異生性巨大細胞淋巴瘤ALK-陽性
+1062,C8465,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之異生性巨大細胞淋巴瘤-ALK陽性
+1063,C8466,"Anaplastic large cell lymphoma, ALK-positive, intrapelvic lymph nodes",骨盆內淋巴結之異生性巨大細胞淋巴瘤ALK-陽性
+1064,C8467,"Anaplastic large cell lymphoma, ALK-positive, spleen",脾臟之異生性巨大細胞淋巴瘤ALK-陽性
+1065,C8468,"Anaplastic large cell lymphoma, ALK-positive, lymph nodes of multiple sites",多部位淋巴結之異生性大細胞淋巴瘤ALK-陽性
+1066,C8469,"Anaplastic large cell lymphoma, ALK-positive, extranodal and solid organ sites",結節外實體器官之異生性巨大細胞淋巴瘤ALK-陽性
+1067,C847,"Anaplastic large cell lymphoma, ALK-negative",異生性巨大細胞淋巴瘤LK-陰性
+1068,C8470,"Anaplastic large cell lymphoma, ALK-negative, unspecified site",未特定部位之異生性巨大細胞淋巴瘤ALK-陰性
+1069,C8471,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of head, face, and neck",頭，臉及頸淋巴結之異生性巨大細胞淋巴瘤ALK-陰性
+1070,C8472,"Anaplastic large cell lymphoma, ALK-negative, intrathoracic lymph nodes",胸腔內淋巴結之異生性巨大細胞淋巴瘤ALK-陰性
+1071,C8473,"Anaplastic large cell lymphoma, ALK-negative, intra-abdominal lymph nodes",腹腔內淋巴結之異生性巨大細胞淋巴瘤為ALK-陰性
+1072,C8474,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之異生性巨大細胞淋巴瘤ALK-陰性
+1073,C8475,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之異生性巨大細胞淋巴瘤-ALK陰性
+1074,C8476,"Anaplastic large cell lymphoma, ALK-negative, intrapelvic lymph nodes",骨盆內淋巴結之異生性巨大細胞淋巴瘤ALK-陰性
+1075,C8477,"Anaplastic large cell lymphoma, ALK-negative, spleen",脾臟之異生性巨大細胞淋巴瘤ALK-陰性
+1076,C8478,"Anaplastic large cell lymphoma, ALK-negative, lymph nodes of multiple sites",多部位淋巴結之異生性巨大細胞淋巴瘤ALK-陰性
+1077,C8479,"Anaplastic large cell lymphoma, ALK-negative, extranodal and solid organ sites",結節外實體器官之異生性巨大細胞淋巴瘤ALK-陰性
+1078,C849,"Mature T/NK-cell lymphomas, unspecified",成熟T/NK細胞淋巴瘤
+1079,C8490,"Mature T/NK-cell lymphomas, unspecified, unspecified site",未特定部位之成熟T/NK細胞淋巴瘤
+1080,C8491,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of head, face, and neck",頭，臉及頸淋巴結之成熟T/NK細胞淋巴瘤
+1081,C8492,"Mature T/NK-cell lymphomas, unspecified, intrathoracic lymph nodes",胸腔內淋巴結之成熟T/NK細胞淋巴瘤
+1082,C8493,"Mature T/NK-cell lymphomas, unspecified, intra-abdominal lymph nodes",腹腔內淋巴結之成熟T/NK細胞淋巴瘤
+1083,C8494,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之成熟T/NK細胞淋巴瘤
+1084,C8495,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之成熟T/NK細胞淋巴瘤
+1085,C8496,"Mature T/NK-cell lymphomas, unspecified, intrapelvic lymph nodes",骨盆內淋巴結之成熟T/NK細胞淋巴瘤
+1086,C8497,"Mature T/NK-cell lymphomas, unspecified, spleen",脾臟之成熟T/NK細胞淋巴瘤
+1087,C8498,"Mature T/NK-cell lymphomas, unspecified, lymph nodes of multiple sites",多部位淋巴結之成熟T/NK細胞淋巴瘤
+1088,C8499,"Mature T/NK-cell lymphomas, unspecified, extranodal and solid organ sites",結節外實體器官之成熟T/NK細胞淋巴瘤
+1089,C84a,"Cutaneous T-cell lymphoma, unspecified",皮膚Ｔ細胞淋巴瘤
+1090,C84a0,"Cutaneous T-cell lymphoma, unspecified, unspecified site",未特定部位之皮膚Ｔ細胞淋巴瘤
+1091,C84a1,"Cutaneous T-cell lymphoma, unspecified lymph nodes of head, face, and neck",頭，臉及頸淋巴結之皮膚Ｔ細胞淋巴瘤
+1092,C84a2,"Cutaneous T-cell lymphoma, unspecified, intrathoracic lymph nodes",胸腔內淋巴結之皮膚Ｔ細胞淋巴瘤
+1093,C84a3,"Cutaneous T-cell lymphoma, unspecified, intra-abdominal lymph nodes",腹腔內淋巴結之皮膚Ｔ細胞淋巴瘤
+1094,C84a4,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之皮膚Ｔ細胞淋巴瘤
+1095,C84a5,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之皮膚Ｔ細胞淋巴瘤
+1096,C84a6,"Cutaneous T-cell lymphoma, unspecified, intrapelvic lymph nodes",骨盆內淋巴結之皮膚Ｔ細胞淋巴瘤
+1097,C84a7,"Cutaneous T-cell lymphoma, unspecified, spleen",脾臟之皮膚Ｔ細胞淋巴瘤
+1098,C84a8,"Cutaneous T-cell lymphoma, unspecified, lymph nodes of multiple sites",多部位淋巴結之皮膚Ｔ細胞淋巴瘤
+1099,C84a9,"Cutaneous T-cell lymphoma, unspecified, extranodal and solid organ sites",結節外實體器官之皮膚Ｔ細胞淋巴瘤
+1100,C84z,Other mature T/NK-cell lymphomas,其他成熟的T/NK細胞淋巴瘤
+1101,C84z0,"Other mature T/NK-cell lymphomas, unspecified site",未特定部位之其他成熟的T/NK細胞淋巴瘤
+1102,C84z1,"Other mature T/NK-cell lymphomas, lymph nodes of head, face, and neck",頭，臉及頸淋巴結之其他成熟T/NK-細胞淋巴瘤
+1103,C84z2,"Other mature T/NK-cell lymphomas, intrathoracic lymph nodes",胸腔內淋巴結之其他成熟T/NK-細胞淋巴瘤
+1104,C84z3,"Other mature T/NK-cell lymphomas, intra-abdominal lymph nodes",腹腔內淋巴結之其他成熟T/NK-細胞淋巴瘤
+1105,C84z4,"Other mature T/NK-cell lymphomas, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之其他成熟T/NK-細胞淋巴瘤
+1106,C84z5,"Other mature T/NK-cell lymphomas, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之其他成熟T/NK-細胞淋巴瘤
+1107,C84z6,"Other mature T/NK-cell lymphomas, intrapelvic lymph nodes",骨盆內淋巴結之其他成熟T/NK-細胞淋巴瘤
+1108,C84z7,"Other mature T/NK-cell lymphomas, spleen",脾臟之其他成熟T/NK-細胞淋巴瘤
+1109,C84z8,"Other mature T/NK-cell lymphomas, lymph nodes of multiple sites",多部位淋巴結之其他成熟T/NK-細胞淋巴瘤
+1110,C84z9,"Other mature T/NK-cell lymphomas, extranodal and solid organ sites",結節外實體器官之其他成熟T/NK-細胞淋巴瘤
+1111,C85,Other and unspecified types of non-Hodgkin's lymphoma,其他及未特定類型之非何杰金(氏)淋巴瘤
+1112,C850,Lymphosarcoma,淋巴肉瘤
+1113,C8500,"Lymphosarcoma, unspecified site",未特定部位之淋巴肉瘤
+1114,C8501,"Lymphosarcoma, lymph nodes of head, face, and neck",頭、臉及頸淋巴結之淋巴肉瘤
+1115,C8502,"Lymphosarcoma, intrathoracic lymph nodes",胸腔內淋巴結之淋巴肉瘤
+1116,C8503,"Lymphosarcoma, intra-abdominal lymph nodes",腹腔內淋巴結之淋巴肉瘤
+1117,C8504,"Lymphosarcoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之淋巴肉瘤
+1118,C8505,"Lymphosarcoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之淋巴肉瘤
+1119,C8506,"Lymphosarcoma, intrapelvic lymph nodes",骨盆內淋巴結之淋巴肉瘤
+1120,C8507,"Lymphosarcoma, spleen",脾臟之淋巴肉瘤
+1121,C8508,"Lymphosarcoma, lymph nodes of multiple sites",多部位淋巴結之淋巴肉瘤
+1122,C8509,"Lymphosarcoma, extranodal and solid organ sites",結節外實體器官之淋巴肉瘤
+1123,C851,Unspecified B-cell lymphoma,B細胞淋巴瘤
+1124,C8510,"Unspecified B-cell lymphoma, unspecified site",未特定部位之B細胞淋巴瘤
+1125,C8511,"Unspecified B-cell lymphoma, lymph nodes of head, face, and neck",頭，臉及頸淋巴結之B細胞淋巴瘤
+1126,C8512,"Unspecified B-cell lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之B細胞淋巴瘤
+1127,C8513,"Unspecified B-cell lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之B細胞淋巴瘤
+1128,C8514,"Unspecified B-cell lymphoma, lymph nodes of axilla and upper limb",腋窩及上肢淋巴結之B細胞淋巴瘤
+1129,C8515,"Unspecified B-cell lymphoma, lymph nodes of inguinal region and lower limb",腹股溝及下肢淋巴結之B細胞淋巴瘤
+1130,C8516,"Unspecified B-cell lymphoma, intrapelvic lymph nodes",骨盆內淋巴結之B細胞淋巴瘤
+1131,C8517,"Unspecified B-cell lymphoma, spleen",脾臟之B細胞淋巴瘤
+1132,C8518,"Unspecified B-cell lymphoma, lymph nodes of multiple sites",多部位淋巴結之B細胞淋巴瘤
+1133,C8519,"Unspecified B-cell lymphoma, extranodal and solid organ sites",結節外實體器官之B細胞淋巴瘤
+1134,C852,Mediastinal (thymic) large B-cell lymphoma,縱膈(胸腺)巨大B細胞淋巴瘤
+1135,C8520,"Mediastinal (thymic) large B-cell lymphoma, unspecified site",未特定部位之縱膈(胸腺)巨大B細胞淋巴瘤
+1136,C8521,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of head, face, and neck",頭、臉及頸部淋巴結之縱膈(胸腺)巨大B細胞淋巴瘤
+1137,C8522,"Mediastinal (thymic) large B-cell lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之縱膈(胸腺)巨大B細胞淋巴瘤
+1138,C8523,"Mediastinal (thymic) large B-cell lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之縱膈(胸腺)巨大B細胞淋巴瘤
+1139,C8524,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of axilla and upper limb",腋下及上肢淋巴腺之縱膈(胸腺)巨大B細胞淋巴瘤
+1140,C8525,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of inguinal region and lower limb",鼠蹊部及下肢淋巴結之縱膈(胸腺)巨大B細胞淋巴瘤
+1141,C8526,"Mediastinal (thymic) large B-cell lymphoma, intrapelvic lymph nodes",骨盆腔內淋巴結之縱膈(胸腺)巨大B細胞淋巴瘤
+1142,C8527,"Mediastinal (thymic) large B-cell lymphoma, spleen",脾臟之縱膈(胸腺)巨大B細胞淋巴瘤
+1143,C8528,"Mediastinal (thymic) large B-cell lymphoma, lymph nodes of multiple sites",多發性部位淋巴結之縱膈(胸腺)巨大B細胞淋巴瘤
+1144,C8529,"Mediastinal (thymic) large B-cell lymphoma, extranodal and solid organ sites",淋巴結外及實體器官之縱膈(胸腺)巨大B細胞淋巴瘤
+1145,C858,Other specified types of non-Hodgkin lymphoma,其他特定類型的非何杰金(氏)淋巴瘤
+1146,C8580,"Other specified types of non-Hodgkin lymphoma, unspecified site",未特定部位之其他特定類型的非何杰金(氏)淋巴瘤
+1147,C8581,"Other specified types of non-Hodgkin lymphoma, lymph nodes of head, face, and neck",頭、臉及頸部淋巴結之其他特定類型的非何杰金(氏)淋巴瘤
+1148,C8582,"Other specified types of non-Hodgkin lymphoma, intrathoracic lymph nodes",胸腔內淋巴結之其他特定類型的非何杰金(氏)淋巴瘤
+1149,C8583,"Other specified types of non-Hodgkin lymphoma, intra-abdominal lymph nodes",腹腔內淋巴結之其他特定類型的非何杰金(氏)淋巴瘤
+1150,C8584,"Other specified types of non-Hodgkin lymphoma, lymph nodes of axilla and upper limb",腋下及上肢淋巴結之其他特定類型的非何杰金(氏)淋巴瘤
+1151,C8585,"Other specified types of non-Hodgkin lymphoma, lymph nodes of inguinal region and lower limb",鼠蹊部及下肢淋巴結之其他特定類型的非何杰金(氏)淋巴瘤
+1152,C8586,"Other specified types of non-Hodgkin lymphoma, intrapelvic lymph nodes",骨盆腔內淋巴結之其他特定類型的非何杰金(氏)淋巴瘤
+1153,C8587,"Other specified types of non-Hodgkin lymphoma, spleen",脾臟之其他特定類型的非何杰金(氏)淋巴瘤
+1154,C8588,"Other specified types of non-Hodgkin lymphoma, lymph nodes of multiple sites",多部位淋巴結之其他特定類型的非何杰金(氏)淋巴瘤
+1155,C8589,"Other specified types of non-Hodgkin lymphoma, extranodal and solid organ sites",淋巴結外及實體器官之其他特定類型的非何杰金(氏)淋巴瘤
+1156,C859,"Non-Hodgkin lymphoma, unspecified",非何杰金(氏)淋巴瘤
+1157,C8590,"Non-Hodgkin lymphoma, unspecified, unspecified site",未特定部位之非何杰金(氏)淋巴瘤
+1158,C8591,"Non-Hodgkin lymphoma, unspecified, lymph nodes of head, face, and neck",頭、臉及頸部淋巴結之非何杰金(氏)淋巴瘤
+1159,C8592,"Non-Hodgkin lymphoma, unspecified, intrathoracic lymph nodes",胸腔內淋巴結之非何杰金(氏)淋巴瘤
+1160,C8593,"Non-Hodgkin lymphoma, unspecified, intra-abdominal lymph nodes",腹腔內淋巴結之非何杰金(氏)淋巴瘤
+1161,C8594,"Non-Hodgkin lymphoma, unspecified, lymph nodes of axilla and upper limb",腋下及上肢淋巴結之非何杰金(氏)淋巴瘤
+1162,C8595,"Non-Hodgkin lymphoma, unspecified, lymph nodes of inguinal region and lower limb",鼠蹊部及下肢淋巴結之非何杰金(氏)淋巴瘤
+1163,C8596,"Non-Hodgkin lymphoma, unspecified, intrapelvic lymph nodes",骨盆腔內淋巴結之非何杰金(氏)淋巴瘤
+1164,C8597,"Non-Hodgkin lymphoma, unspecified, spleen",脾臟之非何杰金(氏)淋巴瘤
+1165,C8598,"Non-Hodgkin lymphoma, unspecified, lymph nodes of multiple sites",多部位淋巴結之非何杰金(氏)淋巴瘤
+1166,C8599,"Non-Hodgkin lymphoma, unspecified, extranodal and solid organ sites",淋巴結外及實體器官之非何杰金(氏)淋巴瘤
+1167,C86,Other specified types of T/NK-cell lymphoma,其他特定類型的T/NK細胞淋巴瘤
+1168,C860,"Extranodal NK/T-cell lymphoma, nasal type",淋巴結外鼻腔型NK/T–細胞淋巴瘤
+1169,C861,Hepatosplenic T-cell lymphoma,肝脾T–細胞淋巴瘤
+1170,C862,Enteropathy-type (intestinal) T-cell lymphoma,腸病變(腸)型Ｔ–細胞淋巴瘤
+1171,C863,Subcutaneous panniculitis-like T-cell lymphoma,皮下似脂膜炎T細胞淋巴瘤
+1172,C864,Blastic NK-cell lymphoma,芽球性NK-T細胞瘤
+1173,C865,Angioimmunoblastic T-cell lymphoma,血管免疫母細胞T細胞淋巴瘤
+1174,C866,Primary cutaneous CD30-positive T-cell proliferations,原發性皮膚CD30-陽性T細胞增殖
+1175,C88,Malignant immunoproliferative diseases and certain other B-cell lymphomas,惡性免疫細胞增生性疾病及其他B細胞淋巴瘤
+1176,C880,Waldenstrom macroglobulinemia,Waldenstrom(華登特倫氏)巨大球蛋白血症
+1177,C881,Other heavy chain disease,其他重鏈病
+1178,C882,Other heavy chain disease,其他重鏈病
+1179,C883,Immunoproliferative small intestinal disease,免疫細胞增生性小腸疾病
+1180,C884,Extranodal marginal zone B-cell lymphoma of mucosa-associated lymphoid tissue [MALT-lymphoma],淋巴腺外邊緣區黏膜相關淋巴組織之B細胞淋巴瘤[MALT淋巴瘤]
+1181,C888,Other malignant immunoproliferative diseases,其他惡性免疫細胞增生性疾病
+1182,C889,"Malignant immunoproliferative disease, unspecified",惡性免疫細胞增生性疾病，未特定
+1183,C90,Multiple myeloma and malignant plasma cell neoplasms,多發性骨髓瘤及惡性漿細胞腫瘤
+1184,C900,Multiple myeloma,多發性骨髓瘤
+1185,C9000,Multiple myeloma not having achieved remission,多發性骨髓瘤，未達到緩解
+1186,C9001,Multiple myeloma in remission,多發性骨髓瘤，緩解期
+1187,C9002,Multiple myeloma in relapse,多發性骨髓瘤，復發
+1188,C901,Plesma cell leukemia,漿細胞性白血病
+1189,C9010,Plasma cell leukemia not having achieved remission,漿細胞性白血病，未達到緩解
+1190,C9011,Plasma cell leukemia in remission,漿細胞性白血病，緩解期
+1191,C9012,Plasma cell leukemia in relapse,漿細胞性白血病，復發
+1192,C902,Extramedullary plasmacytoma,髓外漿細胞瘤
+1193,C9020,Extramedullary plasmacytoma not having achieved remission,髓外漿細胞瘤，未達到緩解
+1194,C9021,Extramedullary plasmacytoma in remission,髓外漿細胞瘤，緩解期
+1195,C9022,Extramedullary plasmacytoma in relapse,髓外漿細胞瘤，復發
+1196,C903,Solitary plasmacytoma,孤立性漿細胞瘤
+1197,C9030,Solitary plasmacytoma not having achieved remission,孤立性漿細胞瘤，未達到緩解
+1198,C9031,Solitary plasmacytoma in remission,孤立性漿細胞瘤，緩解期
+1199,C9032,Solitary plasmacytoma in relapse,孤立性漿細胞瘤，復發
+1200,C91,Lymphoid leukemia,淋巴性白血病
+1201,C910,Acute lymphoblastic leukemia[ALL],急性淋巴芽球性白血病
+1202,C9100,Acute lymphoblastic leukemia not having achieved remission,急性淋巴芽球性白血病，未達到緩解
+1203,C9101,"Acute lymphoblastic leukemia, in remission",急性淋巴芽球性白血病，緩解期
+1204,C9102,"Acute lymphoblastic leukemia, in relapse",急性淋巴芽球性白血病，復發
+1205,C911,Chronic lymphocytic leukemia of B-cell type,慢性B細胞淋巴性白血病
+1206,C9110,Chronic lymphocytic leukemia of B-cell type not having achieved remission,慢性B細胞淋巴性白血病，未達到緩解
+1207,C9111,Chronic lymphocytic leukemia of B-cell type in remission,慢性B細胞淋巴性白血病，緩解期
+1208,C9112,Chronic lymphocytic leukemia of B-cell type in relapse,慢性B細胞淋巴性白血病，復發
+1209,C913,Prolymphocytic leukemia of B-cell type,前B細胞淋巴性白血病
+1210,C9130,Prolymphocytic leukemia of B-cell type not having achieved remission,前B細胞淋巴性白血病，未達到緩解
+1211,C9131,"Prolymphocytic leukemia of B-cell type, in remission",B細胞前淋巴性白血病，緩解期
+1212,C9132,"Prolymphocytic leukemia of B-cell type, in relapse",B細胞前淋巴性白血病，復發
+1213,C914,Hairy-cell leukemia,毛(髮)狀細胞白血病
+1214,C9140,Hairy cell leukemia not having achieved remission,毛(髮)狀細胞白血病，未達到緩解
+1215,C9141,"Hairy cell leukemia, in remission",毛(髮)狀細胞白血病，緩解期
+1216,C9142,"Hairy cell leukemia, in relapse",毛(髮)狀細胞白血病，復發
+1217,C915,Adult T-cell lymphoma/leukemia (HTLV-1-associated),成年型Ｔ–細胞淋巴瘤/白血病(與HTLV-1-相關)
+1218,C9150,Adult T-cell lymphoma/leukemia (HTLV-1-associated) not having achieved remission,成年型Ｔ–細胞淋巴瘤/白血病(與HTLV-1-相關)，未達到緩解
+1219,C9151,"Adult T-cell lymphoma/leukemia (HTLV-1-associated), in remission",成年型Ｔ–細胞淋巴瘤/白血病(與HTLV-1-相關)，緩解期
+1220,C9152,"Adult T-cell lymphoma/leukemia (HTLV-1-associated), in relapse",成年型Ｔ–細胞淋巴瘤/白血病(與HTLV-1-相關)，復發
+1221,C916,Prolymophocytic leukemia of T-cell type,前T細胞淋巴性白血病
+1222,C9160,Prolymphocytic leukemia of T-cell type not having achieved remission,前T細胞淋巴性白血病，未達到緩解
+1223,C9161,"Prolymphocytic leukemia of T-cell type, in remission",T細胞前淋巴性白血病，緩解期
+1224,C9162,"Prolymphocytic leukemia of T-cell type, in relapse",T細胞前淋巴性白血病，復發
+1225,C919,"Lymphoid leukemia, unspecified",淋巴性白血病
+1226,C9190,"Lymphoid leukemia, unspecified not having achieved remission",淋巴性白血病，未達到緩解
+1227,C9191,"Lymphoid leukemia, unspecified, in remission",淋巴性白血病，緩解期
+1228,C9192,"Lymphoid leukemia, unspecified, in relapse",淋巴性白血病，復發
+1229,C91a,Mature B-cell leukemia Burkitt-type,成熟B細胞伯基特白血病
+1230,C91a0,Mature B-cell leukemia Burkitt-type not having achieved remission,成熟B細胞伯基特白血病，未達到緩解
+1231,C91a1,"Mature B-cell leukemia Burkitt-type, in remission",成熟B細胞伯基特白血病，緩解期
+1232,C91a2,"Mature B-cell leukemia Burkitt-type, in relapse",成熟B細胞伯基特白血病，復發
+1233,C91z,Other lymphoid leukemia,其他淋巴性白血病
+1234,C91z0,Other lymphoid leukemia not having achieved remission,其他淋巴性白血病，未達到緩解
+1235,C91z1,"Other lymphoid leukemia, in remission",其他淋巴性白血病，緩解期
+1236,C91z2,"Other lymphoid leukemia, in relapse",其他淋巴性白血病，復發
+1237,C92,Myeloid leukemia,骨髓性白血病
+1238,C920,Acute myeloblastic leukemia,急性髓母細胞性白血病
+1239,C9200,"Acute myeloblastic leukemia, not having achieved remission",急性髓母細胞性白血病，未達到緩解
+1240,C9201,"Acute myeloblastic leukemia, in remission",急性髓母細胞性白血病，緩解期
+1241,C9202,"Acute myeloblastic leukemia, in relapse",急性髓母細胞性白血病，復發
+1242,C921,"Chronic myeloid leukemia, BCR/ABL-positive",慢性骨髓性白血病、BCR/BL陽性
+1243,C9210,"Chronic myeloid leukemia, BCR/ABL-positive, not having achieved remission",慢性骨髓性白血病，BCR/ABL陽性，未達到緩解
+1244,C9211,"Chronic myeloid leukemia, BCR/ABL-positive, in remission",慢性骨髓性白血病，BCR/ABL陽性，緩解期
+1245,C9212,"Chronic myeloid leukemia, BCR/ABL-positive, in relapse",慢性骨髓性白血病，BCR/ABL陽性，復發
+1246,C922,"Atypical chronic myeloid leukemia, BCR/ABL-negative",非典型慢性骨髓性白血病、BCR/BL陰性
+1247,C9220,"Atypical chronic myeloid leukemia, BCR/ABL-negative, not having achieved remission",非典型慢性骨髓性白血病，BCR/ABL陰性，未達到緩解
+1248,C9221,"Atypical chronic myeloid leukemia, BCR/ABL-negative, in remission",非典型慢性骨髓性白血病，BCR/ABL陰性，緩解期
+1249,C9222,"Atypical chronic myeloid leukemia, BCR/ABL-negative, in relapse",非典型慢性骨髓性白血病，BCR/ABL陰性，復發
+1250,C923,Myeloid sarcoma,骨髓性肉瘤
+1251,C9230,"Myeloid sarcoma, not having achieved remission",骨髓性肉瘤，，未達到緩解
+1252,C9231,"Myeloid sarcoma, in remission",骨髓性肉瘤，緩解期
+1253,C9232,"Myeloid sarcoma, in relapse",骨髓性肉瘤，復發
+1254,C924,Acute promyelocytic leukemia,急性前骨髓性白血病
+1255,C9240,"Acute promyelocytic leukemia, not having achieved remission",急性前骨髓性白血病，未達到緩解
+1256,C9241,"Acute promyelocytic leukemia, in remission",急性前骨髓性白血病，緩解期
+1257,C9242,"Acute promyelocytic leukemia, in relapse",急性前骨髓性白血病，復發
+1258,C925,Acute myelomonocytic leukemia,急性骨髓單核球性白血病
+1259,C9250,"Acute myelomonocytic leukemia, not having achieved remission",急性骨髓單核球性白血病，未達到緩解
+1260,C9251,"Acute myelomonocytic leukemia, in remission",急性骨髓單核球性白血病，緩解期
+1261,C9252,"Acute myelomonocytic leukemia, in relapse",急性骨髓單核球性白血病，復發
+1262,C926,Acute myeloid leukemia with 11q23-abnormality,急性骨髓性白血病伴有11q23-異常
+1263,C9260,Acute myeloid leukemia with 11q23-abnormality not having achieved remission,急性骨髓性白血病伴有11q23-異常，未達到緩解
+1264,C9261,Acute myeloid leukemia with 11q23-abnormality in remission,急性骨髓性白血病伴有11q23-異常，緩解期
+1265,C9262,Acute myeloid leukemia with 11q23-abnormality in relapse,急性骨髓性白血病伴有11q23-異常，復發
+1266,C929,"Myeloid leukemia, unspecified",骨髓性白血病
+1267,C9290,"Myeloid leukemia, unspecified, not having achieved remission",骨髓性白血病，未特定，未達到緩解
+1268,C9291,"Myeloid leukemia, unspecified in remission",骨髓性白血病，未特定，緩解期
+1269,C9292,"Myeloid leukemia, unspecified in relapse",骨髓性白血病，未特定，復發
+1270,C92a,Acute myeloid leukemia with multilineage dysplasia,急性骨髓性白血病伴有多系發育不全
+1271,C92a0,"Acute myeloid leukemia with multilineage dysplasia, not having achieved remission",急性骨髓性白血病伴有多系發育不全，未達到緩解
+1272,C92a1,"Acute myeloid leukemia with multilineage dysplasia, in remission",急性骨髓性白血病伴有多系發育不全，緩解期
+1273,C92a2,"Acute myeloid leukemia with multilineage dysplasia, in relapse",急性骨髓性白血病伴有多系發育不全，復發
+1274,C92z,Other myeloid leukemia,其他骨髓性白血病
+1275,C92z0,Other myeloid leukemia not having achieved remission,其他骨髓性白血病，未達到緩解
+1276,C92z1,"Other myeloid leukemia, in remission",其他骨髓性白血病，緩解期
+1277,C92z2,"Other myeloid leukemia, in relapse",其他骨髓性白血病，復發
+1278,C93,Monocytic leukemia,單核球性白血病
+1279,C930,Acute monoblastic/monocytic leukemia,急性單核母細胞性/單核球性白血病
+1280,C9300,"Acute monoblastic/monocytic leukemia, not having achieved remission",急性單核母細胞性/單核球性白血病，未達到緩解
+1281,C9301,"Acute monoblastic/monocytic leukemia, in remission",急性單核母細胞性/單核球性白血病，緩解期
+1282,C9302,"Acute monoblastic/monocytic leukemia, in relapse",急性單核母細胞性/單核球性白血病，復發
+1283,C931,Chronic myelomonocytic leukemia,慢性骨髓單核球性白血病
+1284,C9310,Chronic myelomonocytic leukemia not having achieved remission,慢性骨髓單核球性白血病，未達到緩解
+1285,C9311,"Chronic myelomonocytic leukemia, in remission",慢性骨髓單核球性白血病，緩解期
+1286,C9312,"Chronic myelomonocytic leukemia, in relapse",慢性骨髓單核球性白血病，復發
+1287,C933,Juvenile myelomonocytic leukemia,幼年型骨髓單核球性白血病
+1288,C9330,"Juvenile myelomonocytic leukemia, not having achieved remission",幼年型骨髓單核球性白血病，未達到緩解
+1289,C9331,"Juvenile myelomonocytic leukemia, in remission",幼年型骨髓單核球性白血病，緩解期
+1290,C9332,"Juvenile myelomonocytic leukemia, in relapse",幼年型骨髓單核球性白血病，復發
+1291,C939,"Monocytic leukemia, unspecified",單核球性白血病
+1292,C9390,"Monocytic leukemia, unspecified, not having achieved remission",單核球性白血病，未特定，未達到緩解
+1293,C9391,"Monocytic leukemia, unspecified in remission",單核球性白血病，緩解期
+1294,C9392,"Monocytic leukemia, unspecified in relapse",單核球性白血病，復發
+1295,C93z,Other monocytic leukemia,其他單核球性白血病
+1296,C93z0,"Other monocytic leukemia, not in remission",其他單核球性白血病，未緩解
+1297,C93z1,"Other monocytic leukemia, in remission",其他單核球性白血病，緩解期
+1298,C94,Other leukemias of specified cell type,其他特定細胞類型之白血病
+1299,C940,Acute erythoid leukemia,急性紅白血病
+1300,C9400,"Acute erythoid leukemia, not having achieved remission",急性紅白血病，未達到緩解
+1301,C9401,"Acute erythoid leukemia, in remission",急性紅白血病，緩解期
+1302,C9402,"Acute erythoid leukemia, in relapse",急性紅白血病，復發
+1303,C942,Acute megakaryoblastic leukemia,急性巨核細胞性白血病
+1304,C9420,Acute megakaryoblastic leukemia not having achieved remission,急性巨核細胞性白血病，未達到緩解
+1305,C9421,"Acute megakaryoblastic leukemia, in remission",急性巨核細胞性白血病，緩解期
+1306,C9422,"Acute megakaryoblastic leukemia, in relapse",急性巨核細胞性白血病，復發
+1307,C943,Mast cell leukemia,肥大細胞白血病
+1308,C9430,Mast cell leukemia not having achieved remission,肥大細胞白血病，未達到緩解
+1309,C9431,"Mast cell leukemia, in remission",肥大細胞白血病，緩解期
+1310,C9432,"Mast cell leukemia, in relapse",肥大細胞白血病，復發
+1311,C944,Acute panmyelosis with myelofibrosis,急性泛骨髓增生伴有骨髓纖維化
+1312,C9440,Acute panmyelosis with myelofibrosis not having achieved remission,急性泛骨髓增生伴有骨髓纖維化，未達到緩解
+1313,C9441,"Acute panmyelosis with myelofibrosis, in remission",急性泛骨髓增生伴有骨髓纖維化，緩解期
+1314,C9442,"Acute panmyelosis with myelofibrosis, in relapse",急性泛骨髓增生伴有骨髓纖維化，復發
+1315,C946,"Myelodysplastic disease, not classified",骨髓生成不良疾病，未分類
+1316,C948,Other specified leukemias,其他特定之白血病
+1317,C9480,Other specified leukemias not having achieved remission,其他特定之白血病，未達到緩解
+1318,C9481,"Other specified leukemias, in remission",其他特定之白血病，緩解期
+1319,C9482,"Other specified leukemias, in relapse",其他特定之白血病，復發
+1320,C95,Leukemia of unspecified cell type,未特定細胞類型之白血病
+1321,C950,Acute leukemia of unspecified cell type,未特定細胞類型之急性白血病
+1322,C9500,Acute leukemia of unspecified cell type not having achieved remission,未特定細胞類型之急性白血病，未達到緩解
+1323,C9501,"Acute leukemia of unspecified cell type, in remission",未特定細胞類型之急性白血病，緩解期
+1324,C9502,"Acute leukemia of unspecified cell type, in relapse",未特定細胞類型之急性白血病，復發
+1325,C951,'Chronic leukemia of unspecified cell type,未特定細胞類型之慢性白血病
+1326,C9510,Chronic leukemia of unspecified cell type not having achieved remission,未特定細胞類型之慢性白血病，未達到緩解
+1327,C9511,"Chronic leukemia of unspecified cell type, in remission",未特定細胞類型之慢性白血病，緩解期
+1328,C9512,"Chronic leukemia of unspecified cell type, in relapse",未特定細胞類型之慢性白血病，復發
+1329,C959,"Leukemia, unspecified",白血病
+1330,C9590,"Leukemia, unspecified not having achieved remission",白血病，未達到緩解
+1331,C9591,"Leukemia, unspecified, in remission",白血病，緩解期
+1332,C9592,"Leukemia, unspecified, in relapse",白血病，復發
+1333,C96,"Other and unspecified malignant neoplasms of lymphoid, hematopoietic and related tissue",其他及未特定淋巴、造血及相關組織之惡性腫瘤
+1334,C960,Multifocal and multisysemic (disseminated) Langerhans-cell histiocytosis,多病灶及多系統性（散佈性）蘭格漢氏-細胞組織球增生症
+1335,C962,Malignant mast cell tumor,惡性肥大細胞瘤
+1336,C964,Sarcoma of dendritic cells (accessory cells),樹突細胞肉瘤（輔佐細胞）
+1337,C965,Multifocal and unisystemic Langerhans-cell histiocytosis,多病灶及單系統性蘭格漢氏-細胞組織球增生症
+1338,C966,Unifocal Langerhans-cell histiocytosis,單病灶蘭格漢氏-細胞組織球增生症
+1339,C969,"Malignant neoplasm of lymphoid, hematopoietic and related tissue, unspecified",淋巴、造血及相關組織之惡性腫瘤，未特定
+1340,C96a,Histiocytic sarcoma,組織球性肉瘤
+1341,C96z,"Other specified malignant neoplasms of lymphoid, hematopoietic and related tissue",其他特定淋巴、造血及相關組織之惡性腫瘤
+1342,D00,"Carcinoma in situ of oral cavity, esophagus and stomach",口腔、食道及胃之原位癌
+1343,D000,"Carcinoma in situ of lip, oral cavity and pharynx",唇、口腔及咽部之原位癌
+1344,D0000,"Carcinoma in situ of oral cavity, unspecified site",口腔原位癌，未特定部位
+1345,D0001,Carcinoma in situ of labial mucosa and vermilion border,唇黏膜和唇紅緣之原位癌
+1346,D0002,Carcinoma in situ of buccal mucosa,口腔黏膜原位癌
+1347,D0003,Carcinoma in situ of gingiva and edentulous alveolar ridge,牙齦及無齒的齒槽脊之原位癌
+1348,D0004,Carcinoma in situ of soft palate,軟顎原位癌
+1349,D0005,Carcinoma in situ of hard palate,硬顎原位癌
+1350,D0006,Carcinoma in situ of floor of mouth,口底部原位癌
+1351,D0007,Carcinoma in situ of tongue,舌原位癌
+1352,D0008,Carcinoma in situ of pharynx,咽部原位癌
+1353,D001,Carcinoma in situ of esophagus,食道原位癌
+1354,D002,Carcinoma in situ of stomach,胃原位癌
+1355,D01,Carcinoma in situ of other and unspecified digestive,消化器官其他及未特定之原位癌
+1356,D010,Carcinoma in situ of colon,結腸原位癌
+1357,D011,Carcinoma in situ of rectosigmoid junction,直腸乙狀結腸連接處原位癌
+1358,D012,Carcinoma in situ of rectum,直腸原位癌
+1359,D013,Carcinoma in situ of anus and anal canal,肛門及肛管原位癌
+1360,D014,Carcinoma in situ of other and unspecified parts of intestine,腸道部位其他及未特定部位之原位癌
+1361,D0140,Carcinoma in situ of unspecified part of intestine,腸道部位未明之原位癌
+1362,D0149,Carcinoma in situ of other parts of intestine,腸道其他部位之原位癌
+1363,D015,"Carcinoma in situ of liver, gallbladder and bile ducts",肝、膽囊及膽道之原位癌
+1364,D017,Carcinoma in situ of other specified digestive organs,消化器官其他特定部位之原位癌
+1365,D019,"Carcinoma in situ of digestive organ, unspecified",消化器官之原位癌，未特定
+1366,D02,Carcinoma in situ of middle ear and respiratory system,中耳及呼吸系統之原位癌
+1367,D020,Carcinoma in situ of larynx,喉部原位癌
+1368,D021,Carcinoma in situ of trachea,氣管原位癌
+1369,D022,Carcinoma in situ of bronchus and lung,支氣管及肺之原位癌
+1370,D0220,"Carcinoma in situ of bronchus and lung, unspecified side",未特定側性支氣管及肺之原位癌
+1371,D0221,Carcinoma in situ of right bronchus and lung,右側支氣管及肺之原位癌
+1372,D0222,Carcinoma in situ of left bronchus and lung,左側支氣管及肺之原位癌
+1373,D023,Carcinoma in situ of other parts of respiratory system,呼吸系統其他部位之原位癌
+1374,D024,"Carcinoma in situ of respiratory system, unspecified",呼吸系統原位癌，未特定
+1375,D03,Melanoma in situ,黑色素原位癌
+1376,D030,Melanoma in situ of lip,唇部黑色素原位癌
+1377,D031,"Melanoma in situ of eyelid, including canthus",眼臉(包括眼角)黑色素原位癌
+1378,D0310,"Melanoma in situ of eyelid, including canthus, unspecified side",未特定側性眼臉(包括眼角)黑色素原位癌
+1379,D0311,"Melanoma in situ of right eyelid, including canthus",右側眼臉(包括眼角)黑色素原位癌
+1380,D0312,"Melanoma in situ of left eyelid, including canthus",左側眼臉(包括眼角)黑色素原位癌
+1381,D032,Melanoma in situ of ear and external auricular canal,耳及外耳道黑色素原位癌
+1382,D0320,"Melanoma in situ of ear and external auricular canal, unspecified side",未特定側性耳及外耳道黑色素原位癌
+1383,D0321,Melanoma in situ of right ear and external auricular canal,右側耳及外耳道黑色素原位癌
+1384,D0322,Melanoma in situ of left ear and external auricular canal,左側耳及外耳道黑色素原位癌
+1385,D033,Melanoma in situ of other and unspecified parts of face,臉部其他及未特定部位之黑色素原位癌
+1386,D0330,Melanoma in situ of unspecified part of face,臉部部位未明之黑色素原位癌
+1387,D0339,Melanoma in situ of other parts of face,臉部其他部位之黑色素原位癌
+1388,D034,Melanoma in situ of scalp and neck,頭皮及頸部黑色素原位癌
+1389,D035,Melanoma in situ of trunk,軀幹黑色素原位癌
+1390,D0351,Melanoma in situ of anal skin,肛門皮膚黑色素原位癌
+1391,D0352,Melanoma in situ of breast (skin) (soft tissue),乳房(皮膚)(軟組織)黑色素原位癌
+1392,D0359,Melanoma in situ of other part of trunk,軀幹其他部位黑色素原位癌
+1393,D036,"Melanoma in situ of upper limb, including shoulder",上肢(含肩部)黑色素原位癌
+1394,D0360,"Melanoma in situ of upper limb, including shoulder, unspecified side",未特定側性上肢(含肩部)黑色素原位癌
+1395,D0361,"Melanoma in situ of right upper limb, including shoulder",右側上肢(含肩部)黑色素原位癌
+1396,D0362,"Melanoma in situ of left upper limb, including shoulder",左側上肢(含肩部)黑色素原位癌
+1397,D037,"Melanoma in situ of lower limb, including hip",下肢(含髖部)黑色素原位癌
+1398,D0370,"Melanoma in situ of lower limb, including hip, unspecified side",未特定側性下肢(含髖部)黑色素原位癌
+1399,D0371,"Melanoma in situ of right lower limb, including hip",右側下肢(含髖部)黑色素原位癌
+1400,D0372,"Melanoma in situ of left lower limb, including hip",左側下肢(含髖部)黑色素原位癌
+1401,D038,Melanoma in situ of other sites,其他部位黑色素原位癌
+1402,D039,"Melanoma in situ, unspecified",黑色素原位癌，未特定
+1403,D04,Carcinoma in situ of skin,皮膚原位癌
+1404,D040,Carcinoma in situ of skin of lip,唇皮膚原位癌
+1405,D041,"Carcinoma in situ of skin of eyelid, including canthus",眼臉（包括眼角）皮膚原位癌
+1406,D0410,"Carcinoma in situ of skin of eyelid, including canthus, unspecified side",未特定側性眼臉（包括眼角）皮膚原位癌
+1407,D0411,"Carcinoma in situ of skin of right eyelid, including canthus",右側眼臉（包括眼角）皮膚原位癌
+1408,D0412,"Carcinoma in situ of skin of left eyelid, including canthus",左側眼臉（包括眼角）皮膚原位癌
+1409,D042,Carcinoma in situ of skin of ear and external auricular canal,耳及外耳道皮膚原位癌
+1410,D0420,"Carcinoma in situ of skin of ear and external auricular canal, unspecified side",未特定側性耳及外耳道皮膚原位癌
+1411,D0421,Carcinoma in situ of skin of right ear and external auricular canal,右側耳及外耳道皮膚原位癌
+1412,D0422,Carcinoma in situ of skin of left ear and external auricular canal,左側耳及外耳道皮膚原位癌
+1413,D043,Carcinoma in situ of skin of other and unspecified parts of face,臉部其他及未特定部位皮膚原位癌
+1414,D0430,Carcinoma in situ of skin of unspecified part of face,臉部皮膚原位癌，未特定部位
+1415,D0439,Carcinoma in situ of skin of other parts of face,臉部其他部位皮膚原位癌
+1416,D044,Carcinoma in situ of skin of scalp and neck,頭皮及頸部皮膚原位癌
+1417,D045,Carcinoma in situ of skin of trunk,軀幹皮膚原位癌
+1418,D046,"Carcinoma in situ of skin of upper limb, including shoulder",上肢皮膚（包括肩部）原位癌
+1419,D0460,"Carcinoma in situ of skin of upper limb, including shoulder, unspecified side",未特定側性上肢皮膚（包括肩部）原位癌
+1420,D0461,"Carcinoma in situ of skin of right upper limb, including shoulder",右側上肢皮膚（包括肩部）原位癌
+1421,D0462,"Carcinoma in situ of skin of left upper limb, including shoulder",左側上肢皮膚（包括肩部）原位癌
+1422,D047,"Carcinoma in situ of skin of lower limb, including hip",下肢皮膚（包括髖部）原位癌
+1423,D0470,"Carcinoma in situ of skin of lower limb, including hip, unspecified side",未特定側性下肢皮膚（包括髖部）原位癌
+1424,D0471,"Carcinoma in situ of skin of right lower limb, including hip",右側下肢皮膚（包括髖部）原位癌
+1425,D0472,"Carcinoma in situ of skin of left lower limb, including hip",左側下肢皮膚（包括髖部）原位癌
+1426,D048,Carcinoma in situ of skin of other sites,其他部位皮膚原位癌
+1427,D049,"Carcinoma in situ of skin, unspecified",皮膚原位癌，未特定
+1428,D05,Carcinoma in situ of breast,乳房原位癌
+1429,D050,Lobular carcinoma in situ of breast,乳房小葉原位癌
+1430,D0501,Lobular carcinoma in situ of right breast,右側乳房小葉原位癌
+1431,D0502,Lobular carcinoma in situ of left breast,左側乳房小葉原位癌
+1432,D0509,Lobular carcinoma in situ of unspecified breast,未特定側性乳房小葉原位癌
+1433,D051,Intraductal carcinoma in situ of breast,乳房乳管內原位癌
+1434,D0511,Intraductal carcinoma in situ of right breast,右側乳房乳管內原位癌
+1435,D0512,Intraductal carcinoma in situ of left breast,左側乳房乳管內原位癌
+1436,D0519,Intraductal carcinoma in situ of unspecified breast,未特定側性乳房乳管內原位癌
+1437,D057,Other carcinoma in situ of breast,乳房其他原位癌
+1438,D0571,Other carcinoma in situ of right breast,右側乳房其他原位癌
+1439,D0572,Other carcinoma in situ of left breast,左側乳房其他原位癌
+1440,D0579,Other carcinoma in situ of unspecified breast,未特定側性乳房其他原位癌
+1441,D059,Unspecified carcinoma in situ of breast,乳房原位癌
+1442,D0591,Unspecified carcinoma in situ of right breast,右側乳房原位癌
+1443,D0592,Unspecified carcinoma in situ of left breast,左側乳房原位癌
+1444,D0599,Unspecified carcinoma in situ of unspecified breast,未特定側性乳房原位癌
+1445,D06,Carcinoma in situ of cervix uteri,子宮頸原位癌
+1446,D060,Carcinoma in situ of endocervix,子宮頸內膜原位癌
+1447,D061,Carcinoma in situ of exocervix,子宮頸原位癌
+1448,D067,Carcinoma in situ of other parts of cervix,子宮頸其他部位原位癌
+1449,D069,"Carcinoma in situ of cervix, unspecified",子宮頸原位癌，未特定
+1450,D07,Carcinoma in situ of other and unspecified genital organs,其他及未特定生殖器官之原位癌
+1451,D070,Carcinoma in situ of endometrium,子宮內膜原位癌
+1452,D071,Carcinoma in situ of vulva,外陰原位癌
+1453,D072,Carcinoma in situ of vagina,陰道原位癌
+1454,D073,Carcinoma in situ of other and unspecified female genital organs,女性生殖器官其他及未特定之原位癌
+1455,D0730,Carcinoma in situ of unspecified female genital organs,未特定女性生殖器官之原位癌
+1456,D0739,Carcinoma in situ of other female genital organs,女性生殖器官其他部位之原位癌
+1457,D074,Carcinoma in situ of penis,陰莖原位癌
+1458,D075,Carcinoma in situ of prostate,攝護腺原位癌
+1459,D076,Carcinoma in situ of other and unspecified male genital organs,男性生殖器官其他及未特定之原位癌
+1460,D0760,Carcinoma in situ of unspecified male genital organs,未特定男性生殖器官之原位癌
+1461,D0761,Carcinoma in situ of scrotum,陰囊原位癌
+1462,D0769,Carcinoma in situ of other male genital organs,男性生殖器官其他部位之原位癌
+1463,D09,Carcinoma in situ of other and unspecified sites,其他及未特定部位之原位癌
+1464,D090,Carcinoma in situ of bladder,膀胱原位癌
+1465,D091,Carcinoma in situ of other and unspecified urinary organs,其他及未特定泌尿器官之原位癌
+1466,D0910,Carcinoma in situ of unspecified urinary organ,未特定泌尿器官之原位癌
+1467,D0919,Carcinoma in situ of other urinary organs,泌尿器官其他部位之原位癌
+1468,D092,Carcinoma in situ of eye,眼睛原位癌
+1469,D0920,"Carcinoma in situ of eye, unspecified side",未特定側性眼睛原位癌
+1470,D0921,Carcinoma in situ of right eye,右側眼睛原位癌
+1471,D0922,Carcinoma in situ of left eye,左側眼睛原位癌
+1472,D093,Carcinoma in situ of thyroid and other endocrine glands,甲狀腺及其他內分泌腺體之原位癌
+1473,D097,Carcinoma in situ of other specified sites,其他特定部位之原位癌
+1474,D099,"Carcinoma in situ, unspecified",原位癌，未特定
+1475,D10,Benign neoplasm of mouth and pharynx,口及咽部之良性腫瘤
+1476,D100,Benign neoplasm of lip,唇良性腫瘤
+1477,D101,Benign neoplasm of tongue,舌良性腫瘤
+1478,D102,Benign neoplasm of floor of mouth,口底部良性腫瘤
+1479,D103,Other and unspecified parts of mouth,口腔其他及未特定部位之良性腫瘤
+1480,D1030,Benign neoplasm of unspecified part of mouth,口之良性腫瘤，未特定部位
+1481,D1039,Benign neoplasm of other parts of mouth,口其他部位之良性腫瘤
+1482,D104,Benign neoplasm of tonsil,扁桃腺良性腫瘤
+1483,D105,Benign neoplasm of other parts of oropharynx,口咽其他部位之良性腫瘤
+1484,D106,Benign neoplasm of nasopharynx,鼻咽良性腫瘤
+1485,D107,Benign neoplasm of hypopharynx,下咽良性腫瘤
+1486,D109,"Benign neoplasm of pharynx, unspecified",咽良性腫瘤，未特定
+1487,D11,Benign neoplasm of major salivary glands,主要唾液腺良性腫瘤
+1488,D110,Benign neoplasm of parotid gland,腮腺良性腫瘤
+1489,D117,Benign neoplasm of other major salivary glands,其他主要唾液腺良性腫瘤
+1490,D119,"Benign neoplasm of major salivary gland, unspecified",主要唾液腺良性腫瘤，未特定
+1491,D12,"Benign neoplasm of colon, rectum, anus and anal canal",結腸、直腸、肛門及肛管之良性腫瘤
+1492,D120,Benign neoplasm of cecum,盲腸良性腫瘤
+1493,D121,Benign neoplasm of appendix,闌尾良性腫瘤
+1494,D122,Benign neoplasm of ascending colon,升結腸良性腫瘤
+1495,D123,Benign neoplasm of transverse colon,橫結腸良性腫瘤
+1496,D124,Benign neoplasm of descending colon,降結腸良性腫瘤
+1497,D125,Benign neoplasm of sigmoid colon,乙狀結腸良性腫瘤
+1498,D126,"Benign neoplasm of colon, unspecified",結腸良性腫瘤，未特定
+1499,D127,Benign neoplasm of rectosigmoid junction,直腸乙狀結腸連接處之良性腫瘤
+1500,D128,Benign neoplasm of rectum,直腸良性腫瘤
+1501,D129,Benign neoplasm of anus and anal canal,肛門及肛管之良性腫瘤
+1502,D13,Benign neoplasm of other and ill-defined parts of digestive system,消化系統其他部位不明之良性腫瘤
+1503,D130,Benign neoplasm of esophagus,食道良性腫瘤
+1504,D131,Benign neoplasm of stomach,胃良性腫瘤
+1505,D132,Benign neoplasm of duodenum,十二指腸良性腫瘤
+1506,D133,Benign neoplasm of other and unspecified parts of small intestine,小腸其他及未特定部位之良性腫瘤
+1507,D1330,Benign neoplasm of unspecified part of small intestine,小腸之良性腫瘤
+1508,D1339,Benign neoplasm of other parts of small intestine,小腸其他部位之良性腫瘤
+1509,D134,Benign neoplasm of liver,肝臟良性腫瘤
+1510,D135,Benign neoplasm of extrahepatic bile ducts,肝外膽道良性腫瘤
+1511,D136,Benign neoplasm of pancreas,胰臟良性腫瘤
+1512,D137,Benign neoplasm of endocrine pancreas,胰內分泌腺良性腫瘤
+1513,D139,Benign neoplasm of ill-defined sites within the digestive system,消化系統部位不明之良性腫瘤
+1514,D14,Benign neoplasm of middle ear and respiratory system,中耳及呼吸系統之良性腫瘤
+1515,D140,"Benign neoplasm of middle ear, nasal cavity and accessory sinuses",中耳、鼻腔及副鼻竇之良性腫瘤
+1516,D141,Benign neoplasm of larynx,喉良性腫瘤
+1517,D142,Benign neoplasm of trachea,氣管良性腫瘤
+1518,D143,Benign neoplasm of bronchus and lung,支氣管及肺之良性腫瘤
+1519,D1430,"Benign neoplasm of bronchus and lung, unspecified side",未特定側性支氣管及肺之良性腫瘤
+1520,D1431,Benign neoplasm of right bronchus and lung,右側支氣管及肺之良性腫瘤
+1521,D1432,Benign neoplasm of left bronchus and lung,左側支氣管及肺之良性腫瘤
+1522,D144,"Benign neoplasm of respiratory system, unspecified",呼吸系統之良性腫瘤，未特定
+1523,D15,Benign neoplasm of other and unspecified intrathoracic organs,胸腔內器官之其他及未特定部位之良性腫瘤
+1524,D150,Benign neoplasm of thymus,胸腺良性腫瘤
+1525,D151,Benign neoplasm of heart,心臟良性腫瘤
+1526,D152,Benign neoplasm of mediastinum,縱膈良性腫瘤
+1527,D157,Benign neoplasm of other specified intrathoracic organs,胸腔內器官之其他特定部位之良性腫瘤
+1528,D159,"Benign neoplasm of intrathoracic organ, unspecified",胸腔內器官之良性腫瘤，未特定
+1529,D16,Benign neoplasm of bone and articular cartilage,骨骼及關節軟骨之良性腫瘤
+1530,D160,Benign neoplasm of scapula and long bones of upper limb,肩胛骨及上肢長骨之良性腫瘤
+1531,D1600,"Benign neoplasm of scapula and long bones of upper limb, unspecified side",未特定側性肩胛骨及上肢長骨之良性腫瘤
+1532,D1601,Benign neoplasm of scapula and long bones of right upper limb,右側肩胛骨及上肢長骨之良性腫瘤
+1533,D1602,Benign neoplasm of scapula and long bones of left upper limb,左側肩胛骨及上肢長骨之良性腫瘤
+1534,D161,Benign neoplasm of short bones of upper limb,上肢短骨良性腫瘤
+1535,D1610,"Benign neoplasm of short bones of upper limb, unspecified side",未特定側性上肢短骨良性腫瘤
+1536,D1611,Benign neoplasm of short bones of right upper limb,右側上肢短骨良性腫瘤
+1537,D1612,Benign neoplasm of short bones of left upper limb,左側上肢短骨良性腫瘤
+1538,D162,Benign neoplasm of long bones of lower limb,下肢長骨良性腫瘤
+1539,D1620,"Benign neoplasm of long bones of lower limb, unspecified side",未特定側性下肢長骨良性腫瘤
+1540,D1621,Benign neoplasm of long bones of right lower limb,右側下肢長骨良性腫瘤
+1541,D1622,Benign neoplasm of long bones of left lower limb,左側下肢長骨良性腫瘤
+1542,D163,Benign neoplasm of short bones of lower limb,下肢短骨良性腫瘤
+1543,D1630,"Benign neoplasm of short bones of lower limb, unspecified side",未特定側性下肢短骨良性腫瘤
+1544,D1631,Benign neoplasm of short bones of right lower limb,右側下肢短骨良性腫瘤
+1545,D1632,Benign neoplasm of short bones of left lower limb,左側下肢短骨良性腫瘤
+1546,D164,Benign neoplasm of bones of skull and face,顱骨及顏面骨之良性腫瘤
+1547,D165,Benign neoplasm of lower jaw bone,下頜骨良性腫瘤
+1548,D166,Benign neoplasm of vertebral column,脊柱良性腫瘤
+1549,D167,"Benign neoplasm of ribs, sternum and clavicle",肋骨、胸骨及鎖骨之良性腫瘤
+1550,D168,"Benign neoplasm of pelvic bones, sacrum and coccyx",骨盆骨、薦骨及尾骨良性腫瘤
+1551,D169,"Benign neoplasm of bone and articular cartilage, unspecified",骨骼及關節軟骨之良性腫瘤，未特定
+1552,D17,Benign lipomatous neoplasm,良性脂肪瘤
+1553,D170,"Benign lipomatous neoplasm of skin and subcutaneous tissue of head, face and neck",頭、臉及頸部皮膚及皮下組織之良性脂肪瘤
+1554,D171,Benign lipomatous neoplasm of skin and subcutaneous tissue of trunk,軀幹皮膚及皮下組織之良性脂肪瘤
+1555,D172,Benign lipomatous neoplasm of skin and subcutaneous tissue of limb,肢體皮膚及皮下組織之良性脂肪瘤
+1556,D1720,Benign lipomatous neoplasm of skin and subcutaneous tissue of unspecified limb,肢體皮膚及皮下組織之良性脂肪瘤
+1557,D1721,Benign lipomatous neoplasm of skin and subcutaneous tissue of right arm,右側手臂皮膚及皮下組織之良性脂肪瘤
+1558,D1722,Benign lipomatous neoplasm of skin and subcutaneous tissue of left arm,左側手臂皮膚及皮下組織之良性脂肪瘤
+1559,D1723,Benign lipomatous neoplasm of skin and subcutaneous tissue of right leg,右腳皮膚及皮下組織之良性脂肪瘤
+1560,D1724,Benign lipomatous neoplasm of skin and subcutaneous tissue of left leg,左腳皮膚及皮下組織之良性脂肪瘤
+1561,D173,Benign lipomatous neoplasm of skin and subcutaneous tissue of other and unspecified sites,皮膚及皮下組織其他及未特定部位之良性脂肪瘤
+1562,D1730,Benign lipomatous neoplasm of skin and subcutaneous tissue of unspecified sites,未特定部位皮膚及皮下組織之良性脂肪瘤
+1563,D1739,Benign lipomatous neoplasm of skin and subcutaneous tissue of other sites,其他部位的皮膚及皮下組織良性脂肪瘤
+1564,D174,Benign lipomatous neoplasm of intrathoracic organs,胸腔內器官良性脂肪瘤
+1565,D175,Benign lipomatous neoplasm of intra-abdominal organs,腹腔內器官良性脂肪瘤
+1566,D176,Benign lipomatous neoplasm of spermatic cord,精索良性脂肪瘤
+1567,D177,Benign lipomatous neoplasm of other sites,其他部位之良性脂肪瘤
+1568,D179,"Benign lipomatous neoplasm, unspecified",良性脂肪瘤，未特定
+1569,D18,"Hemangioma and lymphangioma, any site",血管瘤及淋巴管瘤、任何部位
+1570,D180,Hemangioma,血管瘤
+1571,D1800,Hemangioma unspecified site,血管瘤，未特定部位
+1572,D1801,Hemangioma of skin and subcutaneous tissue,皮膚及皮下組織血管瘤
+1573,D1802,Hemangioma of intracranial structures,顱內血管瘤
+1574,D1803,Hemangioma of intra-abdominal structures,腹內血管瘤
+1575,D1809,Hemangioma of other sites,其他部位血管瘤
+1576,D181,"Lymphangioma, any site",淋巴管瘤(任何部位)
+1577,D19,Benign neoplasm of mesothelial tissue,間皮組織良性腫瘤
+1578,D190,Benign neoplasm of mesothelial tissue of pleura,胸(肋)膜間皮組織良性腫瘤
+1579,D191,Benign neoplasm of mesothelial tissue of peritoneum,腹膜間皮組織良性腫瘤
+1580,D197,Benign neoplasm of mesothelial tissue of other sites,其他部位間皮組織良性腫瘤
+1581,D199,"Benign neoplasm of mesothelial tissue, unspecified",間皮組織良性腫瘤，未特定
+1582,D20,Benign neoplasm of soft tissue of retroperitoneum and peritoneum,後腹腔及腹膜之軟組織良性腫瘤
+1583,D200,Benign neoplasm of soft tissue of retroperitoneum,後腹腔之軟組織良性腫瘤
+1584,D201,Benign neoplasm of soft tissue of peritoneum,腹膜之軟組織良性腫瘤
+1585,D21,Other benign neoplasms of connectcive and other soft tissue,結締組織及其他軟組織之其他良性腫瘤
+1586,D210,"Benign neoplasm of connective and other soft tissue of head, face and neck",頭、臉及頸部結締組織及其他軟組織之良性腫瘤
+1587,D211,"Benign neoplasm of connective and other soft tissue of upper limb, including shoulder",上肢(包括肩部)結締組織及其他軟組織之良性腫瘤
+1588,D2110,"Benign neoplasm of connective and other soft tissue of upper limb, including shoulder, unspecified side",未特定側性上肢(包括肩部)結締組織及其他軟組織之良性腫瘤
+1589,D2111,"Benign neoplasm of connective and other soft tissue of right upper limb, including shoulder",右側上肢(包括肩部)結締組織及其他軟組織之良性腫瘤
+1590,D2112,"Benign neoplasm of connective and other soft tissue of left upper limb, including shoulder",左側上肢(包括肩部)結締組織及其他軟組織之良性腫瘤
+1591,D212,"Benign neoplasm of connective and other soft tissue of lower limb, including hip",下肢(包括髖部)結締組織及其他軟組織之良性腫瘤
+1592,D2120,"Benign neoplasm of connective and other soft tissue of lower limb, including hip, unspecified side",未特定側性下肢(包括髖部)結締組織及其他軟組織之良性腫瘤
+1593,D2121,"Benign neoplasm of connective and other soft tissue of right lower limb, including hip",右側下肢(包括髖部)結締組織及其他軟組織之良性腫瘤
+1594,D2122,"Benign neoplasm of connective and other soft tissue of left lower limb, including hip",左側下肢(包括髖部)結締組織及其他軟組織之良性腫瘤
+1595,D213,Benign neoplasm of connective and other soft tissue of thorax,胸部結締組織及其他軟組織之良性腫瘤
+1596,D214,Benign neoplasm of connective and other soft tissue of abdomen,腹部結締組織及其他軟組織之良性腫瘤
+1597,D215,Benign neoplasm of connective and other soft tissue of pelvis,骨盆腔結締組織及其他軟組織之良性腫瘤
+1598,D216,"Benign neoplasm of connective and other soft tissue of trunk, unspecified",軀幹結締組織及其他軟組織之良性腫瘤，未特定
+1599,D219,"Benign neoplasm of connective and other soft tissue, unspecified",結締組織及其他軟組織之良性腫瘤，未特定
+1600,D22,Melanocytic nevi,黑色素細胞痣
+1601,D220,Melanocytic nevi of lip,唇部黑色素細胞痣
+1602,D221,"Melanocytic nevi of eyelid, including canthus",眼臉（包括眼角）黑色素細胞痣
+1603,D2210,"Melanocytic nevi of eyelid, including canthus, unspecified side",未特定側性眼臉（包括眼角）黑色素細胞痣
+1604,D2211,"Melanocytic nevi of right eyelid, including canthus",右側眼臉（包括眼角）黑色素細胞痣
+1605,D2212,"Melanocytic nevi of left eyelid, including canthus",左側眼臉（包括眼角）黑色素細胞痣
+1606,D222,Melanocytic nevi of ear and external auricular canal,耳及外耳道黑色素細胞痣
+1607,D2220,"Melanocytic nevi of ear and external auricular canal, unspecified side",未特定側性耳及外耳道黑色素細胞痣
+1608,D2221,Melanocytic nevi of right ear and external auricular canal,右側耳及外耳道黑色素細胞痣
+1609,D2222,Melanocytic nevi of left ear and external auricular canal,左側耳及外耳道黑色素細胞痣
+1610,D223,Melanocytic nevi of other and unspecified parts of face,臉部其他及未特定部位黑色素細胞痣
+1611,D2230,Melanocytic nevi of unspecified part of face,臉部黑色素細胞痣，未特定部位
+1612,D2239,Melanocytic nevi of other parts of face,臉部其他部位黑色素細胞痣
+1613,D224,Melanocytic nevi of scalp and neck,頭皮及頸部黑色素細胞痣
+1614,D225,Melanocytic nevi of trunk,軀幹黑色素細胞痣
+1615,D226,"Melanocytic nevi of upper limb, including shoulder",上肢（包括肩部）黑色素細胞痣
+1616,D2260,"Melanocytic nevi of upper limb, including shoulder, unspecified side",未特定側性上肢（包括肩部）黑色素細胞痣
+1617,D2261,"Melanocytic nevi of right upper limb, including shoulder",右側上肢（包括肩部）黑色素細胞痣
+1618,D2262,"Melanocytic nevi of left upper limb, including shoulder",左側上肢（包括肩部）黑色素細胞痣
+1619,D227,"Melanocytic nevi of lower limb, including hip",下肢（包括髖部）黑色素細胞痣
+1620,D2270,"Melanocytic nevi of lower limb, including hip, unspecified side",未特定側性下肢（包括髖部）黑色素細胞痣
+1621,D2271,"Melanocytic nevi of right lower limb, including hip",右側下肢（包括髖部）黑色素細胞痣
+1622,D2272,"Melanocytic nevi of left lower limb, including hip",左側下肢（包括髖部）黑色素細胞痣
+1623,D229,"Melanocytic nevi, unspecified",黑色素細胞痣，未特定
+1624,D23,Other benign neoplasms of skin,皮膚其他良性腫瘤
+1625,D230,Other benign neoplasm of skin of lip,唇部皮膚良性腫瘤
+1626,D231,"Other benign neoplasm of skin of eyelid, including canthus",眼臉(包括眼角)皮膚其他良性腫瘤
+1627,D2310,"Other benign neoplasm of skin of eyelid, including canthus, unspecified side",未特定側性眼臉(包括眼角)皮膚良性腫瘤
+1628,D2311,"Other benign neoplasm of skin of right eyelid, including canthus",右側眼臉(包括眼角)皮膚良性腫瘤
+1629,D2312,"Other benign neoplasm of skin of left eyelid, including canthus",左側眼臉(包括眼角)皮膚良性腫瘤
+1630,D232,Other benign neoplasm of skin of ear and external auricular canal,耳及外耳道皮膚其他良性腫瘤
+1631,D2320,"Other benign neoplasm of skin of ear and external auricular canal, unspecified side",未特定側性耳及外耳道皮膚良性腫瘤
+1632,D2321,Other benign neoplasm of skin of right ear and external auricular canal,右側耳及外耳道皮膚良性腫瘤
+1633,D2322,Other benign neoplasm of skin of left ear and external auricular canal,左側耳及外耳道皮膚良性腫瘤
+1634,D233,Other benign neoplasm of skin of other and unspecified parts of face,臉部其他及未特定部位皮膚其他良性腫瘤
+1635,D2330,Other benign neoplasm of skin of unspecified part of face,臉部皮膚良性腫瘤，未特定部位
+1636,D2339,Other benign neoplasm of skin of other parts of face,臉其他部位皮膚良性腫瘤
+1637,D234,Other benign neoplasm of skin of scalp and neck,頭皮及頸部皮膚良性腫瘤
+1638,D235,Other benign neoplasm of skin of trunk,軀幹皮膚良性腫廇
+1639,D236,"Other benign neoplasm of skin of upper limb, including shoulder",上肢（包括肩部）皮膚其他良性腫廇
+1640,D2360,"Other benign neoplasm of skin of upper limb, including shoulder, unspecified side",未特定側性上肢（包括肩部）皮膚良性腫廇
+1641,D2361,"Other benign neoplasm of skin of right upper limb, including shoulder",右側上肢（包括肩部）皮膚良性腫廇
+1642,D2362,"Other benign neoplasm of skin of left upper limb, including shoulder",左側上肢（包括肩部）皮膚良性腫廇
+1643,D237,"Other benign neoplasm of skin of lower limb, including hip",下肢（包括髖部）皮膚其他良性腫廇
+1644,D2370,"Other benign neoplasm of skin of lower limb, including hip, unspecified side",未特定側性下肢（包括髖部）皮膚良性腫廇
+1645,D2371,"Other benign neoplasm of skin of right lower limb, including hip",右側下肢（包括髖部）皮膚良性腫廇
+1646,D2372,"Other benign neoplasm of skin of left lower limb, including hip",左側下肢（包括髖部）皮膚良性腫廇
+1647,D239,"Other benign neoplasm of skin, unspecified",皮膚之良性腫廇，未特定
+1648,D24,Benign neoplasm of breast,乳房良性腫廇
+1649,D240,Benign neoplasm of female breast,女性乳房良性腫廇
+1650,D2400,"Benign neoplasm of female breast, unspecified side",女性未特定側性乳房良性腫廇
+1651,D2401,Benign neoplasm of right female breast,女性右側乳房良性腫廇
+1652,D2402,Benign neoplasm of left female breast,女性左側乳房良性腫廇
+1653,D241,Benign neoplasm of male breast,男性乳房良性腫廇
+1654,D2410,"Benign neoplasm of male breast, unspecified side",男性未特定側性乳房良性腫廇
+1655,D2411,Benign neoplasm of right male breast,男性右側乳房良性腫廇
+1656,D2412,Benign neoplasm of left male breast,男性左側乳房良性腫廇
+1657,D25,Leiomyoma of uterus,子宮平滑肌瘤
+1658,D250,Submucous leiomyoma of uterus,子宮黏膜下層平滑肌瘤
+1659,D251,Intramural leiomyoma of uterus,子宮壁內平滑肌瘤
+1660,D252,Subserosal leiomyoma of uterus,子宮漿膜下層平滑肌瘤
+1661,D259,"Leiomyoma of uterus, unspecified",子宮平滑肌瘤，未特定
+1662,D26,Other benign neoplasms of uterus,子宮其他良性腫瘤
+1663,D260,Other benign neoplasm of cervix uteri,子宮頸其他良性腫瘤
+1664,D261,Other benign neoplasm of corpus uteri,子宮體其他良性腫瘤
+1665,D267,Other benign neoplasm of other parts of uterus,子宮其他部位之其他良性腫瘤
+1666,D269,"Other benign neoplasm of uterus, unspecified",子宮其他良性腫瘤，未特定
+1667,D27,Benign neoplasm of ovary,卵巢良性腫瘤
+1668,D270,Benign neoplasm of right ovary,右側卵巢良性腫瘤
+1669,D271,Benign neoplasm of left ovary,左側卵巢良性腫瘤
+1670,D279,"Benign neoplasm of ovary, unspecified side",卵巢良性腫瘤，未特定側性
+1671,D28,Benign neoplasm of other and unspecified female genital organs,女性生殖器官其他及未特定部位之良性腫瘤
+1672,D280,Benign neoplasm of vulva,外陰良性腫瘤
+1673,D281,Benign neoplasm of vagina,陰道良性腫瘤
+1674,D282,Benign neoplasm of uterine tubes and ligaments,輸卵管及子宮韌帶之良性腫瘤
+1675,D287,Benign neoplasm of other specified female genital organs,女性生殖器官其他特定部位之良性腫瘤
+1676,D289,"Benign neoplasm of female genital organ, unspecified",女性生殖器官之良性腫瘤，未特定
+1677,D29,Benign neoplasm of male genital organs,男性生殖器官之良性腫瘤
+1678,D290,Benign neoplasm of penis,陰莖良性腫瘤
+1679,D291,Benign neoplasm of prostate,攝護腺良性腫瘤
+1680,D292,Benign neoplasm of testis,睪丸良性腫瘤
+1681,D2920,"Benign neoplasm of testis, unspecified side",未特定側性睪丸良性腫瘤
+1682,D2921,Benign neoplasm of right testis,右側睪丸良性腫瘤
+1683,D2922,Benign neoplasm of left testis,左側睪丸良性腫瘤
+1684,D293,Benign neoplasm of epididymis,副睪良性腫瘤
+1685,D2930,"Benign neoplasm of epididymis, unspecified side",未特定側性副睪良性腫瘤
+1686,D2931,Benign neoplasm of right epididymis,右側副睪良性腫瘤
+1687,D2932,Benign neoplasm of left epididymis,左側副睪良性腫瘤
+1688,D294,Benign neoplasm of scrotum,陰囊良性腫瘤
+1689,D297,Benign neoplasm of other male genital organs,其他男性生殖器官之良性腫瘤
+1690,D299,"Benign neoplasm of male genital organ, unspecified",男性生殖器官之良性腫瘤，未特定
+1691,D30,Benign neoplasm of urinary organs,泌尿器官良性腫瘤
+1692,D300,Benign neoplasm of kidney,腎臟良性腫瘤
+1693,D3000,"Benign neoplasm of kidney, unspecified side",未特定側性腎臟良性腫瘤
+1694,D3001,Benign neoplasm of right kidney,右側腎臟良性腫瘤
+1695,D3002,Benign neoplasm of left kidney,左側腎臟良性腫瘤
+1696,D301,Benign neoplasm of renal pelvis,腎盂良性腫瘤
+1697,D3010,"Benign neoplasm of renal pelvis, unspecified side",未特定側性腎盂良性腫瘤
+1698,D3011,Benign neoplasm of right renal pelvis,右側腎盂良性腫瘤
+1699,D3012,Benign neoplasm of left renal pelvis,左側腎盂良性腫瘤
+1700,D302,Benign neoplasm of ureter,輸尿管良性腫瘤
+1701,D3020,"Benign neoplasm of ureter, unspecified side",未特定側性輸尿管良性腫瘤
+1702,D3021,Benign neoplasm of right ureter,右側輸尿管良性腫瘤
+1703,D3022,Benign neoplasm of left ureter,左側輸尿管良性腫瘤
+1704,D303,Benign neoplasm of bladder,膀胱良性腫瘤
+1705,D304,Benign neoplasm of urethra,尿道良性腫瘤
+1706,D307,Benign neoplasm of other urinary organs,其他泌尿器官之良性腫瘤
+1707,D309,"Benign neoplasm of urinary organ, unspecified",泌尿器官良性腫瘤，未特定
+1708,D31,Benign neoplasm of eye and adnexa,眼睛及附屬器良性腫瘤
+1709,D310,Benign neoplasm of conjunctiva,結膜良性腫瘤
+1710,D3100,"Benign neoplasm of conjunctiva, unspecified side",未特定側性結膜良性腫瘤
+1711,D3101,Benign neoplasm of right conjunctiva,右側結膜良性腫瘤
+1712,D3102,Benign neoplasm of left conjunctiva,左側結膜良性腫瘤
+1713,D311,Benign neoplasm of cornea,角膜良性腫瘤
+1714,D3110,"Benign neoplasm of cornea, unspecified side",未特定側性角膜良性腫瘤
+1715,D3111,Benign neoplasm of right cornea,右側角膜良性腫瘤
+1716,D3112,Benign neoplasm of left cornea,左側角膜良性腫瘤
+1717,D312,Benign neoplasms of retina,視網膜良性腫瘤
+1718,D3120,"Benign neoplasm of retina, unspecified side",未特定側性視網膜良性腫瘤
+1719,D3121,Benign neoplasm of right retina,右側視網膜良性腫瘤
+1720,D3122,Benign neoplasm of left retina,左側視網膜良性腫瘤
+1721,D313,Benign neoplasm of choroid,眼脈絡膜良性腫瘤
+1722,D3130,"Benign neoplasm of choroid, unspecified side",未特定側性眼脈絡膜良性腫瘤
+1723,D3131,Benign neoplasm of right choroid,右側眼脈絡膜良性腫瘤
+1724,D3132,Benign neoplasm of left choroid,左側眼脈絡膜良性腫瘤
+1725,D314,Benign neoplasm of ciliary body,睫狀體良性腫瘤
+1726,D3140,"Benign neoplasm of ciliary body, unspecified side",未特定側性睫狀體良性腫瘤
+1727,D3141,Benign neoplasm of right ciliary body,右側睫狀體良性腫瘤
+1728,D3142,Benign neoplasm of left ciliary body,左側睫狀體良性腫瘤
+1729,D315,Benign neoplasm of lacrimal gland and duct,淚腺及淚管良性腫瘤
+1730,D3150,"Benign neoplasm of lacrimal gland and duct, unspecified side",未特定側性淚腺及淚管良性腫瘤
+1731,D3151,Benign neoplasm of right lacrimal gland and duct,右側淚腺及淚管良性腫瘤
+1732,D3152,Benign neoplasm of left lacrimal gland and duct,左側淚腺及淚管良性腫瘤
+1733,D316,"Benign neoplasm of orbit, unspecified",眼眶良性腫瘤
+1734,D3160,"Benign neoplasm of orbit, unspecified, unspecified side",未特定側性眼眶良性腫瘤
+1735,D3161,"Benign neoplasm of right orbit, unspecified",右側眼眶良性腫瘤，未特定
+1736,D3162,"Benign neoplasm of left orbit, unspecified",左側眼眶良性腫瘤，未特定
+1737,D319,"Benign neoplasm of eye, unspecified",眼睛良性腫瘤
+1738,D3190,"Benign neoplasm of eye, unspecified, unspecified side",未特定側性眼睛良性腫瘤
+1739,D3191,"Benign neoplasm of right eye, unspecified",右側眼睛良性腫瘤，未特定
+1740,D3192,"Benign neoplasm of left eye, unspecified",左側眼睛良性腫瘤，未特定
+1741,D32,Benign neoplasm of meninges,腦膜良性腫瘤
+1742,D320,Benign neoplasm of cerebral meninges,大腦腦膜良性腫瘤
+1743,D321,Benign neoplasm of spinal meninges,脊髓膜良性腫瘤
+1744,D329,"Benign neoplasm of meninges, unspecified",腦膜良性腫瘤，未特定
+1745,D33,Benign neoplasm of brain and other parts of central nervous  system,大腦及中樞神經系統其他部位之良性腫瘤
+1746,D330,"Benign neoplasm of brain, supratentorial",大腦天幕上良性腫瘤
+1747,D331,"Benign neoplasm of brain, infratentorial",大腦天幕下良性腫瘤
+1748,D332,"Benign neoplasm of brain, unspecified",腦良性腫瘤，未特定
+1749,D333,Benign neoplasm of cranial nerves,顱神經良性腫瘤
+1750,D334,Benign neoplasm of spinal cord,脊髓良性腫瘤
+1751,D337,Benign neoplasm of other specified parts of central nervous system,中樞神經系統其他特定部位之良性腫瘤
+1752,D339,"Benign neoplasm of central nervous system, unspecified",中樞神經系統良性腫瘤，未特定
+1753,D34,Benign neoplasm of thyroid gland,甲狀腺良性腫瘤
+1754,D35,Benign neoplasm of other and unspecified endocrine glands,腎上腺其他及未特定良性腫瘤
+1755,D350,Benign neoplasm of adrenal gland,腎上腺良性腫瘤
+1756,D3500,"Benign neoplasm of adrenal gland, unspecified side",未特定側性腎上腺良性腫瘤
+1757,D3501,Benign neoplasm of right adrenal gland,右側腎上腺良性腫瘤
+1758,D3502,Benign neoplasm of left adrenal gland,左側腎上腺良性腫瘤
+1759,D351,Benign neoplasm of parathyroid gland,副甲狀腺良性腫瘤
+1760,D352,Benign neoplasm of pituitary gland,腦下腺良性腫瘤
+1761,D353,Benign neoplasm of craniopharyngeal duct,顱咽管之良性腫瘤
+1762,D354,Benign neoplasm of pineal gland,松果腺良性腫瘤
+1763,D355,Benign neoplasm of carotid body,頸動脈體良性腫瘤
+1764,D356,Benign neoplasm of aortic body and other paraganglia,主動脈體及其他副神經節之良性腫瘤
+1765,D357,Benign neoplasm of other specified endocrine glands,其他特定內分泌腺體之良性腫瘤
+1766,D358,Benign neoplasm with pluriglandular involvement,侵犯多種內分泌腺體之良性腫瘤
+1767,D359,"Benign neoplasm of endocrine gland, unspecified",內分泌腺體良性腫瘤，未特定
+1768,D36,Benign neoplasm of other and unspecified sites,其他及未特定部位良性腫瘤
+1769,D360,Benign neoplasm of lymph nodes,淋巴結良性腫瘤
+1770,D361,Benign neoplasm of peripheral nerves and autonomic nervous system,周邊神經和自主神經系統良性腫瘤
+1771,D3610,"Benign neoplasm of peripheral nerves and autonomic nervous system, unspecified",周邊神經和自主神經系統良性腫瘤，未特定
+1772,D3611,"Benign neoplasm of peripheral nerves and autonomic nervous system of face, head, and neck",臉、頭及頸部周邊神經和自主神經系統良性腫瘤
+1773,D3612,"Benign neoplasm of peripheral nerves and autonomic nervous system, upper limb, including shoulder",上肢（包括肩部）周邊神經和自主神經系統良性腫瘤
+1774,D3613,"Benign neoplasm of peripheral nerves and autonomic nervous system of lower limb, including hip",下肢(含髖部)周邊神經和自主神經系統良性腫瘤
+1775,D3614,Benign neoplasm of peripheral nerves and autonomic nervous system of thorax,胸部周邊神經和自主神經系統良性腫瘤
+1776,D3615,Benign neoplasm of peripheral nerves and autonomic nervous system of abdomen,腹部周邊神經和自主神經系統良性腫瘤
+1777,D3616,Benign neoplasm of peripheral nerves and autonomic nervous system of pelvis,骨盆腔周邊神經和自主神經系統良性腫瘤
+1778,D3617,"Benign neoplasm of peripheral nerves and autonomic nervous system of trunk, unspecified",軀幹周邊神經和自主神經系統良性腫瘤，未特定
+1779,D367,Benign neoplasm of other specified sites,其他特定部位之良性腫瘤
+1780,D369,"Benign neoplasm, unspecified site",部位未明之良性腫瘤，未特定部位
+1781,D37,"Neoplasm of uncertain behavior of lip,oral cavity and digestive organs",唇、口腔及消化器官性態未明之腫瘤
+1782,D370,"Neoplasm of uncertain behavior of lip,oral cavity and pharynx",唇、口腔及咽部性態未明之腫瘤
+1783,D3701,Neoplasm of uncertain behavior of lip,唇部性態未明之腫瘤
+1784,D3702,Neoplasm of uncertain behavior of tongue,舌頭性態未明之腫瘤
+1785,D3703,Neoplasm of uncertain behavior of the major salivary glands,主要唾液腺性態未明之腫瘤
+1786,D37030,Neoplasm of uncertain behavior of the parotid salivary glands,腮腺性態未明之腫瘤
+1787,D37031,Neoplasm of uncertain behavior of the sublingual salivary glands,舌下腺性態未明之腫瘤
+1788,D37032,Neoplasm of uncertain behavior of the submandibular salivary glands,頜下腺性態未明之腫瘤
+1789,D37039,"Neoplasm of uncertain behavior of the major salivary glands, unspecified",主要唾液腺性態未明之腫瘤，未特定
+1790,D3704,Neoplasm of uncertain behavior of the minor salivary glands,小唾液腺性態未明之腫瘤
+1791,D3705,Neoplasm of uncertain behavior of pharynx,咽部性態未明之腫瘤
+1792,D3709,Neoplasm of uncertain behavior of other specified sites of the oral cavity,口腔其他特定部位性態未明之腫瘤
+1793,D371,Neoplasm of uncertain behavior of stomach,胃性態未明之腫瘤
+1794,D372,Neoplasm of uncertain behavior of small intestine,小腸性態未明之腫瘤
+1795,D373,Neoplasm of uncertain behavior of appendix,闌尾性態未明之腫瘤
+1796,D374,Neoplasm of uncertain behavior of colon,結腸性態未明之腫瘤
+1797,D375,Neoplasm of uncertain behavior of rectum,直腸性態未明之腫瘤
+1798,D376,"Neoplasm of uncertain behavior of liver, gallbladder and bile ducts",肝、膽囊及膽道性態未明之腫瘤
+1799,D377,Neoplasm of uncertain behavior of other digestive organs,其他消化器官之性態未明之腫瘤
+1800,D379,"Neoplasm of uncertain behavior of digestive organ, unspecified",消化器官之性態未明之腫瘤，未特定
+1801,D38,Neoplasm of uncertain behavior of middle ear and respiratory and intrathoracic organs,中耳、呼吸及胸腔內器官性態未明之腫瘤
+1802,D380,Neoplasm of uncertain behavior of larynx,喉部性態未明之腫瘤
+1803,D381,"Neoplasm of uncertain behavior of trachea, bronchus and lung",氣管、支氣管及肺之性態未明之腫瘤
+1804,D382,Neoplasm of uncertain behavior of pleura,胸（肋）膜性態未明之腫瘤
+1805,D383,Neoplasm of uncertain behavior of mediastinum,縱膈腔性態未明之腫瘤
+1806,D384,Neoplasm of uncertain behavior of thymus,胸腺性態未明之腫瘤
+1807,D385,Neoplasm of uncertain behavior of other respiratory organs,其他呼吸器官性態未明之腫瘤
+1808,D386,"Neoplasm of uncertain behavior of respiratory organ, unspecified",呼吸器官性態未明之腫瘤，未特定
+1809,D39,Neoplasm of uncertain behavior of female genital organ,女性生殖器官性態未明之腫瘤
+1810,D390,Neoplasm of uncertain behavior of uterus,子宮性態未明之腫瘤
+1811,D391,Neoplasm of uncertain behavior of ovary,卵巢性態未明之腫瘤
+1812,D3910,"Neoplasm of uncertain behavior of ovary, unspecified side",未特定側性卵巢性態未明之腫瘤，未特定部位
+1813,D3911,Neoplasm of uncertain behavior of right ovary,右側卵巢性態未明之腫瘤
+1814,D3912,Neoplasm of uncertain behavior of left ovary,左側卵巢性態未明之腫瘤
+1815,D392,Neoplasm of uncertain behavior of placenta,胎盤性態未明之腫瘤
+1816,D397,Neoplasm of uncertain behavior of other female genital organs,其他女性生殖器官之性態未明之腫瘤
+1817,D399,"Neoplasm of uncertain behavior of female genital organ, unspecified",女性生殖器官之性態未明之腫瘤，未特定
+1818,D3a,Benign neuroendocrine tumors,良性神經內分泌腫瘤
+1819,D3a0,Benign carcinoid tumors,良性類癌瘤
+1820,D3a00,Benign carcinoid tumor of unspecified site,未特定部位之良性類癌瘤
+1821,D3a01,Benign carcinoid tumors of the small intestine,小腸良性類癌瘤
+1822,D3a010,Benign carcinoid tumor of the duodenum,十二指腸良性類癌瘤
+1823,D3a011,Benign carcinoid tumor of the jejunum,空腸良性類癌瘤
+1824,D3a012,Benign carcinoid tumor of the ileum,迴腸良性類癌瘤
+1825,D3a019,"Benign carcinoid tumor of the small intestine, unspecified portion",小腸良性類癌瘤，未特定部位
+1826,D3a02,"Benign carcinoid tumors of the appendix,large intestine,and  rectum",闌尾、大腸及直腸良性類癌瘤
+1827,D3a020,Benign carcinoid tumor of the appendix,結腸良性類癌瘤
+1828,D3a021,Benign carcinoid tumor of the cecum,直腸良性類癌瘤
+1829,D3a022,Benign carcinoid tumor of the ascending colon,升結腸良性類癌瘤
+1830,D3a023,Benign carcinoid tumor of the transverse colon,橫結腸良性類癌瘤
+1831,D3a024,Benign carcinoid tumor of the descending colon,降結腸良性類癌瘤
+1832,D3a025,Benign carcinoid tumor of the sigmoid colon,乙狀結腸良性類癌瘤
+1833,D3a026,Benign carcinoid tumor of the rectum,直腸良性類癌瘤
+1834,D3a029,"Benign carcinoid tumor of the large intestine, unspecified portion",大腸良性類癌瘤，未特定部位
+1835,D3a09,Benign carcinoid tumors of the other sites,其他部位之良性類癌瘤
+1836,D3a090,Benign carcinoid tumor of the bronchus and lung,支氣管及肺之良性類癌瘤
+1837,D3a091,Benign carcinoid tumor of the thymus,胸腺良性類癌瘤
+1838,D3a092,Benign carcinoid tumor of the stomach,胃良性類癌瘤
+1839,D3a093,Benign carcinoid tumor of the kidney,腎臟良性類癌瘤
+1840,D3a094,Benign carcinoid tumor of the foregut NOS,前腸良性類癌瘤，他處無法歸類
+1841,D3a095,Benign carcinoid tumor of the midgut NOS,中腸良性類癌瘤，他處無法歸類
+1842,D3a096,Benign carcinoid tumor of the hindgut NOS,後腸良性類癌瘤，他處無法歸類
+1843,D3a098,Benign carcinoid tumors of other sites,其他特定部位之良性類癌瘤
+1844,D3a8,Other benign neuroendocrine tumors,期它神經內分泌良性腫瘤
+1845,D40,Neoplasm of uncertain behavior of male genital organ,男性生殖器官性態未明之腫瘤
+1846,D400,Neoplasm of uncertain behavior of prostate,攝護腺性態未明之腫瘤
+1847,D401,Neoplasm of uncertain behavior of testis,睪丸性態未明之腫瘤
+1848,D4010,"Neoplasm of uncertain behavior of testis, unspecified side",睪丸性態未明之腫瘤，未特定側性
+1849,D4011,Neoplasm of uncertain behavior of right testis,右側睪丸性態未明之腫瘤
+1850,D4012,Neoplasm of uncertain behavior of left testis,左側睪丸性態未明之腫瘤
+1851,D407,Neoplasm of uncertain behavior of other male genital organs,其他男性生殖器官之性態未明之腫瘤
+1852,D409,"Neoplasm of uncertain behavior of male genital organ, unspecified",男性生殖器官性態未明之腫瘤，未特定
+1853,D41,Neoplasm of uncertain behavior of urinary organs,泌尿器官性態未明之腫瘤
+1854,D410,Neoplasm of uncertain behavior of kidney,腎臟性態未明之腫瘤
+1855,D4100,"Neoplasm of uncertain behavior of kidney, unspecified side",未特定側性腎臟性態未明之腫瘤
+1856,D4101,Neoplasm of uncertain behavior of right kidney,右側腎臟性態未明之腫瘤
+1857,D4102,Neoplasm of uncertain behavior of left kidney,左側腎臟性態未明之腫瘤
+1858,D411,Neoplasm of uncertain behavior of renal pelvis,腎盂性態未明之腫瘤
+1859,D4110,"Neoplasm of uncertain behavior of renal pelvis, unspecified side",腎盂性態未明之腫瘤，未特定側性
+1860,D4111,Neoplasm of uncertain behavior of right renal pelvis,右側腎盂性態未明之腫瘤
+1861,D4112,Neoplasm of uncertain behavior of left renal pelvis,左側腎盂性態未明之腫瘤
+1862,D412,Neoplasm of uncertain behavior of ureter,輸尿管性態未明之腫瘤
+1863,D4120,"Neoplasm of uncertain behavior of ureter, unspecified side",未特定側性輸尿管性態未明之腫瘤
+1864,D4121,Neoplasm of uncertain behavior of right ureter,右側輸尿管性態未明之腫瘤
+1865,D4122,Neoplasm of uncertain behavior of left ureter,左側輸尿管性態未明之腫瘤
+1866,D413,Neoplasm of uncertain behavior of urethra,尿道性態未明之腫瘤
+1867,D414,Neoplasm of uncertain behavior of bladder,膀胱性態未明之腫瘤
+1868,D417,Neoplasm of uncertain behavior of other urinary organs,其他泌尿器官性態未明之腫瘤
+1869,D419,"Neoplasm of uncertain behavior of urinary organ, unspecified",泌尿器官性態未明之腫瘤，未特定
+1870,D42,Neoplasm of uncertain behavior of meninges,腦膜性態未明之腫瘤
+1871,D420,Neoplasm of uncertain behavior of cerebral meninges,腦膜性態未明之腫瘤
+1872,D421,Neoplasm of uncertain behavior of spinal meninges,脊髓膜性態未明之腫瘤
+1873,D429,"Neoplasm of uncertain behavior of meninges, unspecified",腦膜性態未明之腫瘤，未特定
+1874,D43,Neoplasm of uncertain behavior of brain and central nervous system,大腦及中樞神經系統之性態未明之腫瘤
+1875,D430,"Neoplasm of uncertain behavior of brain, supratentorial",大腦天幕上性態未明之腫瘤
+1876,D431,"Neoplasm of uncertain behavior of brain, infratentorial",大腦天幕下性態未明之腫瘤
+1877,D432,"Neoplasm of uncertain behavior of brain, unspecified",腦部性態未明之腫瘤，未特定
+1878,D433,Neoplasm of uncertain behavior of cranial nerves,顱內神經性態未明之腫瘤
+1879,D434,Neoplasm of uncertain behavior of spinal cord,脊髓性態未明之腫瘤
+1880,D437,Neoplasm of uncertain behavior of other parts of central nervous system,神經系統之其他部位性態未明之腫瘤
+1881,D439,"Neoplasm of uncertain behavior of central nervous system, unspecified",神經系統性態未明之腫瘤，未特定
+1882,D44,Neoplasm of uncertain behavior of endocrine gland,內分泌腺體性態未明之腫瘤
+1883,D440,Neoplasm of uncertain behavior of thyroid gland,甲狀腺其他性態未明之腫瘤
+1884,D441,Neoplasm of uncertain behavior of adrenal gland,腎上腺性態未明之腫瘤
+1885,D4410,"Neoplasm of uncertain behavior of adrenal gland, unspecified side",未特定側性腎上腺性態未明之腫瘤
+1886,D4411,Neoplasm of uncertain behavior of right adrenal gland,右側腎上腺性態未明之腫瘤
+1887,D4412,Neoplasm of uncertain behavior of left adrenal gland,左側腎上腺性態未明之腫瘤
+1888,D442,Neoplasm of uncertain behavior of parathyroid gland,副甲狀腺其他性態未明之腫瘤
+1889,D443,Neoplasm of uncertain behavior of pituitary gland,腦下腺性態未明之腫瘤
+1890,D444,Neoplasm of uncertain behavior of craniopharyngeal duct,顱咽管性態未明之腫瘤
+1891,D445,Neoplasm of uncertain behavior of pineal gland,松果腺性態未明之腫瘤
+1892,D446,Neoplasm of uncertain behavior of carotid body,頸動脈體性態未明之腫瘤
+1893,D447,Neoplasm of uncertain behavior of aortic body and other paraganglia,主動脈體及副神經節性態未明之腫瘤
+1894,D448,Neoplasm of uncertain behavior with pluriglandular involvement,侵犯多種內分泌腺體之性態未明腫瘤
+1895,D449,"Neoplasm of uncertain behavior of endocrine gland, unspecified",內分泌腺體性態未明之腫瘤，未特定
+1896,D45,Polycythemia vera,真性紅血球增多症
+1897,D46,Myelodysplastic syndromes,骨髓分化不良症候群
+1898,D460,"Refractory anemia without ring sideroblasts, so stated","骨髓分化不良症候群-頑固性貧血,無環形鐵芽母細胞"
+1899,D461,Refractory anemia with ring sideroblasts,"骨髓分化不良症候群-頑固性貧血,伴有環形鐵芽母細胞"
+1900,D462,Refractory anemia with excess of blasts,骨髓分化不良症候群-過量芽母細胞
+1901,D4620,"Refractory anemia with excess of blasts, unspecified",骨髓分化不良症候群-過量芽母細胞，未特定
+1902,D4621,Refractory anemia with excess of blasts 1,骨髓分化不良症候群-過量芽母細胞1
+1903,D4622,Refractory anemia with excess of blasts 2,骨髓分化不良症候群-過量芽母細胞2
+1904,D464,"Refractory anemia, unspecified",骨髓分化不良症候群-頑固性貧血，未特定
+1905,D469,"Myelodysplastic syndrome, unspecified",骨髓分化不良症候群，未特定
+1906,D46a,Refractory cytopenia with multilineage dysplasia,骨髓分化不良症候群-頑固性血球減少伴有多系分化不良
+1907,D46b,Refractory cytopenia with multilineage dysplasia and ringed sideroblasts,骨髓分化不良症候群-頑固性血球減少伴有多系分化不良及環形鐵芽母細胞
+1908,D46c,Myelodysplastic syndrome with isolated del(5q) chromosomal abnormality,骨髓分化不良症候群-單一del(5q)染色體異常
+1909,D46z,Other myelodysplastic syndromes,其他骨髓分化不良症候群
+1910,D47,"Other neoplasms of uncertain behavior of lymphoid,hematopoietic and related tissue",其他淋巴、造血及相關組織性態不明之腫瘤
+1911,D470,Histiocytic and mast cell tumors of uncertain behavior,組織球及肥大細胞之性態未明之腫瘤
+1912,D471,Chronic myeloproliferative disease,慢性骨髓增生性疾病
+1913,D472,Monoclonal gammopathy,單株球蛋白增多症
+1914,D473,Essential (hemorrhagic) thrombocythemia,本態性（出血性）血小板增多症
+1915,D474,Osteomyelofibrosis,骨髓纖維化
+1916,D479,"Neoplasm of uncertain behavior of lymphoid, hematopoietic and related tissue, unspecified",淋巴，造血及相關組織性態不明之腫瘤，未特定
+1917,D47z,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",其他特定淋巴、造血及相關組織性態不明之腫瘤
+1918,D47z1,Post-transplant lymphoproliferative disorder (PTLD),移植器官後伴有淋巴組織增生性疾患(PTLD)
+1919,D47z9,"Other specified neoplasms of uncertain behavior of lymphoid, hematopoietic and related tissue",其他特定淋巴，造血及相關組織性態不明之腫瘤
+1920,D48,Neoplasm of uncertain behavior of other and unspecified sites,其他及未特定部位性態未明之腫瘤
+1921,D480,Neoplasm of uncertain behavior of bone and articular cartilage,骨骼及關節軟骨性態未明之腫瘤
+1922,D481,Neoplasm of uncertain behavior of connective and other soft tissue,結締及其他軟組織性態未明之腫瘤
+1923,D482,Neoplasm of uncertain behavior of peripheral nerves and autonomic nervous system,周邊神經和自主神經系統性態未明之腫瘤
+1924,D483,Neoplasm of uncertain behavior of retroperitoneum,後腹腔性態未明之腫瘤
+1925,D484,Neoplasm of uncertain behavior of peritoneum,腹膜性態未明之腫瘤
+1926,D485,Neoplasm of uncertain behavior of skin,皮膚性態未明之腫瘤
+1927,D486,Neoplasm of uncertain behavior of breast,乳房性態未明之腫瘤
+1928,D4861,Neoplasm of uncertain behavior of right breast,右側乳房性態未明之腫瘤
+1929,D4862,Neoplasm of uncertain behavior of left breast,左側乳房性態未明之腫瘤
+1930,D4869,Neoplasm of uncertain behavior of unspecified breast,乳房性態未明之腫瘤
+1931,D487,Neoplasm of uncertain behavior of other specified sites,其他特定部位性態未明之腫瘤
+1932,D489,"Neoplasm of uncertain behavior, unspecified",性態未明之腫瘤，未特定
+1933,D49,Neoplasm of unspecified behavior,性態未明之腫瘤
+1934,D490,Neoplasm of unspecified behavior of digestive system,消化系統性態未明腫瘤
+1935,D491,Neoplasm of unspecified behavior of respiratory system,呼吸系統性態未明腫瘤
+1936,D492,"Neoplasm of unspecified behavior of bone, soft tissue, and skin",骨骼、軟組織及皮膚性態未明腫瘤
+1937,D493,Neoplasm of unspecified behavior of breast,乳房性態未明腫瘤
+1938,D494,Neoplasm of unspecified behavior of bladder,膀胱性態未明腫瘤
+1939,D495,Neoplasm of unspecified behavior of other genitourinary organs,其他生殖泌尿器官性態未明腫瘤
+1940,D496,Neoplasm of unspecified behavior of brain,腦性態未明腫瘤
+1941,D497,Neoplasm of unspecified behavior of endocrine glands and other parts of nervous system,內分泌腺及其他神經系統部位之性態未明腫瘤
+1942,D498,Neoplasm of unspecified behavior of other specified sites,其他特定部位性態未明之腫瘤
+1943,D4981,Neoplasm of unspecified behavior of retina and choroid,視網膜或脈絡膜之性態未明腫瘤
+1944,D4989,Neoplasm of unspecified behavior of other specified sites,其他特定部位之性態未明腫瘤
+1945,D499,Neoplasm of unspecified behavior of unspecified site,未特定部位之性態未明腫瘤

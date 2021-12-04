@@ -1,0 +1,878 @@
+,code,en_name,ch_name
+0,K00,Disorders of tooth development and eruption,牙齒發育及萌發疾患
+1,K000,Anodontia,無齒症
+2,K001,Supernumerary teeth,贅生齒
+3,K002,Abnormalities of size and form of teeth,牙齒大小及形狀異常
+4,K003,Mottled teeth,斑點齒
+5,K004,Disturbances in tooth formation,牙齒形成之障礙
+6,K005,"Hereditary disturbances in tooth structure, not elsewhere classified",牙齒結構遺傳性異常，他處未歸類者
+7,K006,Disturbances in tooth eruption,牙齒萌發障礙
+8,K007,Teething syndrome,生齒徵候群
+9,K008,Other disorders of tooth development,牙齒發育之其他疾患
+10,K009,"Disorder of tooth development, unspecified",牙齒發育疾患，未特定
+11,K01,Embedded and impacted teeth,埋伏及阻生齒
+12,K010,Embedded teeth,埋伏牙
+13,K011,Impacted teeth,阻生齒
+14,K02,Dental carries,齲齒
+15,K023,Arrested dental caries,靜止性齲齒
+16,K025,Dental caries on pit and fissure sirface,齲齒在凹陷及裂縫表面
+17,K0251,Dental caries on pit and fissure surface limited to enamel,齲齒在凹陷及裂縫表面侷限於牙釉質
+18,K0252,Dental caries on pit and fissure surface penetrating into dentin,齲齒在凹陷及裂縫表面穿入牙本質
+19,K0253,Dental caries on pit and fissure surface penetrating into pulp,齲齒在凹陷及裂縫表面穿入牙髓
+20,K026,Dental caries on smooth surface,齲齒在平滑表面上
+21,K0261,Dental caries on smooth surface limited to enamel,齲齒在平滑表面上侷限於牙釉質
+22,K0262,Dental caries on smooth surface penetrating into dentin,齲齒在平滑表面上穿入牙本質
+23,K0263,Dental caries on smooth surface penetrating into pulp,齲齒在平滑表面上穿入牙髓
+24,K027,Dental root caries,牙根齲齒
+25,K029,"Dental caries, unspecified",齲齒，未特定
+26,K03,Other diseases of hard tissues of teeth,牙齒硬組織其他疾病
+27,K030,Excessive attrition of teeth,牙齒過度磨耗
+28,K031,Abrasion of teeth,牙齒磨損
+29,K032,Erosion of teeth,牙齒腐蝕
+30,K033,Pathological resorption of teeth,牙齒病理性吸收
+31,K034,Hypercementosis,齒骨質增生症
+32,K035,Ankylosis of teeth,齒強直
+33,K036,Deposits [accretions] on teeth,牙齒沉附著[增積]物
+34,K037,Posteruptive color changes of dental hard tissues,牙齒硬組織萌發後變色
+35,K038,Other specified diseases of hard tissues of teeth,牙齒硬組織其他明示的疾病
+36,K0381,Cracked tooth,裂齒
+37,K0389,Other specified diseases of hard tissues of teeth,牙齒硬組織其他特定的疾病
+38,K039,"Disease of hard tissues of teeth, unspecified",牙齒硬組織疾病，未特定
+39,K04,Disease of pulp and periapical tissues,齒髓及根尖周圍組織疾病
+40,K040,Pulpitis,齒髓炎
+41,K041,Necrosis of pulp,齒髓壞死
+42,K042,Pulp degeneration,齒髓變質
+43,K043,Abnormal hard tissue formation in pulp,齒髓內異常硬組織形成
+44,K044,Acute apical periodontitis of pulpal origin,齒髓性急性根尖牙周組織炎
+45,K045,Chronic apical periodontitis,慢性根尖牙周組織炎
+46,K046,Periapical abscess with sinus,根尖周圍膿瘍併膿竇
+47,K047,Periapical abscess without sinus,未伴有膿竇之根尖周圍膿瘍
+48,K048,Radicular cyst,齒根囊腫
+49,K049,Other and unspecified diseases of pulp and periapical tissues,其他及未明示齒髓及根尖周圍組織疾病
+50,K0490,Unspecified diseases of pulp and periapical tissues,齒髓及根尖周圍組織疾病，未特定
+51,K0499,Other diseases of pulp and periapical tissues,其他齒髓及根尖周圍組織疾病
+52,K05,Gingivitis and periodontal diseases,齒齦炎及牙周疾病
+53,K050,Acute gingivitis,急性齒齦炎
+54,K0500,"Acute gingivitis, plaque induced","急性齒齦炎,牙菌斑導致之"
+55,K0501,"Acute gingivitis, non-plaque induced","急性齒齦炎,非牙菌斑導致之"
+56,K051,Chronic gingivitis,慢性齒齦炎
+57,K0510,"Chronic gingivitis, plaque induced","慢性齒齦炎,牙菌斑導致之"
+58,K0511,"Chronic gingivitis, non-plaque induced","慢性齒齦炎,非牙菌斑導致之"
+59,K052,Aggressive periodontitis,侵襲性牙周炎
+60,K0520,"Aggressive periodontitis, unspecified",侵襲性牙周炎，未特定
+61,K0521,"Aggressive periodontitis, localized","侵襲性牙周炎,局部"
+62,K0522,"Aggressive periodontitis, generalized","侵襲性牙周炎,一般性"
+63,K053,Chronic periodontitis,慢性牙周炎
+64,K0530,"Chronic periodontitis, unspecified",慢性牙周炎，未特定
+65,K0531,"Chronic periodontitis, localized","慢性牙周炎,局部性"
+66,K0532,"Chronic periodontitis, generalized","慢性牙周炎,一般性"
+67,K054,Periodontosis,牙周病
+68,K055,Other periodontal diseases,其他牙周疾病
+69,K056,"Periodontal disease, unspecified",牙周疾病，未特定
+70,K06,Other disorders of gingiva and edentulous alveolar ridge,齒齦及無齒性齒槽骨其他疾患
+71,K060,Gingival recession,齒齦萎縮
+72,K061,Gingival enlargement,牙齦腫大
+73,K062,Gingival and edentulous alveolar ridge lesions associated with trauma,與創傷相關的牙齦及無齒性齒槽骨病灶
+74,K068,Other specified disorders of gingiva and edentulous alveolar ridge,牙齦及無齒性齒槽骨之其他特定的疾患
+75,K069,"Disorder of gingiva and edentulous alveolar ridge, unspecified",牙齦及無齒性齒槽骨的疾患，未特定
+76,K08,Other disorders of teeth and supporting structures,牙齒及支持性構造其他疾患
+77,K080,Exfoliation of teeth due to systemic causes,全身性病因所致之牙齒脫落
+78,K081,Complete loss of teeth,完全缺牙
+79,K0810,"Complete loss of teeth, unspecified cause","完全缺牙,未明示原因"
+80,K08101,"Complete loss of teeth, unspecified cause, class I","完全缺牙,未特定原因,第1類"
+81,K08102,"Complete loss of teeth, unspecified cause, class II","完全缺牙,未特定原因,第2類"
+82,K08103,"Complete loss of teeth, unspecified cause, class III","完全缺牙,未特定原因,第3類"
+83,K08104,"Complete loss of teeth, unspecified cause, class IV","完全缺牙,未特定原因,第4類"
+84,K08109,"Complete loss of teeth, unspecified cause, unspecified class","完全缺牙,未特定原因,未特定分類"
+85,K0811,"Complete loss of teeth, due to trauma",創傷所致的完全缺牙
+86,K08111,"Complete loss of teeth due to trauma, class I","創傷所致的完全缺齒,第1類"
+87,K08112,"Complete loss of teeth due to trauma, class II","創傷所致的完全缺牙,第2類"
+88,K08113,"Complete loss of teeth due to trauma, class III","創傷所致的完全缺牙,第3類"
+89,K08114,"Complete loss of teeth due to trauma, class IV","創傷所致的完全缺牙,第4類"
+90,K08119,"Complete loss of teeth due to trauma, unspecified class","創傷所致的完全缺牙,未特定類別"
+91,K0812,Complete loss of teeth due to periodontal dissease,牙周病所致的完全缺牙
+92,K08121,"Complete loss of teeth due to periodontal diseases, class I","牙周病所致的完全缺牙,第1類"
+93,K08122,"Complete loss of teeth due to periodontal diseases, class II","牙周病所致的完全缺牙,第2類"
+94,K08123,"Complete loss of teeth due to periodontal diseases, class III","牙周病所致的完全缺牙,第3類"
+95,K08124,"Complete loss of teeth due to periodontal diseases, class IV","牙周病所致的完全缺牙,第4類"
+96,K08129,"Complete loss of teeth due to periodontal diseases, unspecified class","牙周病所致的完全缺牙,未特定類別"
+97,K0813,Complete loss of teeth due to carirs,齲齒所致的完全缺牙
+98,K08131,"Complete loss of teeth due to caries, class I","齲齒所致的完全缺牙,第1類"
+99,K08132,"Complete loss of teeth due to caries, class II","齲齒所致的完全缺牙,第2類"
+100,K08133,"Complete loss of teeth due to caries, class III","齲齒所致的完全缺牙,第3類"
+101,K08134,"Complete loss of teeth due to caries, class IV","齲齒所致的完全缺牙,第4類"
+102,K08139,"Complete loss of teeth due to caries, unspecified class","齲齒所致的完全缺牙,未特定類別"
+103,K0819,Complete loss of teeth due to other specified cause,其他明示原因所致的完全缺牙
+104,K08191,"Complete loss of teeth due to other specified cause, class I","其他特定原因所致的完全缺牙,第1類"
+105,K08192,"Complete loss of teeth due to other specified cause, class II","其他特定原因所致的完全缺牙,第2類"
+106,K08193,"Complete loss of teeth due to other specified cause, class III","其他特定原因所致的完全缺牙,第3類"
+107,K08194,"Complete loss of teeth due to other specified cause, class IV","其他特定原因所致的完全缺牙,第4類"
+108,K08199,"Complete loss of teeth due to other specified cause, unspecified class","其他特定原因所致的完全缺牙,未特定類別"
+109,K082,Atrophy of edentulous alveolar ridge,無齒性齒槽骨萎縮
+110,K0820,Unspecified atrophy of edentulous alveolar ridge,無齒性齒槽骨萎縮
+111,K0821,Minimal atrophy of the mandible,極微萎縮的下頷骨
+112,K0822,Moderate atrophy of the mandible,中度萎縮的下頷骨
+113,K0823,Severe atrophy of the mandible,重度萎縮的下頷骨
+114,K0824,Minimal atrophy of maxilla,極微萎縮的上頜骨
+115,K0825,Moderate atrophy of the maxilla,中度萎縮的上頜骨
+116,K0826,Severe atrophy of the maxilla,重度萎縮的上頜骨
+117,K083,Retained dental root,殘留齒根
+118,K084,Partial loss of teeth,部分缺牙
+119,K0840,"Partial loss of teeth, unspecified cause","部分缺牙,未明示原因"
+120,K08401,"Partial loss of teeth, unspecified cause, class I","部分缺牙,未特定原因,第1類"
+121,K08402,"Partial loss of teeth, unspecified cause, class II","部分缺牙,未特定原因,第２類"
+122,K08403,"Partial loss of teeth, unspecified cause, class III","部分缺牙,未特定原因,第３類"
+123,K08404,"Partial loss of teeth, unspecified cause, class IV","部分缺牙,未特定原因,第４類"
+124,K08409,"Partial loss of teeth, unspecified cause, unspecified class","部分缺牙,未特定原因,未特定分類"
+125,K0841,Partial loss of teeth due to trauma,創傷所致的部分缺牙
+126,K08411,"Partial loss of teeth due to trauma, class I","創傷所致的部分缺牙,第１類"
+127,K08412,"Partial loss of teeth due to trauma, class II","創傷所致的部分缺牙,第２類"
+128,K08413,"Partial loss of teeth due to trauma, class III","創傷所致的部分缺牙,第３類"
+129,K08414,"Partial loss of teeth due to trauma, class IV","創傷所致的部分缺牙,第４類"
+130,K08419,"Partial loss of teeth due to trauma, unspecified class","創傷所致的部分缺牙,未特定類別"
+131,K0842,Partial loss of teeth due to periodontal diseases,牙周病所致的部分缺牙
+132,K08421,"Partial loss of teeth due to periodontal diseases, class I","牙周病所致的部分缺牙,第１類"
+133,K08422,"Partial loss of teeth due to periodontal diseases, class II","牙周病所致的部分缺牙,第２類"
+134,K08423,"Partial loss of teeth due to periodontal diseases, class III","牙周病所致的部分缺牙,第３類"
+135,K08424,"Partial loss of teeth due to periodontal diseases, class IV","牙周病所致的部分缺牙,第４類"
+136,K08429,"Partial loss of teeth due to periodontal diseases, unspecified class","牙周病所致的部分缺牙,未特定類別"
+137,K0843,Partial loss of teeth due to caries,齲齒所致的部分缺牙
+138,K08431,"Partial loss of teeth due to caries, class I","齲齒所致的部分缺牙,第１類"
+139,K08432,"Partial loss of teeth due to caries, class II","齲齒所致的部分缺牙,第２類"
+140,K08433,"Partial loss of teeth due to caries, class III","齲齒所致的部分缺牙,第３類"
+141,K08434,"Partial loss of teeth due to caries, class IV","齲齒所致的部分缺牙,第４類"
+142,K08439,"Partial loss of teeth due to caries, unspecified class","齲齒所致的部分缺牙,未特定類別"
+143,K0849,Partial loss of teeth due to other specified cause,其他明示原因所致的部分缺牙
+144,K08491,"Partial loss of teeth due to other specified cause, class I","其他特定原因所致的部分缺牙,第１類"
+145,K08492,"Partial loss of teeth due to other specified cause, class II","其他特定原因所致的部分缺牙,第２類"
+146,K08493,"Partial loss of teeth due to other specified cause, class III","其他特定原因所致的部分缺牙,第３類"
+147,K08494,"Partial loss of teeth due to other specified cause, class IV","其他特定原因所致的部分缺牙,第４類"
+148,K08499,"Partial loss of teeth due to other specified cause, unspecified class","其他特定原因所致的部分缺牙,未特定類別"
+149,K085,Unsatisfactory restoration of tooth,不滿意的牙齒修復
+150,K0850,"Unsatisfactory restoration of tooth, unspecified",不滿意的牙齒修復，未特定
+151,K0851,Open restoration margins of tooth,開放牙齒邊緣修復
+152,K0852,Unrepairable overhanging of dental restorative materials,未修補外突的牙齒修復材料
+153,K0853,Fractured dental restorative material,牙齒修復材料之骨折
+154,K08530,Fractured dental restorative material without loss of material,牙齒修復材料之骨折未喪失材料
+155,K08531,Fractured dental restorative material with loss of material,牙齒修復材料之骨折併喪失材料
+156,K08539,"Fractured dental restorative material, unspecified",牙齒修復材料之骨折，未特定
+157,K0854,Contour of existing restoration of tooth biologically incompatible with oral health,牙的現存外形恢復生物不相容及口腔健康
+158,K0855,Allergy to existing dental restorative material,對現存牙齒修補材料的過敏
+159,K0856,Poor aesthetic of existing restoration of tooth,缺乏審美的現存牙齒修復
+160,K0859,Other unsatisfactory restoration of tooth,其他不滿意的牙齒修復
+161,K088,Other specified disorders of teeth and supporting structures,牙齒及支持組織之其他特定疾患
+162,K089,"Disorder of teeth and supporting structures, unspecified",牙齒及其支持組織之疾患，未特定
+163,K09,"Cyst of oral region, not elsewhere classified",口腔部位囊腫，他處未分類
+164,K090,Developmental odontogenic cysts,發育性齒囊腫
+165,K091,Developmental (nonodontogenic) cysts of oral region,口腔部位的發育性(非齒源性)囊腫
+166,K098,"Other cysts of oral region, not elsewhere classified",其他口腔部位囊腫，他處未歸類者
+167,K099,"Cyst of oral region, unspecified",口腔部位囊腫，未特定
+168,K11,Diseases of salivary glands,唾液腺疾病
+169,K110,Atrophy of salivary gland,唾液腺萎縮
+170,K111,Hypertrophy of salivary gland,唾液腺肥大
+171,K112,Sialoadenitis,唾液腺炎
+172,K1120,"Sialoadentitis, unspecified",唾液腺炎，未特定
+173,K1121,Acute sialoadenitis,急性唾液腺炎
+174,K1122,Acute recurrent sialoadenitis,急性復發性唾液腺炎
+175,K1123,Chronic sialoadenitis,慢性唾液腺炎
+176,K113,Abscess of salivary gland,唾液腺膿瘍
+177,K114,Fistula of salivary gland,唾液腺?管
+178,K115,Sialolithiasis,唾液腺結石
+179,K116,Mucocele of salivary gland,唾液腺黏液囊腫
+180,K117,Disturbances of salivary secretion,唾液分泌障礙
+181,K118,Other diseases of salivary glands,其他唾液腺疾病
+182,K119,"Disease of salivary gland, unspecified",唾液腺疾病，未特定
+183,K12,Stomatitis and related lesions,口腔炎及相關病灶
+184,K120,Recurrent oral aphthae,復發性口瘡
+185,K121,Other forms of stomatitis,其他類型口腔炎
+186,K122,Cellulitis and abscess of mouth,口腔蜂窩組織炎及膿瘍
+187,K123,Oral mucositis (ulcerative),口腔黏膜炎（潰瘍性)
+188,K1230,"Oral mucositis (ulcerative), unspecified",口腔黏膜炎（潰瘍性)，未特定
+189,K1231,Oral mucositis (ulcerative) due to antineoplastic therapy,口腔黏膜炎（潰瘍性)源於抗腫瘤治療
+190,K1232,Oral mucositis (ulcerative) due to other drugs,口腔黏膜炎（潰瘍性)源於其他藥物
+191,K1233,Oral mucositis (ulcerative) due to radiation,口腔黏膜炎（潰瘍性)源於放射線
+192,K1239,Other oral mucositis (ulcerative),其他口腔黏膜炎（潰瘍性)
+193,K13,Other diseases of lip and oral mucosa,唇及口腔黏膜其他疾病
+194,K130,Diseases of lips,唇部疾病
+195,K131,Cheek and lip biting,咬頰及咬唇
+196,K132,"Leukoplakia and other disturbances of oral epithelium, including tongue",口腔黏膜白斑及口腔上皮其他病變，包括舌部
+197,K1321,"Leukoplakia of oral mucosa, including tongue",口腔黏膜白斑症，包括舌部
+198,K1322,Minimal keratinized residual ridge mucosa,最小的角質化剩餘齒槽脊粘膜
+199,K1323,Excessive keratinized residual ridge mucosa,過度角質化剩餘齒槽脊粘膜
+200,K1324,Leukokeratosis nicotina palati,菸草(所致)的顎白角化症
+201,K1329,"Other disturbances of oral epithelium, including tongue",其他口腔上皮病變，包括舌部
+202,K133,Hairy leukoplakia,毛狀白斑
+203,K134,Granuloma and granuloma-like lesions of oral mucosa,口腔黏膜肉芽腫及類肉芽腫病灶
+204,K135,Oral submucous fibrosis,口腔黏膜下層纖維化症
+205,K136,Irritative hyperplasia of oral mucosa,口腔黏膜刺激性增生
+206,K137,Other and unspecified lesions of oral mucosa,口腔黏膜其他及未明示的病灶
+207,K1370,Unspecified lesions of oral mucosa,口腔黏膜的病灶，未特定
+208,K1379,Other lesions of oral mucosa,其他口腔黏膜病灶
+209,K14,Diseases of tongue,舌疾病
+210,K140,Glossitis,舌炎
+211,K141,Geographic tongue,地圖舌
+212,K142,Median rhomboid glossitis,正中菱形舌炎
+213,K143,Hypertrophy of tongue papillae,舌乳頭肥大
+214,K144,Atrophy of tongue papillae,舌乳頭萎縮
+215,K145,Plicated tongue,舌皺疊
+216,K146,Glossodynia,舌痛
+217,K148,Other diseases of tongue,舌其他疾病
+218,K149,"Disease of tongue, unspecified",舌疾病，未特定
+219,K20,Esophagitis,食道炎
+220,K200,Eosinophilic esophagitis,嗜伊性食道炎
+221,K208,Other esophagitis,其他食道炎
+222,K209,"Esophagitis, unspecified",食道炎，未特定
+223,K21,Gastro-esophageal reflux disease,胃食道逆流性疾病
+224,K210,Gastro-esophageal reflux disease with esophagitis,胃食道逆流性疾病併食道炎
+225,K219,Gastro-esophageal reflux disease without esophagitis,胃食道逆性疾病未伴有食道炎
+226,K22,Other diseases of esophagus,食道其他疾病
+227,K220,Achalasia of cardia,賁門鬆弛不能
+228,K221,Ulcer of esophagus,食道潰瘍
+229,K2210,Ulcer of esophagus without bleeding,食道潰瘍未伴有出血
+230,K2211,Ulcer of esophagus with bleeding,食道潰瘍併出血
+231,K222,Esophageal obstruction,食道阻塞
+232,K223,Perforation of esophagus,食道穿孔
+233,K224,Dyskinesia of esophagus,食道蠕動困難
+234,K225,"Diverticulum of esophagus, acquired",後天性食道憩室
+235,K226,Gastro-esophageal laceration-hemorrhage syndrome,胃、食道接合部裂傷出血徵候群
+236,K227,Barrett's esophagus,巴瑞特氏食道
+237,K2270,Barrett's esophagus without dysplasia,巴瑞特氏食道未伴有發育不良
+238,K2271,Barrett's esophagus with dysplasia,巴瑞特氏食道伴有發育不良
+239,K22710,Barrett's esophagus with low grade dysplasia,巴瑞特氏食道併低度發育不良
+240,K22711,Barrett's esophagus with high grade dysplasia,巴瑞特氏食道併高度發育不良
+241,K22719,"Barrett's esophagus with dysplasia, unspecified",巴瑞特氏食道併發育不良，未特定
+242,K228,Other specified diseases of esophagus,食道其他特定的疾病
+243,K229,"Disease of esophagus, unspecified",食道疾病，未特定
+244,K23,Disorders of esophagus in diseases classified elsewhere,歸類於他處疾病所致之食道疾患
+245,K25,Gastric ulcer,胃潰瘍
+246,K250,Acute gastric ulcer with hemorrhage,急性胃潰瘍併出血
+247,K251,Acute gastric ulcer with perforation,急性胃潰瘍併穿孔
+248,K252,Acute gastric ulcer with both hemorrhage and perforation,急性胃潰瘍併出血及穿孔
+249,K253,Acute gastric ulcer without hemorrhage or perforation,急性胃潰瘍未伴有出血或穿孔
+250,K254,Chronic or unspecified gastric ulcer with hemorrhage,慢性或未特定胃潰瘍併出血
+251,K255,Chronic or unspecified gastric ulcer with perforation,慢性或未特定胃潰瘍併穿孔
+252,K256,Chronic or unspecified gastric ulcer with both hemorrhage and perforation,慢性或未特定胃潰瘍併出血及穿孔
+253,K257,Chronic gastric ulcer without hemorrhage or perforation,慢性胃潰瘍未伴有出血或穿孔
+254,K259,"Gastric ulcer, unspecified as acute or chronic, without hemorrhage or perforation",胃潰瘍，未特定急性或慢性，未伴有出血或穿孔
+255,K26,Duodenal ulcer,十二指腸潰瘍
+256,K260,Acute duodenal ulcer with hemorrhage,急性十二指腸潰瘍併出血
+257,K261,Acute duodenal ulcer with perforation,急性十二指腸潰瘍併穿孔
+258,K262,Acute duodenal ulcer with both hemorrhage and perforation,急性十二指腸潰瘍併出血及穿孔
+259,K263,Acute duodenal ulcer without hemorrhage or perforation,急性十二指腸潰瘍未伴有出血或穿孔
+260,K264,Chronic or unspecified duodenal ulcer with hemorrhage,慢性或未特定十二指腸潰瘍併出血
+261,K265,Chronic or unspecified duodenal ulcer with perforation,慢性或未特定十二指腸潰瘍併穿孔
+262,K266,Chronic or unspecified duodenal ulcer with both hemorrhage and perforation,慢性或未特定十二指腸潰瘍併出血及穿孔
+263,K267,Chronic duodenal ulcer without hemorrhage or perforation,慢性十二指腸潰瘍，未伴有出血或穿孔
+264,K269,"Duodenal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",十二指腸潰瘍，未特定急性或慢性，未伴有出血或穿孔
+265,K27,"Peptic ulcer, site unspecified",消化性潰瘍，部位未特定者
+266,K270,"Acute peptic ulcer, site unspecified, with hemorrhage","急性消化性潰瘍併出血,部位未特定"
+267,K271,"Acute peptic ulcer, site unspecified, with perforation",急性消化性潰瘍併穿孔，部位未特定
+268,K272,"Acute peptic ulcer, site unspecified, with both hemorrhage and perforation",急性消化性潰瘍併出血及穿孔，部位未特定
+269,K273,"Acute peptic ulcer, site unspecified, without hemorrhage or perforation",急性消化性潰瘍，部位未特定，未伴有出血或穿孔
+270,K274,"Chronic or unspecified peptic ulcer, site unspecified, with hemorrhage",慢性或未特定消化性潰瘍併出血，部位未特定
+271,K275,"Chronic or unspecified peptic ulcer, site unspecified, with perforation",慢性或未特定消化性潰瘍併穿孔，部位未特定
+272,K276,"Chronic or unspecified peptic ulcer, site unspecified, with both hemorrhage and perforation",慢性或未特定消化性潰瘍併出血及穿孔，部位未特定
+273,K277,"Chronic peptic ulcer, site unspecified, without hemorrhage or perforation",慢性消化性潰瘍，部位未特定，未伴有出血或穿孔
+274,K279,"Peptic ulcer, site unspecified, unspecified as acute or chronic, without hemorrhage or perforation",消化性潰瘍，部位未特定，未特定急性或慢性，未伴有出血或穿孔
+275,K28,Gastrojejunal ulcer,胃空腸潰瘍
+276,K280,Acute gastrojejunal ulcer with hemorrhage,急性胃空腸潰瘍併出血
+277,K281,Acute gastrojejunal ulcer with perforation,急性胃空腸潰瘍併穿孔
+278,K282,Acute gastrojejunal ulcer with both hemorrhage and perforation,急性胃空腸潰瘍併出血及穿孔
+279,K283,Acute gastrojejunal ulcer without hemorrhage or perforation,急性胃空腸潰瘍，未伴有出血或穿孔
+280,K284,Chronic or unspecified gastrojejunal ulcer with hemorrhage,慢性或未特定胃空腸潰瘍併出血
+281,K285,Chronic or unspecified gastrojejunal ulcer with perforation,慢性或未特定胃空腸潰瘍併穿孔
+282,K286,Chronic or unspecified gastrojejunal ulcer with both hemorrhage and perforation,慢性或未特定胃空腸潰瘍併出血及穿孔
+283,K287,Chronic gastrojejunal ulcer without hemorrhage or perforation,慢性胃空腸潰瘍，未伴有出血或穿孔
+284,K289,"Gastrojejunal ulcer, unspecified as acute or chronic, without hemorrhage or perforation",胃空腸潰瘍，未特定急性或慢性，未伴有出血或穿孔
+285,K29,Gastritis and duodenitis,胃炎及十二指腸炎
+286,K290,Acute gastritis,急性胃炎
+287,K2900,Acute gastritis without bleeding,急性胃炎未伴有出血
+288,K2901,Acute gastritis with bleeding,急性胃炎併出血
+289,K292,Alcoholic gastritis,酒精性胃炎
+290,K2920,Alcoholic gastritis without bleeding,酒精性胃炎未伴有出血
+291,K2921,Alcoholic gastritis with bleeding,酒精性胃炎併出血
+292,K293,Chronic superficial gastritis,慢性表淺性胃炎
+293,K2930,Chronic superficial gastritis without bleeding,慢性表淺性胃炎未伴有出血
+294,K2931,Chronic superficial gastritis with bleeding,慢性表淺性胃炎併出血
+295,K294,Chronic atrophic gastritis,慢性萎縮性胃炎
+296,K2940,Chronic atrophic gastritis without bleeding,慢性萎縮性胃炎未伴有出血
+297,K2941,Chronic atrophic gastritis with bleeding,慢性萎縮性胃炎併出血
+298,K295,Unspecified chronic gastritis,慢性胃炎
+299,K2950,Unspecified chronic gastritis without bleeding,慢性胃炎未伴有出血，未特定
+300,K2951,Unspecified chronic gastritis with bleeding,慢性胃炎併出血，未特定
+301,K296,Other gastritis,其他胃炎
+302,K2960,Other gastritis without bleeding,其他胃炎未伴有出血
+303,K2961,Other gastritis with bleeding,其他胃炎併出血
+304,K297,"Gastritis, unspecified",胃炎
+305,K2970,"Gastritis, unspecified, without bleeding",胃炎，未伴有出血，未特定
+306,K2971,"Gastritis, unspecified, with bleeding",胃炎，併出血，未特定
+307,K298,Duodenitis,十二指腸炎
+308,K2980,Duodenitis without bleeding,十二指腸炎未伴有出血
+309,K2981,Duodenitis with bleeding,十二指腸炎併出血
+310,K299,"Gastroduodenitis, unspecified",胃十二指腸炎
+311,K2990,"Gastroduodenitis, unspecified, without bleeding",胃十二指腸炎，未伴有出血，未特定
+312,K2991,"Gastroduodenitis, unspecified, with bleeding",胃十二指腸炎，併出血，未特定
+313,K30,Dyspepsia,消化不良
+314,K31,Other diseases of stomach and duodenum,胃及十二指腸其他疾病
+315,K310,Acute dilatation of stomach,急性胃擴張
+316,K311,Adult hypertrophic pyloric stenosis,成人之肥厚性幽門狹窄
+317,K312,Hourglass stricture and stenosis of stomach,胃沙鐘（葫蘆）形狹窄
+318,K313,"Pylorospasm, not elsewhere classified",幽門痙攣，他處未歸類者
+319,K314,Gastric diverticulum,胃憩室
+320,K315,Obstruction of duodenum,十二指腸阻塞
+321,K316,Fistula of stomach and duodenum,胃及十二指腸?管
+322,K317,Polyp of stomach and duodenum,胃及十二指腸息肉
+323,K318,Other specified diseases of stomach and duodenum,胃及十二指腸其他明示的疾病
+324,K3181,Angiodysplasia of stomach and duodenum,胃及十二指腸血管發育不良
+325,K31811,Angiodysplasia of stomach and duodenum with bleeding,胃及十二指腸血管發育不良併出血
+326,K31819,Angiodysplasia of stomach and duodenum without bleeding,胃及十二指腸血管發育不良未伴有出血
+327,K3182,Dieulafoy lesion (hemorrhagic) of stomach and duodenum,胃及十二指腸裘拉弗依病灶（出血性）
+328,K3183,Achlorhydria,胃酸缺乏
+329,K3189,Other diseases of stomach and duodenum,胃及十二指腸其他的疾病
+330,K319,"Disease of stomach and duodenum, unspecified",胃及十二指腸疾病，未特定
+331,K35,Acute appendicitis,急性闌尾炎
+332,K352,Acute appendicitis with generalized peritonitis,急性闌尾炎併廣泛性腹膜炎
+333,K353,Acute appendicitis with localized peritonitis,急性闌尾炎併局部腹膜炎
+334,K358,Other and unspecified acute appendicitis,其他及未明示急性闌尾炎
+335,K3580,Unspecified acute appendicitis,急性闌尾炎，未特定
+336,K3589,Other acute appendicitis,其他急性闌尾炎
+337,K36,Other appendicitis,其他闌尾炎
+338,K37,Unspecified appendicitis,闌尾炎，未特定
+339,K38,Other diseases of appendix,闌尾其他疾病
+340,K380,Hyperplasia of appendix,闌尾增殖
+341,K381,Appendicular concretions,闌尾結石
+342,K382,Diverticulum of appendix,闌尾憩室
+343,K383,Fistula of appendix,闌尾?管
+344,K388,Other specified diseases of appendix,闌尾之其他特定疾病
+345,K389,"Disease of appendix, unspecified",闌尾疾病，未特定
+346,K40,Inguinal hernia,腹股溝疝氣
+347,K400,"Bilateral inguinal hernia, with obstruction, without gangrene",雙側腹股溝疝氣，併阻塞，未伴有壞疽
+348,K4000,"Bilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent",雙側腹股溝疝氣，併阻塞，未伴有壞疽，未特定為復發
+349,K4001,"Bilateral inguinal hernia, with obstruction, without gangrene, recurrent",雙側復發性腹股溝疝氣，併阻塞，未伴有壞疽
+350,K401,"Bilateral inguinal hernia, with gangrene",雙側腹股溝疝氣，併壞疽
+351,K4010,"Bilateral inguinal hernia, with gangrene, not specified as recurrent",雙側腹股溝疝氣，併壞疽，未特定為復發
+352,K4011,"Bilateral inguinal hernia, with gangrene, recurrent",雙側復發性腹股溝疝氣，併壞疽
+353,K402,"Bilateral inguinal hernia, without obstruction or gangrene",雙側腹股溝疝氣，未伴有阻塞或壞疽
+354,K4020,"Bilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent",雙側腹股溝疝氣，未伴有阻塞或壞疽，未特定為復發
+355,K4021,"Bilateral inguinal hernia, without obstruction or gangrene, recurrent",雙側復發性腹股溝疝氣，未伴有阻塞或壞疽
+356,K403,"Unilateral inguinal hernia, with obstruction, without gangrene",單側腹股溝疝氣，併阻塞，未伴有壞疽
+357,K4030,"Unilateral inguinal hernia, with obstruction, without gangrene, not specified as recurrent",單側腹股溝疝氣，併阻塞，未伴有壞疽，未特定為復發
+358,K4031,"Unilateral inguinal hernia, with obstruction, without gangrene, recurrent",單側復發性腹股溝疝氣，併阻塞，未伴有壞疽
+359,K404,"Unliateral inguinal hernia, with gangrene",單側腹股溝疝氣，併壞疽
+360,K4040,"Unilateral inguinal hernia, with gangrene, not specified as recurrent",單側腹股溝疝氣，併壞疽，未特定為復發
+361,K4041,"Unilateral inguinal hernia, with gangrene, recurrent",單側復發性腹股溝疝氣，併壞疽
+362,K409,"Unliateral inguinal hernia, without obstruction or gangrene",單側腹股溝疝氣，未伴有阻塞或壞疽
+363,K4090,"Unilateral inguinal hernia, without obstruction or gangrene, not specified as recurrent","單側腹股溝疝氣, 未伴有阻塞或壞疽,未特定為復發"
+364,K4091,"Unilateral inguinal hernia, without obstruction or gangrene, recurrent","單側復發性腹股溝疝氣, 未伴有阻塞或壞疽"
+365,K41,Femoral hernia,股疝氣
+366,K410,"Bilateral femoral hernia, with obstruction, without gangrene",雙側股疝氣，併阻塞，未伴有壞疽
+367,K4100,"Bilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent","雙側股疝氣併阻塞,未伴有壞疽,未特定為復發"
+368,K4101,"Bilateral femoral hernia, with obstruction, without gangrene, recurrent","雙側復發性股疝氣，併阻塞,未伴有壞疽"
+369,K411,"Bilateral femoral hernia, with gangrene",雙側股疝氣，併壞疽
+370,K4110,"Bilateral femoral hernia, with gangrene, not specified as recurrent","雙側股疝氣，併壞疽,未特定為復發"
+371,K4111,"Bilateral femoral hernia, with gangrene, recurrent",雙側復發性股疝氣，併壞疽
+372,K412,"Bilateral femoral hernia, without obstruction or gangrene",雙側股疝氣，未伴有阻塞或壞疽
+373,K4120,"Bilateral femoral hernia, without obstruction or gangrene, not specified as recurrent","雙側股疝氣,未伴有阻塞或壞疽,未特定為復發"
+374,K4121,"Bilateral femoral hernia, without obstruction or gangrene, recurrent","雙側復發性股疝氣,未伴有阻塞或壞疽"
+375,K413,"Unilateral femoral hernia, with obstruction, without gangrene",單側股疝氣，併阻塞，未伴有壞疽
+376,K4130,"Unilateral femoral hernia, with obstruction, without gangrene, not specified as recurrent","單側股疝氣併阻塞,未伴有壞疽,未特定為復發"
+377,K4131,"Unilateral femoral hernia, with obstruction, without gangrene, recurrent",單側復發性股疝氣，併阻塞，未伴有壞疽
+378,K414,"Unilateral femoral hernia, with gangrene",單側股疝氣，併壞疽
+379,K4140,"Unilateral femoral hernia, with gangrene, not specified as recurrent",單側股疝氣，併壞疽， 未特定為復發
+380,K4141,"Unilateral femoral hernia, with gangrene, recurrent",單側復發性股疝氣，併壞疽
+381,K419,"Unilateral femoral hernia, without obstruction or gangrene",單側股疝氣，未伴有阻塞或壞疽
+382,K4190,"Unilateral femoral hernia, without obstruction or gangrene, not specified as recurrent","單側股疝氣,未伴有阻塞或壞疽,未特定為復發"
+383,K4191,"Unilateral femoral hernia, without obstruction or gangrene, recurrent","單側復發性股疝氣,未伴有阻塞或壞疽"
+384,K42,Umbilical hernia,臍疝氣
+385,K420,"Umbilical hernia with obstruction, without gangrene",臍疝氣，併阻塞，未伴有壞疽
+386,K421,Umbilical hernia with gangrene,臍疝氣，併壞疽
+387,K429,Umbilical hernia without obstruction or gangrene,臍疝氣未伴有阻塞或壞疽
+388,K43,Ventral hernia,腹壁疝氣
+389,K430,"Ventral hernia with obstruction, without gangrene",腹壁疝氣併阻塞，未伴有壞疽
+390,K4300,"Ventral hernia, unspecified, with obstruction, without gangrene","腹壁疝氣,併阻塞，未伴有壞疽，未特定"
+391,K4301,"Incisional hernia, with obstruction, without gangrene",切口性疝氣， 併阻塞，未伴有壞疽
+392,K4309,"Other ventral hernia, with obstruction, without gangrene",其他腹壁疝氣，併阻塞，未伴有壞疽
+393,K431,Ventral hernia with gangrene,腹壁疝氣併壞疽
+394,K4310,"Ventral hernia, unspecified, with gangrene",腹壁疝氣，併壞疽，未特定
+395,K4311,"Incisional hernia, with gangrene",切口性疝氣，併壞疽
+396,K4319,"Other ventral hernia, with gangrene",其他腹壁疝氣，併壞疽
+397,K439,Ventral hernia without obstruction or gangrene,腹壁疝氣未伴有阻塞或壞疽
+398,K4390,"Ventral hernia, unspecified, without obstruction or gangrene",腹壁疝氣，未伴有阻塞或壞疽，未特定
+399,K4391,"Incisional hernia, without obstruction or gangrene","切口性疝氣,未伴有阻塞或壞疽"
+400,K4399,"Other ventral hernia, without obstruction or gangrene","其他腹壁疝氣,未伴有阻塞或壞疽"
+401,K44,Diaphragmatic hernia,橫膈疝氣
+402,K440,"Diaphragmatic hernia with obstruction, without gangrene",橫膈疝氣，併阻塞，未伴有壞疽
+403,K441,Diaphragmatic hernia with gangrene,橫膈疝氣併壞疽
+404,K449,Diaphragmatic hernia without obstruction or gangrene,橫膈疝氣未伴有阻塞或壞疽
+405,K45,Other abdominal hernia,其他腹部疝氣
+406,K450,"Other specified abdominal hernia with obstruction, without gangrene",其他特定的腹部疝氣併阻塞，未伴有壞疽
+407,K451,Other specified abdominal hernia with gangrene,其他特定的腹部疝氣併壞疽
+408,K458,Other specified abdominal hernia without obstruction or gangrene,其他特定的腹部疝氣未伴有阻塞或壞疽
+409,K46,Unspecified abdominal hernia,腹部疝氣
+410,K460,"Unspecified abdominal hernia with obstruction, without gangrene",腹部疝氣併阻塞，未伴有壞疽，未特定
+411,K461,Unspecified abdominal hernia with gangrene,腹部疝氣併壞疽，未特定
+412,K469,Unspecified abdominal hernia without obstruction or gangrene,腹部疝氣未伴有阻塞或壞疽，未特定
+413,K50,Crohn's disease [regional enteritis],克隆氏病[局部性腸炎]
+414,K500,Crohn's disease of small intestine,小腸克隆氏病
+415,K5000,Crohn's disease of small intestine without complications,小腸克隆氏病未伴有併發症
+416,K5001,Crohn's disease of small intestine with complications,小腸克隆氏病伴有併發症
+417,K50011,Crohn's disease of small intestine with rectal bleeding,小腸克隆氏病併直腸出血
+418,K50012,Crohn's disease of small intestine with intestinal obstruction,小腸克隆氏病併腸阻塞
+419,K50013,Crohn's disease of small intestine with fistula,小腸克隆氏病併?管
+420,K50014,Crohn's disease of small intestine with abscess,小腸克隆氏病併膿瘍
+421,K50018,Crohn's disease of small intestine with other complication,小腸克隆氏病併其它併發症
+422,K50019,Crohn's disease of small intestine with unspecified complications,小腸克隆氏病併未特定併發症
+423,K501,Crohn's disease of large intestine,大腸克隆氏病
+424,K5010,Crohn's disease of large intestine without complications,大腸克隆氏病未伴有併發症
+425,K5011,Crohn's disease of large intestine with complications,大腸克隆氏病伴有併發症
+426,K50111,Crohn's disease of large intestine with rectal bleeding,大腸克隆氏病併直腸出血
+427,K50112,Crohn's disease of large intestine with intestinal obstruction,大腸克隆氏病併腸阻塞
+428,K50113,Crohn's disease of large intestine with fistula,大腸克隆氏病併?管
+429,K50114,Crohn's disease of large intestine with abscess,大腸克隆氏病併膿瘍
+430,K50118,Crohn's disease of large intestine with other complication,大腸克隆氏病併其它併發症
+431,K50119,Crohn's disease of large intestine with unspecified complications,大腸克隆氏病併未特定併發症
+432,K508,Crohn's disease of both small and large intestine,小腸及大腸克隆氏病
+433,K5080,Crohn's disease of both small and large intestine without complications,小腸及大腸克隆氏病未伴有併發症
+434,K5081,Crohn's disease of both small and large intestine with complications,小腸及大腸克隆氏病伴有併發症
+435,K50811,Crohn's disease of both small and large intestine with rectal bleeding,小腸及大腸克隆氏病併直腸出血
+436,K50812,Crohn's disease of both small and large intestine with intestinal obstruction,小腸及大腸克隆氏病併腸阻塞
+437,K50813,Crohn's disease of both small and large intestine with fistula,小腸及大腸克隆氏病併?管
+438,K50814,Crohn's disease of both small and large intestine with abscess,小腸及大腸克隆氏病併膿瘍
+439,K50818,Crohn's disease of both small and large intestine with other complication,小腸及大腸克隆氏病併其它併發症
+440,K50819,Crohn's disease of both small and large intestine with unspecified complications,小腸及大腸克隆氏病併未特定併發症，未特定
+441,K509,"Crohn's disease, unspecified",克隆氏病
+442,K5090,"Crohn's disease, unspecified, without complications",克隆氏病，未伴有併發症，未特定
+443,K5091,"Crohn's disease, unspecified, with complications",克隆氏病伴有併發症
+444,K50911,"Crohn's disease, unspecified, with rectal bleeding",克隆氏病，併直腸出血，未特定
+445,K50912,"Crohn's disease, unspecified, with intestinal obstruction",克隆氏病，併腸阻塞，未特定
+446,K50913,"Crohn's disease, unspecified, with fistula",克隆氏病，併廔管，未特定
+447,K50914,"Crohn's disease, unspecified, with abscess",克隆氏病，併膿瘍，未特定
+448,K50918,"Crohn's disease, unspecified, with other complication",克隆氏病，併其他併發症，未特定
+449,K50919,"Crohn's disease, unspecified, with unspecified complications",克隆氏病，併未特定併發症，未特定
+450,K51,Ulcerative colitis,潰瘍性結腸炎
+451,K510,Ulcerative (chronic) pancolitis,潰瘍性（慢性）全結腸炎
+452,K5100,Ulcerative (chronic) pancolitis without complications,潰瘍性（慢性）全結腸炎未伴有併發症
+453,K5101,Ulcerative (chronic) pancolitis with complications,潰瘍性（慢性）全結腸炎伴有併發症
+454,K51011,Ulcerative (chronic) pancolitis with rectal bleeding,潰瘍性（慢性）全結腸炎併直腸出血
+455,K51012,Ulcerative (chronic) pancolitis with intestinal obstruction,潰瘍性（慢性）全結腸炎併腸阻塞
+456,K51013,Ulcerative (chronic) pancolitis with fistula,潰瘍性（慢性）全結腸炎併廔管
+457,K51014,Ulcerative (chronic) panocolitis with abscess,潰瘍性（慢性）全結腸炎併膿瘍
+458,K51018,Ulcerative (chronic) pancolitis with other complication,潰瘍性（慢性）全結腸炎併其他併發症
+459,K51019,Ulcerative (chronic) panocolitis with unspecified complications,潰瘍性（慢性）全結腸炎併未特定之併發症，未特定
+460,K512,Ulcerative (chronic) proctitis,潰瘍性（慢性）直腸炎
+461,K5120,Ulcerative (chronic) proctitis without complications,潰瘍性（慢性）直腸炎未伴有併發症
+462,K5121,Ulcerative (chronic) proctitis wiith complications,潰瘍性（慢性）直腸炎伴有併發症
+463,K51211,Ulcerative (chronic) proctitis with rectal bleeding,潰瘍性（慢性）直腸炎併直腸出血
+464,K51212,Ulcerative (chronic) proctitis with intestinal obstruction,潰瘍性（慢性）直腸炎併腸阻塞
+465,K51213,Ulcerative (chronic) proctitis with fistula,潰瘍性（慢性）直腸炎併?管
+466,K51214,Ulcerative (chronic) proctitis with abscess,潰瘍性（慢性）直腸炎併膿瘍
+467,K51218,Ulcerative (chronic) proctitis with other complication,潰瘍性（慢性）直腸炎併其他併發症
+468,K51219,Ulcerative (chronic) proctitis with unspecified complications,潰瘍性（慢性）直腸炎併未特定併發症
+469,K513,Ulcerative (chronic) rectosigmoiditis,潰瘍性（慢性）直腸乙狀腸炎
+470,K5130,Ulcerative (chronic) rectosigmoiditis without complications,潰瘍性（慢性）直腸乙狀結腸炎未伴有併發症
+471,K5131,Ulcerative (chronic) rectosigmoiditis with complications,潰瘍性（慢性）直腸乙狀腸炎伴有併發症
+472,K51311,Ulcerative (chronic) rectosigmoiditis with rectal bleeding,潰瘍性（慢性）直腸乙狀結腸炎併直腸出血
+473,K51312,Ulcerative (chronic) rectosigmoiditis with intestinal obstruction,潰瘍性（慢性）直腸乙狀結腸炎併腸阻塞
+474,K51313,Ulcerative (chronic) rectosigmoiditis with fistula,潰瘍性（慢性）直腸乙狀結腸炎併?管
+475,K51314,Ulcerative (chronic) rectosigmoiditis with abscess,潰瘍性（慢性）直腸乙狀結腸炎併膿瘍
+476,K51318,Ulcerative (chronic) rectosigmoiditis with other complication,潰瘍性（慢性）直腸乙狀結腸炎併其他併發症
+477,K51319,Ulcerative (chronic) rectosigmoiditis with unspecified complications,潰瘍性（慢性）直腸乙狀結腸炎併未特定之併發症
+478,K514,Inflammatory polyps of colon,結腸發炎性息肉
+479,K5140,Inflammatory polyps of colon without complications,結腸發炎性息肉未伴有併發症
+480,K5141,Inflammatory polyps of colon with complications,結腸發炎性息肉伴有併發症
+481,K51411,Inflammatory polyps of colon with rectal bleeding,結腸發炎性息肉併直腸出血
+482,K51412,Inflammatory polyps of colon with intestinal obstruction,結腸發炎性息肉併腸阻塞
+483,K51413,Inflammatory polyps of colon with fistula,結腸發炎性息肉併?管
+484,K51414,Inflammatory polyps of colon with abscess,結腸發炎性息肉併膿瘍
+485,K51418,Inflammatory polyps of colon with other complication,結腸發炎性息肉併其他併發症
+486,K51419,Inflammatory polyps of colon with unspecified complications,結腸發炎性息肉併未特定之併發症
+487,K515,Left sided colitis,左側結腸炎
+488,K5150,Left sided colitis without complications,左側結腸炎未伴有併發症
+489,K5151,Left sided colitis with complications,左側結腸炎伴有併發症
+490,K51511,Left sided colitis with rectal bleeding,左側結腸炎併直腸出血
+491,K51512,Left sided colitis with intestinal obstruction,左側結腸炎併腸阻塞
+492,K51513,Left sided colitis with fistula,左側結腸炎併?管
+493,K51514,Left sided colitis with abscess,左側結腸炎併膿瘍
+494,K51518,Left sided colitis with other complication,左側結腸炎併其他併發症
+495,K51519,Left sided colitis with unspecified complications,左側結腸炎併未特定之併發症
+496,K518,Other ulcerative colitis,其他潰瘍性結腸炎
+497,K5180,Other ulcerative colitis without complications,其他潰瘍性結腸炎未伴有併發症
+498,K5181,Other ulcerative colitis with complications,其他潰瘍性結腸炎伴有併發症
+499,K51811,Other ulcerative colitis with rectal bleeding,其他潰瘍性結腸炎併直腸出血
+500,K51812,Other ulcerative colitis with intestinal obstruction,其他潰瘍性結腸炎併腸阻塞
+501,K51813,Other ulcerative colitis with fistula,其他潰瘍性結腸炎併廔管
+502,K51814,Other ulcerative colitis with abscess,其他潰瘍性結腸炎併膿瘍
+503,K51818,Other ulcerative colitis with other complication,其他潰瘍性結腸炎併其他併發症
+504,K51819,Other ulcerative colitis with unspecified complications,其他潰瘍性結腸炎併未特定之併發症
+505,K519,"Ulcerative colitis, unspecified",潰瘍性結腸炎
+506,K5190,"Ulcerative colitis, unspecified, without complications","潰瘍性結腸炎,未伴有併發症，未特定"
+507,K5191,"Ulcerative colitis, unspecified, with complications",潰瘍性結腸炎伴有併發症
+508,K51911,"Ulcerative colitis, unspecified with rectal bleeding",潰瘍性結腸炎併直腸出血，未特定
+509,K51912,"Ulcerative colitis, unspecified with intestinal obstruction",潰瘍性結腸炎併腸阻塞，未特定
+510,K51913,"Ulcerative colitis, unspecified with fistula",潰瘍性結腸炎併廔管，未特定
+511,K51914,"Ulcerative colitis, unspecified with abscess",潰瘍性結腸炎併膿瘍，未特定
+512,K51918,"Ulcerative colitis, unspecified with other complication",潰瘍性結腸炎併其他併發症，未特定
+513,K51919,"Ulcerative colitis, unspecified with unspecified complications",潰瘍性結腸炎併未特定之併發症，未特定
+514,K52,Other and unspecified noninfective gastroenteritis and colitis,其他及未明示非傳染性胃腸炎及結腸炎
+515,K520,Gastroenteritis and colitis due to radiation,放射線所致胃腸炎及結腸炎
+516,K521,Toxic gastroenteritis and colitis,毒性胃腸炎及結腸炎
+517,K522,Allergic and dietetic gastroenteritis and colitis,過敏性及飲食性胃腸炎及結腸炎
+518,K528,Other specified noninfective gastroenteritis and colitis,其他明示非傳染性胃腸炎及結腸炎
+519,K5281,Eosinophilic gastritis or gastroenteritis,嗜酸性胃炎或胃腸炎
+520,K5282,Eosinophilic colitis,嗜酸性結腸炎
+521,K5289,Other specified noninfective gastroenteritis and colitis,其他特定非傳染性胃腸炎及結腸炎
+522,K529,"Noninfective gastroenteritis and colitis, unspecified",非傳染性胃腸炎及結腸炎，未特定
+523,K55,Vascular disorders of intestine,腸血管性疾患
+524,K550,Acute vascular disorders of intestine,急性腸血管性疾患
+525,K551,Chronic vascular disorders of intestine,慢性腸血管性疾患
+526,K552,Angiodysplasia of colon,結腸血管發育不良
+527,K5520,Angiodysplasia of colon without hemorrhage,"結腸血管發育不良, 未伴有出血"
+528,K5521,Angiodysplasia of colon with hemorrhage,結腸血管發育不良併出血
+529,K558,Other vascular disorders of intestine,其他腸血管性疾患
+530,K559,"Vascular disorder of intestine, unspecified",腸血管性疾患，未特定
+531,K56,Paralytic ileus and intestinal obstruction without hernia,麻痺性腸阻塞及未伴有疝氣的腸道阻塞
+532,K560,Paralytic ileus,麻痺性腸阻塞
+533,K561,Intussusception,腸套疊
+534,K562,Volvulus,腸扭結
+535,K563,Gallstone ileus,膽石性腸阻塞
+536,K564,Other impaction of intestine,其他腸嵌塞
+537,K565,Intestinal adhesions [bands] with obstruction (postprocedural) (postinfection),腸沾黏[帶]併阻塞（術後）（感染後）
+538,K566,Other and unspecified intestinal obstruction,其他及未明示的腸道阻塞
+539,K5660,Unspecified intestinal obstruction,腸阻塞，未特定
+540,K5669,Other intestinal obstruction,其他之腸阻塞
+541,K567,"Ileus, unspecified",腸阻塞，未特定
+542,K57,Diverticular disease of intestine,腸憩室性疾病
+543,K570,Diverticulitis of small intestine with perforation and abscess,小腸憩室炎併穿孔及膿瘍
+544,K5700,Diverticulitis of small intestine with perforation and abscess without bleeding,小腸憩室炎併穿孔及膿瘍未伴有出血
+545,K5701,Diverticulitis of small intestine with perforation and abscess with bleeding,小腸憩室炎併穿孔及膿瘍併出血
+546,K571,Diverticular disease of small intestine without perforation or abscess,小腸憩室性疾病未伴有穿孔或膿瘍
+547,K5710,Diverticulosis of small intestine without perforation or abscess without bleeding,小腸憩室未伴有穿孔或膿瘍無出血
+548,K5711,Diverticulosis of small intestine without perforation or abscess with bleeding,小腸憩室未伴有穿孔或膿瘍併出血
+549,K5712,Diverticulitis of small intestine without perforation or abscess without bleeding,小腸憩室炎未伴有穿孔或膿瘍無出血
+550,K5713,Diverticulitis of small intestine without perforation or abscess with bleeding,小腸憩室炎未伴有穿孔或膿瘍併出血
+551,K572,Diverticulitis of large intestine with perforation and abscess,大腸憩室炎併穿孔及膿瘍
+552,K5720,Diverticulitis of large intestine with perforation and abscess without bleeding,大腸憩室炎併穿孔及膿瘍未伴有出血
+553,K5721,Diverticulitis of large intestine with perforation and abscess with bleeding,大腸憩室炎併穿孔及膿瘍併出血
+554,K573,Diverticular disease of large intestine without perforation or abscess,大腸憩室性疾病未伴有穿孔或膿瘍
+555,K5730,Diverticulosis of large intestine without perforation or abscess without bleeding,大腸憩室未伴有穿孔或膿瘍無出血
+556,K5731,Diverticulosis of large intestine without perforation or abscess with bleeding,大腸憩室未伴有穿孔或膿瘍併出血
+557,K5732,Diverticulitis of large intestine without perforation or abscess without bleeding,大腸憩室炎未伴有穿孔或膿瘍無出血
+558,K5733,Diverticulitis of large intestine without perforation or abscess with bleeding,大腸憩室炎未伴有穿孔或膿瘍併出血
+559,K574,Diverticulitis of both small and large intestine with perforation and abscess,小腸及大腸憩室炎併穿孔及膿瘍
+560,K5740,Diverticulitis of both small and large intestine with perforation and abscess without bleeding,小腸及大腸憩室炎併穿孔及膿瘍未伴有出血
+561,K5741,Diverticulitis of both small and large intestine with perforation and abscess with bleeding,小腸及大腸憩室炎併穿孔及膿瘍併出血
+562,K575,Diverticular disease of both small and large intestine without perforation or abscess,小腸及大腸憩室性疾病未伴有穿孔或膿瘍
+563,K5750,Diverticulosis of both small and large intestine without perforation or abscess without bleeding,小腸及大腸憩室未伴有穿孔或膿瘍無出血
+564,K5751,Diverticulosis of both small and large intestine without perforation or abscess with bleeding,小腸及大腸憩室未伴有穿孔或膿瘍併出血
+565,K5752,Diverticulitis of both small and large intestine without perforation or abscess without bleeding,小腸及大腸憩室炎未伴有穿孔或膿瘍無出血
+566,K5753,Diverticulitis of both small and large intestine without perforation or abscess with bleeding,小腸及大腸憩室炎未伴有穿孔或膿瘍併出血
+567,K578,"Diverticulitis of intestine, part unspecified, with perforation and abscess",腸憩室炎，未特定部位，併穿孔及膿瘍
+568,K5780,"Diverticulitis of intestine, part unspecified, with perforation and abscess without bleeding",腸憩室炎，未特定部位，併穿孔及膿瘍未伴有出血
+569,K5781,"Diverticulitis of intestine, part unspecified, with perforation and abscess with bleeding",腸憩室炎，未特定部位，併穿孔及膿瘍併出血
+570,K579,"Diverticular disease of intestine, part unspecified, without perforation or abscess",腸憩室性疾病，未特定部位，未伴有穿孔或膿瘍
+571,K5790,"Diverticulosis of intestine, part unspecified, without perforation or abscess without bleeding",腸憩室，未特定部位，未伴有穿孔或膿瘍無出血
+572,K5791,"Diverticulosis of intestine, part unspecified, without perforation or abscess with bleeding",腸憩室，未特定部位，未伴有穿孔或膿瘍併出血
+573,K5792,"Diverticulitis of intestine, part unspecified, without perforation or abscess without bleeding",腸憩室炎，未特定部位，未伴有穿孔或膿瘍無出血
+574,K5793,"Diverticulitis of intestine, part unspecified, without perforation or abscess with bleeding",腸憩室炎，未特定部位，未伴有穿孔或膿瘍併出血
+575,K58,Irritable bowel syndrome,激躁性腸症候群
+576,K580,Irritable bowel syndrome with diarrhea,激躁性腸症候群併腹瀉
+577,K589,Irritable bowel syndrome without diarrhea,激躁性腸症候群未伴有腹瀉
+578,K59,Other functional intestinal disorders,其他功能性腸疾患
+579,K590,Constipation,便秘
+580,K5900,"Constipation, unspecified",便秘，未特定
+581,K5901,Slow transit constipation,緩慢運送型便秘
+582,K5902,Outlet dysfunction constipation,出口功能障礙性便秘
+583,K5909,Other constipation,其他便秘
+584,K591,Functional diarrhea,功能性腹瀉
+585,K592,"Neurogenic bowel, not elsewhere classified",神經性腸症，他處未歸類者
+586,K593,"Megacolon, not elsewhere classified",巨結腸症，他處未歸類者
+587,K594,Anal spasm,肛門痙攣
+588,K598,Other specified functional intestinal disorders,腸之其他特定功能性疾患
+589,K599,"Functional intestinal disorder, unspecified",腸功能性疾患，未特定
+590,K60,Fissure and fistula of anal and rectal regions,肛門及直腸部位裂隙及瘻管
+591,K600,Acute anal fissure,急性肛裂
+592,K601,Chronic anal fissure,慢性肛裂
+593,K602,"Anal fissure, unspecified",肛門裂，未特定
+594,K603,Anal fistula,肛門廔管
+595,K604,Rectal fistula,直腸廔管
+596,K605,Anorectal fistula,肛門直腸廔管
+597,K61,Abscess of anal and rectal regions,肛門及直腸部位膿瘍
+598,K610,Anal abscess,肛門膿瘍
+599,K611,Rectal abscess,直腸膿瘍
+600,K612,Anorectal abscess,肛門直腸膿瘍
+601,K613,Ischiorectal abscess,恥骨直腸膿瘍
+602,K614,Intrasphincteric abscess,括約肌內膿瘍
+603,K62,Other diseases of anus and rectum,肛門及直腸其他疾病
+604,K620,Anal polyp,肛門息肉
+605,K621,Rectal polyp,直腸息肉
+606,K622,Anal prolapse,肛門脫垂
+607,K623,Rectal prolapse,直腸脫垂
+608,K624,Stenosis of anus and rectum,肛門及直腸狹窄
+609,K625,Hemorrhage of anus and rectum,肛門及直腸出血
+610,K626,Ulcer of anus and rectum,肛門及直腸潰瘍
+611,K627,Radiation proctitis,放射性直腸炎
+612,K628,Other specified diseases of anus and rectum,肛門及直腸其他明示疾病
+613,K6281,Anal sphincter tear (healed) (nontraumatic) (old),肛門括約肌撕裂傷(癒合)(非創傷性)(陳舊性)
+614,K6282,Dysplasia of anus,肛門發育不良
+615,K6289,Other specified diseases of anus and rectum,肛門及直腸其他特定疾病
+616,K629,"Disease of anus and rectum, unspecified",肛門及直腸疾病，未特定
+617,K63,Other diseases of intestine,腸其他疾病
+618,K630,Abscess of intestine,腸膿瘍
+619,K631,Perforation of intestine (nontraumatic),腸穿孔(非創傷性)
+620,K632,Fistula of intestine,腸廔管
+621,K633,Ulcer of intestine,腸潰瘍
+622,K634,Enteroptosis,腸下垂
+623,K635,Polyp of colon,結腸息肉
+624,K638,Other specified diseases of intestine,腸之其他明示疾病
+625,K6381,Dieulafoy lesion of intestine,腸之Dieulafoy病灶
+626,K6389,Other specified diseases of intestine,腸之其他特定疾病
+627,K639,"Disease of intestine, unspecified",腸之疾病，未特定
+628,K65,Peritonitis,腹膜炎
+629,K650,Generalized (acute) peritonitis,廣泛性(急性)腹膜炎
+630,K651,Peritoneal abscess,腹膜膿瘍
+631,K652,Spontaneous bacterial peritonitis,自發細菌性腹膜炎
+632,K653,Choleperitonitis,膽汗性腹膜炎
+633,K654,Sclerosing mesenteritis,硬化性腸繫膜炎
+634,K658,Other peritonitis,其他腹膜炎
+635,K659,"Peritonitis, unspecified",腹膜炎，未特定
+636,K66,Other disorders of peritoneum,其他腹膜疾患
+637,K660,Peritoneal adhesions (postprocedural) (postinfection),腹膜黏連（術後）（感染後）
+638,K661,Hemoperitoneum,腹腔積血
+639,K668,Other specified disorders of peritoneum,其他特定的腹膜疾患
+640,K669,"Disorder of peritoneum, unspecified",腹膜疾患，未特定
+641,K67,Disorders of peritoneum in infectious diseases classified elsewhere,歸類於他處的感染症所致之腹膜疾患
+642,K68,Disorders of retroperitoneum,後腹膜疾患
+643,K681,Retroperitoneal abscess,後腹膜膿瘍
+644,K6811,Postprocedural retroperitoneal abscess,術後後腹膜膿瘍
+645,K6812,Psoas muscle abscess,腰肌膿瘍
+646,K6819,Other retroperitoneal abscess,其他後腹膜膿瘍
+647,K689,Other disorders of retroperitoneum,其他後腹膜疾患
+648,K70,Alcoholic liver disease,酒精性肝疾病
+649,K700,Alcoholic fatty liver,酒精性脂肪肝
+650,K701,Alcoholic hepatitis,酒精性肝炎
+651,K7010,Alcoholic hepatitis without ascites,酒精性肝炎未伴有腹水
+652,K7011,Alcoholic hepatitis with ascites,酒精性肝炎併腹水
+653,K702,Alcoholic fibrosis and sclerosis of liver,酒精性肝纖維化及硬化
+654,K703,Alcoholic cirrhosis of liver,酒精性肝硬化
+655,K7030,Alcoholic cirrhosis of liver without ascites,酒精性肝硬化未伴有腹水
+656,K7031,Alcoholic cirrhosis of liver with ascites,酒精性肝硬化併腹水
+657,K704,Alcoholic hepatic failure,酒精性肝衰竭
+658,K7040,Alcoholic hepatic failure without coma,酒精性肝衰竭未伴有昏迷
+659,K7041,Alcoholic hepatic failure with coma,酒精性肝衰竭併昏迷
+660,K709,"Alcoholic liver disease, unspecified",酒精性肝疾病，未特定
+661,K71,Toxic liver disease,毒性肝疾病
+662,K710,Toxic liver disease with cholestasis,毒性肝疾病併膽汁鬱滯
+663,K711,Toxic liver disease with heaptic necrosis,毒性肝疾病併肝壞死
+664,K7110,"Toxic liver disease with hepatic necrosis, without coma",毒性肝疾病併肝壞死未伴有昏迷
+665,K7111,"Toxic liver disease with hepatic necrosis, with coma",毒性肝疾病併肝壞死併昏迷
+666,K712,Toxic liver disease with acute hepatitis,毒性肝疾病併急性肝炎
+667,K713,Toxic liver disease with chronic persistent hepatitis,毒性肝疾病併慢性持續性肝炎
+668,K714,Toxic liver disease with chronic lobular hepatitis,毒性肝疾病併慢性小葉性肝炎
+669,K715,Toxic liver disease with chronic active hepatitis,毒性肝疾病併慢性活動性肝炎
+670,K7150,Toxic liver disease with chronic active hepatitis without ascites,毒性肝疾病併慢性活動性肝炎未伴有腹水
+671,K7151,Toxic liver disease with chronic active hepatitis with ascites,毒性肝疾病併慢性活動性肝炎及腹水
+672,K716,"Toxic liver disease with hepatitis, not elsewhere classified",毒性肝疾病併肝炎，他處未歸類者
+673,K717,Toxic liver disease with fibrosis and cirrhosis of liver,毒性肝疾病併肝纖維化及肝硬化
+674,K718,Toxic liver disease with other disorders of liver,毒性肝疾病併肝其他疾患
+675,K719,"Toxic liver disease, unspecified",毒性肝疾病，未特定
+676,K72,"Hepatic failure, not elsewhere classified",肝衰竭，他處未分類
+677,K720,Acute and subacute hepatic failure,急性及亞急性肝衰竭
+678,K7200,Acute and subacute hepatic failure without coma,急性及亞急性肝衰竭未伴有昏迷
+679,K7201,Acute and subacute hepatic failure with coma,急性及亞急性肝衰竭併昏迷
+680,K721,Chronic hepatic failure,慢性肝衰竭
+681,K7210,Chronic hepatic failure without coma,慢性肝衰竭未伴有昏迷
+682,K7211,Chronic hepatic failure with coma,慢性肝衰竭併昏迷
+683,K729,"Hepatic failure, unspecified",肝衰竭
+684,K7290,"Hepatic failure, unspecified without coma",肝衰竭，未伴有昏迷
+685,K7291,"Hepatic failure, unspecified with coma",肝衰竭，併昏迷
+686,K73,"Chronic hepatitis, not elsewhere classified",慢性肝炎，他處未分類
+687,K730,"Chronic persistent hepatitis, not elsewhere classified",慢性持續性肝炎，他處未歸類者
+688,K731,"Chronic lobular hepatitis, not elsewhere classified",慢性小葉性肝炎，他處未歸類者
+689,K732,"Chronic active hepatitis, not elsewhere classified",慢性活動性肝炎，他處未歸類者
+690,K738,"Other chronic hepatitis, not elsewhere classified",其他慢性肝炎，他處未歸類者
+691,K739,"Chronic hepatitis, unspecified",慢性肝炎，未特定
+692,K74,Fibrosis and cirrhosis of liver,肝纖維化及硬化
+693,K740,Hepatic fibrosis,肝纖維化
+694,K741,Hepatic sclerosis,肝硬化
+695,K742,Hepatic fibrosis with hepatic sclerosis,肝纖維化併肝硬化
+696,K743,Primary biliary cirrhosis,原發性膽道性肝硬化
+697,K744,Secondary biliary cirrhosis,繼發性膽道性肝硬化
+698,K745,"Biliary cirrhosis, unspecified",膽道性硬化，未特定
+699,K746,Other and unspecified cirrhosis of liver,其他及未明示的肝硬化
+700,K7460,Unspecified cirrhosis of liver,肝硬化
+701,K7469,Other cirrhosis of liver,其他的肝硬化
+702,K75,Other inflammatory liver diseases,其他發炎性肝疾病
+703,K750,Abscess of liver,肝膿瘍
+704,K751,Phlebitis of portal vein,門靜脈炎
+705,K752,Nonspecific reactive hepatitis,未特定之反應性肝炎
+706,K753,"Granulomatous hepatitis, not elsewhere classified",肉芽腫性肝炎，他處未歸類者
+707,K754,Autoimmune hepatitis,自體免疫性肝炎
+708,K758,Other specified inflammatory liver diseases,其他明示的發炎性肝疾病
+709,K7581,Nonalcoholic steatohepatitis (NASH),非酒精性脂肪肝炎
+710,K7589,Other specified inflammatory liver diseases,其他特定的發炎性肝疾病
+711,K759,"Inflammatory liver disease, unspecified",發炎性肝疾病，未特定
+712,K76,Other diseases of liver,肝其他疾病
+713,K760,"Fatty (change of) liver, not elsewhere classified",脂肪肝(變化)，他處未歸類者
+714,K761,Chronic passive congestion of liver,慢性被動性肝充血
+715,K762,Central hemorrhagic necrosis of liver,肝中央出血性壞死
+716,K763,Infarction of liver,肝梗塞
+717,K764,Peliosis hepatis,肝紫斑症
+718,K765,Hepatic veno-occlusive disease,肝靜脈閉塞性疾病
+719,K766,Portal hypertension,門脈高壓
+720,K767,Hepatorenal syndrome,肝腎徵候群
+721,K768,Other specified diseases of liver,其他特定之肝疾病
+722,K769,"Liver disease, unspecified",肝之疾病，未特定
+723,K77,Liver disorders in diseases classified elsewhere,歸類於他處疾病所致之肝疾患
+724,K80,Cholelithiasis,膽結石
+725,K800,Calculus of gallbladder with acute cholecystitis,膽囊結石併急性膽囊炎
+726,K8000,Calculus of gallbladder with acute cholecystitis without obstruction,膽囊結石併急性膽囊炎未伴有阻塞
+727,K8001,Calculus of gallbladder with acute cholecystitis with obstruction,膽囊結石併急性膽囊炎與阻塞
+728,K801,Calculus of gallbladder with other cholecystitis,膽囊結石併其他膽囊炎
+729,K8010,Calculus of gallbladder with chronic cholecystitis without obstruction,膽囊結石併慢性膽囊炎未伴有阻塞
+730,K8011,Calculus of gallbladder with chronic cholecystitis with obstruction,膽囊結石併慢性膽囊炎與阻塞
+731,K8012,Calculus of gallbladder with acute and chronic cholecystitis without obstruction,膽囊結石併急慢性膽囊炎未伴有阻塞
+732,K8013,Calculus of gallbladder with acute and chronic cholecystitis with obstruction,膽囊結石併急慢性膽囊炎與阻塞
+733,K8018,Calculus of gallbladder with other cholecystitis without obstruction,膽囊結石併其他膽囊炎未伴有阻塞
+734,K8019,Calculus of gallbladder with other cholecystitis with obstruction,膽囊結石併其他膽囊炎與阻塞
+735,K802,Calculus of gallbladder without cholecystitis,膽囊結石未伴有膽囊炎
+736,K8020,Calculus of gallbladder without cholecystitis without obstruction,膽囊結石未伴有膽囊炎未伴有阻塞
+737,K8021,Calculus of gallbladder without cholecystitis with obstruction,膽囊結石併阻塞未伴有膽囊炎
+738,K803,Calculus of bile duct with cholangitis,膽管結石併膽管炎
+739,K8030,"Calculus of bile duct with cholangitis, unspecified, without obstruction","膽管結石併膽管炎,未伴有阻塞"
+740,K8031,"Calculus of bile duct with cholangitis, unspecified, with obstruction",膽管結石併膽管炎併阻塞
+741,K8032,Calculus of bile duct with acute cholangitis without obstruction,膽管結石併急性膽管炎未伴有阻塞
+742,K8033,Calculus of bile duct with acute cholangitis with obstruction,膽管結石併急性膽管炎併阻塞
+743,K8034,Calculus of bile duct with chronic cholangitis without obstruction,膽管結石併慢性膽管炎未伴有阻塞
+744,K8035,Calculus of bile duct with chronic cholangitis with obstruction,膽管結石併慢性膽管炎併阻塞
+745,K8036,Calculus of bile duct with acute and chronic cholangitis without obstruction,膽管結石併急慢性膽管炎未伴有阻塞
+746,K8037,Calculus of bile duct with acute and chronic cholangitis with obstruction,膽管結石併急慢性膽管炎併阻塞
+747,K804,Calculus of bile duct with cholecystitis,膽管結石併膽囊炎
+748,K8040,"Calculus of bile duct with cholecystitis, unspecified, without obstruction","膽管結石併膽囊炎,未伴有阻塞"
+749,K8041,"Calculus of bile duct with cholecystitis, unspecified, with obstruction",膽管結石併膽囊炎併阻塞
+750,K8042,Calculus of bile duct with acute cholecystitis without obstruction,膽管結石併急性膽囊炎，未伴有阻塞
+751,K8043,Calculus of bile duct with acute cholecystitis with obstruction,膽管結石併急性膽囊炎併阻塞
+752,K8044,Calculus of bile duct with chronic cholecystitis without obstruction,膽管結石併慢性膽囊炎未伴有阻塞
+753,K8045,Calculus of bile duct with chronic cholecystitis with obstruction,膽管結石併慢性膽囊炎併阻塞
+754,K8046,Calculus of bile duct with acute and chronic cholecystitis without obstruction,膽管結石併急慢性膽囊炎未伴有阻塞
+755,K8047,Calculus of bile duct with acute and chronic cholecystitis with obstruction,膽管結石併急慢性膽囊炎併阻塞
+756,K805,Calculus of bile duct without cholangitis or cholecystitis,膽管結石未伴有膽管炎或膽囊炎
+757,K8050,Calculus of bile duct without cholangitis or cholecystitis without obstruction,膽管結石未伴有膽囊炎或膽管炎未伴有阻塞
+758,K8051,Calculus of bile duct without cholangitis or cholecystitis with obstruction,膽管結石併阻塞未伴有膽管炎或膽囊炎
+759,K806,Calculus of gallbladder and bile duct with cholecystitis,膽囊及膽管結石併膽囊炎
+760,K8060,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, without obstruction",膽囊及膽管結石併膽囊炎未伴有阻塞
+761,K8061,"Calculus of gallbladder and bile duct with cholecystitis, unspecified, with obstruction",膽囊及膽管結石併膽囊炎併阻塞
+762,K8062,Calculus of gallbladder and bile duct with acute cholecystitis without obstruction,膽囊及膽管結石併急性膽囊炎未伴有阻塞
+763,K8063,Calculus of gallbladder and bile duct with acute cholecystitis with obstruction,膽囊及膽管結石併急性膽囊炎併阻塞
+764,K8064,Calculus of gallbladder and bile duct with chronic cholecystitis without obstruction,膽囊及膽管結石併慢性膽囊炎未伴有阻塞
+765,K8065,Calculus of gallbladder and bile duct with chronic cholecystitis with obstruction,膽囊及膽管結石併慢性膽囊炎併阻塞
+766,K8066,Calculus of gallbladder and bile duct with acute and chronic cholecystitis without obstruction,膽囊及膽管結石併急慢性膽囊炎未伴有阻塞
+767,K8067,Calculus of gallbladder and bile duct with acute and chronic cholecystitis with obstruction,膽囊及膽管結石併急慢性膽囊炎併阻塞
+768,K807,Calculus of gallbladder and bile duct without cholecystitis,膽囊及膽管結石未伴有膽囊炎
+769,K8070,Calculus of gallbladder and bile duct without cholecystitis without obstruction,膽囊及膽管結石無膽囊炎，未伴有阻塞
+770,K8071,Calculus of gallbladder and bile duct without cholecystitis with obstruction,膽囊及膽管結石無膽囊炎併阻塞
+771,K808,Other cholelithiasis,其他膽結石
+772,K8080,Other cholelithiasis without obstruction,其他膽結石未伴有阻塞
+773,K8081,Other cholelithiasis with obstruction,其他膽結石併阻塞
+774,K81,Cholecystitis,膽囊炎
+775,K810,Acute cholecystitis,急性膽囊炎
+776,K811,Chronic cholecystitis,慢性膽囊炎
+777,K812,Acute cholecystitis with chronic cholecystitis,急性併慢性膽囊炎
+778,K819,"Cholecystitis, unspecified",膽囊炎，未特定
+779,K82,Other diseases of gallbladder,膽囊其他疾病
+780,K820,Obstruction of gallbladder,膽囊阻塞
+781,K821,Hydrops of gallbladder,膽囊水腫
+782,K822,Perforation of gallbladder,膽囊穿孔
+783,K823,Fistula of gallbladder,膽囊廔管
+784,K824,Cholesterolosis of gallbladder,膽囊膽固醇沈著症
+785,K828,Other specified diseases of gallbladder,膽囊之其他特定疾病
+786,K829,"Disease of gallbladder, unspecified",膽囊疾病，未特定
+787,K83,Other diseases of biliary tract,膽道其他疾病
+788,K830,Cholangitis,膽管炎
+789,K831,Obstruction of bile duct,膽管阻塞
+790,K832,Perforation of bile duct,膽管穿孔
+791,K833,Fistula of bile duct,膽管廔管
+792,K834,Spasm of sphincter of Oddi,Oddi括約肌痙攣
+793,K835,Biliary cyst,膽道囊腫
+794,K838,Other specified diseases of biliary tract,膽道之其他特定疾病
+795,K839,"Disease of biliary tract, unspecified",膽道疾病，未特定
+796,K85,Acute pancreatitis,急性胰臟炎
+797,K850,Idiopathic acute pancreatitis,自發性急性胰臟炎
+798,K851,Biliary acute pancreatitis,膽源性急性胰臟炎
+799,K852,Alcohol induced acute pancreatitis,酒精導致之急性胰臟炎
+800,K853,Drug induced acute pancreatitis,藥物導致之急性胰臟炎
+801,K858,Other acute pancreatitis,其他急性胰臟炎
+802,K859,"Acute pancreatitis, unspecified",急性胰臟炎，未特定
+803,K86,Other diseases of pancreas,胰臟其他疾病
+804,K860,Alcohol-induced chronic pancreatitis,酒精導致之慢性胰臟炎
+805,K861,Other chronic pancreatitis,其他慢性胰臟炎
+806,K862,Cyst of pancreas,胰臟囊腫
+807,K863,Pseudocyst of pancreas,胰臟假囊腫
+808,K868,Other specified diseases of pancreas,其他特定胰臟疾病
+809,K869,"Disease of pancreas, unspecified",胰臟疾病，未特定
+810,K87,"Disorders of gallbladder, biliary tract and pancreas in diseases classified elsewhere",歸類於他處疾病所致之膽囊、膽道及胰臟疾患
+811,K90,Intestinal malabsorption,腸吸收不良
+812,K900,Celiac disease,乳糜瀉
+813,K901,Tropical sprue,熱帶口炎性腹瀉
+814,K902,"Blind loop syndrome, not elsewhere classified",盲環徵候群，他處未歸類者
+815,K903,Pancreatic steatorrhea,胰性脂肪性糞便
+816,K904,"Malabsorption due to intolerance, not elsewhere classified",耐受不良所致的吸收不良，他處未歸類者
+817,K908,Other intestinal malabsorption,其他腸吸收不良
+818,K9081,Whipple's disease,Whipple氏疾病(肉芽腫性脂肪消耗病)
+819,K9089,Other intestinal malabsorption,其他腸吸收不良症
+820,K909,"Intestinal malabsorption, unspecified",腸吸收不良症，未特定
+821,K91,"Intraoperative and postprocedural complications and disorders of digestive system, not elsewhere classified",手術中及處置後併發症與消化系統疾患，他處未分類者
+822,K910,Vomiting following gastrointestinal surgery,腸胃手術後之嘔吐症
+823,K911,Postgastric surgery syndromes,胃手術後徵候群
+824,K912,"Postsurgical malabsorption, not elsewhere classified",手術後不吸收症，他處未歸類者
+825,K913,Postprocedural intestinal obstruction,處置後腸阻塞
+826,K915,Postcholecystectomy syndrome,膽囊切除後徵候群
+827,K916,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a procedure,手術中併發出血及血腫於消化系統器官或結構上
+828,K9161,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating a digestive sytem procedure,消化系統手術中併發出血及血腫於消化系統器官或結構上
+829,K9162,Intraoperative hemorrhage and hematoma of a digestive system organ or structure complicating other procedure,其他手術中併發出血及血腫於消化系統器官或結構上
+830,K917,Accidental puncture and laceration of a digestive system organ or structure during a procedure,處置中意外刺穿及裂傷於消化系統器官或結構上
+831,K9171,Accidental puncture and laceration of a digestive system organ or structure during a digestive system procedure,在消化系統處置中意外刺穿及裂傷於消化系統器官或結構上
+832,K9172,Accidental puncture and laceration of a digestive system organ or structure during other procedure,在其他處置中意外穿刺及裂傷於消化系統器官或結構上
+833,K918,Other intraoperative and postprocedural complications and disorders of digestive system,其他手術中及處置後併發症與消化系統疾患
+834,K9181,Other intraoperative complications of digestive system,消化系統手術中其他併發症
+835,K9182,Postprocedural hepatic failure,醫療處置後肝衰竭
+836,K9183,Postprocedural hepatorenal syndrome,醫療處置後肝腎症候群
+837,K9184,Postprocedural hemorrhage and hematoma of a digestive system organ or structure following a procedure,其他處置後併發出血及血腫在消化系統器官或結構上
+838,K91840,Postprocedural hemorrhage and hematoma of a digestive system organ or structure following a digestive system procedure,消化系統處置後併發出血及血腫在消化系統器官或結構上
+839,K91841,Postprocedural hemorrhage and hematoma of a digestive system organ or structure following other procedure,其他處置後併發出血及血腫在消化系統器官或結構上
+840,K9185,Complications of intestinal pouch,腸袋之其他併發症
+841,K91850,Pouchitis,囊炎
+842,K91858,Other complications of intestinal pouch,腸袋之其他併發症
+843,K9189,Other postprocedural complications and disorders of digestive system,其他處置後併發症及消化系統之疾患
+844,K92,Other diseases of digestive system,消化系統其他疾病
+845,K920,Hematemesis,吐血
+846,K921,Melena,黑便
+847,K922,"Gastrointestinal hemorrhage, unspecified",胃腸道出血，未特定
+848,K928,Other specified diseases of the digestive system,消化系統其他明示的疾病
+849,K9281,Gastrointestinal mucositis (ulcerative),胃腸黏膜炎（潰瘍性)
+850,K9289,Other specified diseases of the digestive system,消化系統其他特定的疾病
+851,K929,"Disease of digestive system, unspecified",消化系統疾病，未特定
+852,K94,Complications of artificial openings of the digestive system,消化系統人工造口併發症
+853,K940,Colostomy complications,結腸造口併發症
+854,K9400,"Colostomy complication, unspecified",結腸造口併發症，未特定
+855,K9401,Colostomy hemorrhage,結腸造口出血
+856,K9402,Colostomy infection,結腸造口感染
+857,K9403,Colostomy malfunction,結腸造口功能不良
+858,K9409,Other complications of colostomy,結腸造口之其他併發症
+859,K941,Enterostomy complications,腸造口併發症
+860,K9410,"Enterostomy complication, unspecified",腸造口併發症，未特定
+861,K9411,Enterostomy hemorrhage,腸造口出血
+862,K9412,Enterostomy infection,腸造口感染
+863,K9413,Enterostomy malfunction,腸造口功能不好
+864,K9419,Other complications of enterostomy,腸造口之其他併發症
+865,K942,Gastrostomy complications,胃造口併發症
+866,K9420,"Gastrostomy complication, unspecified",胃造口併發症，未特定
+867,K9421,Gastrostomy hemorrhage,胃造口出血
+868,K9422,Gastrostomy infection,胃造口感染
+869,K9423,Gastrostomy malfunction,胃造口功能不好
+870,K9429,Other complications of gastrostomy,胃造口之其他併發症
+871,K943,Esophagostomy complications,食道造口併發症
+872,K9430,"Esophagostomy complications, unspecified",食道造口併發症，未特定
+873,K9431,Esophagostomy hemorrhage,食道造口出血
+874,K9432,Esophagostomy infection,食道造口感染
+875,K9433,Esophagostomy malfunction,食道造口功能不良
+876,K9439,Other complications of esophagostomy,食道造口之其他併發症

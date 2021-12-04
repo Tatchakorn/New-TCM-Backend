@@ -1,0 +1,1282 @@
+,code,en_name,ch_name
+0,A00,Cholera,霍亂
+1,A000,"Cholera due to Vibrio cholerae 01, biovar cholerae",血清型01 cholerae霍亂弧菌所致之霍亂
+2,A001,"Cholera due to Vibrio cholerae 01, biovar eltor",血清型01 eltor霍亂弧菌所致之霍亂
+3,A009,"Cholera, unspecified",霍亂，未特定
+4,A01,Typhoid and paratyphoid fevers,傷寒及副傷寒
+5,A010,Typhoid fever,傷寒
+6,A0100,"Typhoid fever, unspecified",傷寒，未特定
+7,A0101,Typhoid meningitis,傷寒腦膜炎
+8,A0102,Typhoid fever with heart involvement,傷寒伴有侵及心臟
+9,A0103,Typhoid pneumonia,傷寒肺炎
+10,A0104,Typhoid arthritis,傷寒關節炎
+11,A0105,Typhoid osteomyelitis,傷寒骨髓炎
+12,A0109,Typhoid fever with other complications,傷寒熱伴有其他併發症
+13,A011,Paratyphoid fever A,A型副傷寒
+14,A012,Paratyphoid fever B,B型副傷寒
+15,A013,Paratyphoid fever C,C型副傷寒
+16,A014,"Paratyphoid fever, unspecified",副傷寒，未特定
+17,A02,Other salmonella infections,其他沙門感染
+18,A020,Salmonella enteritis,沙門桿菌腸炎
+19,A021,Salmonella sepsis,沙門桿菌敗血症
+20,A022,Localized salmonella infections,局部沙門感染
+21,A0220,"Localized salmonella infection, unspecified",局部沙門桿菌感染，未特定
+22,A0221,Salmonella meningitis,沙門桿菌腦膜炎
+23,A0222,Salmonella pneumonia,沙門桿菌肺炎
+24,A0223,Salmonella arthritis,沙門桿菌關節炎
+25,A0224,Salmonella osteomyelitis,沙門桿菌骨髓炎
+26,A0225,Salmonella pyelonephritis,沙門桿菌腎盂腎炎
+27,A0229,Salmonella with other localized infection,沙門桿菌伴有其他局部感染
+28,A028,Other specified salmonella infections,其他特定之沙門桿菌感染
+29,A029,"Salmonella infection, unspecified",沙門桿菌感染，未特定
+30,A03,Shigellosis,志賀桿菌病
+31,A030,Shigellosis due to Shigella dysenteriae,痢疾性志賀桿菌所致之志賀桿菌病
+32,A031,Shigellosis due to Shigella flexneri,Shigella flexneri所致之志賀桿菌病
+33,A032,Shigellosis due to Shigella boydii,Shigella boydii所致之志賀桿菌病
+34,A033,Shigellosis due to Shigella sonnei,Shigella sonnei所致之志賀桿菌病
+35,A038,Other shigellosis,其他志賀桿菌病
+36,A039,"Shigellosis, unspecified",志賀桿菌病，未特定
+37,A04,Other bacterial intestinal infections,其他細菌性腸道感染
+38,A040,Enteropathogenic Escherichia coli infection,腸致病性大腸桿菌感染
+39,A041,Enterotoxigenic Escherichia coli infection,產腸毒大腸桿菌感染
+40,A042,Enteroinvasive Escherichia coli infection,腸侵襲性大腸桿菌感染
+41,A043,Enterohemorrhagic Escherichia coli infection,腸出血性大腸桿菌感染
+42,A044,Other intestinal Escherichia coli infections,其他大腸桿菌腸道感染
+43,A045,Campylobacter enteritis,彎曲桿菌腸炎
+44,A046,Enteritis due to Yersinia enterocolitica,小腸結腸耶氏菌所致腸炎
+45,A047,Enterocolitis due to Clostridium difficile,艱難梭菌所致腸道感染
+46,A048,Other specified bacterial intestinal infections,其他特定之細菌性腸道感染
+47,A049,"Bacterial intestinal infection, unspecified",細菌性腸道感染，未特定
+48,A05,"Other bacterial foodborne intoxications,not elsewhere classified",其他細菌性食物中毒、他處未歸類者
+49,A050,Foodborne staphylococcal intoxication,葡萄球菌食物中毒
+50,A051,Botulism food poisoning,臘腸桿菌食物中毒
+51,A052,Foodborne Clostridium perfringens [Clostridium welchii] intoxication,產氣梭狀桿菌(魏氏梭菌)食物中毒
+52,A053,Foodborne Vibrio parahaemolyticus intoxication,副溶血弧菌食物中毒
+53,A054,Foodborne Bacillus cereus intoxication,蜡狀桿菌食物中毒
+54,A055,Foodborne Vibrio vulnificus intoxication,創傷弧菌食物中毒
+55,A058,Other specified bacterial foodborne intoxications,其他特定之細菌性食物中毒
+56,A059,"Bacterial foodborne intoxication, unspecified",細菌性食物中毒，未特定
+57,A06,Amebiasis,阿米巴病
+58,A060,Acute amebic dysentery,急性阿米巴性痢疾
+59,A061,Chronic intestinal amebiasis,慢性腸道阿米巴病
+60,A062,Amebic nondysenteric colitis,阿米巴性非痢疾性大腸炎
+61,A063,Ameboma of intestine,腸道阿米巴腫
+62,A064,Amebic liver abscess,阿米巴性肝膿瘍
+63,A065,Amebic lung abscess,阿米巴性肺膿瘍
+64,A066,Amebic brain abscess,阿米巴性腦膿瘍
+65,A067,Cutaneous amebiasis,阿米巴性皮膚病
+66,A068,Amebic infection of other sites,其他部位阿米巴感染
+67,A0681,Amebic cystitis,阿米巴性膀胱炎
+68,A0682,Other amebic genitourinary infections,其他阿米巴性泌尿生殖道感染
+69,A0689,Other amebic infections,其他阿米巴感染
+70,A069,"Amebiasis, unspecified",阿米巴病，未特定
+71,A07,Other protozoal intestinal diseases,其他原蟲性腸道疾病
+72,A070,Balantidiasis,大腸纖毛蟲病
+73,A071,Giardiasis [lambliasis],梨形鞭毛蟲病[腸梨形蟲病]
+74,A072,Cryptosporidiosis,隱孢子蟲病
+75,A073,Isosporiasis,孢球蟲病
+76,A074,Cyclosporiasis,環孢蟲病
+77,A078,Other specified protozoal intestinal diseases,其他特定原蟲性腸道疾病
+78,A079,"Protozoal intestinal disease, unspecified",原蟲性腸道疾病，未特定
+79,A08,Viral and other specified intestinal infections,病毒及其他特定腸道感染
+80,A080,Rotaviral enteritis,輪狀病毒性腸炎
+81,A081,Acute gastroenteropathy due to Norwalk agent and other small round viruses,類諾瓦克病毒及其他小型球型病毒所致之急性胃腸病變
+82,A0811,Acute gastroenteropathy due to Norwalk agent,類諾瓦克病毒所致之急性胃腸病變
+83,A0819,Acute gastroenteropathy due to other small round viruses,小型球型病毒所致之急性胃腸病變
+84,A082,Adenoviral enteritis,腺病毒性腸炎
+85,A083,Other viral enteritis,其他病毒性腸炎
+86,A0831,Calicivirus enteritis,杯狀病毒性腸炎
+87,A0832,Astrovirus enteritis,星狀病毒性腸炎
+88,A0839,Other viral enteritis,其他病毒性腸炎
+89,A084,"Viral intestinal infection, unspecified",病毒性腸道病毒感染，未特定
+90,A088,Other specified intestinal infections,其他特定之腸道感染
+91,A09,"Infectious gastroenteritis and colitis, unspecified",感染性胃腸炎，腸炎及大腸炎，未特定
+92,A15,Respiratory tuberculosis,呼吸道結核病
+93,A150,Tuberculosis of lung,肺結核
+94,A154,Tuberculosis of intrathoracic lymph nodes,胸腔內淋巴結結核
+95,A155,"Tuberculosis of larynx, trachea and bronchus",喉、氣管及支氣管結核
+96,A156,Tuberculous pleurisy,結核性肋膜炎
+97,A157,Primary respiratory tuberculosis,原發性結核
+98,A158,Other respiratory tuberculosis,其他呼吸道結核
+99,A159,Respiratory tuberculosis unspecified,呼吸道結核病，未特定
+100,A17,Tuberculosis of nervous system,神經系統結核病
+101,A170,Tuberculous meningitis,結核性腦膜炎
+102,A171,Meningeal tuberculoma,腦膜性結核瘤
+103,A178,Other tuberculosis of nervous system,其他神經系統結核病
+104,A1781,Tuberculoma of brain and spinal cord,腦和脊髓之結核瘤
+105,A1782,Tuberculous meningoencephalitis,結核性腦膜腦炎
+106,A1783,Tuberculous neuritis,結核性神經炎
+107,A1789,Other tuberculosis of nervous system,其他神經系統結核病
+108,A179,"Tuberculosis of nervous system, unspecified",神經系統結核病，未特定
+109,A18,Tuberculosis of other organs,其他器官結核病
+110,A180,Tuberculosis of bones and joints,骨骼及關節結核病
+111,A1801,Tuberculosis of spine,脊椎結核病
+112,A1802,Tuberculous arthritis of other joints,其他關節之結核性關節炎
+113,A1803,Tuberculosis of other bones,其他骨骼結核病
+114,A1809,Other musculoskeletal tuberculosis,其他肌肉骨骼結核病
+115,A181,Tuberculosis of genitourinary system,生殖泌尿系統結核病
+116,A1810,"Tuberculosis of genitourinary system, unspecified",生殖泌尿系統結核，未特定
+117,A1811,Tuberculosis of kidney and ureter,腎和輸尿管結核
+118,A1812,Tuberculosis of bladder,膀胱結核
+119,A1813,Tuberculosis of other urinary organs,其他泌尿器官結核
+120,A1814,Tuberculosis of prostate,前列腺結核
+121,A1815,Tuberculosis of other male genital organs,其他男性生殖器官結核
+122,A1816,Tuberculosis of cervix,子宮頸結核
+123,A1817,Tuberculous female pelvic inflammatory disease,女性結核性骨盆腔炎性疾病
+124,A1818,Tuberculosis of other female genital organs,其他女性生殖器官結核
+125,A182,Tuberculous peripheral lymphadenopathy,結核性周邊淋巴腺病變
+126,A183,"Tuberculosis of intestines, peritoneum and mesenteric glands",腸道、腹膜及腸繫膜腺體結核病
+127,A1831,Tuberculous peritonitis,結核性腹膜炎
+128,A1832,Tuberculous enteritis,結核性腸炎
+129,A1839,Retroperitoneal tuberculosis,腹膜後結核病
+130,A184,Tuberculosis of skin and subcutaneous tissue,皮膚及皮下組織之結核
+131,A185,Tuberculosis of eye,眼結核病
+132,A1850,"Tuberculosis of eye, unspecified",眼結核，未特定
+133,A1851,Tuberculous episcleritis,結核性上鞏膜炎
+134,A1852,Tuberculous keratitis,結核性角膜炎
+135,A1853,Tuberculous chorioretinitis,結核性脈絡膜網膜炎
+136,A1854,Tuberculous iridocyclitis,結核性虹膜睫狀體炎
+137,A1859,Other tuberculosis of eye,其他眼結核
+138,A186,Tuberculosis of (inner) (middle) ear,耳（內耳）（中耳）結核
+139,A187,Tuberculosis of adrenal glands,腎上腺結核
+140,A188,Tuberculosis of other specified organs,其他特定器官結核病
+141,A1881,Tuberculosis of thyroid gland,甲狀腺結核
+142,A1882,Tuberculosis of other endocrine glands,其他內分泌腺體結核
+143,A1883,"Tuberculosis of digestive tract organs, not elsewhere classified",消化道器官結核，他處未歸類者
+144,A1884,Tuberculosis of heart,心臟結核
+145,A1885,Tuberculosis of spleen,脾結核
+146,A1889,Tuberculosis of other sites,其他部位結核
+147,A19,Miliary tuberculosis,粟粒性結核病
+148,A190,Acute miliary tuberculosis of a single specified site,單一部位之急性粟粒性結核
+149,A191,Acute miliary tuberculosis of multiple sites,多重(發)部位之急性粟粒性結核
+150,A192,"Acute miliary tuberculosis, unspecified",急性粟粒狀結核，未特定
+151,A198,Other miliary tuberculosis,其他粟粒狀結核
+152,A199,"Miliary tuberculosis, unspecified",粟粒狀結核，未特定
+153,A20,Plague,鼠疫
+154,A200,Bubonic plague,腺鼠疫
+155,A201,Cellulocutaneous plague,蜂窩組織皮膚性鼠疫
+156,A202,Pneumonic plague,肺炎型鼠疫
+157,A203,Plague meningitis,鼠疫腦膜炎
+158,A207,Septicemic plague,敗血性鼠疫
+159,A208,Other forms of plague,其他型鼠疫
+160,A209,"Plague, unspecified",鼠疫，未特定
+161,A21,Tularemia,兔熱病
+162,A210,Ulceroglandular tularemia,潰瘍腺體型兔熱病
+163,A211,Oculoglandular tularemia,眼腺體型兔熱病
+164,A212,Pulmonary tularemia,肺型兔熱病
+165,A213,Gastrointestinal tularemia,胃腸型兔熱病
+166,A217,Generalized tularemia,廣泛性兔熱病
+167,A218,Other forms of tularemia,其他型兔熱病
+168,A219,"Tularemia, unspecified",兔熱病，未特定
+169,A22,Anthrax,炭疽病
+170,A220,Cutaneous anthrax,皮膚炭疽病
+171,A221,Pulmonary anthrax,肺炭疽病
+172,A222,Gastrointestinal anthrax,腸胃炭疽病
+173,A227,Anthrax sepsis,炭疽性敗血症
+174,A228,Other forms of anthrax,其他型炭疽病
+175,A229,"Anthrax, unspecified",炭疽病，未特定
+176,A23,Brucellosis,布魯士桿菌病
+177,A230,Brucellosis due to Brucella melitensis,地中海型布魯士桿菌所致之布魯士桿菌病
+178,A231,Brucellosis due to Brucella abortus,流產型布魯士桿菌所致之布魯士桿菌病
+179,A232,Brucellosis due to Brucella suis,豚型布魯士桿菌所致病魯士桿菌病
+180,A233,Brucellosis due to Brucella canis,犬型布魯士桿菌所致之布魯士桿菌病
+181,A238,Other brucellosis,其他布魯士桿菌病
+182,A239,"Brucellosis, unspecified",布魯士桿菌病，未特定
+183,A24,Glanders and melioidosis,馬鼻疽及類鼻疽病
+184,A240,Glanders,馬鼻疽
+185,A241,Acute and fulminating melioidosis,急性及猛爆型類鼻疽病
+186,A242,Subacute and chronic melioidosis,亞急性和慢性類鼻疽病
+187,A243,Other melioidosis,其他類鼻疽病
+188,A249,"Melioidosis, unspecified",類鼻疽病，未特定
+189,A25,Rat-bite fevers,鼠咬熱
+190,A250,Spirillosis,螺旋菌病
+191,A251,Streptobacillosis,鏈桿菌病
+192,A259,"Rat-bite fever, unspecified",鼠咬熱，未特定
+193,A26,Erysipeloid,類丹毒
+194,A260,Cutaneous erysipeloid,皮膚類丹毒
+195,A267,Erysipelothrix sepsis,單毒絲狀菌敗血症
+196,A268,Other forms of erysipeloid,其他型類丹毒
+197,A269,"Erysipeloid, unspecified",類丹毒，未特定
+198,A27,Leptospirosis,鉤端螺旋體病
+199,A270,Leptospirosis icterohemorrhagica,黃疸出血性鉤端螺旋體病
+200,A278,Other forms of leptospirosis,其他型鉤端螺旋體病
+201,A2781,Aseptic meningitis in leptospirosis,鉤端螺旋體引起之無菌性腦膜炎
+202,A2789,Other forms of leptospirosis,其他型細鉤端螺旋體病
+203,A279,"Leptospirosis, unspecified",細鉤端螺旋體病，未特定
+204,A28,"Other zoonotic bacterial diseases, not elsewhere classified",其他人畜共通細菌性傳染病、他處未歸類者
+205,A280,Pasteurellosis,巴斯德桿菌病
+206,A281,Cat-scratch disease,貓抓病
+207,A282,Extraintestinal yersiniosis,腸道外耶希尼菌病
+208,A288,"Other specified zoonotic bacterial diseases, not elsewhere classified",其他特定之細菌性人畜共通傳染病，他處未歸類者
+209,A289,"Zoonotic bacterial disease, unspecified",人畜共通細菌性傳染病，未特定
+210,A30,Leprosy [Hansen's disease],痲瘋 [漢生氏病]
+211,A300,Indeterminate leprosy,未定型痲瘋(癩病)
+212,A301,Tuberculoid leprosy,類結核型痲瘋(癩病)
+213,A302,Borderline tuberculoid leprosy,邊緣性結核痲瘋(癩病)
+214,A303,Borderline leprosy,邊際型痲瘋(癩病)
+215,A304,Borderline lepromatous leprosy,邊際型癩瘤型痲瘋(癩病)
+216,A305,Lepromatous leprosy,癩病瘤型痲瘋(癩病)
+217,A308,Other forms of leprosy,其他型痲瘋(癩病)
+218,A309,"Leprosy, unspecified",痲瘋(癩病)，未特定
+219,A31,Infection due to other mycobacteria,其他分枝桿菌感染
+220,A310,Pulmonary mycobacterial infection,肺分枝桿菌感染
+221,A311,Cutaneous mycobacterial infection,皮膚分枝桿菌感染
+222,A312,Disseminated mycobacterium avium-intracellulare complex (DMAC),擴散性禽-細胞內複合型分枝桿菌症
+223,A318,Other mycobacterial infections,其他分枝桿菌感染
+224,A319,"Mycobacterial infection, unspecified",分枝桿菌感染，未特定
+225,A32,Listeriosis,李斯特菌病
+226,A320,Cutaneous listeriosis,皮膚李斯特菌病
+227,A321,Listerial meningitis and meningoencephalitis,李斯特菌性腦膜炎及腦膜腦炎
+228,A3211,Listerial meningitis,李斯特菌性腦膜炎
+229,A3212,Listerial meningoencephalitis,李司特菌性腦膜腦炎
+230,A327,Listerial sepsis,李司特菌性敗血症
+231,A328,Other forms of listeriosis,其他型李斯特菌
+232,A3281,Oculoglandular listeriosis,眼腺體性李司特菌病
+233,A3282,Listerial endocarditis,李司特菌性心內膜炎
+234,A3289,Other forms of listeriosis,其他型李司特菌病
+235,A329,"Listeriosis, unspecified",李司特菌病，未特定
+236,A33,Tetanus neonatorum,新生兒破傷風
+237,A34,Obstetrical tetanus,產科破傷風
+238,A35,Other tetanus,其他破傷風
+239,A36,Diphtheria,白喉
+240,A360,Pharyngeal diphtheria,咽白喉
+241,A361,Nasopharyngeal diphtheria,鼻咽白喉
+242,A362,Laryngeal diphtheria,喉部白喉
+243,A363,Cutaneous diphtheria,皮膚白喉
+244,A368,Other diphtheria,其他白喉
+245,A3681,Diphtheritic cardiomyopathy,白喉性心肌病變
+246,A3682,Diphtheritic radiculomyelitis,白喉性脊髓神經炎
+247,A3683,Diphtheritic polyneuritis,白喉性多發神經炎
+248,A3684,Diphtheritic tubulo-interstitial nephropathy,白喉性腎小管間質腎病變
+249,A3685,Diphtheritic cystitis,白喉性膀胱炎
+250,A3686,Diphtheritic conjunctivitis,白喉性結膜炎
+251,A3689,Other diphtheritic complications,白喉性其他併發症
+252,A369,"Diphtheria, unspecified",白喉，未特定
+253,A37,Whooping cough,百日咳
+254,A370,Whooping cough due to Bordetella pertussis,百日咳球桿菌所致之百日咳
+255,A3700,Whooping cough due to Bordetella pertussis without pneumonia,百日咳球桿菌所致之百日咳未伴有肺炎
+256,A3701,Whooping cough due to Bordetella pertussis with pneumonia,百日咳球桿菌所致之百日咳伴有肺炎
+257,A371,Whooping cough due to Bordetella parapertussis,副百日咳球桿菌所致之百日咳
+258,A3710,Whooping cough due to Bordetella parapertussis without pneumonia,副百日咳球桿菌所致之百日咳未伴有肺炎
+259,A3711,Whooping cough due to Bordetella parapertussis with pneumonia,副百日咳球桿菌所致之百日咳伴有肺炎
+260,A378,Whooping cough due to other Bordetella species,其他球桿菌所致之百日咳
+261,A3780,Whooping cough due to other Bordetella species without pneumonia,其他博德氏桿菌所致之百日咳未伴有肺炎
+262,A3781,Whooping cough due to other Bordetella species with pneumonia,其他博德氏桿菌所致之百日咳伴有肺炎
+263,A379,"Whooping cough, unspecified species",未特定病原體之百日咳
+264,A3790,"Whooping cough, unspecified species without pneumonia",未特定病原體之百日咳未伴有肺炎
+265,A3791,"Whooping cough, unspecified species with pneumonia",未特定病原體之百日咳伴有肺炎
+266,A38,Scarlet fever,猩紅熱
+267,A380,Scarlet fever with otitis media,猩紅熱伴有中耳炎
+268,A381,Scarlet fever with myocarditis,猩紅熱伴有心肌炎
+269,A388,Scarlet fever with other complications,猩紅熱伴有其他伴有發症
+270,A389,"Scarlet fever, uncomplicated",猩紅熱，無併發症
+271,A39,Meningococcal infection,腦膜炎球菌感染
+272,A390,Meningococcal meningitis,腦膜炎球菌性腦膜炎
+273,A391,Waterhouse-Friderichsen syndrome,Waterhouse-Friderichsen症候群
+274,A392,Acute meningococcemia,急性腦膜炎球菌菌血症
+275,A393,Chronic meningococcemia,慢性腦膜炎球菌菌血症
+276,A394,"Meningococcemia, unspecified",腦膜炎球菌菌血症，未特定
+277,A395,Meningococcal heart disease,腦膜炎球菌心臟病
+278,A3950,"Meningococcal carditis, unspecified",腦膜炎球菌性心臟炎，未特定
+279,A3951,Meningococcal endocarditis,腦膜炎球菌心內膜炎
+280,A3952,Meningococcal myocarditis,腦膜炎球菌心肌炎
+281,A3953,Meningococcal pericarditis,腦膜炎球菌心包膜炎
+282,A398,Other meningococcal infections,其他腦膜炎球菌感染
+283,A3981,Meningococcal encephalitis,腦膜炎球菌性腦炎
+284,A3982,Meningococcal retrobulbar neuritis,腦膜炎球菌性眼球後神經炎
+285,A3983,Meningococcal arthritis,腦膜炎球菌性關節炎
+286,A3984,Postmeningococcal arthritis,腦膜炎球菌感染後關節炎
+287,A3989,Other meningococcal infections,其他腦膜炎球菌感染
+288,A399,"Meningococcal infection, unspecified",腦膜炎球菌感染症，未特定
+289,A40,Streptococcal sepsis,鏈球菌性敗血症
+290,A400,"Sepsis due to streptococcus, group A",A型鏈球菌所致之敗血症
+291,A401,"Sepsis due to streptococcus, group B",B型鏈球菌所致之敗血症
+292,A403,Sepsis due to Streptococcus pneumoniae,肺炎球菌所致之敗血症
+293,A408,Other streptococcal sepsis,其他鏈球菌性敗血症
+294,A409,"Streptococcal sepsis, unspecified",鏈球菌性敗血症，未特定
+295,A41,Other sepsis,其他敗血症
+296,A410,Sepsis due to Staphylococcus aureus,金黃色葡萄球菌所致之敗血症
+297,A411,Sepsis due to other specified staphylococcus,其他特定葡萄球菌所致之敗血症
+298,A412,Sepsis due to unspecified staphylococcus,未特定之葡萄球菌所致之敗血症
+299,A413,Sepsis due to Hemophilus influenzae,流行性感冒嗜血桿菌所致之敗血症
+300,A414,Sepsis due to anaerobes,厭氧菌所致之敗血症
+301,A415,Sepsis due to other Gram-negative organisms,其他革蘭氏陰性菌所致之敗血症
+302,A4150,"Gram-negative sepsis, unspecified",革蘭氏陰性菌敗血症，未特定
+303,A4151,Sepsis due to Escherichia coli [E. coli],大腸桿菌性敗血症
+304,A4152,Sepsis due to Pseudomonas,綠膿桿菌所致之敗血症
+305,A4153,Sepsis due to Serratia,Serratia氏桿菌所致之敗血症
+306,A4159,Other Gram-negative sepsis,其他革蘭氏陰性菌敗血症
+307,A418,Other specified sepsis,其他特定之敗血症
+308,A4181,Sepsis due to Enterococcus,腸球菌所致之敗血症
+309,A4189,Other specified sepsis,其他特定之敗血症
+310,A419,"Sepsis, unspecified",敗血症，未特定
+311,A42,Actinomycosis,放線菌病
+312,A420,Pulmonary actinomycosis,肺放線菌病
+313,A421,Abdominal actinomycosis,腹腔放線菌病
+314,A422,Cervicofacial actinomycosis,頸及顏面放線菌病
+315,A427,Actinomycotic sepsis,放線菌性敗血症
+316,A428,Other forms of actinomycosis,其他型放線菌病
+317,A4281,Actinomycotic meningitis,放線菌性腦膜炎
+318,A4282,Actinomycotic encephalitis,放線菌性腦炎
+319,A4289,Other forms of actinomycosis,其他型放線菌病
+320,A429,"Actinomycosis, unspecified",放線菌病，未特定
+321,A43,Nocardiosis,諾卡菌病
+322,A430,Pulmonary nocardiosis,肺諾卡菌病
+323,A431,Cutaneous nocardiosis,皮膚諾卡氏菌病
+324,A438,Other forms of nocardiosis,其他型諾卡菌病
+325,A439,"Nocardiosis, unspecified",諾卡菌病，未特定
+326,A44,Bartonellosis,巴東蟲病
+327,A440,Systemic bartonellosis,全身性巴東蟲病
+328,A441,Cutaneous and mucocutaneous bartonellosis,皮膚及皮膚黏膜巴東蟲病
+329,A448,Other forms of bartonellosis,其他型巴東蟲病
+330,A449,"Bartonellosis, unspecified",巴東菌症，未特定
+331,A46,Erysipelas,丹毒
+332,A48,"Other bacterial diseases, not elsewhere classified",其他細菌疾病，他處未歸類者
+333,A480,Gas gangrene,氣性壞疽
+334,A481,Legionnaires' disease,退伍軍人症
+335,A482,Nonpneumonic Legionnaires' disease [Pontiac fever],非肺炎性退伍軍人病[Pontiac熱]
+336,A483,Toxic shock syndrome,中毒性休克症候群
+337,A484,Brazilian purpuric fever,巴西紫斑熱
+338,A485,Other specified botulism,其他特定肉毒桿菌病
+339,A4851,Infant botulism,嬰兒型肉毒桿菌病
+340,A4852,Wound botulism,傷口性肉毒桿菌病
+341,A488,Other specified bacterial diseases,其他特定細菌性疾病
+342,A49,Bacterial infection of unspecified site,未特定部位之細菌感染
+343,A490,"Staphylococcal infection, unspecified site",未特定部位之葡萄球菌感染
+344,A491,"Streptococcal infection, unspecified site",未特定部位之鏈球菌感染
+345,A492,"Hemophilus influenzae infection, unspecified site",未特定部位之流行性感冒嗜血桿菌感染
+346,A493,"Mycoplasma infection, unspecified site",未特定部位之黴漿菌感染
+347,A498,Other bacterial infections of unspecified site,其他未特定部位之細菌感染
+348,A499,"Bacterial infection, unspecified",細菌感染，未特定
+349,A50,Congenital syphilis,先天性梅毒
+350,A500,"Early congenital syphilis, symptomatic",有症狀之早期先天性梅毒
+351,A5001,Early congenital syphilitic oculopathy,早期先天性梅毒性眼病變
+352,A5002,Early congenital syphilitic osteochondropathy,早期先天性梅毒性骨軟骨病變
+353,A5003,Early congenital syphilitic pharyngitis,早期先天性梅毒性咽炎
+354,A5004,Early congenital syphilitic pneumonia,早期先天性梅毒性肺炎
+355,A5005,Early congenital syphilitic rhinitis,早期先天性梅毒性鼻炎
+356,A5006,Early cutaneous congenital syphilis,早期先天性皮膚梅毒
+357,A5007,Early mucocutaneous congenital syphilis,早期先天性皮膚黏膜梅毒
+358,A5008,Early visceral congenital syphilis,早期先天性內臟梅毒
+359,A5009,"Other early congenital syphilis, symptomatic",其他有症狀之早期先天性梅毒
+360,A501,"Early congenital syphilis, latent",潛伏性之早期先天性梅毒
+361,A502,"Early congenital syphilis, unspecified",早期先天性梅毒，未特定
+362,A503,Late congenital syphilitic oculopathy,晚期先天梅毒性眼病變
+363,A5030,"Late congenital syphilitic oculopathy, unspecified",晚期先天梅毒性眼病變，未特定
+364,A5031,Late congenital syphilitic interstitial keratitis,晚期先天梅毒性間質角膜炎
+365,A5032,Late congenital syphilitic chorioretinitis,晚期先天梅毒性脈絡膜視網膜炎
+366,A5039,Other late congenital syphilitic oculopathy,其他晚期先天性梅毒眼病變
+367,A504,Late congenital neurosyphilis [juvenile neurosyphilis],晚期先天性神經梅毒 [幼年神經梅毒]
+368,A5040,"Late congenital neurosyphilis, unspecified",晚期先天性神經梅毒，未特定
+369,A5041,Late congenital syphilitic meningitis,晚期先天性梅毒性腦膜炎
+370,A5042,Late congenital syphilitic encephalitis,晚期先天性梅毒性腦炎
+371,A5043,Late congenital syphilitic polyneuropathy,晚期先天性神經梅毒多神經病變
+372,A5044,Late congenital syphilitic optic nerve atrophy,晚期先天性梅毒視神經萎縮
+373,A5045,Juvenile general paresis,幼年全身性輕癱症
+374,A5049,Other late congenital neurosyphilis,其他晚期先天性神經梅毒
+375,A505,"Other late congenital syphilis, symptomatic",有症狀之其他晚期先天性梅毒
+376,A5051,Clutton's joints,克勞頓氏關節
+377,A5052,Hutchinson's teeth,漢金森氏牙
+378,A5053,Hutchinson's triad,漢金森氏三聯症
+379,A5054,Late congenital cardiovascular syphilis,晚期先天性心血管梅毒
+380,A5055,Late congenital syphilitic arthropathy,晚期先天性梅毒關節病變
+381,A5056,Late congenital syphilitic osteochondropathy,晚期先天性梅毒骨軟骨病變
+382,A5057,Syphilitic saddle nose,梅毒性馬鞍鼻
+383,A5059,"Other late congenital syphilis, symptomatic",有症狀之其他晚期先天性梅毒
+384,A506,"Late congenital syphilis, latent",潛伏性之晚期先天性梅毒
+385,A507,"Late congenital syphilis, unspecified",晚期先天性梅毒，未特定
+386,A509,"Congenital syphilis, unspecified",先天性梅毒，未特定
+387,A51,Early syphilis,早期梅毒
+388,A510,Primary genital syphilis,第一期(原發性)生殖器梅毒
+389,A511,Primary anal syphilis,第一期(原發性)肛門梅毒
+390,A512,Primary syphilis of other sites,其他部位第一期(原發性)梅毒
+391,A513,Secondary syphilis of skin and mucous membranes,第二期(續發性)皮膚及黏膜梅毒
+392,A5131,Condyloma latum,扁平濕疣
+393,A5132,Syphilitic alopecia,梅毒性禿髮
+394,A5139,Other secondary syphilis of skin,其他第二期(續發性)皮膚梅毒
+395,A514,Other secondary syphilis,其他第二期(續發性)梅毒
+396,A5141,Secondary syphilitic meningitis,續發性梅毒腦膜炎
+397,A5142,Secondary syphilitic female pelvic disease,第二期(續發性)梅毒性女性骨盆發炎性疾病
+398,A5143,Secondary syphilitic oculopathy,第二期(續發性)梅毒性眼病變
+399,A5144,Secondary syphilitic nephritis,第二期(續發性)梅毒腎炎
+400,A5145,Secondary syphilitic hepatitis,第二期(續發性)梅毒肝炎
+401,A5146,Secondary syphilitic osteopathy,第二期(續發性)梅毒骨病變
+402,A5149,Other secondary syphilitic conditions,其他第二期(續發性)梅毒
+403,A515,"Early syphilis, latent",潛伏性早期梅毒
+404,A519,"Early syphilis, unspecified",早期梅毒，未特定
+405,A52,Late syphilis,晚期梅毒
+406,A520,Cardiovascular and cerebrovascular syphilis,心臟血管及心臟血管梅毒
+407,A5200,"Cardiovascular syphilis, unspecified",心臟血管梅毒，未特定
+408,A5201,Syphilitic aneurysm of aorta,梅毒性主動脈動脈瘤
+409,A5202,Syphilitic aortitis,梅毒性主動脈炎
+410,A5203,Syphilitic endocarditis,梅毒性心內膜炎
+411,A5204,Syphilitic cerebral arteritis,梅毒性腦動脈炎
+412,A5205,Other cerebrovascular syphilis,其他心臟血管梅毒
+413,A5206,Other syphilitic heart involvement,其他侵及心臟之梅毒
+414,A5209,Other cardiovascular syphilis,其他心血管梅毒
+415,A521,Symptomatic neurosyphilis,症狀性神經梅毒
+416,A5210,"Symptomatic neurosyphilis, unspecified",症狀性神經梅毒，未特定
+417,A5211,Tabes dorsalis,脊髓癆
+418,A5212,Other cerebrospinal syphilis,其他腦脊髓梅毒
+419,A5213,Late syphilitic meningitis,晚期梅毒性腦膜炎
+420,A5214,Late syphilitic encephalitis,晚期梅毒性腦炎
+421,A5215,Late syphilitic neuropathy,晚期梅毒神經病變
+422,A5216,Charcot's arthropathy (tabetic),Charcot(氏)關節病變
+423,A5217,General paresis,全身性輕癱症
+424,A5219,Other symptomatic neurosyphilis,其他症狀性神經梅毒
+425,A522,Asymptomatic neurosyphilis,無症狀神經性梅毒
+426,A523,"Neurosyphilis, unspecified",神經性梅毒，未特定
+427,A527,Other symptomatic late syphilis,其他症狀性神經晚期梅毒
+428,A5271,Late syphilitic oculopathy,晚期梅毒性眼病變
+429,A5272,Syphilis of lung and bronchus,肺及支氣管梅毒
+430,A5273,Symptomatic late syphilis of other respiratory organs,其他呼吸器官之症狀性晚期梅毒
+431,A5274,Syphilis of liver and other viscera,肝及其他臟器之梅毒
+432,A5275,Syphilis of kidney and ureter,腎及輸尿管梅毒
+433,A5276,Other genitourinary symptomatic late syphilis,其他泌尿生殖器之症狀性晚期梅毒
+434,A5277,Syphilis of bone and joint,骨及關節梅毒
+435,A5278,Syphilis of other musculoskeletal tissue,其他肌肉骨骼組織梅毒
+436,A5279,Other symptomatic late syphilis,其他型有症狀晚期梅毒
+437,A528,"Late syphilis, latent",潛伏性晚期梅毒
+438,A529,"Late syphilis, unspecified",晚期梅毒，未特定
+439,A53,Other and unspecified syphilis,其他及未明示梅毒
+440,A530,"Latent syphilis, unspecified as early or late",未特定早期或晚期的潛伏性梅毒
+441,A539,"Syphilis, unspecified",梅毒，未特定
+442,A54,Gonococcal infection,淋病雙球菌感染
+443,A540,Gonococcal infection of lower genitourinary tract without periurethral or accessory gland abscess,未伴有尿道周圍或附屬腺體膿瘍之下生殖泌尿道淋病雙球菌感染
+444,A5400,"Gonococcal infection of lower genitourinary tract, unspecified",下生殖泌尿道淋病雙球菌感染，未特定
+445,A5401,"Gonococcal cystitis and urethritis, unspecified",淋病雙球菌性膀胱炎及尿道炎，未特定
+446,A5402,"Gonococcal vulvovaginitis, unspecified",淋病雙球菌性外陰陰道炎，未特定
+447,A5403,"Gonococcal cervicitis, unspecified",淋病雙球菌性子宮頸炎，未特定
+448,A5409,Other gonococcal infection of lower genitourinary tract,其他下生殖泌尿道淋病雙球菌感染
+449,A541,Gonococcal infection of lower genitourinary tract with periurethral and accessory gland abscess,伴有尿道周圍及附屬腺體膿瘍之下生殖泌尿道淋病雙球菌感染
+450,A542,Gonococcal pelviperitonitis and other gonococcal genitourinary infection,盆腔腹膜炎淋病雙球菌及其他生殖泌尿道淋病雙球菌感染
+451,A5421,Gonococcal infection of kidney and ureter,腎及輸尿管淋病雙球菌感染
+452,A5422,Gonococcal prostatitis,淋病雙球菌性攝護腺炎
+453,A5423,Gonococcal infection of other male genital organs,其他男性生殖器官淋病雙球菌感染
+454,A5424,Gonococcal female pelvic inflammatory disease,淋病雙球菌性女性骨盆腔炎性疾病
+455,A5429,Other gonococcal genitourinary infections,其他生殖泌尿道淋病雙球菌感染
+456,A543,Gonococcal infection of eye,眼淋病雙球菌感染
+457,A5430,"Gonococcal infection of eye, unspecified",眼淋病雙球菌感染，未特定
+458,A5431,Gonococcal conjunctivitis,淋病雙球菌性結膜炎
+459,A5432,Gonococcal iridocyclitis,淋病雙球菌性虹膜炎
+460,A5433,Gonococcal keratitis,淋病雙球菌性角膜炎
+461,A5439,Other gonococcal eye infection,其他眼淋病雙球菌感染
+462,A544,Gonococcal infection of musculoskeletal system,肌肉骨骼系統淋病雙球菌感染
+463,A5440,"Gonococcal infection of musculoskeletal system, unspecified",肌肉骨骼系統淋病雙球菌感染，未特定
+464,A5441,Gonococcal spondylopathy,淋病雙球菌性脊椎疾病
+465,A5442,Gonococcal arthritis,淋病雙球菌性關節炎
+466,A5443,Gonococcal osteomyelitis,淋病雙球菌性骨髓炎
+467,A5449,Gonococcal infection of other musculoskeletal tissue,其他肌肉骨髂組織淋病雙球菌感染
+468,A545,Gonococcal pharyngitis,淋病雙球菌性咽炎
+469,A546,Gonococcal infection of anus and rectum,肛門及直腸淋病雙球菌感染
+470,A548,Other gonococcal infections,其他淋病雙球菌感染
+471,A5481,Gonococcal meningitis,淋病雙球菌性腦膜炎
+472,A5482,Gonococcal brain abscess,淋病雙球菌性腦膿瘍
+473,A5483,Gonococcal heart infection,淋病雙球菌性心臟感染
+474,A5484,Gonococcal pneumonia,淋病雙球菌性肺炎
+475,A5485,Gonococcal peritonitis,淋病雙球菌性腹膜炎
+476,A5486,Gonococcal sepsis,淋病雙球菌性敗血症
+477,A5489,Other gonococcal infections,其他淋病雙球菌感染
+478,A549,"Gonococcal infection, unspecified",淋病雙球菌感染，未特定
+479,A55,Chlamydial lymphogranuloma (venereum),披衣菌性淋巴肉芽腫
+480,A56,Other sexually transmitted chlamydial diseases,其他性傳播披衣菌疾病
+481,A560,Chlamydial infection of lower genitourinary tract,下生殖泌尿道披衣菌感染
+482,A5600,"Chlamydial infection of lower genitourinary tract, unspecified",下生殖泌尿道披衣菌感染，未特定
+483,A5601,Chlamydial cystitis and urethritis,披衣菌性膀胱炎和尿道炎
+484,A5602,Chlamydial vulvovaginitis,披衣菌性外陰道炎
+485,A5609,Other chlamydial infection of lower genitourinary tract,其他下生殖泌尿道披衣菌感染
+486,A561,Chlamydial infection of pelviperitoneum and other genitourinary organs,盆腔腹膜炎及其他生殖泌尿器官披衣菌感染
+487,A5611,Chlamydial female pelvic inflammatory disease,披衣菌性骨盆腔發炎疾病
+488,A5619,Other chlamydial genitourinary infection,其他生殖泌尿道披衣菌感染
+489,A562,"Chlamydial infection of genitourinary tract, unspecified",生殖泌尿道披衣菌感染，未特定
+490,A563,Chlamydial infection of anus and rectum,肛門及直腸披衣菌感染
+491,A564,Chlamydial infection of pharynx,咽披衣菌感染
+492,A568,Sexually transmitted chlamydial infection of other sites,其他部位經性行為傳播之披衣菌性感染
+493,A57,Chancroid,軟性下疳
+494,A58,Granuloma inguinale,鼠蹊腹股溝肉芽腫
+495,A59,Trichomoniasis,滴蟲病
+496,A590,Urogenital trichomoniasis,泌尿生殖道滴蟲病
+497,A5900,"Urogenital trichomoniasis, unspecified",泌尿生殖道滴蟲病，未特定
+498,A5901,Trichomonal vulvovaginitis,滴蟲感染之女陰陰道炎
+499,A5902,Trichomonal prostatitis,滴蟲感染之攝護腺炎
+500,A5903,Trichomonal cystitis and urethritis,滴蟲感染之膀胱炎和尿道炎
+501,A5909,Other urogenital trichomoniasis,其他生殖泌尿道滴蟲病
+502,A598,Trichomoniasis of other sites,其他部位之滴蟲病
+503,A599,"Trichomoniasis, unspecified",滴蟲病，未特定
+504,A60,Anogenital herpesviral [herpes simplex] infections,肛門生殖器疱疹病毒性 [單純疱疹] 感染
+505,A600,Herpesviral infection of genitalia and urogenital tract,疱疹病毒性生殖器及生殖泌尿道感染
+506,A6000,"Herpesviral infection of urogenital system, unspecified",泌尿生殖系統疱疹病毒性感染，未特定
+507,A6001,Herpesviral infection of penis,陰莖疱疹病毒性感染
+508,A6002,Herpesviral infection of other male genital organs,其他男性生殖器官疱疹病毒性感染
+509,A6003,Herpesviral cervicitis,疱疹病毒性子宮頸炎
+510,A6004,Herpesviral vulvovaginitis,疱疹病毒性外陰陰道炎
+511,A6009,Herpesviral infection of other urogenital tract,其他疱疹病毒性生殖泌尿道感染
+512,A601,Herpesviral infection of perianal skin and rectum,肛周皮膚和直腸疱疹病毒性感染
+513,A609,"Anogenital herpesviral infection, unspecified",肛門生殖器疱疹病毒性感染，未特定
+514,A63,"Other predominantly sexually transmitted diseases, not elsewhere classified",其他主要經性行為傳播之疾病、他處未歸類者
+515,A630,Anogenital (venereal) warts,肛門生殖器疣
+516,A638,Other specified predominantly sexually transmitted diseases,其他特定主要經性行為傳播之疾病
+517,A64,Unspecified sexually transmitted disease,經性行為傳播之疾病，未特定
+518,A65,Nonvenereal syphilis,非性病梅毒
+519,A66,Yaws,雅司病
+520,A660,Initial lesions of yaws,雅司病初期病灶
+521,A661,Multiple papillomata and wet crab yaws,多發性乳頭瘤及濕蟹雅司病
+522,A662,Other early skin lesions of yaws,雅司病其他早期皮膚病灶
+523,A663,Hyperkeratosis of yaws,雅司病皮膚過度角化症
+524,A664,Gummata and ulcers of yaws,雅司病橡皮腫及潰瘍
+525,A665,Gangosa,雅司病毀形性鼻咽炎(干戈薩)
+526,A666,Bone and joint lesions of yaws,雅司病骨及關節病灶
+527,A667,Other manifestations of yaws,雅司病其他表徵
+528,A668,Latent yaws,潛伏性雅司病
+529,A669,"Yaws, unspecified",雅司病，未特定
+530,A67,Pinta [carate],品他病 [品他病]
+531,A670,Primary lesions of pinta,品他病初期病灶
+532,A671,Intermediate lesions of pinta,品他病中期病灶
+533,A672,Late lesions of pinta,品他病晚期病灶
+534,A673,Mixed lesions of pinta,品他病混合病灶
+535,A679,"Pinta, unspecified",品他病，未特定
+536,A68,Relapsing fevers,回歸熱
+537,A680,Louse-borne relapsing fever,蝨媒介之回歸熱
+538,A681,Tick-borne relapsing fever,壁蝨媒介之回歸熱
+539,A689,"Relapsing fever, unspecified",回歸熱，未特定
+540,A69,Other spirochetal infections,其他螺旋體感染
+541,A690,Necrotizing ulcerative stomatitis,壞死性潰瘍性口炎
+542,A691,Other Vincent's infections,其他Vincent氏感染
+543,A692,Lyme disease,萊姆病
+544,A6920,"Lyme disease, unspecified",萊姆病，未特定
+545,A6921,Meningitis due to Lyme disease,萊姆病所致之腦膜炎
+546,A6922,Other neurologic disorders in Lyme disease,萊姆病所致之其他神經系統疾患
+547,A6923,Arthritis due to Lyme disease,萊姆病所致之關節炎
+548,A6929,Other conditions associated with Lyme disease,與萊姆病相關之其他病況
+549,A698,Other specified spirochetal infections,其他特定螺旋體感染
+550,A699,"Spirochetal infection, unspecified",螺旋體感染，未特定
+551,A70,Chlamydia psittaci infections,鸚鵡熱披衣菌感染
+552,A71,Trachoma,砂眼
+553,A710,Initial stage of trachoma,初期砂眼
+554,A711,Active stage of trachoma,活動期砂眼
+555,A719,"Trachoma, unspecified",砂眼，未特定
+556,A74,Other diseases caused by chlamydiae,其他疾病所致之披衣菌
+557,A740,Chlamydial conjunctivitis,披衣菌結膜炎
+558,A748,Other chlamydial diseases,其他披衣菌疾病
+559,A7481,Chlamydial peritonitis,披衣菌性腹膜炎
+560,A7489,Other chlamydial diseases,其他披衣菌疾病
+561,A749,"Chlamydial infection, unspecified",披衣菌感染，未特定
+562,A75,Typhus fever,斑疹傷寒熱
+563,A750,Epidemic louse-borne typhus fever due to Rickettsia prowazekii,普氏立克次體所致之蝨媒介流行性斑疹傷寒
+564,A751,Recrudescent typhus [Brill's disease],再發性斑疹傷寒[Brill氏病]
+565,A752,Typhus fever due to Rickettsia typhi,斑疹傷寒立克次體所致之斑疹傷寒熱
+566,A753,Typhus fever due to Rickettsia tsutsugamushi,恙蟲立克次體所致之斑疹傷寒熱
+567,A759,"Typhus fever, unspecified",斑疹傷寒熱，未特定
+568,A77,Spotted fever [tick-borne rickettsioses],班疹熱[蜱媒介的立克次體病]
+569,A770,Spotted fever due to Rickettsia rickettsii,立克次氏立克次體所致之班疹熱
+570,A771,Spotted fever due to Rickettsia conorii,南歐斑疹熱立克次體所致之斑疹熱
+571,A772,Spotted fever due to Rickettsia siberica,西伯利亞立克次體所致之斑疹熱
+572,A773,Spotted fever due to Rickettsia australis,澳洲立克次體所致之斑疹熱
+573,A774,Ehrlichiosis,Ehrlch氏病
+574,A7740,"Ehrlichiosis, unspecified",Ehrlch氏病，未特定
+575,A7741,Ehrlichiosis chafeensis [E. chafeensis],Ehrlch氏皮膚炎
+576,A7749,Other ehrlichiosis,其他Ehrlch氏病
+577,A778,Other spotted fevers,其他斑疹熱
+578,A779,"Spotted fever, unspecified",斑疹熱，未特定
+579,A78,Q fever,Q熱病
+580,A79,Other rickettsioses,其他立克次體病
+581,A790,Trench fever,戰壕熱
+582,A791,Rickettsialpox due to Rickettsia akari,螨立克次體所致之立克次體痘
+583,A798,Other specified rickettsioses,其他特定立克次體病
+584,A7981,Rickettsiosis due to Ehrlichia sennetsu,桑化艾利希氏體所致之立克次體病
+585,A7989,Other specified rickettsioses,其他特定之立克次體疾病
+586,A799,"Rickettsiosis, unspecified",立克次體疾病，未特定
+587,A80,Acute poliomyelitis,急性脊髓灰白質炎
+588,A800,"Acute paralytic poliomyelitis, vaccine-associated",急性麻痺性脊髓灰白質炎，與疫苗相關者
+589,A801,"Acute paralytic poliomyelitis, wild virus, imported",急性麻痺性脊髓灰白質炎，野生型病毒，移入性
+590,A802,"Acute paralytic poliomyelitis, wild virus, indigenous",急性麻痺性脊髓灰白質炎，野生型病毒，本土性
+591,A803,"Acute paralytic poliomyelitis, other and unspecified",急性麻痺性脊髓灰白質炎、其他及未特定
+592,A8030,"Acute paralytic poliomyelitis, unspecified",急性麻痺性脊髓灰白質炎，未特定
+593,A8039,Other acute paralytic poliomyelitis,其他急性麻痺脊髓灰白質炎
+594,A804,Acute nonparalytic poliomyelitis,急性非麻痺性脊髓灰白質炎
+595,A809,"Acute poliomyelitis, unspecified",急性脊髓灰白質炎，未特定
+596,A81,Atypical virus infections of central nervous system,非典性中樞神經系統病毒感染
+597,A810,Creutzfeldt-Jakob disease,庫賈氏(Creutzfeldt-Jkob)病
+598,A8100,"Creutzfeldt-Jakob disease, unspecified",庫賈氏(Creutzfeldt-Jakob)病，未特定
+599,A8101,Variant Creutzfeldt-Jakob disease,新變異型庫賈氏(Creutzfeldt-Jakob)病
+600,A8109,Other Creutzfeldt-Jakob disease,其他庫賈氏(Creutzfeldt-Jakob)病
+601,A811,Subacute sclerosing panencephalitis,亞急性硬化性泛腦炎
+602,A812,Progressive multifocal leukoencephalopathy,進行性多發型腦白質病變
+603,A818,Other atypical virus infections of central nervous system,其他非典型中樞神經系統病毒感染
+604,A8181,Kuru,Kuru病
+605,A8182,Gerstmann-Straussler-Scheinker syndrome,格斯待曼氏綜合徵候群
+606,A8183,Fatal familial insomnia,致死性家族失眠症
+607,A8189,Other atypical virus infections of central nervous system,其他非典型中樞神經系統病毒感染
+608,A819,"Atypical virus infection of central nervous system, unspecified",非典型中樞神經系統病毒感染，未特定
+609,A82,Rabies,狂犬病
+610,A820,Sylvatic rabies,森林型狂犬病
+611,A821,Urban rabies,都市型狂犬病
+612,A829,"Rabies, unspecified",狂犬病，未特定
+613,A83,Mosquito-borne viral encephalitis,蚊媒介病毒性腦炎
+614,A830,Japanese encephalitis,日本腦炎
+615,A831,Western equine encephalitis,西方馬型腦炎
+616,A832,Eastern equine encephalitis,東方馬型腦炎
+617,A833,St Louis encephalitis,聖路易斯腦炎
+618,A834,Australian encephalitis,澳洲腦炎
+619,A835,California encephalitis,加州腦炎
+620,A836,Rocio virus disease,洛西歐病毒疾病
+621,A838,Other mosquito-borne viral encephalitis,其他蚊媒介病毒性腦炎
+622,A839,"Mosquito-borne viral encephalitis, unspecified",蚊媒介病毒性腦炎，未特定
+623,A84,Tick-borne viral encephalitis,壁蝨媒介腦炎
+624,A840,Far Eastern tick-borne encephalitis [Russian spring-summer encephalitis],遠東壁蝨媒介腦炎(蘇俄春夏腦炎)
+625,A841,Central European tick-borne encephalitis,中歐壁蝨媒介腦炎
+626,A848,Other tick-borne viral encephalitis,其他壁蝨媒介病毒性腦炎
+627,A849,"Tick-borne viral encephalitis, unspecified",壁蝨媒介之病毒性腦炎，未特定
+628,A85,"Other viral encephalitis, not elsewhere classified",其他病毒性腦炎、他處未歸類者
+629,A850,Enteroviral encephalitis,腸病毒性腦炎
+630,A851,Adenoviral encephalitis,腺病毒性腦炎
+631,A852,"Arthropod-borne viral encephalitis, unspecified",節肢動物媒介之病毒性腦炎，未特定
+632,A858,Other specified viral encephalitis,其他特定病毒性腦炎
+633,A86,Unspecified viral encephalitis,病毒性腦炎，未特定
+634,A87,Viral meningitis,病毒性腦膜炎
+635,A870,Enteroviral meningitis,腸病毒性腦膜炎
+636,A871,Adenoviral meningitis,腺病毒性腦膜炎
+637,A872,Lymphocytic choriomeningitis,淋巴球性脈絡叢腦膜炎
+638,A878,Other viral meningitis,其他病毒性腦膜炎
+639,A879,"Viral meningitis, unspecified",病毒性腦膜炎，未特定
+640,A88,"Other viral infections of central nervous system, not elsewhere classified",中樞神經系統其他病毒感染、他處未歸類者
+641,A880,Enteroviral exanthematous fever [Boston exanthem],腸病毒性疹熱[波士頓疹]
+642,A881,Epidemic vertigo,流行性眩暈
+643,A888,Other specified viral infections of central nervous system,中樞神經系統其他特定病毒性感染
+644,A89,Unspecified viral infection of central nervous system,中樞神經系統病毒性感染，未特定
+645,A90,Dengue fever [classical dengue],登革熱[典型登革熱]
+646,A91,Dengue hemorrhagic fever,登革出血熱
+647,A92,Other mosquito-borne viral fevers,其他蚊媒介病毒熱
+648,A920,Chikungunya virus disease,奇孔古尼亞病毒疾病
+649,A921,O'nyong-nyong fever,歐尼昂－尼昂熱
+650,A922,Venezuelan equine fever,委內瑞拉馬型熱病
+651,A923,West Nile virus infection,西尼羅河病毒感染
+652,A9230,"West Nile virus infection, unspecified",西尼羅河病毒感染，未特定
+653,A9231,West Nile virus infection with encephalitis,西尼羅河病毒感染伴有腦炎
+654,A9232,West Nile virus infection with other neurologic manifestation,西尼羅病毒感染伴有其他神經病徵
+655,A9239,West Nile virus infection with other complications,西尼羅河病毒感染伴有其他併發症
+656,A924,Rift Valley fever,裂谷熱
+657,A928,Other specified mosquito-borne viral fevers,其他特定之蚊媒介病毒熱
+658,A929,"Mosquito-borne viral fever, unspecified",蚊媒介病毒熱，未特定
+659,A93,"Other arthropod-borne viral fevers, not elsewhere calssified",其他節肢動物媒介之病毒熱、他處未歸類者
+660,A930,Oropouche virus disease,歐羅帕什病毒疾病
+661,A931,Sandfly fever,沙蚊(白蛉)熱
+662,A932,Colorado tick fever,科羅拉多壁蝨熱
+663,A938,Other specified arthropod-borne viral fevers,其他特定節肢動物媒介之病毒熱
+664,A94,Unspecified arthropod-borne viral fever,節肢動物媒介病毒熱，未特定
+665,A95,Yellow fever,黃熱病
+666,A950,Sylvatic yellow fever,森林型黃熱病
+667,A951,Urban yellow fever,都巿型黃熱病
+668,A959,"Yellow fever, unspecified",黃熱病，未特定
+669,A96,Arenaviral hemorrhagic fever,沙狀病毒性出血熱
+670,A960,Junin hemorrhagic fever,Junin出血熱
+671,A961,Machupo hemorrhagic fever,馬丘波出血熱
+672,A962,Lassa fever,拉薩熱
+673,A968,Other arenaviral hemorrhagic fevers,其他沙狀病毒性出血熱
+674,A969,"Arenaviral hemorrhagic fever, unspecified",沙狀病毒性出血熱，未特定
+675,A98,"Other viral hemorrhagic fevers, not elsewhere classified",其他病毒性出血熱、他處未歸類者
+676,A980,Crimean-Congo hemorrhagic fever,克里米亞－剛果出血熱
+677,A981,Omsk hemorrhagic fever,Omsk出血熱
+678,A982,Kyasanur Forest disease,開薩諾森林病
+679,A983,Marburg virus disease,馬伯格病毒疾病
+680,A984,Ebola virus disease,伊波拉病毒疾病
+681,A985,Hemorrhagic fever with renal syndrome,出血熱伴有腎症候群
+682,A988,Other specified viral hemorrhagic fevers,其他特定病毒性出血熱
+683,A99,Unspecified viral hemorrhagic fever,病毒性出血熱，未特定
+684,B00,Herpesviral [herpes simplex] infections,疱疹病毒性[單純疱疹] 感染
+685,B000,Eczema herpeticum,疱疹性濕疹
+686,B001,Herpesviral vesicular dermatitis,疱疹病毒性囊泡狀皮膚炎
+687,B002,Herpesviral gingivostomatitis and pharyngotonsillitis,疱疹病毒性齦口炎及咽扁桃體炎
+688,B003,Herpesviral meningitis,疱疹病毒性腦膜炎
+689,B004,Herpesviral encephalitis,疱疹病毒性腦炎
+690,B005,Herpesviral ocular disease,疱疹病毒性眼疾病
+691,B0050,"Herpesviral ocular disease, unspecified",疱疹病毒性眼疾病，未特定
+692,B0051,Herpesviral iridocyclitis,疱疹病毒性虹膜睫狀體炎
+693,B0052,Herpesviral keratitis,疱疹病毒性角膜炎
+694,B0053,Herpesviral conjunctivitis,疱疹病毒性結膜炎
+695,B0059,Other herpesviral disease of eye,其他眼疱疹疾病
+696,B007,Disseminated herpesviral disease,散播性疱疹病毒疾病
+697,B008,Other forms of herpesviral infections,其他型疱疹病毒性感染
+698,B0081,Herpesviral hepatitis,疱疹病毒性肝炎
+699,B0082,Herpes simplex myelitis,單純疱疹性脊髓炎
+700,B0089,Other herpesviral infection,其他疱疹病毒感染
+701,B009,"Herpesviral infection, unspecified",疱疹病毒感染，未特定
+702,B01,Varicella [chickenpox],水痘[水痘]
+703,B010,Varicella meningitis,水痘腦膜炎
+704,B011,"Varicella encephalitis, myelitis and encephalomyelitis",水痘性腦炎、脊髓炎及腦脊髓炎
+705,B0111,Varicella encephalitis and encephalomyelitis,水痘性腦炎及腦脊髓炎
+706,B0112,Varicella myelitis,水痘性脊髓炎
+707,B012,Varicella pneumonia,水痘性肺炎
+708,B018,Varicella with other complications,水痘伴有其他併發症
+709,B0181,Varicella keratitis,水痘性角膜炎
+710,B0189,Other varicella complications,水痘伴有其他併發症
+711,B019,Varicella without complication,水痘未伴有併發症
+712,B02,Zoster [herpes zoster],帶狀疱疹[帶狀疱疹]
+713,B020,Zoster encephalitis,帶狀疱疹性腦炎
+714,B021,Zoster meningitis,帶狀疱疹性腦膜炎
+715,B022,Zoster with other nervous system involvement,帶狀疱疹後侵及其他神經系統
+716,B0221,Postherpetic geniculate ganglionitis,疱疹後膝狀神經節炎
+717,B0222,Postherpetic trigeminal neuralgia,疱疹後三叉神經痛
+718,B0223,Postherpetic polyneuropathy,疱疹後多發神經病變
+719,B0224,Postherpetic myelitis,疱疹後脊髓炎
+720,B0229,Other postherpetic nervous system involvement,疱疹後侵及其他神經系統
+721,B023,Zoster ocular disease,帶狀疱疹眼病
+722,B0230,"Zoster ocular disease, unspecified",帶狀疱疹眼病，未特定
+723,B0231,Zoster conjunctivitis,帶狀疱疹性結膜炎
+724,B0232,Zoster iridocyclitis,帶狀疱疹性虹膜睫狀體炎
+725,B0233,Zoster keratitis,帶狀疱疹性角膜炎
+726,B0234,Zoster scleritis,帶狀疱疹性鞏膜炎
+727,B0239,Other herpes zoster eye disease,其他帶狀疱疹眼疾病
+728,B027,Disseminated zoster,散播性帶狀疱疹
+729,B028,Zoster with other complications,帶狀疱疹伴有其他併發症
+730,B029,Zoster without complications,帶狀疱疹未伴有併發症
+731,B03,Smallpox,天花
+732,B04,Monkeypox,猴痘
+733,B05,Measles,麻疹
+734,B050,Measles complicated by encephalitis,麻疹併發腦炎
+735,B051,Measles complicated by meningitis,麻疹併發腦膜炎
+736,B052,Measles complicated by pneumonia,麻疹併發肺炎
+737,B053,Measles complicated by otitis media,麻疹併發中耳炎
+738,B054,Measles with intestinal complications,麻疹伴有腸道併發症
+739,B058,Measles with other complications,麻疹併其他併發症
+740,B0581,Measles keratitis and keratoconjunctivitis,麻疹角膜炎及角膜結膜炎
+741,B0589,Other measles complications,麻疹併其他併發症
+742,B059,Measles without complication,麻疹未伴有併發症
+743,B06,Rubella [German measles],德國麻疹[德國麻疹]
+744,B060,Rubella with neurological complications,德國麻疹伴有神經系統併發症
+745,B0600,"Rubella with neurological complication, unspecified",德國麻疹伴有神經系統併發症，未特定
+746,B0601,Rubella encephalitis,德國麻疹性腦炎
+747,B0602,Rubella meningitis,德國麻疹性腦膜炎
+748,B0609,Other neurological complications of rubella,德國麻疹未伴有併發症
+749,B068,Rubella with other complications,德國麻疹伴有其他併發症
+750,B0681,Rubella pneumonia,德國麻疹性肺炎
+751,B0682,Rubella arthritis,德國麻疹性關節炎
+752,B0689,Other rubella complications,德國麻疹伴有其他併發症
+753,B069,Rubella without complication,德國麻疹未伴有併發症
+754,B07,Viral warts,病毒性疣
+755,B070,Plantar wart,足蹠(底)疣
+756,B078,Other viral warts,其他病毒性疣
+757,B079,"Viral wart, unspecified",病毒性疣，未特定
+758,B08,"Other viral infections characterized by skin and mucous membrane lesions, not elsewhere classified",皮膚及黏膜病灶為特徵之其他特定病毒感染、他處未歸類者
+759,B080,Other orthopoxvirus infections,其他正痘病毒感染
+760,B0801,Cowpox and vaccinia not from vaccine,牛痘及非疫苗產生的牛痘
+761,B08010,Cowpox,牛痘
+762,B08011,Vaccinia not from vaccine,非疫苗產生的牛痘
+763,B0802,Orf virus disease,羊口瘡病毒疾病
+764,B0803,Pseudocowpox [milker's node],假牛痘(擠奶人結節)
+765,B0804,"Paravaccinia, unspecified",副牛痘，未特定
+766,B0809,Other orthopoxvirus infections,其他正痘病毒感染
+767,B081,Molluscum contagiosum,觸染性軟疣
+768,B082,Exanthema subitum [sixth disease] Roseola infantum,猝發疹[第六疾病]玫瑰疹
+769,B0820,"Exanthema subitum [sixth disease], unspecified",猝發疹[第六疾病]，未特定
+770,B0821,Exanthema subitum [sixth disease] due to human herpesvirus 6,人類第六型疱疹病毒所致猝發疹[第六疾病]
+771,B0822,Exanthema subitum [sixth disease] due to human herpesvirus 7,人類第七型疱疹病毒所致猝發疹[第六疾病]
+772,B083,Erythema infectiosum [fifth disease],傳染性紅斑症(第五疾病)
+773,B084,Enteroviral vesicular stomatitis with exanthem,腸病毒性囊泡性口炎伴有皮疹
+774,B085,Enteroviral vesicular pharyngitis,腸病毒性囊泡性咽炎
+775,B086,Parapoxvirus infection,副痘病毒感染
+776,B0860,"Parapoxvirus infection, unspecified",副痘病毒感染，未特定
+777,B0861,Bovine stomatitis,牛口炎
+778,B0862,Sealpox,海豹痘
+779,B0869,Other parapoxvirus infections,其他副痘病毒感染
+780,B087,Yatapoxvirus infection,亞塔痘病毒感染
+781,B0870,"Yatapoxvirus infection, unspecified",亞塔痘病毒感染，未特定
+782,B0871,Tanapox virus disease,塔那痘病毒疾病
+783,B0872,Yaba pox virus disease,亞巴痘病毒疾病
+784,B0879,Other yatapoxvirus infections,其他亞塔痘病毒感染
+785,B088,Other specified viral infections characterized by skin and mucous membrane lesions,皮膚及黏膜病灶為特徵之其他特定病毒感染
+786,B09,Unspecified viral infection characterized by skin and mucous membrane lesions,皮膚及黏膜病灶為特徵未特定之病毒性感染(症)
+787,B10,Other human herpesviruses,其他人類疱疹病毒性
+788,B100,Other human herpesvirus encephalitis,其他人類疱疹病毒性腦炎
+789,B1001,Human herpesvirus 6 encephalitis,人類第六型疱疹病毒病毒性腦炎
+790,B1009,Other human herpesvirus encephalitis,其他人類疱疹病毒性腦炎
+791,B108,Other human herpesvirus infection,人類其他疱疹病毒感染
+792,B1081,Human herpesvirus 6 infection,人類第六型疱疹病毒感染
+793,B1082,Human herpesvirus 7 infection,人類第七型疱疹病毒病毒感染
+794,B1089,Other human herpesvirus infection,人類其他疱疹病毒感染
+795,B15,Acute hepatitis A,急性型病毒性肝炎
+796,B150,Hepatitis A with hepatic coma,A型肝炎伴有肝昏迷
+797,B159,Hepatitis A without hepatic coma,Ａ型肝炎未伴有肝昏迷
+798,B16,Acute hepatitis B,急性B型病毒性肝炎
+799,B160,Acute hepatitis B with delta-agent with hepatic coma,急性B型病毒性肝炎併D 型肝炎病毒伴有肝昏迷
+800,B161,Acute hepatitis B with delta-agent without hepatic coma,急性B型病毒性肝炎併D 型肝炎病毒未伴有肝昏迷
+801,B162,Acute hepatitis B without delta-agent with hepatic coma,"急性B型病毒性肝炎未併D 型肝炎病毒,伴有肝昏迷"
+802,B169,Acute hepatitis B without delta-agent and without hepatic coma,"急性B型病毒性肝炎未併D 型肝炎病毒,未伴有肝昏迷"
+803,B17,Other acute viral hepatitis,其他急性病毒性肝炎
+804,B170,Acute delta-(super) infection of hepatitis B carrier,Ｂ型肝炎帶原者之急性D 型肝炎病毒感染
+805,B171,Acute hepatitis C,急性C型病毒性肝炎
+806,B1710,Acute hepatitis C without hepatic coma,急性C型病毒性肝炎未伴有肝昏迷
+807,B1711,Acute hepatitis C with hepatic coma,急性C型病毒性肝炎伴有肝昏迷
+808,B172,Acute hepatitis E,急性E型肝炎
+809,B178,Other specified acute viral hepatitis,其他特定急性病毒性肝炎
+810,B179,"Acute viral hepatitis, unspecified",急性病毒性肝炎，未特定
+811,B18,Chronic viral hepatitis,慢性病毒性肝炎
+812,B180,Chronic viral hepatitis B with delta-agent,慢性病毒性B型肝炎伴有D 型肝炎病毒
+813,B181,Chronic viral hepatitis B without delta-agent,慢性病毒性B型肝炎未伴有D 型肝炎病毒
+814,B182,Chronic viral hepatitis C,慢性病毒性C型肝炎
+815,B188,Other chronic viral hepatitis,其他慢性病毒性肝炎
+816,B189,"Chronic viral hepatitis, unspecified",慢性病毒性肝炎，未特定
+817,B19,Unspecified viral hepatitis,未特定病毒性肝炎
+818,B190,Unspecified viral hepatitis with hepatic coma,未特定之病毒性肝炎，伴有肝昏迷
+819,B191,Unspecified viral hepatitis B,未特定B型病毒性肝炎
+820,B1910,Unspecified viral hepatitis B without hepatic coma,未特定之B型病毒性肝炎，未伴有肝昏迷
+821,B1911,Unspecified viral hepatitis B with hepatic coma,未特定之B型病毒性肝炎伴有肝昏迷
+822,B192,Unspecified viral hepatitis C,未特定C型病毒性肝炎
+823,B1920,Unspecified viral hepatitis C without hepatic coma,未特定之C型病毒性肝炎未伴有肝昏迷
+824,B1921,Unspecified viral hepatitis C with hepatic coma,未特定之C型病毒性肝炎伴有肝昏迷
+825,B199,Unspecified viral hepatitis without hepatic coma,未特定之病毒性肝炎未伴有肝昏迷
+826,B20,Human immunodeficiency virus [HIV] disease,人類免疫不全病毒疾病
+827,B25,Cytomegaloviral disease,巨細胞病毒性疾病
+828,B250,Cytomegaloviral pneumonitis,巨細胞病毒性肺炎
+829,B251,Cytomegaloviral hepatitis,巨細胞病毒性肝炎
+830,B252,Cytomegaloviral pancreatitis,巨細胞病毒性胰臟炎
+831,B258,Other cytomegaloviral diseases,其他巨細胞病毒性疾病
+832,B259,"Cytomegaloviral disease, unspecified",巨細胞病毒疾病，未特定
+833,B26,Mumps,腮腺炎
+834,B260,Mumps orchitis,流行性腮腺炎睪丸炎
+835,B261,Mumps meningitis,流行性腮腺炎腦膜炎
+836,B262,Mumps encephalitis,流行性腮腺炎腦炎
+837,B263,Mumps pancreatitis,流行性腮腺炎胰臟炎
+838,B268,Mumps with other complications,流行性腮腺炎伴有其他併發症
+839,B2681,Mumps hepatitis,流行性腮腺炎肝炎
+840,B2682,Mumps myocarditis,流行性腮腺炎心肌炎
+841,B2683,Mumps nephritis,流行性腮腺炎腎炎
+842,B2684,Mumps polyneuropathy,流行性腮腺炎多發神經病變
+843,B2685,Mumps arthritis,流行性腮腺炎關節炎
+844,B2689,Other mumps complications,其他流行性腮腺炎伴有併發症
+845,B269,Mumps without complication,其他流行性腮腺炎未伴有併發症
+846,B27,Infectious mononucleosis,感染性單核球過多症
+847,B270,Gammaherpesviral mononucleosis,γ疱疹病毒單核細胞過多症
+848,B2700,Gammaherpesviral mononucleosis without complication,γ疱疹病毒性單核球過多未伴有併發症
+849,B2701,Gammaherpesviral mononucleosis with polyneuropathy,γ疱疹病毒單核細胞增多症伴有多發性神經病變
+850,B2702,Gammaherpesviral mononucleosis with meningitis,γ疱疹病毒單核細胞過多症伴有腦膜炎
+851,B2709,Gammaherpesviral mononucleosis with other complications,γ疱疹病毒單核細胞過多症伴有其他併發症
+852,B271,Cytomegaloviral mononucleosis,巨細胞病毒性單核細胞過多症
+853,B2710,Cytomegaloviral mononucleosis without complications,γ疱疹病毒單核細胞過多症未伴有其他併發症
+854,B2711,Cytomegaloviral mononucleosis with polyneuropathy,巨細胞病毒性單核細胞過多症伴有多發性神經病變
+855,B2712,Cytomegaloviral mononucleosis with meningitis,巨細胞病毒性單核細胞過多症伴有腦膜炎
+856,B2719,Cytomegaloviral mononucleosis with other complication,巨細胞病毒性單核細胞過多症伴有其他併發症
+857,B278,Other infectious mononucleosis,其他感染性單核球過多症
+858,B2780,Other infectious mononucleosis without complication,其他感染性單核球過多症未伴有併發症
+859,B2781,Other infectious mononucleosis with polyneuropathy,其他感染性單核球過多症伴有多發性神經病變
+860,B2782,Other infectious mononucleosis with meningitis,其他感染性單核球過多症伴有腦膜炎
+861,B2789,Other infectious mononucleosis with other complication,其他感染性單核球過多症伴有其他伴有發症
+862,B279,"Infectious mononucleosis, unspecified",感染性單核球過多症，未特定
+863,B2790,"Infectious mononucleosis, unspecified without complication",傳染性單核球過多症，未特定，未伴有併發症
+864,B2791,"Infectious mononucleosis, unspecified with polyneuropathy",感染性單核球過多症，未特定，伴有多發性神經病變
+865,B2792,"Infectious mononucleosis, unspecified with meningitis",感染性單核球過多症，未特定，伴有腦膜炎
+866,B2799,"Infectious mononucleosis, unspecified with other complication",感染性單核球過多症，未特定，伴有其他併發症
+867,B30,Viral conjunctivitis,病毒性結膜炎
+868,B300,Keratoconjunctivitis due to adenovirus,腺病毒所致之角膜結膜炎
+869,B301,Conjunctivitis due to adenovirus,腺病毒所致之結膜炎
+870,B302,Viral pharyngoconjunctivitis,病毒性咽結膜炎
+871,B303,Acute epidemic hemorrhagic conjunctivitis (enteroviral),急性流行性出血性結膜炎
+872,B308,Other viral conjunctivitis,其他病毒性結膜炎
+873,B309,"Viral conjunctivitis, unspecified",病毒性結膜炎，未特定
+874,B33,"Other viral diseases, not elsewhere classified",其他病毒疾病、他處未歸類者
+875,B330,Epidemic myalgia,流行性肌痛症
+876,B331,Ross River disease,羅斯河病
+877,B332,Viral carditis,病毒性心臟炎
+878,B3320,"Viral carditis, unspecified",病毒性心臟炎，未特定
+879,B3321,Viral endocarditis,病毒性心內膜炎
+880,B3322,Viral myocarditis,病毒性心肌炎
+881,B3323,Viral pericarditis,病毒性心包炎
+882,B3324,Viral cardiomyopathy,病毒性心肌病變
+883,B333,"Retrovirus infections, not elsewhere classified",反轉錄病毒感染，他處未歸類者
+884,B334,Hantavirus (cardio)-pulmonary syndrome [HPS] [HCPS],漢他病毒(心)肺症候群
+885,B338,Other specified viral diseases,其他特定之病毒疾病
+886,B34,Viral infection of unspecified site,未特定部位之病毒感染
+887,B340,"Adenovirus infection, unspecified",腺病毒感染，未特定
+888,B341,"Enterovirus infection, unspecified",腸病毒感染，未特定
+889,B342,"Coronavirus infection, unspecified",冠狀病毒感染，未特定
+890,B343,"Parvovirus infection, unspecified",細小病毒感染，未特定
+891,B344,"Papovavirus infection, unspecified",乳突多空泡狀病毒感染，未特定
+892,B348,Other viral infections of unspecified site,未特定部位之其他病毒感染
+893,B349,"Viral infection, unspecified",病毒感染，未特定
+894,B35,Dermatophytosis,皮癬
+895,B350,Tinea barbae and tinea capitis,鬚癬及頭癬
+896,B351,Tinea unguium,甲癬
+897,B352,Tinea manuum,手癬
+898,B353,Tinea pedis,足癬
+899,B354,Tinea corporis,體癬
+900,B355,Tinea imbricata,疊白癬
+901,B356,Tinea cruris,股癬
+902,B358,Other dermatophytoses,其他皮癬
+903,B359,"Dermatophytosis, unspecified",皮癬菌病，未特定
+904,B36,Other superficial mycoses,其他表淺性黴菌病
+905,B360,Pityriasis versicolor,變色糠疹(汗斑)
+906,B361,Tinea nigra,黑癬
+907,B362,White piedra,白癬
+908,B363,Black piedra,毛幹黑結節病
+909,B368,Other specified superficial mycoses,其他特定之表淺性黴菌病
+910,B369,"Superficial mycosis, unspecified",表淺性黴菌病，未特定
+911,B37,Candidiasis,念珠菌病
+912,B370,Candidal stomatitis,念珠菌性口炎
+913,B371,Pulmonary candidiasis,肺念珠菌病
+914,B372,Candidiasis of skin and nail,皮膚及指(趾)甲念珠菌病
+915,B373,Candidiasis of vulva and vagina,女陰及陰道念珠菌病
+916,B374,Candidiasis of other urogenital sites,其他泌尿生殖部位念珠菌病
+917,B3741,Candidal cystitis and urethritis,念珠菌性膀胱炎和尿道炎
+918,B3742,Candidal balanitis,念珠菌性龜頭炎
+919,B3749,Other urogenital candidiasis,其他泌尿生殖部位念珠菌病
+920,B375,Candidal meningitis,念珠菌性腦膜炎
+921,B376,Candidal endocarditis,念珠菌性心內膜炎
+922,B377,Candidal sepsis,念珠菌性敗血症
+923,B378,Candidiasis of other sites,其他部位念珠菌病
+924,B3781,Candidal esophagitis,念珠菌性食道炎
+925,B3782,Candidal enteritis,念珠菌性腸炎
+926,B3783,Candidal cheilitis,念珠菌性唇炎
+927,B3784,Candidal otitis externa,念珠菌性外耳炎
+928,B3789,Other sites of candidiasis,其他部位念珠菌病
+929,B379,"Candidiasis, unspecified",念珠菌病，未特定
+930,B38,Coccidioidomycosis,黴菌病
+931,B380,Acute pulmonary coccidioidomycosis,急性肺球黴菌病
+932,B381,Chronic pulmonary coccidioidomycosis,慢性肺球黴菌病
+933,B382,"Pulmonary coccidioidomycosis, unspecified",肺球黴菌病，未特定
+934,B383,Cutaneous coccidioidomycosis,皮膚球黴菌病
+935,B384,Coccidioidomycosis meningitis,腦膜炎性球黴菌病
+936,B387,Disseminated coccidioidomycosis,散播性球黴菌病
+937,B388,Other forms of coccidioidomycosis,其他型態球黴菌病
+938,B3881,Prostatic coccidioidomycosis,前列腺球黴菌病
+939,B3889,Other forms of coccidioidomycosis,其他型態球黴菌病
+940,B389,"Coccidioidomycosis, unspecified",球黴菌病，未特定
+941,B39,Histoplasmosis,組織胞漿菌病
+942,B390,Acute pulmonary histoplasmosis capsulati,急性肺莢膜組織胞漿菌病
+943,B391,Chronic pulmonary histoplasmosis capsulati,慢性莢膜組織胞漿菌病
+944,B392,"Pulmonary histoplasmosis capsulati, unspecified",肺莢膜組織胞漿菌病，未特定
+945,B393,Disseminated histoplasmosis capsulati,散播性莢膜組織胞漿菌病
+946,B394,"Histoplasmosis capsulati, unspecified",莢膜組織胞漿菌病，未特定
+947,B395,Histoplasmosis duboisii,杜波氏組織漿菌病
+948,B399,"Histoplasmosis, unspecified",組織胞漿菌病，未特定
+949,B40,Blastomycosis,芽生黴菌病
+950,B400,Acute pulmonary blastomycosis,急性肺芽生黴菌病
+951,B401,Chronic pulmonary blastomycosis,慢性肺芽生黴菌病
+952,B402,"Pulmonary blastomycosis, unspecified",肺芽生黴菌病，未特定
+953,B403,Cutaneous blastomycosis,皮膚芽生黴菌病
+954,B407,Disseminated blastomycosis,散播性芽生黴菌病
+955,B408,Other forms of blastomycosis,其他型芽生黴菌病
+956,B4081,Blastomycotic meningoencephalitis,芽生黴菌性腦膜腦炎
+957,B4089,Other forms of blastomycosis,其他型芽生黴菌病
+958,B409,"Blastomycosis, unspecified",芽生黴菌病，未特定
+959,B41,Paracoccidioidomycosis,副球黴菌病
+960,B410,Pulmonary paracoccidioidomycosis,肺副球黴菌病
+961,B417,Disseminated paracoccidioidomycosis,散播性副球黴菌病
+962,B418,Other forms of paracoccidioidomycosis,其他型式副球黴菌病
+963,B419,"Paracoccidioidomycosis, unspecified",副球黴菌病，未特定
+964,B42,Sporotrichosis,孢子絲菌病
+965,B420,Pulmonary sporotrichosis,肺孢子絲菌病
+966,B421,Lymphocutaneous sporotrichosis,淋巴皮膚孢子絲菌病
+967,B427,Disseminated sporotrichosis,散播性孢子絲菌病
+968,B428,Other forms of sporotrichosis,其他型孢子絲菌症
+969,B4281,Cerebral sporotrichosis,腦孢子絲菌病
+970,B4282,Sporotrichosis arthritis,孢子絲狀菌關節炎
+971,B4289,Other forms of sporotrichosis,其他型孢子絲菌症
+972,B429,"Sporotrichosis, unspecified",孢子絲菌病，未特定
+973,B43,Chromomycosis and pheomycotic abscess,產色黴菌病及親黴菌性膿瘍
+974,B430,Cutaneous chromomycosis,皮膚產色黴菌病
+975,B431,Pheomycotic brain abscess,親黴菌性腦膿瘍
+976,B432,Subcutaneous pheomycotic abscess and cyst,皮下親黴菌性膿瘍及囊腫
+977,B438,Other forms of chromomycosis,其他型式之產色黴菌症
+978,B439,"Chromomycosis, unspecified",產色黴菌病，未特定
+979,B44,Aspergillosis,麴菌病
+980,B440,Invasive pulmonary aspergillosis,侵襲性肺麴菌病
+981,B441,Other pulmonary aspergillosis,其他肺麴菌病
+982,B442,Tonsillar aspergillosis,扁桃體麴菌病
+983,B447,Disseminated aspergillosis,散播性麴菌病
+984,B448,Other forms of aspergillosis,其他型麴菌病
+985,B4481,Allergic bronchopulmonary aspergillosis,過敏性支氣管與肺之麴菌病
+986,B4489,Other forms of aspergillosis,其他型麴菌病
+987,B449,"Aspergillosis, unspecified",麴菌病，未特定
+988,B45,Cryptococcosis,隱球菌病
+989,B450,Pulmonary cryptococcosis,肺隱球菌病
+990,B451,Cerebral cryptococcosis,腦隱球菌病
+991,B452,Cutaneous cryptococcosis,皮膚隱球菌性病
+992,B453,Osseous cryptococcosis,骨隱球菌病
+993,B457,Disseminated cryptococcosis,散播性隱球菌病
+994,B458,Other forms of cryptococcosis,其他型隱球菌病
+995,B459,"Cryptococcosis, unspecified",隱球菌病，未特定
+996,B46,Zygomycosis,接合菌病
+997,B460,Pulmonary mucormycosis,肺白黴菌病
+998,B461,Rhinocerebral mucormycosis,鼻腦型白黴菌病
+999,B462,Gastrointestinal mucormycosis,胃腸白黴菌病
+1000,B463,Cutaneous mucormycosis,皮膚白黴菌病
+1001,B464,Disseminated mucormycosis,散播性白黴菌病
+1002,B465,"Mucormycosis, unspecified",白黴菌病，未特定
+1003,B468,Other zygomycoses,其他接合菌病
+1004,B469,"Zygomycosis, unspecified",接合菌病，未特定
+1005,B47,Mycetoma,足菌腫
+1006,B470,Eumycetoma,真菌性足菌腫
+1007,B471,Actinomycetoma,放射線菌腫
+1008,B479,"Mycetoma, unspecified",足菌腫，未特定
+1009,B48,"Other mycoses, not elsewhere classified",其他足菌腫，他處未歸類者
+1010,B480,Lobomycosis,勞布芽生黴菌病
+1011,B481,Rhinosporidiosis,鼻孢子黴菌病
+1012,B482,Allescheriasis,囊子菌病
+1013,B483,Geotrichosis,地絲菌病
+1014,B484,Penicillosis,青黴菌病
+1015,B488,Other specified mycoses,其他特定之黴菌病
+1016,B49,Unspecified mycosis,黴菌病，未特定
+1017,B50,Plasmodium falciparum malaria,惡性瘧疾
+1018,B500,Plasmodium falciparum malaria with cerebral complications,惡性瘧疾伴有腦併發症
+1019,B508,Other severe and complicated Plasmodium falciparum malaria,其他嚴重及含併發症之鐮型瘧原蟲性惡性瘧疾
+1020,B509,"Plasmodium falciparum malaria, unspecified",惡性瘧，未特定
+1021,B51,Plasmodium vivax malaria,間日瘧疾
+1022,B510,Plasmodium vivax malaria with rupture of spleen,間日瘧疾伴有脾臟破裂
+1023,B518,Plasmodium vivax malaria with other complications,間日瘧疾伴有其他併發症
+1024,B519,Plasmodium vivax malaria without complication,間日瘧疾未伴有併發症
+1025,B52,Plasmodium malariae malaria,三日瘧疾
+1026,B520,Plasmodium malariae malaria with nephropathy,三日瘧疾伴有腎病變
+1027,B528,Plasmodium malariae malaria with other complications,三日瘧伴有其他併發症
+1028,B529,Plasmodium malariae malaria without complication,三日瘧未伴有併發症
+1029,B53,Other specified malaria,其他特定瘧疾
+1030,B530,Plasmodium ovale malaria,卵形瘧原蟲瘧疾
+1031,B531,Malaria due to simian plasmodia,猴型瘧原蟲所致之瘧疾
+1032,B538,"Other malaria, not elsewhere classified",其他瘧疾，他處未歸類者
+1033,B54,Unspecified malaria,未特定之瘧疾
+1034,B55,Leishmaniasis,利什曼原蟲病
+1035,B550,Visceral leishmaniasis,內臟型利什曼原蟲病
+1036,B551,Cutaneous leishmaniasis,皮膚型利什曼原蟲病
+1037,B552,Mucocutaneous leishmaniasis,粘膜皮膚型利什曼原蟲病
+1038,B559,"Leishmaniasis, unspecified",利什曼原蟲病，未特定
+1039,B56,African trypanosomiasis,非洲錐蟲病
+1040,B560,Gambiense trypanosomiasis,剛比亞錐蟲病
+1041,B561,Rhodesiense trypanosomiasis,羅德西亞錐蟲病
+1042,B569,"African trypanosomiasis, unspecified",非洲錐蟲病，未特定
+1043,B57,Chagas' disease,Chgs病
+1044,B570,Acute Chagas' disease with heart involvement,急性Chagas病侵犯心臟
+1045,B571,Acute Chagas' disease without heart involvement,急性Chagas病未伴有侵犯心臟
+1046,B572,Chagas' disease (chronic) with heart involvement,Chagas(慢性)病侵犯心臟
+1047,B573,Chagas' disease (chronic) with digestive system involvement,侵犯消化系統之Chgs病(慢性)
+1048,B5730,"Chagas' disease with digestive system involvement, unspecified",Chagas病侵及消化系統，未特定
+1049,B5731,Megaesophagus in Chagas' disease,Chagas病引發之巨食管
+1050,B5732,Megacolon in Chagas' disease,Chagas病引發之巨結腸
+1051,B5739,Other digestive system involvement in Chagas' disease,侵及其他消化系統之Chagas病
+1052,B574,Chagas' disease (chronic) with nervous system involvement,侵犯神經系統之Chgs病(慢性)
+1053,B5740,"Chagas' disease with nervous system involvement, unspecified",侵犯神經系統之Chagas病，未特定
+1054,B5741,Meningitis in Chagas' disease,Chagas病引起之腦膜炎
+1055,B5742,Meningoencephalitis in Chagas' disease,Chagas病引起之腦膜腦炎
+1056,B5749,Other nervous system involvement in Chagas' disease,侵犯其他神經系統之Chagas病
+1057,B575,Chagas' disease (chronic) with other organ involvement,(慢性)Chagas病侵犯其他器官
+1058,B58,Toxoplasmosis,弓漿蟲
+1059,B580,Toxoplasma oculopathy,弓漿蟲眼病變
+1060,B5800,"Toxoplasma oculopathy, unspecified",弓漿蟲眼病變，未特定
+1061,B5801,Toxoplasma chorioretinitis,弓漿蟲脈絡膜視網膜炎
+1062,B5809,Other toxoplasma oculopathy,其他弓漿蟲眼病變
+1063,B581,Toxoplasma hepatitis,弓漿蟲肝炎
+1064,B582,Toxoplasma meningoencephalitis,弓漿蟲腦膜腦炎
+1065,B583,Pulmonary toxoplasmosis,肺弓漿蟲病
+1066,B588,Toxoplasmosis with other organ involvement,侵犯其他器官之弓漿蟲病
+1067,B5881,Toxoplasma myocarditis,弓漿蟲心肌炎
+1068,B5882,Toxoplasma myositis,弓漿蟲蟲肌炎
+1069,B5883,Toxoplasma tubulo-interstitial nephropathy,弓漿蟲腎小管間質腎病變
+1070,B5889,Toxoplasmosis with other organ involvement,侵犯其他器官之弓漿蟲病
+1071,B589,"Toxoplasmosis, unspecified",弓漿蟲病，未特定
+1072,B59,Pneumocystosis,肺囊蟲病
+1073,B60,"Other protozoal diseases, not elsewhere classified",其他原蟲性疾病、他處未歸類者
+1074,B600,Babesiosis,芽胞蟲病
+1075,B601,Acanthamebiasis,棘阿米巴病
+1076,B6010,"Acanthamebiasis, unspecified",棘阿米巴病，未特定
+1077,B6011,Meningoencephalitis due to Acanthamoeba (culbertsoni),棘阿米巴 (culbertsoni)所致之腦膜腦炎
+1078,B6012,Conjunctivitis due to Acanthamoeba,棘阿米巴所致之結膜炎
+1079,B6013,Keratoconjunctivitis due to Acanthamoeba,棘阿米巴所致之角結膜炎
+1080,B6019,Other acanthamebic disease,其他棘阿米巴病
+1081,B602,Naegleriasis,奈加氏蟲病
+1082,B608,Other specified protozoal diseases,其他特定之原蟲性疾病
+1083,B64,Unspecified protozoal disease,未特定之原蟲病
+1084,B65,Schistosomiasis [bilharziasis],血吸蟲病[血吸蟲病]
+1085,B650,Schistosomiasis due to Schistosoma haematobium [urinary schistosomiasis],埃及血吸蟲所致之埃及血吸蟲病[腸道血吸蟲病]
+1086,B651,Schistosomiasis due to Schistosoma mansoni [intestinal schistosomiasis],曼森血吸蟲所致之曼森血吸蟲病[腸道血吸蟲病]
+1087,B652,Schistosomiasis due to Schistosoma japonicum,日本血吸蟲所致之日本血吸蟲病
+1088,B653,Cercarial dermatitis,尾動幼蟲性皮膚炎
+1089,B658,Other schistosomiasis,其他血吸蟲病
+1090,B659,"Schistosomiasis, unspecified",血吸蟲病，未特定
+1091,B66,Other fluke infections,其他吸蟲感染
+1092,B660,Opisthorchiasis,後睪吸蟲病
+1093,B661,Clonorchiasis,肝吸蟲病(中華肝吸蟲病)
+1094,B662,Dicroceliasis,槍形吸蟲病
+1095,B663,Fascioliasis,瓜仁蟲病(牛羊肝吸蟲)
+1096,B664,Paragonimiasis,肺吸蟲病
+1097,B665,Fasciolopsiasis,薑片吸蟲病
+1098,B668,Other specified fluke infections,其他特定之吸蟲感染
+1099,B669,"Fluke infection, unspecified",吸蟲感染，未特定
+1100,B67,Echinococcosis,包生絛蟲病
+1101,B670,Echinococcus granulosus infection of liver,單包絛蟲之肝感染
+1102,B671,Echinococcus granulosus infection of lung,單包絛蟲之肺感染
+1103,B672,Echinococcus granulosus infection of bone,單包絛蟲之骨感染
+1104,B673,"Echinococcus granulosus infection, other and multiple sites",其他及多發部位之單包絛蟲感染
+1105,B6731,"Echinococcus granulosus infection, thyroid gland",單包絛蟲之甲狀腺感染
+1106,B6732,"Echinococcus granulosus infection, multiple sites",多發部位之單房性包蟲感染
+1107,B6739,"Echinococcus granulosus infection, other sites",其他部位之單包絛蟲感染
+1108,B674,"Echinococcus granulosus infection, unspecified",單包絛蟲感染，未特定
+1109,B675,Echinococcus multilocularis infection of liver,多包絛蟲肝感染
+1110,B676,"Echinococcus multilocularis infection, other and multiple sites",其他及多發部位之多包絛蟲感染
+1111,B6761,"Echinococcus multilocularis infection, multiple sites",多發部位之多包絛蟲感染
+1112,B6769,"Echinococcus multilocularis infection, other sites",其他部位多包絛蟲感染
+1113,B677,"Echinococcus multilocularis infection, unspecified",多房性胞絛蟲感染，未特定
+1114,B678,"Echinococcosis, unspecified, of liver",肝包生絛蟲病，未特定
+1115,B679,"Echinococcosis, other and unspecified",其他及多發部位之包生絛蟲病
+1116,B6790,"Echinococcosis, unspecified",包生絛蟲病，未特定
+1117,B6799,Other echinococcosis,其他包生絛蟲病
+1118,B68,Taeniasis,絛蟲病
+1119,B680,Taenia solium taeniasis,有鉤絛蟲病
+1120,B681,Taenia saginata taeniasis,無鉤絛蟲病
+1121,B689,"Taeniasis, unspecified",絛蟲病，未特定
+1122,B69,Cysticercosis,囊蟲病
+1123,B690,Cysticercosis of central nervous system,中樞神經系統性囊蟲病
+1124,B691,Cysticercosis of eye,眼囊蟲病
+1125,B698,Cysticercosis of other sites,其他部位囊蟲病
+1126,B6981,Myositis in cysticercosis,囊蟲病所引起之肌炎
+1127,B6989,Cysticercosis of other sites,其他部位囊蟲病
+1128,B699,"Cysticercosis, unspecified",囊蟲病，未特定
+1129,B70,Diphyllobothriasis and sparganosis,裂頭絛蟲病及幼絛蟲病
+1130,B700,Diphyllobothriasis,裂頭絛蟲病
+1131,B701,Sparganosis,幼絛蟲病
+1132,B71,Other cestode infections,其他絛蟲感染
+1133,B710,Hymenolepiasis,膜殼絛蟲病(包膜絛蟲病)
+1134,B711,Dipylidiasis,犬複殖器絛蟲病
+1135,B718,Other specified cestode infections,其他特定之絛蟲感染
+1136,B719,"Cestode infection, unspecified",絛蟲感染，未特定
+1137,B72,Dracunculiasis,麥地那絲蟲病
+1138,B73,Onchocerciasis,蟠尾絲蟲病
+1139,B730,Onchocerciasis with eye disease,蟠尾絲蟲病眼疾病
+1140,B7300,"Onchocerciasis with eye involvement, unspecified",蟠尾絲蟲病眼侵犯，未特定
+1141,B7301,Onchocerciasis with endophthalmitis,蟠尾絲蟲病伴有眼內炎
+1142,B7302,Onchocerciasis with glaucoma,蟠尾絲蟲病伴有青光眼
+1143,B7309,Onchocerciasis with other eye involvement,蟠尾線蟲病伴有其他眼侵犯
+1144,B731,Onchocerciasis without eye disease,蟠尾絲蟲病未伴有眼病變
+1145,B74,Filariasis,血絲蟲病
+1146,B740,Filariasis due to Wuchereria bancrofti,班克羅夫絲蟲所致之血絲蟲病
+1147,B741,Filariasis due to Brugia malayi,馬來亞布魯格絲蟲病
+1148,B742,Filariasis due to Brugia timori,帝汶布魯格絲蟲病
+1149,B743,Loiasis,羅阿血絲蟲病
+1150,B744,Mansonelliasis,曼森絲蟲病
+1151,B748,Other filariases,其他絲蟲病
+1152,B749,"Filariasis, unspecified",血絲蟲病，未特定
+1153,B75,Trichinellosis,旋毛蟲病
+1154,B76,Hookworm diseases,鉤蟲病
+1155,B760,Ancylostomiasis,十二指腸鉤蟲病
+1156,B761,Necatoriasis,美洲鉤蟲病
+1157,B768,Other hookworm diseases,其他鉤蟲病
+1158,B769,"Hookworm disease, unspecified",鉤蟲病，未特定
+1159,B77,Ascariasis,蛔蟲病
+1160,B770,Ascariasis with intestinal complications,伴有腸道併發症之蛔蟲病
+1161,B778,Ascariasis with other complications,伴有其他併發症之蛔蟲病
+1162,B7781,Ascariasis pneumonia,肺炎蛔蟲病
+1163,B7789,Ascariasis with other complications,伴有其他併發症之蛔蟲病
+1164,B779,"Ascariasis, unspecified",蛔蟲病，未特定
+1165,B78,Strongyloidiasis,桿線蟲病
+1166,B780,Intestinal strongyloidiasis,腸道桿線蟲病
+1167,B781,Cutaneous strongyloidiasis,皮膚類圓蟲病
+1168,B787,Disseminated strongyloidiasis,散播性類圓蟲病
+1169,B789,"Strongyloidiasis, unspecified",糞桿線蟲病，未特定
+1170,B79,Trichuriasis,鞭蟲病
+1171,B80,Enterobiasis,蟯蟲病
+1172,B81,"Other intestinal helminthiases, not elsewhere classified",其他腸道蠕蟲病，他處未歸類者
+1173,B810,Anisakiasis,安尼沙基蟲病
+1174,B811,Intestinal capillariasis,腸道毛細線蟲病
+1175,B812,Trichostrongyliasis,毛狀圓蟲病
+1176,B813,Intestinal angiostrongyliasis,腸道血線蟲病
+1177,B814,Mixed intestinal helminthiases,混合腸道蠕蟲病
+1178,B818,Other specified intestinal helminthiases,其他特定之腸道蠕蟲病
+1179,B82,Unspecified intestinal parasitism,未特定腸道寄生蟲病
+1180,B820,"Intestinal helminthiasis, unspecified",腸道蠕蟲病，未特定
+1181,B829,"Intestinal parasitism, unspecified",腸道寄生蟲病，未特定
+1182,B83,Other helminthiases,其他蠕蟲病
+1183,B830,Visceral larva migrans,內臟幼蟲移行症
+1184,B831,Gnathostomiasis,頜口蟲病
+1185,B832,Angiostrongyliasis due to Parastrongylus cantonensis,廣東血線蟲所致之血線蟲病
+1186,B833,Syngamiasis,比翼線蟲病
+1187,B834,Internal hirudiniasis,內部水蛭病
+1188,B838,Other specified helminthiases,其他特定之蠕蟲病
+1189,B839,"Helminthiasis, unspecified",蠕蟲病，未特定
+1190,B85,Pediculosis and phthiriasis,蝨病及陰蝨
+1191,B850,Pediculosis due to Pediculus humanus capitis,人類頭蝨所致之蝨病
+1192,B851,Pediculosis due to Pediculus humanus corporis,人類體蝨所致之蝨病
+1193,B852,"Pediculosis, unspecified",蝨病，未特定
+1194,B853,Phthiriasis,蝨病
+1195,B854,Mixed pediculosis and phthiriasis,混合型蝨病及陰蝨
+1196,B86,Scabies,疥癬(疥瘡)
+1197,B87,Myiasis,蠅蛆病
+1198,B870,Cutaneous myiasis,皮膚蠅蛆病
+1199,B871,Wound myiasis,傷口蠅蛆病
+1200,B872,Ocular myiasis,眼蠅蛆病
+1201,B873,Nasopharyngeal myiasis,鼻咽蠅蛆病
+1202,B874,Aural myiasis,耳蠅蛆病
+1203,B878,Myiasis of other sites,其他部位蠅蛆病
+1204,B8781,Genitourinary myiasis,泌尿生殖蠅蛆病
+1205,B8782,Intestinal myiasis,腸蠅蛆病
+1206,B8789,Myiasis of other sites,其他部位蠅蛆病
+1207,B879,"Myiasis, unspecified",蠅蛆病，未特定
+1208,B88,Other infestations,其他病蟲侵染
+1209,B880,Other acariasis,其他疥蟲病
+1210,B881,Tungiasis [sandflea infestation],沙蚤病﹝沙蚤侵染﹞
+1211,B882,Other arthropod infestations,其他節肢動物侵染
+1212,B883,External hirudiniasis,外部水蛭病
+1213,B888,Other specified infestations,其他特定之病蟲侵染
+1214,B889,"Infestation, unspecified",侵染(症)，未特定
+1215,B89,Unspecified parasitic disease,未特定之寄生蟲病
+1216,B90,Sequelae of tuberculosis,結核病之後遺症
+1217,B900,Sequelae of central nervous system tuberculosis,中樞神經系統結核病之後遺症
+1218,B901,Sequelae of genitourinary tuberculosis,生殖泌尿系結核病之後遺症
+1219,B902,Sequelae of tuberculosis of bones and joints,骨及關節結核病之後遺症
+1220,B908,Sequelae of tuberculosis of other organs,其他特定器官結核病之後遺症
+1221,B909,Sequelae of respiratory and unspecified tuberculosis,呼吸道及未特定部位結核病之後遺症
+1222,B91,Sequelae of poliomyelitis,脊髓灰白質炎之後遺症
+1223,B92,Sequelae of leprosy,麻風病之後遺症
+1224,B94,Sequelae of other unspecified infectious and parasitic diseases,其他未特定傳染病及寄生蟲病之後遺症
+1225,B940,Sequelae of trachoma,砂眼之後遺症
+1226,B941,Sequelae of viral encephalitis,病毒性腦炎之後遺症
+1227,B942,Sequelae of viral hepatitis,病毒性肝炎之後遺症
+1228,B948,Sequelae of other specified infectious and parasitic diseases,其他特定傳染病及寄生蟲病之後遺症
+1229,B949,Sequelae of unspecified infectious and parasitic disease,未特定之傳染病及寄生蟲病之後遺症
+1230,B95,"Streptococcus, Staphylococcus, and Enterococcus as the cause of diseases classified elsewhere",鏈球菌、葡萄球菌、及腸球菌歸類於他處所致的疾病
+1231,B950,"Streptococcus, group A, as the cause of diseases classified elsewhere",歸類於他處A群鏈球菌所致的疾病
+1232,B951,"Streptococcus, group B, as the cause of diseases classified elsewhere",歸類於他處B群鏈球菌所致的疾病
+1233,B952,Enterococcus as the cause of diseases classified elsewhere,歸類於他處腸球菌所致的疾病
+1234,B953,Streptococcus pneumoniae as the cause of diseases classified elsewhere,歸類於他處肺炎鏈球菌所致的疾病
+1235,B954,Other streptococcus as the cause of diseases classified elsewhere,歸類於他處其它鏈球菌所致的疾病
+1236,B955,Unspecified streptococcus as the cause of diseases classified elsewhere,歸類於他處未特定之鏈球菌所致的疾病
+1237,B956,Staphylococcus aureus as the cause of diseases classified elsewhere,歸類於他處金黃色葡萄球菌所致的疾病
+1238,B957,Other staphylococcus as the cause of diseases classified elsewhere,歸類於他處其他葡萄球菌所致的疾病
+1239,B958,Unspecified staphylococcus as the cause of diseases classified elsewhere,歸類於他處未特定之葡萄球菌所致的疾病
+1240,B96,Other bacterial agents as the cause of diseases classified elsewhere,歸類於他處其他細菌所致的疾病
+1241,B960,Mycoplasma pneumoniae [M. pneumoniae] as the cause of diseases classified elsewhere,歸類於他處肺炎黴漿菌所致的疾病
+1242,B961,Klebsiella pneumoniae [K. pneumoniae] as the cause of diseases classified elsewhere,歸類於他處肺炎克氏桿菌所致的疾病
+1243,B962,Escherichia coli [E. coli ] as the cause of diseases classified elsewhere,歸類於他處大腸桿菌所致的疾病
+1244,B963,Hemophilus influenzae [H. influenzae] as the cause of diseases classified elsewhere,歸類於他處流行性感冒嗜血桿菌所致的疾病
+1245,B964,Proteus (mirabilis) (morganii) as the cause of diseases classified elsewhere,歸類於他處(奇異型)(摩爾根)變形桿菌所致的疾病
+1246,B965,Pseudomonas (aeruginosa) (mallei) (pseudomallei) as the cause of diseases classified elsewhere,歸類於他處(綠膿)(鼻疽)(類鼻疽)假單胞桿菌所致的疾病
+1247,B966,Bacteroides fragilis [B. fragilis] as the cause of diseases classified elsewhere,歸類於他處脆性桿菌所致的疾病
+1248,B967,Clostridium perfringens [C. perfringens] as the cause of diseases classified elsewhere,歸類於他處產氣梭(狀芽胞桿菌)所致的疾病
+1249,B968,Other specified bacterial agents as the cause of diseases classified elsewhere,歸類於他處其他特定細菌所致的疾病
+1250,B9681,Helicobacter pylori [H. pylori] as the cause of diseases classified elsewhere,歸類於他處幽門桿菌所致的疾病
+1251,B9682,Vibrio vulnificus as the cause of diseases classified elsewhere,歸類於他處創傷弧菌所致的疾病
+1252,B9689,Other specified bacterial agents as the cause of diseases classified elsewhere,歸類於他處其他特定細菌所致的疾病
+1253,B97,Viral agents as the cause of diseases classified elsewhere,歸類於他處病毒所致的疾病
+1254,B970,Adenovirus as the cause of diseases classified elsewhere,歸類於他處腺病毒所致的疾病
+1255,B971,Enterovirus as the cause of diseases classified elsewhere,歸類於他處腸病毒所致的疾病
+1256,B9710,Unspecified enterovirus as the cause of diseases classified elsewhere,歸類於他處未特定之腸病毒所致的疾病
+1257,B9711,Coxsackievirus as the cause of diseases classified elsewhere,歸類於他處克沙奇病毒所致的疾病
+1258,B9712,Echovirus as the cause of diseases classified elsewhere,歸類於他處Echo病毒[腸道致病性人類孤兒病毒(Echovirus)]所致的疾病
+1259,B9719,Other enterovirus as the cause of diseases classified elsewhere,歸類於他處其他腸病毒所致的疾病
+1260,B972,Coronavirus as the cause of diseases classified elsewhere,歸類於他處冠狀病毒所致的疾病
+1261,B9721,SARS-associated coronavirus as the cause of diseases classified elsewhere,歸類於他處SARS相關冠狀病毒所致的疾病
+1262,B9729,Other coronavirus as the cause of diseases classified elsewhere,歸類於他處其他冠狀病毒所致的疾病
+1263,B973,Retrovirus as the cause of diseases classified elsewhere,歸類於他處反轉錄病毒所致的疾病
+1264,B9730,Unspecified retrovirus as the cause of diseases classified elsewhere,歸類於他處未特定之反轉錄病毒所致的疾病
+1265,B9731,Lentivirus as the cause of diseases classified elsewhere,歸類於他處慢病毒所致的疾病
+1266,B9732,Oncovirus as the cause of diseases classified elsewhere,歸類於他處腫瘤病毒所致的疾病
+1267,B9733,"Human T-cell lymphotrophic virus, type I [HTLV-I] as the cause of diseases classified elsewhere",歸類於他處第一型人類T細胞淋巴病毒所致的疾病
+1268,B9734,"Human T-cell lymphotrophic virus, type II [HTLV-II] as the cause of diseases classified elsewhere",歸類於他處第二型人類T細胞淋巴病毒所致的疾病
+1269,B9735,"Human immunodeficiency virus, type 2 [HIV 2] as the cause of diseases classified elsewhere",歸類於他處第二型人類免疫不全病毒所致的疾病
+1270,B9739,Other retrovirus as the cause of diseases classified elsewhere,歸類於他處其他反轉錄病毒所致的疾病
+1271,B974,Respiratory syncytial virus as the cause of diseases classified elsewhere,歸類於他處呼吸道融合細胞病毒[RVS]所致的疾病
+1272,B975,Reovirus as the cause of diseases classified elsewhere,歸類於他處雷歐[呼腸]病毒所致的疾病
+1273,B976,Parvovirus as the cause of diseases classified elsewhere,歸類於他處小病毒所致的疾病
+1274,B977,Papillomavirus as the cause of diseases classified elsewhere,歸類於他處乳突(頭)病毒所致的疾病
+1275,B978,Other viral agents as the cause of diseases classified elsewhere,歸類於他處其他病毒所致的疾病
+1276,B9781,Human metapneumovirus as the cause of diseases classified elsewhere,歸類於他處人類偏肺病毒所致的疾病
+1277,B9789,Other viral agents as the cause of diseases classified elsewhere,歸類於他處其他病毒所致的疾病
+1278,B99,Other and unspecified infectious diseases,其他及未特定傳染病
+1279,B998,Other infectious disease,其他傳染病
+1280,B999,Unspecified infectious disease,傳染病，未特定

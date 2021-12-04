@@ -1,0 +1,724 @@
+,code,en_name,ch_name
+0,N00,Acute nephritic syndrome,急性腎炎症候群
+1,N000,Acute nephritic syndrome with minor glomerular abnormality,急性腎炎症候群伴有輕微腎絲球異常
+2,N001,Acute nephritic syndrome with focal and segmental glomerular lesions,急性腎炎症候群伴有局部及節段性腎絲球病灶
+3,N002,Acute nephritic syndrome with diffuse membranous glomerulonephritis,急性腎炎症候群伴有瀰漫性膜性腎絲球腎炎
+4,N003,Acute nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,急性腎炎症候群伴有瀰漫性腎間質細胞增生性腎絲球腎炎
+5,N004,Acute nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,急性腎炎症候群伴有瀰漫性微血管內增生性腎絲球腎炎
+6,N005,Acute nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,急性腎炎症候群伴有瀰漫性腎絲球間質微血管腎絲球腎炎
+7,N006,Acute nephritic syndrome with dense deposit disease,急性腎炎症候群伴有緻密性免疫沈積疾病
+8,N007,Acute nephritic syndrome with diffuse crescentic glomerulonephritis,急性腎炎症候群伴有瀰漫性新月形腎絲球腎炎
+9,N008,Acute nephritic syndrome with other morphologic changes,急性腎炎症候群伴有其他組織形態改變
+10,N009,Acute nephritic syndrome with unspecified morphologic changes,急性腎炎症候群伴有非特異性的組織形態改變
+11,N01,Rapidly progressive nephritic syndrome,快速進行性腎炎症候群
+12,N010,Rapidly progressive nephritic syndrome with minor glomerular abnormality,快速進行性腎炎症候群伴有輕微腎絲球異常
+13,N011,Rapidly progressive nephritic syndrome with focal and segmental glomerular lesions,快速進行性腎炎症候群伴有局部及節段性腎絲球病灶
+14,N012,Rapidly progressive nephritic syndrome with diffuse membranous glomerulonephritis,快速進行性腎炎症候群伴有瀰漫性膜性腎絲球腎炎
+15,N013,Rapidly progressive nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,快速進行性腎炎症候群伴有瀰漫性腎間質細胞增生性腎絲球腎炎
+16,N014,Rapidly progressive nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,快速進行性腎炎症候群伴有瀰漫性微血管內增生性腎絲球腎炎
+17,N015,Rapidly progressive nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,快速進行性腎炎症候群伴有瀰漫性腎絲球間質微血管腎絲球腎炎
+18,N016,Rapidly progressive nephritic syndrome with dense deposit disease,快速進行性腎炎症候群伴有緻密性免疫沈積疾病
+19,N017,Rapidly progressive nephritic syndrome with diffuse crescentic glomerulonephritis,快速進行性腎炎症候群伴有瀰漫性新月形腎絲球腎炎
+20,N018,Rapidly progressive nephritic syndrome with other morphologic changes,快速進行性腎炎症候群伴有其他組織形態改變
+21,N019,Rapidly progressive nephritic syndrome with unspecified morphologic changes,快速進行性腎炎症候群伴有非特異性的組織形態改變
+22,N02,Recurrent and persistent hematuria,再發性及持續性血尿
+23,N020,Recurrent and persistent hematuria with minor glomerular abnormality,再發性及持續性血尿伴有輕微腎絲球異常
+24,N021,Recurrent and persistent hematuria with focal and segmental glomerular lesions,再發性及持續性血尿伴有局部及節段性腎絲球病灶
+25,N022,Recurrent and persistent hematuria with diffuse membranous glomerulonephritis,再發性及持續性血尿伴有瀰漫性膜性腎絲球腎炎
+26,N023,Recurrent and persistent hematuria with diffuse mesangial proliferative glomerulonephritis,再發性及持續性血尿伴有瀰漫性腎間質細胞增生性腎絲球腎炎
+27,N024,Recurrent and persistent hematuria with diffuse endocapillary proliferative glomerulonephritis,再發性及持續性血尿伴有瀰漫性微血管內增生性腎絲球腎炎
+28,N025,Recurrent and persistent hematuria with diffuse mesangiocapillary glomerulonephritis,再發性及持續性血尿伴有瀰漫性腎絲球間質微血管腎絲球腎炎
+29,N026,Recurrent and persistent hematuria with dense deposit disease,再發性及持續性血尿伴有緻密性免疫沈積疾病
+30,N027,Recurrent and persistent hematuria with diffuse crescentic glomerulonephritis,再發性及持續性血尿伴有瀰漫性新月形腎絲球腎炎
+31,N028,Recurrent and persistent hematuria with other morphologic changes,再發性及持續性血尿伴有其他組織形態改變
+32,N029,Recurrent and persistent hematuria with unspecified morphologic changes,再發性及持續性血尿伴有非特異性的組織形態改變
+33,N03,Chronic nephritic syndrome,慢性腎炎症候群
+34,N030,Chronic nephritic syndrome with minor glomerular abnormality,慢性腎炎症候群伴有輕微腎絲球異常
+35,N031,Chronic nephritic syndrome with focal and segmental glomerular lesions,慢性腎炎症候群伴有局部及節段性腎絲球病灶
+36,N032,Chronic nephritic syndrome with diffuse membranous glomerulonephritis,慢性腎炎症候群伴有瀰漫性膜性腎絲球腎炎
+37,N033,Chronic nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,慢性腎炎症候群伴有瀰漫性腎間質細胞增生性腎絲球腎炎
+38,N034,Chronic nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,慢性腎炎症候群伴有瀰漫性微血管內增生性腎絲球腎炎
+39,N035,Chronic nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,慢性腎炎症候群伴有瀰漫性腎絲球間質微血管腎絲球腎炎
+40,N036,Chronic nephritic syndrome with dense deposit disease,慢性腎炎症候群伴有緻密性免疫沈積疾病
+41,N037,Chronic nephritic syndrome with diffuse crescentic glomerulonephritis,慢性腎炎症候群伴有瀰漫性新月形腎絲球腎炎
+42,N038,Chronic nephritic syndrome with other morphologic changes,慢性腎炎症候群伴有其他組織形態改變
+43,N039,Chronic nephritic syndrome with unspecified morphologic changes,慢性腎炎症候群伴有非特異性的組織形態改變
+44,N04,Nephrotic syndrome,腎病症候群
+45,N040,Nephrotic syndrome with minor glomerular abnormality,腎病症候群伴有輕微腎絲球異常
+46,N041,Nephrotic syndrome with focal and segmental glomerular lesions,腎病症候群伴有局部及節段性腎絲球病灶
+47,N042,Nephrotic syndrome with diffuse membranous glomerulonephritis,腎病症候群伴有瀰漫性膜性腎絲球腎炎
+48,N043,Nephrotic syndrome with diffuse mesangial proliferative glomerulonephritis,腎病症候群伴有瀰漫性腎絲球間質細胞增生性腎絲球腎炎
+49,N044,Nephrotic syndrome with diffuse endocapillary proliferative glomerulonephritis,腎病症候群伴有瀰漫性微血管內增生性腎絲球腎炎
+50,N045,Nephrotic syndrome with diffuse mesangiocapillary glomerulonephritis,腎病症候群伴有瀰漫性腎絲球間質微血管腎絲球腎炎
+51,N046,Nephrotic syndrome with dense deposit disease,腎病症候群伴有緻密性免疫沈積疾病
+52,N047,Nephrotic syndrome with diffuse crescentic glomerulonephritis,腎病症候群伴有瀰漫性新月形腎絲球腎炎
+53,N048,Nephrotic syndrome with other morphologic changes,腎病症候群伴有其他組織形態改變
+54,N049,Nephrotic syndrome with unspecified morphologic changes,腎病症候群伴有非特異性的組織形態改變
+55,N05,Unspecified nephritic syndrome,非特異性的腎炎症候群
+56,N050,Unspecified nephritic syndrome with minor glomerular abnormality,非特異性的腎炎症候群伴有輕微腎絲球異常
+57,N051,Unspecified nephritic syndrome with focal and segmental glomerular lesions,非特異性的腎炎症候群伴有局部及節段性腎絲球病灶
+58,N052,Unspecified nephritic syndrome with diffuse membranous glomerulonephritis,非特異性的腎炎症候群伴有瀰漫性膜性腎絲球腎炎
+59,N053,Unspecified nephritic syndrome with diffuse mesangial proliferative glomerulonephritis,非特異性的腎炎症候群伴有瀰漫性腎絲球間質細胞增生性腎絲球腎炎
+60,N054,Unspecified nephritic syndrome with diffuse endocapillary proliferative glomerulonephritis,非特異性的腎炎症候群伴有瀰漫性微血管內增生性腎絲球腎炎
+61,N055,Unspecified nephritic syndrome with diffuse mesangiocapillary glomerulonephritis,非特異性的腎炎症候群伴有瀰漫性腎絲球間質微血管腎絲球腎炎
+62,N056,Unspecified nephritic syndrome with dense deposit disease,非特異性的腎炎症候群伴有緻密性免疫沈積疾病
+63,N057,Unspecified nephritic syndrome with diffuse crescentic glomerulonephritis,非特異性的腎炎症候群伴有瀰漫性新月形腎絲球腎炎
+64,N058,Unspecified nephritic syndrome with other morphologic changes,非特異性的腎炎症候群伴有其他組織形態改變
+65,N059,Unspecified nephritic syndrome with unspecified morphologic changes,非特異性的腎炎症候群伴有非特異性的組織形態改變
+66,N06,Isolated proteinuria with specified morphological lesion,單獨性蛋白尿伴有特異性的組織形態病灶
+67,N060,Isolated proteinuria with minor glomerular abnormality,單獨性蛋白尿伴有輕微腎絲球異常
+68,N061,Isolated proteinuria with focal and segmental glomerular lesions,單獨性蛋白尿伴有局部及節段性腎絲球病灶
+69,N062,Isolated proteinuria with diffuse membranous glomerulonephritis,單獨性蛋白尿伴有瀰漫性膜性腎絲球腎炎
+70,N063,Isolated proteinuria with diffuse mesangial proliferative glomerulonephritis,獨發性蛋白尿伴有瀰漫性腎絲球間質細胞增生性腎絲球腎炎
+71,N064,Isolated proteinuria with diffuse endocapillary proliferative glomerulonephritis,單獨性蛋白尿伴有特定瀰漫性微血管內增生性腎絲球腎炎
+72,N065,Isolated proteinuria with diffuse mesangiocapillary glomerulonephritis,單獨性蛋白尿伴有瀰漫性腎絲球間質微血管腎絲球腎炎
+73,N066,Isolated proteinuria with dense deposit disease,單獨性蛋白尿伴有緻密性免疫沈積疾病
+74,N067,Isolated proteinuria with diffuse crescentic glomerulonephritis,單獨性蛋白尿伴有瀰漫性新月形腎絲球腎炎
+75,N068,Isolated proteinuria with other morphologic lesion,單獨性蛋白尿伴有其他組織形態改變
+76,N069,Isolated proteinuria with unspecified morphologic lesion,單獨性蛋白尿伴有非特異性的組織形態改變
+77,N07,"Hereditary nephropathy, not elsewhere classified",遺傳性腎病變，他處未歸類
+78,N070,"Hereditary nephropathy, not elsewhere classified with minor glomerular abnormality",遺傳性腎病變，他處未歸類之輕微腎絲球異常
+79,N071,"Hereditary nephropathy, not elsewhere classified with focal and segmental glomerular lesions",遺傳性腎病變，他處未歸類之局部及節段性腎絲球病灶
+80,N072,"Hereditary nephropathy, not elsewhere classified with diffuse membranous glomerulonephritis",遺傳性腎病變，他處未歸類之瀰漫性膜性腎絲球腎炎
+81,N073,"Hereditary nephropathy, not elsewhere classified with diffuse mesangial proliferative glomerulonephritis",遺傳性腎病變，他處未歸類之瀰漫性腎絲球間質細胞增生性腎絲球腎炎
+82,N074,"Hereditary nephropathy, not elsewhere classified with diffuse endocapillary proliferative glomerulonephritis",遺傳性腎病變，他處未歸類之瀰漫性微血管內增生性腎絲球腎炎
+83,N075,"Hereditary nephropathy, not elsewhere classified with diffuse mesangiocapillary glomerulonephritis",遺傳性腎病變，他處未歸類之瀰漫性腎絲球間質微血管腎絲球腎炎
+84,N076,"Hereditary nephropathy, not elsewhere classified with dense deposit disease",遺傳性腎病變，他處未歸類之緻密性免疫沈積疾病
+85,N077,"Hereditary nephropathy, not elsewhere classified with diffuse crescentic glomerulonephritis",遺傳性腎病變，他處未歸類之瀰漫性新月形腎絲球腎炎
+86,N078,"Hereditary nephropathy, not elsewhere classified with other morphologic lesions",遺傳性腎病變，他處未歸類之其他組織形態改變
+87,N079,"Hereditary nephropathy, not elsewhere classified with unspecified morphologic lesions",遺傳性腎病變，他處未歸類之非特異性的組織形態改變
+88,N08,Glomerular disorders in diseases classified elsewhere,歸類於他處疾病所致之腎絲球疾患
+89,N10,Acute tubulo-interstitial nephritis,急性腎小管－間質腎炎
+90,N11,Chronic tubulo-interstitial nephritis,慢性腎小管－間質腎炎
+91,N110,Nonobstructive reflux-associated chronic pyelonephritis,與非阻塞性逆流相關的慢性腎盂腎炎
+92,N111,Chronic obstructive pyelonephritis,慢性阻塞性腎盂腎炎
+93,N118,Other chronic tubulo-interstitial nephritis,其他慢性腎小管－間質腎炎
+94,N119,"Chronic tubulo-interstitial nephritis, unspecified",慢性腎小管－間質腎炎，未特定
+95,N12,"Tubulo-interstitial nephritis, not specified as acute or chronic",腎小管－間質腎炎，未特定為急性或慢性者
+96,N13,Obstructive and reflux uropathy Other and unspecified hydronephrosis,阻塞性及逆流性泌尿道病變
+97,N131,"Hydronephrosis with ureteral stricture, not elsewhere classified",腎水腫伴有輸尿管縮窄，他處未歸類者
+98,N132,Hydronephrosis with renal and ureteral calculous obstruction,腎水腫伴有腎及輸尿管結石性阻塞
+99,N133,Other and unspecified hydronephrosis,其他及未特定之腎水腫
+100,N1330,Unspecified hydronephrosis,未特定之腎水腫
+101,N1339,Other hydronephrosis,其他腎水腫
+102,N134,Hydroureter,輸尿管水腫
+103,N135,Crossing vessel and stricture of ureter without hydronephrosis,輸尿管狹窄處有跨越之血管，未伴有腎水腫
+104,N136,Pyonephrosis,腎盂蓄膿
+105,N137,Vesicoureteral-reflux,膀胱輸尿管逆流
+106,N1370,"Vesicoureteral-reflux, unspecified",膀胱輸尿管逆流，未特定
+107,N1371,Vesicoureteral-reflux without reflux nephropathy,膀胱輸尿管逆流，未伴有逆流性腎病變
+108,N1372,Vesicoureteral-reflux with reflux nephropathy without hydroureter,膀胱輸尿管逆流伴有逆流性腎病變，未伴有輸尿管水腫
+109,N13721,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, unilateral","單側性膀胱輸尿管逆流伴有逆流性腎病變, 未伴有輸尿管水腫"
+110,N13722,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, bilateral","雙側性膀胱輸尿管逆流伴有逆流性腎病變, 未伴有輸尿管水腫"
+111,N13729,"Vesicoureteral-reflux with reflux nephropathy without hydroureter, unspecified","膀胱輸尿管逆流伴有逆流性腎病變, 未伴有輸尿管水腫,，未特定"
+112,N1373,Vesicoureteral-reflux with reflux nephropathy with hydroureter,膀胱輸尿管逆流伴有逆流性腎病變，伴有輸尿管水腫
+113,N13731,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, unilateral",單側性膀胱輸尿管逆流伴有逆流性腎病變及輸尿管水腫
+114,N13732,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, bilateral",雙側性膀胱輸尿管逆流伴有逆流性腎病變及輸尿管水腫
+115,N13739,"Vesicoureteral-reflux with reflux nephropathy with hydroureter, unspecified",膀胱輸尿管逆流伴有逆流性腎病變及輸尿管水腫，未特定
+116,N138,Other obstructive and reflux uropathy,其他阻塞性及逆流性泌尿道病變
+117,N139,"Obstructive and reflux uropathy, unspecified",阻塞性及逆流性泌尿道病變，未特定
+118,N14,Drug- and heavy-metal-induced tubulo-interstitial and tubular conditions,藥物及重金屬所致之腎小管－間質及腎小管病況
+119,N140,Analgesic nephropathy,止痛藥所致之腎病變
+120,N141,"Nephropathy induced by other drugs, medicaments and biological substances",其他藥物、藥劑及生物性製劑導致之腎病變
+121,N142,"Nephropathy induced by unspecified drug, medicament or biological substance",未特定藥物、藥劑或生物性製劑導致之腎病變
+122,N143,Nephropathy induced by heavy metals,重金屬導致之腎病變
+123,N144,"Toxic nephropathy, not elsewhere classified",中毒性腎病變，他處未歸類者
+124,N15,Other renal tubulo-interstitial diseases,其他腎小管－間質疾病
+125,N150,Balkan nephropathy,巴爾幹半島腎病變
+126,N151,Renal and perinephric abscess,腎及腎周圍膿瘍
+127,N158,Other specified renal tubulo-interstitial diseases,其他特定之腎小管－間質疾病
+128,N159,"Renal tubulo-interstitial disease, unspecified",腎小管－間質疾病，未特定
+129,N16,Renal tubulo-interstitial disorders in diseases classified elsewhere,歸類於他處疾患所致之腎小管－間質疾患
+130,N17,Acute kidney faillure,急性腎衰竭
+131,N170,Acute kidney failure with tubular necrosis,急性腎衰竭伴有腎小管壞死
+132,N171,Acute kidney failure with acute cortical necrosis,急性腎衰竭伴有急性腎皮質壞死
+133,N172,Acute kidney failure with medullary necrosis,急性腎衰竭伴有腎髓質壞死
+134,N178,Other acute kidney failure,其他急性腎衰竭
+135,N179,"Acute kidney failure, unspecified",急性腎衰竭，未特定
+136,N18,Chronic kidney disease (CKD),慢性腎臟疾病
+137,N181,"Chronic kidney disease, stage I",第一期慢性腎臟疾病
+138,N182,"Chronic kidney disease, stage II (mild)",第二期慢性腎臟疾病(輕度)
+139,N183,"Chronic kidney disease, stage III (moderate)",第三期慢性腎臟疾病(中度)
+140,N184,"Chronic kidney disease, stage IV (severe)",第四期慢性腎臟疾病(重度)
+141,N185,"Chronic kidney disease, stage V",第五期慢性腎臟疾病
+142,N186,End stage renal disease,末期腎疾病
+143,N189,"Chronic kidney disease, unspecified",慢性腎臟疾病，未特定
+144,N19,Unspecified kidney failure,未特定之腎衰竭
+145,N20,Calculus of kidney and ureter,腎結石及輸尿管結石
+146,N200,Calculus of kidney,腎結石
+147,N201,Calculus of ureter,輸尿管結石
+148,N202,Calculus of kidney with calculus of ureter,腎結石伴有輸尿管結石
+149,N209,"Urinary calculus, unspecified",泌尿道結石，未特定
+150,N21,Calculus of lower urinary tract,下泌尿道結石
+151,N210,Calculus in bladder,膀胱內結石
+152,N211,Calculus in urethra,尿道內結石
+153,N218,Other lower urinary tract calculus,其他下泌尿道結石
+154,N219,"Calculus of lower urinary tract, unspecified",下泌尿道結石，未特定
+155,N22,Calculus of urinary tract in diseases classified elsewhere,歸類於他處疾病所致之泌尿道結石
+156,N23,Unspecified renal colic,未特定之腎絞痛
+157,N25,Disorders resulting from impaired renal tubular function,腎小管功能不良所致之疾患
+158,N250,Renal osteodystrophy,腎性骨發育不全
+159,N251,Nephrogenic diabetes insipidus,腎源性尿崩症
+160,N258,Other disorders resulting from impaired renal tubular function,腎小管功能不良所致之其他疾患
+161,N2581,Secondary hyperparathyroidism of renal origin,腎源性續發性副甲狀腺機能亢進症
+162,N2589,Other disorders resulting from impaired renal tubular function,腎小管功能不良所致之其他疾患
+163,N259,"Disorder resulting from impaired renal tubular function, unspecified",腎小管功能不良所致之疾患，未特定
+164,N26,Unspecified contracted kidney,未特定腎臟萎縮
+165,N261,Atrophy of kidney (terminal),腎萎縮(末期)
+166,N262,Page kidney,Page腎臟
+167,N269,Renal sclerosis NOS,腎硬化
+168,N27,Small kidney of unknown cause,不明原因之小腎臟
+169,N270,"Small kidney, unilateral",單側性小腎臟
+170,N271,"Small kidney, bilateral",雙側性小腎臟
+171,N279,"Small kidney, unspecified",側性小腎臟，未特定
+172,N28,"Other disorders of kidney and ureter, not elsewhere classified",腎及輸尿管其他疾患，他處未歸類者
+173,N280,Ischemia and infarction of kidney,腎缺血及梗塞
+174,N281,"Cyst of kidney, acquired",後天性腎囊腫
+175,N288,Other specified disorders of kidney and ureter,其他特定之腎及輸尿管疾患
+176,N2881,Hypertrophy of kidney,腎肥大
+177,N2882,Megaloureter,巨輸尿管症
+178,N2883,Nephroptosis,腎下垂
+179,N2884,Pyelitis cystica,囊性腎盂炎
+180,N2885,Pyeloureteritis cystica,囊性腎盂輸尿管炎
+181,N2886,Ureteritis cystica,囊性輸尿管炎
+182,N2889,Other specified disorders of kidney and ureter,其他特定之腎及輸尿管疾患
+183,N289,"Disorder of kidney and ureter, unspecified",腎及輸尿管疾患，未特定
+184,N29,Other disorders of kidney and ureter in diseases classified elsewhere,歸類於他處疾病所致之其他腎及輸尿管疾患
+185,N30,Cystitis,膀胱炎
+186,N300,Acute cystitis,急性膀胱炎
+187,N3000,Acute cystitis without hematuria,急性膀胱炎未伴有血尿
+188,N3001,Acute cystitis with hematuria,急性膀胱炎伴有血尿
+189,N301,Interstitial cystitis (chronic),(慢性)間質性膀胱炎
+190,N3010,Interstitial cystitis (chronic) without hematuria,(慢性)間質性膀胱炎未伴有血尿
+191,N3011,Interstitial cystitis (chronic) with hematuria,(慢性)間質性膀胱炎伴有血尿
+192,N302,Other chronic cystitis,其他慢性膀胱炎
+193,N3020,Other chronic cystitis without hematuria,其他慢性膀胱炎未伴有血尿
+194,N3021,Other chronic cystitis with hematuria,其他慢性膀胱炎伴有血尿
+195,N303,Trigonitis,膀胱三角炎
+196,N3030,Trigonitis without hematuria,膀胱三角炎未伴有血尿
+197,N3031,Trigonitis with hematuria,膀胱三角炎伴有血尿
+198,N304,Irradiation cystitis,放射線性膀胱炎
+199,N3040,Irradiation cystitis without hematuria,放射線性膀胱炎未伴有血尿
+200,N3041,Irradiation cystitis with hematuria,放射線性膀胱炎伴有血尿
+201,N308,Other cystitis,慢性膀胱炎
+202,N3080,Other cystitis without hematuria,其他膀胱炎未伴有血尿
+203,N3081,Other cystitis with hematuria,其他膀胱炎伴有血尿
+204,N309,"Cystitis, unspecified",未特定之膀胱炎
+205,N3090,"Cystitis, unspecified without hematuria",未特定之膀胱炎未伴有血尿
+206,N3091,"Cystitis, unspecified with hematuria",未特定之膀胱炎伴有血尿
+207,N31,"Neuromuscular dysfunction of bladder, not elsewhere classified",膀胱神經肌肉機功能障礙，他處未歸類者
+208,N310,"Uninhibited neuropathic bladder, not elsewhere classified",未被抑制性神經病變性膀胱，他處未歸類者
+209,N311,"Reflex neuropathic bladder, not elsewhere classified",反射性神經病變性膀胱，他處未歸類者
+210,N312,"Flaccid neuropathic bladder, not elsewhere classified",鬆弛性神經病變性膀胱，他處未歸類者
+211,N318,Other neuromuscular dysfunction of bladder,膀胱其他神經肌肉功能障礙
+212,N319,"Neuromuscular dysfunction of bladder, unspecified",膀胱神經肌肉機功能障礙，未特定
+213,N32,Other disorders of bladder,其他膀胱疾患
+214,N320,Bladder-neck obstruction,膀胱頸阻塞
+215,N321,Vesicointestinal fistula,膀胱－腸瘻管
+216,N322,"Vesical fistula, not elsewhere classified",膀胱瘻管，他處未歸類者
+217,N323,Diverticulum of bladder,膀胱憩室
+218,N328,Other specified disorders of bladder,其他特定的膀胱疾患
+219,N3281,Overactive bladder,膀胱過動症
+220,N3289,Other specified disorders of bladder,其他特定的膀胱疾患
+221,N329,"Bladder disorder, unspecified",膀胱疾患，未特定
+222,N33,Bladder disorders in diseases classified elsewhere,歸類於他處疾病所致之膀胱疾患
+223,N34,Urethritis and urethral syndrome,尿道炎及尿道症候群
+224,N340,Urethral abscess,尿道膿瘍
+225,N341,Nonspecific urethritis,非特異性的尿道炎
+226,N342,Other urethritis,其他尿道炎
+227,N343,"Urethral syndrome, unspecified",尿道症候群，未特定
+228,N35,Urethral stricture,尿道狹窄
+229,N350,Post-traumatic urethral stricture,創傷後尿道狹窄
+230,N3501,"Post-traumatic urethral stricture, male",男性創傷後尿道狹窄
+231,N35010,"Post-traumatic urethral stricture, male, meatal",男性創傷後尿道開口狹窄
+232,N35011,Post-traumatic bulbous urethral stricture,創傷後球狀尿道狹窄
+233,N35012,Post-traumatic membranous urethral stricture,創傷後膜性尿道狹窄
+234,N35013,Post-traumatic anterior urethral stricture,創傷後前尿道狹窄
+235,N35014,"Post-traumatic urethral stricture, male, unspecified",男性創傷後尿道狹窄，未特定部位，未特定
+236,N3502,"Post-traumatic urethral stricture, female",女性創傷後尿道狹窄
+237,N35021,Urethral stricture due to childbirth,因生產所致之尿道狹窄
+238,N35028,"Other post-traumatic urethral stricture, female",女性其他創傷後尿道狹窄
+239,N351,"Postinfective urethral stricture, not elsewhere classified",感染後尿道狹窄，他處未歸類者
+240,N3511,"Postinfective urethral stricture, not elsewhere classified, male",男性感染後尿道狹窄，他處未歸類者
+241,N35111,"Postinfective urethral stricture, not elsewhere classified, male, meatal",男性感染後尿道開口狹窄，他處未歸類者
+242,N35112,"Postinfective bulbous urethral stricture, not elsewhere classified",感染後球狀尿道狹窄，他處未歸類者
+243,N35113,"Postinfective membranous urethral stricture, not elsewhere classified",感染後膜性尿道狹窄，他處未歸類者
+244,N35114,"Postinfective anterior urethral stricture, not elsewhere classified",感染後前段尿道狹窄，他處未歸類者
+245,N35119,"Postinfective urethral stricture, not elsewhere classified, male, unspecified",男性感染後尿道狹窄，他處未歸類者 ，未特定
+246,N3512,"Postinfective urethral stricture, not elsewhere classified, female",女性感染後尿道狹窄，他處未歸類者
+247,N358,Other urethral stricture,其他尿道狹窄
+248,N359,"Urethral stricture, unspecified",尿道狹窄，未特定
+249,N36,Other disorders of urethra,尿道其他疾患
+250,N360,Urethral fistula,尿道瘻管
+251,N361,Urethral diverticulum,尿道憩室
+252,N362,Urethral caruncle,尿道肉阜
+253,N364,Urethral functional and muscular disorders,尿道功能及肌肉疾患
+254,N3641,Hypermobility of urethra,尿道過動症
+255,N3642,Intrinsic sphincter deficiency (ISD),內因性括約肌內缺損
+256,N3643,Combined hypermobility of urethra and intrinsic sphincter deficiency,尿道過動合併內因性括約肌內缺損
+257,N3644,Muscular disorders of urethra,尿道肌肉疾患
+258,N368,Other specified disorders of urethra,尿道其他特定疾患
+259,N369,"Urethral disorder, unspecified",尿道疾患，未特定
+260,N37,Urethral disorders in diseases classified elsewhere,歸類於他處疾病所致之尿道疾患
+261,N39,Other disorders of urinary system,泌尿系統其他疾患
+262,N390,"Urinary tract infection, site not specified",未特定部位之泌尿道感染症
+263,N393,Stress incontinence (female) (male),應力性尿失禁
+264,N394,Other specified urinary incontinence,其他特定之尿失禁
+265,N3941,Urge incontinence,急迫性尿失禁
+266,N3942,Incontinence without sensory awareness,未伴有感覺性尿失禁
+267,N3943,Post-void dribbling,排尿後滴尿
+268,N3944,Nocturnal enuresis,夜間遺尿
+269,N3945,Continuous leakage,持續性漏尿
+270,N3946,Mixed incontinence,混合性尿失禁
+271,N3949,Other specified urinary incontinence,其他特定之尿失禁
+272,N39490,Overflow incontinence,滿溢性尿失禁
+273,N39498,Other specified urinary incontinence,其他特定之尿失禁
+274,N398,Other specified disorders of urinary system,其他特定之泌尿系統疾患
+275,N399,"Disorder of urinary system, unspecified",泌尿系統疾患，未特定
+276,N40,Enlarged prostate (EP),攝護腺增大
+277,N400,Enlarged prostate without lower urinary tract symptoms (LUTS),攝護腺增大未伴有下泌尿道症狀
+278,N401,Enlarged prostate with lower urinary tract symptoms (LUTS),攝護腺增大伴有下泌尿道症狀
+279,N41,Inflammatory diseases of prostate,攝護腺炎性疾病
+280,N410,Acute prostatitis,急性攝護腺炎
+281,N4100,Acute prostatitis without hematuria,急性攝護腺炎未伴有血尿
+282,N4101,Acute prostatitis with hematuria,急性攝護腺炎伴血尿
+283,N411,Chronic prostatitis,慢性攝護腺炎
+284,N4110,Chronic prostatitis without hematuria,慢性攝護腺炎未伴有血尿
+285,N4111,Chronic prostatitis with hematuria,慢性攝護腺炎伴血尿
+286,N412,Abscess of prostate,攝護腺膿瘍
+287,N413,Prostatocystitis,攝護腺膀胱炎
+288,N414,Granulomatous prostatitis,肉芽性攝護腺炎
+289,N418,Other inflammatory diseases of prostate,攝護腺其他炎性疾病
+290,N419,"Inflammatory disease of prostate, unspecified",攝護腺炎性疾病，未特定
+291,N42,Other and unspecified disorders of prostate,其他及未特定之攝護腺疾患
+292,N420,Calculus of prostate,攝護腺結石
+293,N421,Congestion and hemorrhage of prostate,攝護腺充血及出血
+294,N423,Dysplasia of prostate,攝護腺發育不良
+295,N428,Other specified disorders of prostate,其他特定之攝護腺疾患
+296,N4281,Prostatodynia syndrome,攝護腺疼痛症候群
+297,N4282,Prostatosis syndrome,攝護腺疾病症候群
+298,N4289,Other specified disorders of prostate,其他特定之攝護腺疾患
+299,N429,"Disorder of prostate, unspecified",攝護腺疾患，未特定
+300,N43,Hydrocele and spermatocele,陰囊水腫和精液囊腫
+301,N430,Encysted hydrocele,被囊性陰囊水腫
+302,N431,Infected hydrocele,感染性陰囊水腫
+303,N432,Other hydrocele,其他陰囊水腫
+304,N433,"Hydrocele, unspecified",陰囊水腫，未特定
+305,N434,Spermatocele of epididymis,副睪丸精液囊腫
+306,N4340,"Spermatocele of epididymis, unspecified","副睪丸精液囊腫,未特定"
+307,N4341,"Spermatocele of epididymis, single",單一性副睪丸精液囊腫
+308,N4342,"Spermatocele of epididymis, multiple",多發性副睪丸精液囊腫
+309,N44,Noninflammatory disorders of testis,非炎性睪丸疾患
+310,N440,Torsion of testis,睪丸扭轉
+311,N4400,"Torsion of testis, unspecified","睪丸扭轉,未特定"
+312,N4401,Extravaginal torsion of spermatic cord,精索鞘膜外扭轉
+313,N4402,Intravaginal torsion of spermatic cord,精索鞘膜內扭轉
+314,N4403,Torsion of appendix testis,睪丸附件扭轉
+315,N4404,Torsion of appendix epididymis,副睪丸附件扭轉
+316,N441,Cyst of tunica albuginea testis,睪丸鞘膜白膜囊腫
+317,N442,Benign cyst of testis,睪丸良性囊腫
+318,N448,Other noninflammatory disorders of the testis,睪丸其他非炎性疾患
+319,N45,Orchitis and epididymitis,睪丸炎和副睪丸炎
+320,N451,Epididymitis,副睪丸炎
+321,N452,Orchitis,睪丸炎
+322,N453,Epididymo-orchitis,副睪－睪丸炎
+323,N454,Abscess of epididymis or testis,副睪丸或睪丸膿瘍
+324,N46,Male infertility,男性不孕症
+325,N460,Azoospermia,無精症
+326,N4601,Organic azoospermia,器質性無精症
+327,N4602,Azoospermia due to extratesticular causes,無精症源於睪丸外因素
+328,N46021,Azoospermia due to drug therapy,無精症源於藥物治療
+329,N46022,Azoospermia due to infection,無精症源於感染
+330,N46023,Azoospermia due to obstruction of efferent ducts,無精症源於輸精管阻塞
+331,N46024,Azoospermia due to radiation,無精症源於放射線
+332,N46025,Azoospermia due to systemic disease,無精症源於全身性疾病
+333,N46029,Azoospermia due to other extratesticular causes,無精症源於睪丸外其他原因
+334,N461,Oligospermia,寡精症
+335,N4611,Organic oligospermia,器質性寡精症
+336,N4612,Oligospermia due to extratesticular,寡精症源於睪丸外因素
+337,N46121,Oligospermia due to drug therapy,寡精症源於藥物治療
+338,N46122,Oligospermia due to infection,寡精症源於感染
+339,N46123,Oligospermia due to obstruction of efferent ducts,寡精症源於輸精管阻塞
+340,N46124,Oligospermia due to radiation,寡精症源於放射線
+341,N46125,Oligospermia due to systemic disease,寡精症源於全身性疾病
+342,N46129,Oligospermia due to other extratesticular causes,寡精症源於睪丸外其他原因
+343,N468,Other male infertility,其他男性不孕症
+344,N469,"Male infertility, unspecified","男性不孕症,未特定"
+345,N47,Disorders of prepuce,包皮疾患
+346,N470,"Adherent prepuce, newborn",新生兒包皮黏連
+347,N471,Phimosis,包莖
+348,N472,Paraphimosis,嵌頓性包莖
+349,N473,Deficient foreskin,包皮缺損
+350,N474,Benign cyst of prepuce,包皮良性囊腫
+351,N475,Adhesions of prepuce and glans penis,包皮及龜頭黏連
+352,N476,Balanoposthitis,龜頭包皮炎
+353,N477,Other inflammatory diseases of prepuce,包皮之其他炎性疾病
+354,N478,Other disorders of prepuce,包皮之其他疾患
+355,N48,Other disorders of penis,其他陰莖疾患
+356,N480,Leukoplakia of penis,陰莖白斑症
+357,N481,Balanitis,龜頭炎
+358,N482,Other inflammatory disorders of penis,其他陰莖炎性疾患
+359,N4821,Abscess of corpus cavernosum and penis,海綿體及陰莖膿瘍
+360,N4822,Cellulitis of corpus cavernosum and penis,海綿體及陰莖蜂窩組織炎
+361,N4829,Other inflammatory disorders of penis,其他陰莖炎性疾患
+362,N483,Priapism,陰莖異常勃起
+363,N4830,"Priapism, unspecified","陰莖異常勃起,未特定"
+364,N4831,Priapism due to trauma,外傷所致陰莖異常勃起
+365,N4832,Priapism due to disease classified elsewhere,他處已分類之疾病所致陰莖異常勃起
+366,N4833,"Priapism, drug-induced",藥物導致之陰莖異常勃起
+367,N4839,Other priapism,其他陰莖異常勃起
+368,N485,Ulcer of penis,陰莖潰瘍
+369,N486,Induration penis plastica,陰莖海棉體硬結
+370,N488,Other specified disorders of penis,其他特定陰莖疾患
+371,N4881,Thrombosis of superficial vein of penis,陰莖表淺性靜脈血栓
+372,N4889,Other specified disorders of penis,其他特定陰莖疾患
+373,N489,"Disorder of penis, unspecified",陰莖疾患，未特定
+374,N49,"Inflammatory disorders of male genital organs, not elsewhere classified",男性生殖器官炎性疾患，他處未歸類者
+375,N490,Inflammatory disorders of seminal vesicle,精囊炎性疾患
+376,N491,"Inflammatory disorders of spermatic cord, tunica vaginalis and vas deferens",精索、睪丸鞘膜及輸精管炎性疾患
+377,N492,Inflammatory disorders of scrotum,陰囊炎性疾患
+378,N493,Fournier gangrene,Fournier壞疽
+379,N498,Inflammatory disorders of other specified male genital organs,其他特定男性生殖器官炎性疾患
+380,N499,Inflammatory disorder of unspecified male genital organ,未特定之男性生殖器官炎性疾患
+381,N50,Other and unspecified disorders of male genital organs,其他及未特定男性生殖器官炎性疾患
+382,N500,Atrophy of testis,睪丸萎縮
+383,N501,Vascular disorders of male genital organs,男性生殖器官血管性疾患
+384,N508,Other specified disorders of male genital organs,其他特定男性生殖器官疾患
+385,N509,"Disorder of male genital organs, unspecified","男性生殖器官疾患,未特定"
+386,N51,Disorders of male genital organs in diseases classified elsewhere,歸類於他處疾病所致之男性生殖器官疾患
+387,N52,Male erectile dysfunction,男性勃起障礙
+388,N520,Vasculogenic erectile dysfunction,血管性勃起障礙
+389,N5201,Erectile dysfunction due to arterial insufficiency,因動脈功能不足之勃起障礙
+390,N5202,Corporo-venous occlusive erectile dysfunction,海棉體靜脈阻塞性勃起障礙
+391,N5203,Combined arterial insufficiency and corporo-venous occlusive erectile dysfunction,動脈功能不足合併海棉體靜脈阻塞性勃起障礙
+392,N521,Erectile dysfunction due to diseases classified elsewhere,歸類於他處疾病所致之勃起障礙
+393,N522,Drug-induced erectile dysfunction,藥物導致之勃起障礙
+394,N523,Post-surgical erectile dysfunction,術後勃起障礙
+395,N5231,Erectile dysfunction following radical prostatectomy,攝護腺根除術後勃起障礙
+396,N5232,Erectile dysfunction following radical cystectomy,膀胱根除術後勃起障礙
+397,N5233,Erectile dysfunction following urethral surgery,尿道手術後勃起障礙
+398,N5234,Erectile dysfunction following simple prostatectomy,單純攝護腺切除術後勃起障礙
+399,N5239,Other post-surgical erectile dysfunction,其他術後勃起障礙
+400,N528,Other male erectile dysfunction,其他男性勃起障礙
+401,N529,"Male erectile dysfunction, unspecified","男性勃起障礙,未特定"
+402,N53,Other male sexual dysfunction,其他男性性功能障礙
+403,N531,Ejaculatory dysfunction,射精障礙
+404,N5311,Retarded ejaculation,射精遲鈍
+405,N5312,Painful ejaculation,射精疼痛
+406,N5313,Anejaculatory orgasm,無射精性高潮
+407,N5314,Retrograde ejaculation,逆行性射精
+408,N5319,Other ejaculatory dysfunction,其他射精障礙
+409,N538,Other male sexual dysfunction,其他男性性功能障礙
+410,N539,Unspecified male sexual dysfunction,未特定之男性性功能障礙
+411,N60,Benign mammary dysplasia,良性乳房發育不良
+412,N600,Solitary cyst of breast,乳房單一囊腫
+413,N6001,Solitary cyst of right breast,右側乳房單一囊腫
+414,N6002,Solitary cyst of left breast,左側乳房單一囊腫
+415,N6009,Solitary cyst of unspecified breast,未特定側性乳房單一囊腫
+416,N601,Diffuse cystic mastopathy,瀰漫囊腫性乳房病變
+417,N6011,Diffuse cystic mastopathy of right breast,右側乳房瀰漫囊腫性乳房病變
+418,N6012,Diffuse cystic mastopathy of left breast,左側乳房瀰漫囊腫性乳房病變
+419,N6019,Diffuse cystic mastopathy of unspecified breast,未特定側性乳房瀰漫囊腫性乳房病變
+420,N602,Fibroadenosis of breast,乳房纖維腺病
+421,N6021,Fibroadenosis of right breast,右側乳房纖維腺病
+422,N6022,Fibroadenosis of left breast,左側乳房纖維腺病
+423,N6029,Fibroadenosis of unspecified breast,未特定側性乳房纖維腺病
+424,N603,Fibrosclerosis of breast,乳房纖維硬化
+425,N6031,Fibrosclerosis of right breast,右側乳房纖維硬化
+426,N6032,Fibrosclerosis of left breast,左側乳房纖維硬化
+427,N6039,Fibrosclerosis of unspecified breast,未特定側性乳房纖維硬化
+428,N604,Mammary duct ectasia,乳腺管擴張
+429,N6041,Mammary duct ectasia of right breast,右側乳房乳腺管擴張
+430,N6042,Mammary duct ectasia of left breast,左側乳房乳腺管擴張
+431,N6049,Mammary duct ectasia of unspecified breast,未特定側性乳房乳腺管擴張
+432,N608,Other benign mammary dysplasias,其他良性乳房發育不良
+433,N6081,Other benign mammary dysplasias of right breast,右側乳房其他良性乳房發育不良
+434,N6082,Other benign mammary dysplasias of left breast,左側乳房其他良性乳房發育不良
+435,N6089,Other benign mammary dysplasias of unspecified breast,未特定側性乳房其他良性乳房發育不良
+436,N609,Unspecified benign mammary dysplasia,未特定良性乳房發育不良
+437,N6091,Unspecified benign mammary dysplasia of right breast,右側乳房良性乳房發育不良
+438,N6092,Unspecified benign mammary dysplasia of left breast,左側乳房良性乳房發育不良
+439,N6099,Unspecified benign mammary dysplasia of unspecified breast,未特定側性乳房良性乳房發育不良
+440,N61,Inflammatory disorders of breast,乳房炎性疾患
+441,N62,Hypertrophy of breast,乳房肥大
+442,N63,Unspecified lump in breast,未特定之乳房腫塊
+443,N64,Other disorders of breast,乳房其他疾患
+444,N640,Fissure and fistula of nipple,乳頭裂及瘻管
+445,N641,Fat necrosis of breast,乳房脂房壞死
+446,N642,Atrophy of breast,乳房萎縮
+447,N643,Galactorrhea not associated with childbirth,非生產期之乳漏
+448,N644,Mastodynia,乳房痛
+449,N645,Other signs and symptoms in breast,乳房其他徵候及症狀
+450,N6451,Induration of breast,乳房硬結
+451,N6452,Nipple discharge,乳頭分泌物
+452,N6453,Retraction of nipple,乳頭退縮
+453,N6459,Other signs and symptoms in breast,乳房其他徵候及症狀
+454,N648,Other specified disorders of breast,其他特定乳房疾患
+455,N6481,Ptosis of breast,乳房下垂
+456,N6482,Hypoplasia of breast,乳房發育不全
+457,N6489,Other specified disorders of breast,其他特定乳房疾患
+458,N649,"Disorder of breast, unspecified",乳房疾患，未特定
+459,N65,Deformity and disproportion of reconstructed breast,重建後之乳房畸形及不對稱
+460,N650,Deformity of reconstructed breast,重建後之乳房畸形
+461,N651,Disproportion of reconstructed breast,重建後之乳房不對稱
+462,N70,Salpingitis and oophoritis,輸卵管炎和卵巢炎
+463,N700,Acute salpingitis and oophoritis,急性輸卵管炎和卵巢炎
+464,N7001,Acute salpingitis,急性輸卵管炎
+465,N7002,Acute oophoritis,急性卵巢炎
+466,N7003,Acute salpingitis and oophoritis,急性輸卵管炎及卵巢炎
+467,N701,Chronic salpingitis and oophoritis,慢性輸卵管炎和卵巢炎
+468,N7011,Chronic salpingitis,慢性輸卵管炎
+469,N7012,Chronic oophoritis,慢性卵巢炎
+470,N7013,Chronic salpingitis and oophoritis,慢性輸卵管炎及卵巢炎
+471,N709,"Salpingitis and oophoritis, unspecified",輸卵管炎和卵巢炎，未特定
+472,N7091,"Salpingitis, unspecified",輸卵管炎，未特定
+473,N7092,"Oophoritis, unspecified",卵巢炎，未特定
+474,N7093,"Salpingitis and oophoritis, unspecified",輸卵管炎及卵巢炎，未特定
+475,N71,"Inflammatory disease of uterus, except cervix",子宮炎性疾病，非子宮頸
+476,N710,Acute inflammatory disease of uterus,急性子宮炎性疾病
+477,N711,Chronic inflammatory disease of uterus,慢性子宮炎性疾病
+478,N719,"Inflammatory disease of uterus, unspecified",子宮炎性疾病，未特定
+479,N72,Inflammatory disease of cervix uteri,子宮頸炎性疾病
+480,N73,Other female pelvic inflammatory diseases,其他女性骨盆炎性疾病
+481,N730,Acute parametritis and pelvic cellulitis,急性子宮旁組織炎及骨盆蜂窩組織炎
+482,N731,Chronic parametritis and pelvic cellulitis,慢性子宮旁組織炎及骨盆蜂窩組織炎
+483,N732,Unspecified parametritis and pelvic cellulitis,子宮旁組織炎及骨盆蜂窩組織炎，未特定
+484,N733,Female acute pelvic peritonitis,女性急性骨盆腹膜炎
+485,N734,Female chronic pelvic peritonitis,女性慢性骨盆腹膜炎
+486,N735,"Female pelvic peritonitis, unspecified",女性骨盆腹膜炎，未特定
+487,N736,Female pelvic peritoneal adhesions (postinfective),女性骨盆腔腹膜沾黏(感染後)
+488,N738,Other specified female pelvic inflammatory diseases,其他特定女性骨盆炎性疾病
+489,N739,"Female pelvic inflammatory disease, unspecified",女性骨盆炎性疾病，未特定
+490,N74,Female pelvic inflammatory disorders in diseases classified elsewhere,歸類於他處疾病所致之女性骨盆炎性疾患
+491,N75,Disease of Bartholin's gland,Bartholin's腺疾病
+492,N750,Cyst of Bartholin's gland,Bartholin's腺囊腫
+493,N751,Abscess of Bartholin's gland,Bartholin's腺膿瘍
+494,N758,Other diseases of Bartholin's gland,Bartholin's腺其他疾病
+495,N759,"Disease of Bartholin's gland, unspecified",Bartholin's腺疾病，未特定
+496,N76,Other inflammation of vagina and vulva,陰道及女外陰其他炎症
+497,N760,Acute vaginitis,急性陰道炎
+498,N761,Subacute and chronic vaginitis,亞急性及慢性陰道炎
+499,N762,Acute vulvitis,急性女外陰炎
+500,N763,Subacute and chronic vulvitis,亞急性及慢性女外陰炎
+501,N764,Abscess of vulva,女外陰膿瘍
+502,N765,Ulceration of vagina,陰道潰瘍
+503,N766,Ulceration of vulva,女外陰潰瘍
+504,N768,Other specified inflammation of vagina and vulva,陰道及女外陰其他特定炎症
+505,N7681,Mucositis (ulcerative) of vagina and vulva,陰道及女外陰黏膜炎(潰瘍)
+506,N7689,Other specified inflammation of vagina and vulva,陰道及女外陰其他特定炎症
+507,N77,Vulvovaginal ulcerstion and inflammation in diseases classified elsewhere,歸類於他處疾病所致之女外陰陰道潰瘍及炎症
+508,N770,Ulceration of vulva in diseases classified elsewhere,歸類於他處疾病所致之女外陰潰瘍
+509,N771,"Vaginitis, vulvitis and vulvovaginitis in diseases classified elsewhere",歸類於他處疾病所致之陰道炎、女外陰炎及女外陰陰道炎
+510,N80,Endometriosis,子宮內膜異位症
+511,N800,Endometriosis of uterus,子宮體之子宮內膜異位症
+512,N801,Endometriosis of ovary,卵巢之子宮內膜異位症
+513,N802,Endometriosis of fallopian tube,輸卵管之子宮內膜異位症
+514,N803,Endometriosis of pelvic peritoneum,骨盆腹膜之子宮內膜異位症
+515,N804,Endometriosis of rectovaginal septum and vagina,直腸陰道中隔及陰道之子宮內膜異位症
+516,N805,Endometriosis of intestine,小腸之子宮內膜異位症
+517,N806,Endometriosis in cutaneous scar,皮膚瘢痕處之子宮內膜異位症
+518,N808,Other endometriosis,其他子宮內膜異位症
+519,N809,"Endometriosis, unspecified",子宮內膜異位症，未特定
+520,N81,Female genital prolapse,女性生殖器脫垂
+521,N810,Urethrocele,尿道膨出
+522,N811,Cystocele,膀胱膨出
+523,N8110,"Cystocele, unspecified",膀胱膨出，未特定
+524,N8111,"Cystocele, midline",中線膀胱膨出
+525,N8112,"Cystocele, lateral",外側膀胱膨出
+526,N812,Incomplete uterovaginal prolapse,子宮陰道不完全脫垂
+527,N813,Complete uterovaginal prolapse,子宮陰道完全脫垂
+528,N814,"Uterovaginal prolapse, unspecified",子宮陰道脫垂，未特定
+529,N815,Vaginal enterocele,陰道小腸膨出
+530,N816,Rectocele,直腸膨出
+531,N818,Other female genital prolapse,其他女性生殖器脫垂
+532,N8181,Perineocele,會陰膨出
+533,N8182,Incompetence or weakening of pubocervical tissue,恥骨子宮頸組織閉鎖不全或弱化
+534,N8183,Incompetence or weakening of rectovaginal tissue,直腸陰道組織閉鎖不全或弱化
+535,N8184,Pelvic muscle wasting,骨盆肌肉萎縮
+536,N8185,Cervical stump prolapse,子宮頸殘餘部脫垂
+537,N8189,Other female genital prolapse,其他女性生殖器脫垂
+538,N819,"Female genital prolapse, unspecified",女性生殖器脫垂，未特定
+539,N82,Fistulae involving female genital tract,女性生殖道瘻管
+540,N820,Vesicovaginal fistula,膀胱陰道瘻管
+541,N821,Other female urinary-genital tract fistulae,其他女性泌尿生殖道瘻管
+542,N822,Fistula of vagina to small intestine,陰道至小腸瘻管
+543,N823,Fistula of vagina to large intestine,陰道至大腸瘻管
+544,N824,Other female intestinal-genital tract fistulae,其他女性腸道-生殖道瘻管
+545,N825,Female genital tract-skin fistulae,女性生殖道-皮膚瘻管
+546,N828,Other female genital tract fistulae,其他女性生殖道瘻管
+547,N829,"Female genital tract fistula, unspecified",女性生殖道瘻管，未特定
+548,N83,"Noninflammatory disorders of ovary,fallopian tube and broad ligament",卵巢、輸卵管和闊韌帶非炎性疾患
+549,N830,Follicular cyst of ovary,卵巢濾泡囊腫
+550,N831,Corpus luteum cyst,黃體囊腫
+551,N832,Other and unspecified ovarian cysts,其他及未特定卵巢囊腫
+552,N8320,Unspecified ovarian cysts,卵巢囊腫，未特定
+553,N8329,Other ovarian cysts,其他卵巢囊腫
+554,N833,Acquired atrophy of ovary and fallopian tube,卵巢及輸卵管後天性萎縮
+555,N8331,Acquired atrophy of ovary,卵巢後天性萎縮
+556,N8332,Acquired atrophy of fallopian tube,輸卵管後天性萎縮
+557,N8333,Acquired atrophy of ovary and fallopian tube,卵巢及輸卵管後天性萎縮
+558,N834,Prolapse and hernia of ovary and fallopian tube,卵巢及輸卵管脫垂及疝氣
+559,N835,"Torsion of ovary, ovarian pedicle and fallopian tube",卵巢、卵巢蒂及輸卵管扭轉
+560,N8351,Torsion of ovary and ovarian pedicle,卵巢及卵巢蒂扭轉
+561,N8352,Torsion of fallopian tube,輸卵管扭轉
+562,N8353,"Torsion of ovary, ovarian pedicle and fallopian tube",卵巢、卵巢蒂及輸卵管扭轉
+563,N836,Hematosalpinx,輸卵管積血
+564,N837,Hematoma of broad ligament,闊韌帶血腫
+565,N838,"Other noninflammatory disorders of ovary, fallopian tube and broad ligament",卵巢、輸卵管及闊韌帶其他非炎性疾患
+566,N839,"Noninflammatory disorder of ovary, fallopian tube and broad ligament, unspecified",卵巢、輸卵管及闊韌帶非炎性疾患，未特定
+567,N84,Polyp of female genital tract,女性生殖道息肉
+568,N840,Polyp of corpus uteri,子宮體息肉
+569,N841,Polyp of cervix uteri,子宮頸息肉
+570,N842,Polyp of vagina,陰道息肉
+571,N843,Polyp of vulva,女外陰部息肉
+572,N848,Polyp of other parts of female genital tract,女性生殖道其他部位息肉
+573,N849,"Polyp of female genital tract, unspecified",女性生殖道息肉，未特定
+574,N85,"Other noninflammatory disorders of uterus, except cervix",子宮其他非炎性疾患，子宮頸除外
+575,N850,Endometrial hyperplasia,子宮內膜增生
+576,N8500,"Endometrial hyperplasia, unspecified","子宮內膜增生,未特定"
+577,N8501,Benign endometrial hyperplasia,良性子宮內膜增生
+578,N8502,Endometrial intraepithelial neoplasia [EIN],子宮內膜上皮細胞異常增生
+579,N852,Hypertrophy of uterus,子宮肥大
+580,N853,Subinvolution of uterus,子宮復舊不全
+581,N854,Malposition of uterus,子宮異位
+582,N855,Inversion of uterus,子宮內翻
+583,N856,Intrauterine synechiae,子宮內黏連
+584,N857,Hematometra,子宮積血
+585,N858,Other specified noninflammatory disorders of uterus,子宮其他特定非炎性疾患
+586,N859,"Noninflammatory disorder of uterus, unspecified",子宮非炎性疾患，未特定
+587,N86,Erosion and ectropion of cervix uteri,子宮頸糜爛及外翻
+588,N87,Dysplasia of cervix uteri,子宮頸異常增生
+589,N870,Mild cervical dysplasia,輕度子宮頸異常增生
+590,N871,Moderate cervical dysplasia,中度子宮頸異常增生
+591,N879,"Dysplasia of cervix uteri, unspecified",子宮頸異常增生，未特定
+592,N88,Other noninflammatory disorders of cervix uteri,其他子宮頸非炎性疾患
+593,N880,Leukoplakia of cervix uteri,子宮頸白斑症
+594,N881,Old laceration of cervix uteri,子宮頸陳舊性撕裂傷
+595,N882,Stricture and stenosis of cervix uteri,子宮頸縮窄及狹窄
+596,N883,Incompetence of cervix uteri,子宮頸閉鎖不全
+597,N884,Hypertrophic elongation of cervix uteri,子宮頸肥大性增長
+598,N888,Other specified noninflammatory disorders of cervix uteri,子宮頸其他特定非炎性疾患
+599,N889,"Noninflammatory disorder of cervix uteri, unspecified",子宮頸非炎性疾患，未特定
+600,N89,Other noninflammatory disorders of vagina,其他陰道非炎性疾患
+601,N890,Mild vaginal dysplasia,輕度陰道異常增生
+602,N891,Moderate vaginal dysplasia,中度陰道異常增生
+603,N893,"Dysplasia of vagina, unspecified",陰道異常增生 ，未特定
+604,N894,Leukoplakia of vagina,陰道白斑症
+605,N895,Stricture and atresia of vagina,陰道狹窄及閉鎖
+606,N896,Tight hymenal ring,處女膜環過緊
+607,N897,Hematocolpos,陰道積血
+608,N898,Other specified noninflammatory disorders of vagina,陰道其他特定非炎性疾患
+609,N899,"Noninflammatory disorder of vagina, unspecified",陰道非炎性疾患，未特定
+610,N90,Other noninflammatory disorders of vulva and perineum,其他女外陰及會陰非炎性疾患
+611,N900,Mild vulvar dysplasia,輕度女外陰異常增生
+612,N901,Moderate vulvar dysplasia,中度女外陰異常增生
+613,N903,"Dysplasia of vulva, unspecified",女外陰異常增生，未特定 ，未特定
+614,N904,Leukoplakia of vulva,女外陰白斑症
+615,N905,Atrophy of vulva,女外陰萎縮
+616,N906,Hypertrophy of vulva,女外陰肥大
+617,N907,Vulvar cyst,女外陰囊腫
+618,N908,Other specified noninflammatory disorders of vulva and perineum,其他特定女外陰及會陰非炎性疾患
+619,N9081,"Female genital mutilation status, unspecified",女性生殖器缺損狀態，未特定
+620,N90810,"Female genital mutilation status, unspecified",女性生殖器缺損狀態，未特定
+621,N90811,Female genital mutilation Type I status,女性生殖器缺損狀態第一型
+622,N90812,Female genital mutilation Type II status,女性生殖器缺損狀態第二型
+623,N90813,Female genital mutilation Type III status,女性生殖器缺損狀態第三型
+624,N90818,Other female genital mutilation status,其他女性生殖器缺損狀態
+625,N9089,Other specified noninflammatory disorders of vulva and perineum,其他特定女外陰及會陰非炎性疾患
+626,N909,"Noninflammatory disorder of vulva and perineum, unspecified",女外陰及會陰非炎性疾患，未特定
+627,N91,"Absent, scanty and rare menstruation",無月經、月經過少及月經稀少
+628,N910,Primary amenorrhea,原發性無月經
+629,N911,Secondary amenorrhea,續發性無月經
+630,N912,"Amenorrhea, unspecified",無月經，未特定
+631,N913,Primary oligomenorrhea,原發性月經過少
+632,N914,Secondary oligomenorrhea,續發性月經過少
+633,N915,"Oligomenorrhea, unspecified",月經過少，未特定
+634,N92,"Excessive, frequent and irregular menstruation",月經過多、頻繁而且不規則
+635,N920,Excessive and frequent menstruation with regular cycle,月經量過多及次數過多伴有規則週期
+636,N921,Excessive and frequent menstruation with irregular cycle,月經量過多及次數過多伴有不規則週期
+637,N922,Excessive menstruation at puberty,青春期月經量過多
+638,N923,Ovulation bleeding,排卵出血
+639,N924,Excessive bleeding in the premenopausal period,停經前期經血量過多
+640,N925,Other specified irregular menstruation,其他特定月經不規則
+641,N926,"Irregular menstruation, unspecified",月經不規則，未特定
+642,N93,Other abnormal uterine and vaginal bleeding,其他子宮及陰道異常出血
+643,N930,Postcoital and contact bleeding,性交後及接觸性出血
+644,N938,Other specified abnormal uterine and vaginal bleeding,其他特定子宮及陰道異常出血
+645,N939,"Abnormal uterine and vaginal bleeding, unspecified",子宮及陰道異常出血，未特定
+646,N94,Pain and other conditions associated with female genital organs and menstrual cycle,女性生殖器官及月經週期相關疼痛和其他病況
+647,N940,Mittelschmerz,月經間疼痛
+648,N941,Dyspareunia,性交疼痛
+649,N942,Vaginismus,陰道痙攣
+650,N943,Premenstrual tension syndrome,月經前緊張症候群
+651,N944,Primary dysmenorrhea,原發性痛經症
+652,N945,Secondary dysmenorrhea,續發性痛經症
+653,N946,"Dysmenorrhea, unspecified",痛經症，未特定
+654,N948,Other specifieed conditions associated with female genital organs and menstrual cycle,女性生殖器官及月經週期相關其他特定病況
+655,N9481,Vulvodynia,女外陰痛
+656,N94810,Vulvar vestibulitis,女外陰前庭炎
+657,N94818,Other vulvodynia,其他女外陰痛
+658,N94819,"Vulvodynia, unspecified",女外陰痛，未特定
+659,N9489,Other specified conditions associated with female genital organs and menstrual cycle,女性生殖器官及月經週期相關其他特定病況
+660,N949,Unspecified condition associated with female genital organs and menstrual cycle,女性生殖器官及月經週期相關未特定病況
+661,N95,Menopausal and other perimenopausal disorders,停經及其他停經前後之疾患
+662,N950,Postmenopausal bleeding,停經後出血
+663,N951,Menopausal and female climacteric states,停經及女性更年期之病況
+664,N952,Postmenopausal atrophic vaginitis,停經後萎縮性陰道炎
+665,N958,Other specified menopausal and perimenopausal disorders,其他特定停經及停經前後之疾患
+666,N959,Unspecified menopausal and perimenopausal disorder,停經及停經前後之疾患，未特定
+667,N96,Habitual aborter,習慣性流產
+668,N97,Female infertility,女性不孕症
+669,N970,Female infertility associated with anovulation,伴隨無排卵之女性不孕症
+670,N971,Female infertility of tubal origin,女性不孕症源於輸卵管
+671,N972,Female infertility of uterine origin,女性不孕症源於子宮
+672,N978,Female infertility of other origin,女性不孕症源於其他原因
+673,N979,"Female infertility, unspecified",女性不孕，未特定
+674,N98,Complications associated with artificial fertillzation,人工受孕相關併發症
+675,N980,Infection associated with artificial insemination,人工授精相關感染症
+676,N981,Hyperstimulation of ovaries,卵巢過度刺激
+677,N982,Complications of attempted introduction of fertilized ovum following in vitro fertilization,體外受孕後試圖植入受精卵所致之併發症
+678,N983,Complications of attempted introduction of embryo in embryo transfer,胚胎轉植中試圖植入胚胎所致之併發症
+679,N988,Other complications associated with artificial fertilization,人工受孕相關其他之併發症
+680,N989,"Complication associated with artificial fertilization, unspecified",人工受孕相關併發症，未特定
+681,N99,"Intraoperative and postprocedural complications and disorders of genitourinary system, not elsewhere classified",生殖泌尿系統醫療處置併發術中及術後併發症及疾患，他處未歸類
+682,N990,Postprocedural (acute) (chronic) kidney failure,醫療處置後(急性)(慢性)腎衰竭
+683,N991,Postprocedural urethral stricture,醫療處置後尿道狹窄
+684,N9911,"Postprocedural urethral stricture, male",男性醫療處置後尿道狹窄
+685,N99110,"Postprocedural urethral stricture, male, meatal",醫療處置後男性尿道開口狹窄
+686,N99111,Postprocedural bulbous urethral stricture,醫療處置後球狀尿道狹窄
+687,N99112,Postprocedural membranous urethral stricture,醫療處置後膜性尿道狹窄
+688,N99113,Postprocedural anterior urethral stricture,醫療處置後前段尿道狹窄
+689,N99114,"Postprocedural urethral stricture, male, unspecified",男性醫療處置後尿道狹窄，未特定
+690,N9912,"Postprocedural urethral stricture, female",女性 醫療處置後尿道狹窄
+691,N992,Postprocedural adhesions of vagina,醫療處置後陰道沾黏
+692,N993,Prolapse of vaginal vault after hysterectomy,子宮切除術後之陰道穹窿脫垂
+693,N994,Postprocedural pelvic peritoneal adhesions,醫療處置後骨盆腹膜沾黏
+694,N995,Complications of stoma of urinary tract,泌尿道造口之併發症
+695,N9951,Complication of cystostomy,膀胱造口術之併發症
+696,N99510,Cystostomy hemorrhage,膀胱造口術併發之出血
+697,N99511,Cystostomy infection,膀胱造口術併發之感染
+698,N99512,Cystostomy malfunction,膀胱造口術併發之功能不良
+699,N99518,Other cystostomy complication,其他膀胱造口術之併發症
+700,N9952,Complication of other external stoma of urinary tract,泌尿道其他外部造口之併發症
+701,N99520,Hemorrhage of other external stoma of urinary tract,泌尿道其他外部造口出血
+702,N99521,Infection of other external stoma of urinary tract,泌尿道其他外部造口感染
+703,N99522,Malfunction of other external stoma of urinary tract,泌尿道其他外部造口功能不良
+704,N99528,Other complication of other external stoma of urinary tract,泌尿道其他外部造口之其他併發症
+705,N9953,Complication of other stoma of urinary tract,泌尿道其他造口之併發症
+706,N99530,Hemorrhage of other stoma of urinary tract,泌尿道其他造口出血
+707,N99531,Infection of other stoma of urinary tract,泌尿道其他造口感染
+708,N99532,Malfunction of other stoma of urinary tract,泌尿道其他造口功能不良
+709,N99538,Other complication of other stoma of urinary tract,泌尿道其他造口之其他併發症
+710,N996,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating a procedure,醫療處置併發術中生殖泌尿系統器官或構造出血和血腫
+711,N9961,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating a genitourinary system procedure,生殖泌尿系統醫療處置併發術中生殖泌尿系統器官或構造出血和血腫
+712,N9962,Intraoperative hemorrhage and hematoma of a genitourinary system organ or structure complicating other procedure,其他醫療處置併發術中生殖泌尿系統器官或構造出血及血腫
+713,N997,Accidental puncture and laceration of a genitourinary system organ or structure during a procedure,醫療處置併發生殖泌尿系統器官或構造意外穿刺及裂傷
+714,N9971,Accidental puncture and laceration of a genitourinary system organ or structure during a genitourinary system procedure,生殖泌尿系統醫療處置中併發生殖泌尿系統器官或構造意外穿刺及裂傷
+715,N9972,Accidental puncture and laceration of a genitourinary system organ or structure during other procedure,其他醫療處置中併發生殖泌尿系統器官或構造意外穿刺及裂傷
+716,N998,Other intraoperative and postprocedural complications and disorders of genitourinary system,生殖泌尿系統其他手術中及手術後併發症或疾患
+717,N9981,Other intraoperative complications of genitourinary system,生殖泌尿系統其他手術中併發症
+718,N9982,Postprocedural hemorrhage and hematoma of a genitourinary system organ or structure following a procedure,醫療處置併發處置後生殖泌尿系統器官或構造出血及血腫
+719,N99820,Postprocedural hemorrhage and hematoma of a genitourinary system organ or structure following a genitourinary system procedure,生殖泌尿系統醫療處置併發處置後生殖泌尿系統器官或構造出血及血腫
+720,N99821,Postprocedural hemorrhage and hematoma of a genitourinary system organ or structure following other procedure,其他醫療處置併發處置後生殖泌尿系統器官或構造出血及血腫
+721,N9983,Residual ovary syndrome,殘留卵巢症候群
+722,N9989,Other postprocedural complications and disorders of genitourinary system,生殖泌尿系統其他醫療處置後併發症或疾患

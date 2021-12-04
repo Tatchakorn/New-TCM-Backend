@@ -3,6 +3,7 @@ from django.db.models.query import QuerySet
 from rest_framework import viewsets, renderers
 from rest_framework.response import Response
 from rest_framework.parsers import FileUploadParser, MultiPartParser, FormParser
+from rest_framework.pagination import PageNumberPagination
 from .models import PatientsInfo, DiagnosisInfo, SheImages, YanImages
 from .serializers import PatientInfoSerializer, DiagnosisInfoSerializer, SheImagesSerializer, YanImagesSerializer
 from .models import DiagnosisInfo
@@ -28,7 +29,15 @@ class PNGRenderer(renderers.BaseRenderer):
         return data
 
 
+
+class StandardResultsSetPagination(PageNumberPagination):
+    page_size = 100
+    page_size_query_param = 'page_size'
+    max_page_size = 1000
+
+
 class PatientViewSet(viewsets.ModelViewSet):
+    pagination_class = StandardResultsSetPagination
     queryset = PatientsInfo.objects.all()
     serializer_class = PatientInfoSerializer
 

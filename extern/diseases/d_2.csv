@@ -1,0 +1,290 @@
+,code,en_name,ch_name
+0,D50,Iron deficiency anemia,缺鐵性貧血
+1,D500,Iron deficiency anemia secondary to blood loss (chronic),(慢性)血液流失引起之缺鐵性貧血
+2,D501,Sideropenic dysphagia,缺鐵性吞嚥困難
+3,D508,Other iron deficiency anemias,其他缺鐵性貧血
+4,D509,"Iron deficiency anemia, unspecified",缺鐵性貧血，未特定
+5,D51,Vitamin B12 deficiency anemia,維生素Ｂ12缺乏性貧血
+6,D510,Vitamin B12 deficiency anemia due to intrinsic factor deficiency,內因子缺乏所致的維生素Ｂ12缺乏性貧血
+7,D511,Vitamin B12 deficiency anemia due to selective vitamin B12 malabsorption with proteinuria,選擇性維生素Ｂ12吸收不良所致伴有蛋白尿的維生素Ｂ12缺乏性貧血
+8,D512,Transcobalamin II deficiency,轉鈷胺素Ⅱ缺乏症
+9,D513,Other dietary vitamin B12 deficiency anemia,其他飲食性維生素B12缺乏性貧血
+10,D518,Other vitamin B12 deficiency anemias,其他維生素B12缺乏性貧血
+11,D519,"Vitamin B12 deficiency anemia, unspecified",維生素B12缺乏性貧血，未特定
+12,D52,Folate deficiency anemia,葉酸缺乏性貧血
+13,D520,Dietary folate deficiency anemia,飲食性葉酸缺乏性貧血
+14,D521,Drug-induced folate deficiency anemia,藥物導致之葉酸缺乏性貧血
+15,D528,Other folate deficiency anemias,其他葉酸缺乏性貧血
+16,D529,"Folate deficiency anemia, unspecified",葉酸缺乏性貧血，未特定
+17,D53,Other nutritional anemias,其他營養性貧血
+18,D530,Protein deficiency anemia,蛋白質缺乏性貧血
+19,D531,"Other megaloblastic anemias, not elsewhere classified",其他巨母紅血球性貧血，他處未歸類者
+20,D532,Scorbutic anemia,壞血病性貧血
+21,D538,Other specified nutritional anemias,其他特定的營養性貧血
+22,D539,"Nutritional anemia, unspecified",營養性貧血，未特定
+23,D55,Anemia due to enzyme disorder,酵素疾患所致之貧血
+24,D550,Anemia due to glucose-6-phosphate dehydrogenase [G6PD] deficiency,葡萄糖－6－磷酸脫氫脢[G6PD]缺乏所致的貧血
+25,D551,Anemia due to other disorders of glutathione metabolism,其他麩氨基硫代謝疾患所致之貧血
+26,D552,Anemia due to disorders of glycolytic enzymes,糖分解酵素疾患所致的貧血
+27,D553,Anemia due to disorders of nucleotide metabolism,核甘酸代謝疾患所致的貧血
+28,D558,Other anemias due to enzyme disorders,酵素疾患所致之其他貧血
+29,D559,"Anemia due to enzyme disorder, unspecified",酵素疾患所致之貧血，未特定
+30,D56,Thalassemia,地中海型貧血
+31,D560,Alpha thalassemia,甲(α)型地中海型貧血
+32,D561,Beta thalassemia,乙(β)型地中海型貧血
+33,D562,Delta-beta thalassemia,丁－乙(δ－β)型地中海型貧血
+34,D563,Thalassemia minor,輕型地中海型貧血
+35,D564,Hereditary persistence of fetal hemoglobin [HPFH],遺傳性持續性胎兒血紅素症[HPFH]
+36,D568,Other thalassemias,其他地中海型貧血
+37,D569,"Thalassemia, unspecified",地中海型貧血，未特定
+38,D57,Sickle-cell disease,鐮刀狀紅血球貧血
+39,D570,Hb-SS disease with crisis,血紅素－SS疾病伴有危象
+40,D5700,"Hb-SS disease with crisis, unspecified",血紅素－SS疾病伴有危象，未特定
+41,D5701,Hb-SS disease with acute chest syndrome,血紅素－SS疾病伴有急性胸部症候群
+42,D5702,Hb-SS disease with splenic sequestration,血紅素－SS疾病伴有脾臟隔離
+43,D571,Sickle-cell disease without crisis,鐮刀狀紅血球貧血未伴有危象
+44,D572,Sickle-cell/Hb-C diseace,鐮刀狀紅血球/血紅素－C疾病
+45,D5720,Sickle-cell/Hb-C disease without crisis,鐮刀狀紅血球/血紅素－C疾病未伴有危象
+46,D5721,Sickle-cell/Hb-C disease with crisis,鐮刀狀紅血球/血紅素－C疾病伴有危象
+47,D57211,Sickle-cell/Hb-C disease with acute chest syndrome,鐮刀狀紅血球/血紅素－C疾病伴有急性胸部症候群
+48,D57212,Sickle-cell/Hb-C disease with splenic sequestration,鐮刀狀紅血球/血紅素－C疾病伴有脾臟隔離
+49,D57219,"Sickle-cell/Hb-C disease with crisis, unspecified",鐮刀狀紅血球/血紅素－C疾病伴有危象，未特定
+50,D573,Sickle-cell trait,鐮狀細胞帶因者
+51,D574,Sickle-cell thalassemia,鐮狀細胞性地中海型貧血
+52,D5740,Sickle-cell thalassemia without crisis,鐮狀細胞性地中海型貧血未伴有危象
+53,D5741,Sickle-cell thalassemia with crisis,鐮狀細胞性地中海型貧血伴有危象
+54,D57411,Sickle-cell thalassemia with acute chest syndrome,鐮狀細胞性地中海型貧血伴有急性胸部症候群
+55,D57412,Sickle-cell thalassemia with splenic sequestration,鐮狀細胞性地中海型貧血伴有脾臟隔離
+56,D57419,"Sickle-cell thalassemia with crisis, unspecified",鐮狀細胞性地中海型貧血伴有危象，未特定
+57,D578,Other sickle-cell disorders,其他鐮刀狀紅血球貧血
+58,D5780,Other sickle-cell disorders without crisis,其他鐮刀狀細胞疾患未伴有危象
+59,D5781,Other sickle-cell disorders with crisis,其他鐮刀狀紅血球貧血伴有危象
+60,D57811,Other sickle-cell disorders with acute chest syndrome,其他鐮刀狀細胞疾患伴有急性胸部症候群
+61,D57812,Other sickle-cell disorders with splenic sequestration,其他鐮刀狀細胞疾患伴有脾臟隔離
+62,D57819,"Other sickle-cell disorders with crisis, unspecified",其他鐮刀狀細胞疾患伴有危象，未特定
+63,D58,other hereditary hemolytic anemias,其他遺傳性溶血性貧血
+64,D580,Hereditary spherocytosis,遺傳性球狀紅血球症
+65,D581,Hereditary elliptocytosis,遺傳性橢圓紅血球症
+66,D582,Other hemoglobinopathies,其他血色素病變
+67,D588,Other specified hereditary hemolytic anemias,其他特定遺傳性溶血性貧血
+68,D589,"Hereditary hemolytic anemia, unspecified",遺傳性溶血性貧血，未特定
+69,D59,Acquired hemolytic anemia,後天性溶血性貧血
+70,D590,Drug-induced autoimmune hemolytic anemia,藥物導致之自體免疫溶血性貧血
+71,D591,Other autoimmune hemolytic anemias,其他自體免疫溶血性貧血
+72,D592,Drug-induced nonautoimmune hemolytic anemia,藥物導致之非自體免疫溶血性貧血
+73,D593,Hemolytic-uremic syndrome,溶血性尿毒症候群
+74,D594,Other nonautoimmune hemolytic anemias,其他非自體免疫溶血性貧血
+75,D595,Paroxysmal nocturnal hemoglobinuria [Marchiafava-Micheli],陣發性夜間血色素尿症[Marchiafava-Micheli馬米二氏病]
+76,D596,Hemoglobinuria due to hemolysis from other external causes,外在原因引起溶血所致之血色素尿
+77,D598,Other acquired hemolytic anemias,其他後天性溶血性貧血
+78,D599,"Acquired hemolytic anemia, unspecified",後天性溶血性貧血，未特定
+79,D60,Acquired pure red cell aplasia [erythroblastopenia],後天性純紅血球再生不良 [全血細胞減少症]
+80,D600,Chronic acquired pure red cell aplasia,慢性後天性純紅血球再生不良
+81,D601,Transient acquired pure red cell aplasia,暫時性後天性純紅血球再生不良
+82,D608,Other acquired pure red cell aplasias,其他後天性純紅血球再生不良
+83,D609,"Acquired pure red cell aplasia, unspecified",後天性純紅血球再生不良，未特定
+84,D61,Other aplastic anemias and other bone marrow failure syndromes,其他再生不良性貧血及骨髓衰竭症候群
+85,D610,Constitutional aplastic anemia,體質性再生不良性貧血
+86,D6101,Constitutional (pure) red blood cell aplasia,體質性(純)紅血球再生不良
+87,D6109,Other constitutional aplastic anemia,其他體質性再生不良性貧血
+88,D611,Drug-induced aplastic anemia,藥物導致之再生不良性貧血
+89,D612,Aplastic anemia due to other external agents,其他外因所致的再生不良性貧血
+90,D613,Idiopathic aplastic anemia,不明原因再生不良性貧血
+91,D618,Other specified aplastic anemias and other bone marrow failure syndromes,其他特定再生不良性貧血及其他骨髓衰竭症候群
+92,D6181,Pancytopenia,全部血球減少
+93,D6182,Myelophthisis,骨髓消耗症
+94,D6189,Other specified aplastic anemias and other bone marrow failure syndromes,其他特定再生不良性貧血及骨髓衰竭症候群
+95,D619,"Aplastic anemia, unspecified",再生不良性貧血，未特定
+96,D62,Acute posthemorrhagic anemia,急性出血後貧血
+97,D63,Anemia in chronic disease classified elsewhere,慢性病導致的貧血
+98,D630,Anemia in neoplastic disease,腫瘤疾病導致的貧血
+99,D631,Anemia in chronic kidney disease,慢性腎臟疾病導致的貧血
+100,D638,Anemia in other chronic diseases classified elsewhere,其他慢性病導致的貧血
+101,D64,Other anemias,其他貧血
+102,D640,Hereditary sideroblastic anemia,遺傳性含鐵芽母細胞性貧血
+103,D641,Secondary sideroblastic anemia due to disease,疾病導致的續發性含鐵芽母細胞性貧血
+104,D642,Secondary sideroblastic anemia due to drugs and toxins,藥物或毒素導致的續發性含鐵芽母細胞性貧血
+105,D643,Other sideroblastic anemias,其他含鐵芽母細胞性貧血
+106,D644,Congenital dyserythropoietic anemia,先天性紅血球生成不良性貧血
+107,D648,Other specified anemias,其他特定貧血
+108,D6481,Anemia due to antineoplastic chemotherapy,抗腫瘤化學治療導致的貧血
+109,D6489,Other specified anemias,其他特定之貧血
+110,D649,"Anemia, unspecified",貧血，未特定
+111,D65,Disseminated intravascular coagulation [defibrination syndrome],瀰漫性血管內凝血症[去纖維蛋白徵候群]
+112,D66,Hereditary factor VIII deficiency,遺傳性第Ⅷ凝血因子缺乏症
+113,D67,Hereditary factor IX deficiency,遺傳性第Ⅸ凝血因子缺乏症
+114,D68,Other coagulation defects,其他凝血缺乏
+115,D680,Von Willebrand's disease,von Willebrand(馮維布蘭德)氏疾病
+116,D681,Hereditary factor XI deficiency,遺傳性第XI凝血因子缺乏症
+117,D682,Hereditary deficiency of other clotting factors,其他遺傳性凝血因子缺乏症
+118,D683,Hemorrhagic disorder due to circulating anticoagulants,循環抗凝血物質導致的出血性疾患
+119,D6831,Hemorrhagic disorder due to intrinsic circulating anticoagulants,內在循環抗凝血物質導致的出血性疾患
+120,D6832,Hemorrhagic disorder due to extrinsic circulating anticoagulants,循環中抗凝血物質所致的出血性疾患
+121,D684,Acquired coagulation factor deficiency,後天性凝血因子缺乏症
+122,D685,Primary thrombophilia,原發栓塞質
+123,D6851,Activated protein C resistance,活化的蛋白質C抗性
+124,D6852,Prothrombin gene mutation,凝血脢原基因突變
+125,D6859,Other primary thrombophilia,其他原發栓塞質
+126,D686,Other thrombophilia,其他栓塞質
+127,D6861,Anticardiolipin syndrome,抗心磷脂症候群
+128,D6862,Lupus anticoagulant syndrome,狼瘡抗凝症候群
+129,D6869,Other thrombophilia,其他栓塞質
+130,D688,Other specified coagulation defects,其他特定凝血缺陷
+131,D689,"Coagulation defect, unspecified",凝血缺陷，未特定
+132,D69,Purpura and other hemorrhagic conditions,紫斑症及其他出血性病態
+133,D690,Allergic purpura,過敏性紫斑症
+134,D691,Qualitative platelet defects,血小板機能缺陷
+135,D692,Other nonthrombocytopenic purpura,其他非血小板缺乏性紫斑症
+136,D693,Immune thrombocytopenic purpura,免疫性血小板缺乏性紫斑症
+137,D694,Other primary thrombocytopenia,其他原發性血小板缺乏症
+138,D6941,Evans syndrome,伊文斯氏(Evans)症候群
+139,D6942,Congenital and hereditary thrombocytopenia purpura,先天性或遺傳性血小板缺乏性紫斑症
+140,D6949,Other primary thrombocytopenia,其他原發性血小板缺乏症
+141,D695,Secondary thrombocytopenia,續發性血小板缺乏症
+142,D696,"Thrombocytopenia, unspecified",血小板缺乏症，未特定
+143,D698,Other specified hemorrhagic conditions,其他特定之出血性病態
+144,D699,"Hemorrhagic condition, unspecified",出血性病態，未特定
+145,D70,Neutropenia,嗜中性白血球缺乏症
+146,D700,Congenital agranulocytosis,先天性顆粒性白血球缺乏症
+147,D701,Agranulocytosis secondary to cancer chemotherapy,癌症化療引發的顆粒性白血球缺乏症
+148,D702,Other drug-induced agranulocytosis,其他藥物導致之顆粒性白血球缺乏症
+149,D703,Neutropenia due to infection,感染引起的嗜中性白血球缺乏症
+150,D704,Cyclic neutropenia,週期性嗜中性白血球缺乏症
+151,D708,Other neutropenia,其他嗜中性白血球缺乏症
+152,D709,"Neutropenia, unspecified",嗜中性白血球缺乏症，未特定
+153,D71,Functional disorders of polymorphonuclear neutrophils,嗜中性多核白血球功能疾患
+154,D72,Other disorders of white blood cells,其他白血球疾患
+155,D720,Genetic anomalies of leukocytes,白血球基因異常
+156,D721,Eosinophilia,嗜酸性白血球增多症
+157,D728,Other specified disorders of  white blood cells,其他特定之白血球疾患
+158,D7281,Decreased white blood cell count,白血球計數下降
+159,D72810,Lymphocytopenia,淋巴球減少症
+160,D72818,Other decreased white blood cell count,其他白血球計數下降
+161,D72819,"Decreased white blood cell count, unspecified",白血球計數下降，未特定
+162,D7282,Elevated white blood cell count,白血球計數上升
+163,D72820,Lymphocytosis (symptomatic),白血球增多症（有症狀）
+164,D72821,Monocytosis (symptomatic),單核球增多症（有症狀）
+165,D72822,Plasmacytosis,漿細胞增多症
+166,D72823,Leukemoid reaction,類白血病反應
+167,D72824,Basophilia,嗜鹼性白血球增多症
+168,D72825,Bandemia,中性桿狀核粒細胞增加
+169,D72828,Other elevated white blood cell count,其他白血球計數上升
+170,D72829,"Elevated white blood cell count, unspecified",白血球計數上升，未特定
+171,D7289,Other specified disorders of white blood cells,其他特定之白血球疾患
+172,D729,"Disorder of white blood cells, unspecified",白血球疾患，未特定
+173,D73,Diseases of spleen,脾臟疾病
+174,D730,Hyposplenism,脾臟機能不足
+175,D731,Hypersplenism,脾臟功能亢進症
+176,D732,Chronic congestive splenomegaly,慢性充血性脾腫大
+177,D733,Abscess of spleen,脾膿瘍
+178,D734,Cyst of spleen,脾囊腫
+179,D735,Infarction of spleen,脾梗塞
+180,D738,Other diseases of spleen,其他脾臟疾病
+181,D7381,Neutropenic splenomegaly,嗜中性白血球缺乏性脾腫大
+182,D7389,Other diseases of spleen,其他脾臟疾病
+183,D739,"Disease of spleen, unspecified",脾臟疾病，未特定
+184,D74,Methemoglobinemia,變性血色素血症
+185,D740,Congenital methemoglobinemia,先天性變性血色素血症
+186,D748,Other methemoglobinemias,其他變性血色素血症
+187,D749,"Methemoglobinemia, unspecified",變性血色素血症，未特定
+188,D75,Other and unspecified diseases of blood and blood-forming organs,其他及未特定之血液與造血器官疾病
+189,D750,Familial erythrocytosis,家族性紅血球增多症
+190,D751,Secondary polycythemia,續發性紅血球過多症
+191,D758,Other specified diseases of blood and blood-forming organs,其他特定之血液與造血器官疾病
+192,D7581,Myelofibrosis,骨髓纖維化
+193,D7582,Heparin induced thrombocytopenia (HIT),肝素導致之血小板缺乏症(HIT)
+194,D7589,Other specified diseases of blood and blood-forming organs,其他特定之血液與造血器官疾病
+195,D759,"Disease of blood and blood-forming organs, unspecified",血液與造血器官疾病，未特定
+196,D76,Other specified diseases with participation of lymphoreticular and reticulohistiocytic tissue,侵及淋巴網狀組織及網狀組織球系統之其他特定疾病
+197,D761,Hemophagocytic lymphohistiocytosis,噬血球淋巴組織球增多症(噬血症候群)
+198,D762,"Hemophagocytic syndrome, infection-associated",與感染有關的噬血症候群
+199,D763,Other histiocytosis syndromes,其他組織球增生症候群
+200,D77,Other disorders of blood and blood-forming organs in diseases classified elsewhere,歸類於他處疾病所致之其他血液與造血器官疾患
+201,D78,Intraoperative and postprocedural complications of the spleen,脾臟術中及術後併發症
+202,D780,Intraoperative hemorrhage and hematoma of spleen complicating a procedure,併發術中脾出血或血腫
+203,D7801,Intraoperative hemorrhage and hematoma of spleen complicating a procedure on the spleen,脾處置併發術中脾出血或血腫
+204,D7802,Intraoperative hemorrhage and hematoma of spleen complicating other procedure,其他處置併發術中脾出血或血腫
+205,D781,Accidental puncture and laceration of spleen during a procedure,併發脾意外刺穿或撕裂傷
+206,D7811,Accidental puncture and laceration of spleen during a procedure on the spleen,脾處置中併發脾意外刺穿或撕裂傷
+207,D7812,Accidental puncture and laceration of spleen during other procedure,其他處置中併發脾意外刺穿或撕裂傷
+208,D782,Postprocedural hemorrhage and hematoma of spleen following a procedure,併發術後脾出血或血腫
+209,D7821,Postprocedural hemorrhage and hematoma of spleen following a procedure on the spleen,脾處置併發術後脾出血或血腫
+210,D7822,Postprocedural hemorrhage and hematoma of spleen following other procedure,期它處置併發術後脾出血或血腫
+211,D788,Other intraoperative and postprocedural complications of spleen,脾臟其他術中及術後併發症
+212,D7881,Other intraoperative complications of spleen,脾臟其他術中併發症
+213,D7889,Other postprocedural complications of spleen,脾臟其他術後併發症
+214,D80,Immunodeficiency with predominantly antibody defects,免疫缺乏症伴有主要抗體缺陷
+215,D800,Hereditary hypogammaglobulinemia,遺傳性丙型球蛋白過低血症
+216,D801,Nonfamilial hypogammaglobulinemia,非家族性丙型球蛋白過低血症
+217,D802,Selective deficiency of immunoglobulin A [IgA],選擇性免疫球蛋白A[IgA]缺乏症
+218,D803,Selective deficiency of immunoglobulin G [IgG] subclasses,選擇性免疫球蛋白G[IgG]亞群缺乏症
+219,D804,Selective deficiency of immunoglobulin M [IgM],選擇性免疫球蛋白M[IgM]缺乏症
+220,D805,Immunodeficiency with increased immunoglobulin M [IgM],免疫缺乏症伴有免疫球蛋白M[IgM]增加
+221,D806,Antibody deficiency with near-normal immunoglobulins or with hyperimmunoglobulinemia,抗體缺乏伴有接近於正常的免疫球蛋白或伴有高免疫球蛋白血症
+222,D807,Transient hypogammaglobulinemia of infancy,嬰兒暫時性丙型球蛋白過低血症
+223,D808,Other immunodeficiencies with predominantly antibody defects,其他免疫缺乏症伴有主要抗體缺陷
+224,D809,"Immunodeficiency with predominantly antibody defects, unspecified",免疫缺乏症伴有主要抗體缺陷，未特定
+225,D81,Combined immunodeficiencies,複合性免疫缺乏症
+226,D810,Severe combined immunodeficiency [SCID] with reticular dysgenesis,複合性嚴重型免疫缺乏症[SCID]伴有網狀組織發育不良
+227,D811,Severe combined immunodeficiency [SCID] with low T- and B-cell numbers,複合性嚴重型免疫缺乏症[SCID]伴有低Ｔ–及Ｂ–細胞數目者
+228,D812,Severe combined immunodeficiency [SCID] with low or normal B-cell numbers,複合性嚴重型免疫缺乏症[SCID]伴有低或正常Ｂ–細胞數目者
+229,D813,Adenosine deaminase [ADA] deficiency,腺甘脫胺脢[ADA]缺乏症
+230,D814,Nezelof's syndrome,Nezelof氏症候群
+231,D815,Purine nucleoside phosphorylase [PNP] deficiency,嘌呤核甘磷酸化脢[PNP]缺乏症
+232,D816,Major histocompatibility complex class I deficiency,主要組織相容複合體Ⅰ級缺乏症
+233,D817,Major histocompatibility complex class II deficiency,主要組織相容複合體Ⅱ級缺乏症
+234,D818,Other combined immunodeficiencies,其他複合性免疫缺乏症
+235,D8181,Biotin-dependent carboxylase deficiency,生物素依賴性羧化脢缺乏症
+236,D81810,Biotinidase deficiency,生物素脢缺乏症
+237,D81818,Other biotin-dependent carboxylase deficiency,其他生物素依賴性羧化脢缺乏症
+238,D81819,"Biotin-dependent carboxylase deficiency, unspecified",生物素依賴性羧化脢缺乏症，未特定
+239,D8189,Other combined immunodeficiencies,其他複合性免疫缺乏症
+240,D819,"Combined immunodeficiency, unspecified",複合性免疫缺乏症，未特定
+241,D82,Immunodeficiency associated with other major defects,與其他重大缺陷相關的免疫缺乏症
+242,D820,Wiskott-Aldrich syndrome,Wiskott-Aldrich症候群
+243,D821,Di George's syndrome,DiGeorge氏症候群
+244,D822,Immunodeficiency with short-limbed stature,免疫缺乏症伴有短肢身材
+245,D823,Immunodeficiency following hereditary defective response to Epstein-Barr virus,遺傳性Epstein-Barr病毒反應缺陷性免疫缺乏症
+246,D824,Hyperimmunoglobulin E [IgE] syndrome,高免疫球蛋白E[IgE]症候群
+247,D828,Immunodeficiency associated with other specified major defects,與其他特定重大缺陷相關的免疫缺乏症
+248,D829,"Immunodeficiency associated with major defect, unspecified",與重大缺陷相關的免疫缺乏症，未特定
+249,D83,Common variable immunodeficiency,常見多樣性免疫缺乏症
+250,D830,Common variable immunodeficiency with predominant abnormalities of B-cell numbers and function,以B–細胞數目及功能異常為主的常見多樣性免疫缺乏症
+251,D831,Common variable immunodeficiency with predominant immunoregulatory T-cell disorders,以免疫調節T–細胞疾患為主的常見多樣性免疫缺乏症
+252,D832,Common variable immunodeficiency with autoantibodies to B- or T-cells,伴有B–或T–細胞自體抗體的常見多樣性免疫缺乏症
+253,D838,Other common variable immunodeficiencies,其他常見多樣性免疫缺乏症
+254,D839,"Common variable immunodeficiency, unspecified",常見多樣性免疫缺乏症，未特定
+255,D84,Other immunodeficiencies,其他免疫缺乏症
+256,D840,Lymphocyte function antigen-1 [LFA-1] defect,淋巴球功能抗原–1[LFA-1]缺陷
+257,D841,Defects in the complement system,補體系統缺陷
+258,D848,Other specified immunodeficiencies,其他特定免疫缺乏症
+259,D849,"Immunodeficiency, unspecified",免疫缺乏症，未特定
+260,D86,Sarcoidosis,類肉瘤病
+261,D860,Sarcoidosis of lung,肺類肉瘤病
+262,D861,Sarcoidosis of lymph nodes,淋巴結類肉瘤病
+263,D862,Sarcoidosis of lung with sarcoidosis of lymph nodes,肺類肉瘤病伴有淋巴結類肉瘤病
+264,D863,Sarcoidosis of skin,皮膚類肉瘤病
+265,D868,Sarcoidosis of other sites,其他部位之類肉瘤病
+266,D8681,Sarcoid meningitis,類肉瘤腦膜炎
+267,D8682,Multiple cranial nerve palsies in sarcoidosis,類肉瘤病所致的多發性顱內神經麻痺
+268,D8683,Sarcoid iridocyclitis,類肉瘤虹膜睫狀體炎
+269,D8684,Sarcoid pyelonephritis,類肉瘤腎盂腎炎
+270,D8685,Sarcoid myocarditis,類肉瘤心肌炎
+271,D8686,Sarcoid arthropathy,類肉瘤關節病變
+272,D8687,Sarcoid myositis,類肉瘤肌炎
+273,D8689,Sarcoidosis of other sites,其他部位的類肉瘤病
+274,D869,"Sarcoidosis, unspecified",類肉瘤病，未特定
+275,D89,"Other disorders involving the immune mechanism, not elsewhere classified",涉及免疫機轉的其他疾患，他處未歸類者
+276,D890,Polyclonal hypergammaglobulinemia,多株性高丙型球蛋白血症
+277,D891,Cryoglobulinemia,冷凝球蛋白血症
+278,D892,"Hypergammaglobulinemia, unspecified",高丙型球蛋白血症，未特定
+279,D893,Immune reconstitution syndrome,免疫重建症候群
+280,D898,"Other specified disorders involving the immune mechanism, not elsewhere classified",涉及免疫機轉的其他特定疾患，他處未歸類者
+281,D8981,Graft-versus-host disease,移植物對抗宿主疾病
+282,D89810,Acute graft-versus-host disease,急性移植物對抗宿主疾病
+283,D89811,Chronic graft-versus-host disease,慢性移植物對抗宿主疾病
+284,D89812,Acute on chronic graft-versus-host disease,慢性移植物對抗宿主疾病急性發作
+285,D89813,"Graft-versus-host disease, unspecified",移植物對抗宿主疾病，未特定
+286,D8982,Autoimmune lymphoproliferative syndrome [ALPS],自體免疫淋巴增生症候群
+287,D8989,"Other specified disorders involving the immune mechanism, not elsewhere classified",涉及免疫機轉的其他特定疾患，他處未歸類者
+288,D899,"Disorder involving the immune mechanism, unspecified",涉及免疫機轉之疾患，未特定

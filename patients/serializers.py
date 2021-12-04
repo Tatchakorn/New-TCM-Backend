@@ -5,20 +5,24 @@ from .models import PatientsInfo, DiagnosisInfo, YanImages, SheImages
 
 class YanImagesSerializer(serializers.ModelSerializer):
     image = serializers.ImageField()
-
+    date = serializers.DateTimeField(
+        source='register_time',
+        format=r"%a, %d %b %Y %H:%M:%S %Z")
+    
     class Meta:
         model = YanImages
         fields = ('id', 'diagnosis', 'image', 'date', 'remark',)
-        # fields = ('id', 'diagnosis', 'image', 'remark',)
 
 
 class SheImagesSerializer(serializers.ModelSerializer):
     image = serializers.ImageField()
-
+    date = serializers.DateTimeField(
+        source='register_time',
+        format=r"%a, %d %b %Y %H:%M:%S %Z")
+    
     class Meta:
         model = SheImages
         fields = ('id', 'diagnosis', 'image', 'date', 'remark',)
-        # fields = ('id', 'diagnosis', 'image', 'remark',)
 
 
 class DiagnosisInfoSerializer(serializers.ModelSerializer):

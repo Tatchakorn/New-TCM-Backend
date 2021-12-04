@@ -1,0 +1,872 @@
+,code,en_name,ch_name
+0,E00,Congential iodine-deficiency syndrome,先天性缺碘症後群
+1,E000,"Congenital iodine-deficiency syndrome, neurological type",先天性缺碘症後群，神經型
+2,E001,"Congenital iodine-deficiency syndrome, myxedematous type",先天性缺碘症後群，黏液水腫型
+3,E002,"Congenital iodine-deficiency syndrome, mixed type",先天性缺碘症後群，混合型
+4,E009,"Congenital iodine-deficiency syndrome, unspecified",先天性缺碘症後群，未特定
+5,E01,Iodine-deficiency related thyroid disorders and allied conditions,缺碘有關的甲狀腺腫
+6,E010,Iodine-deficiency related diffuse (endemic) goiter,缺碘有關的瀰漫性(地區性)甲狀腺腫
+7,E011,Iodine-deficiency related multinodular (endemic) goiter,缺碘有關的多結節性(地區性)甲狀腺腫
+8,E012,"Iodine-deficiency related (endemic) goiter, unspecified",缺碘有關的(地區性)甲狀腺腫，未特定
+9,E018,Other iodine-deficiency related thyroid disorders and allied conditions,其他與缺碘有關的甲狀腺疾患和相關情況
+10,E02,Subclinical iodine-deficiency hypothyroidism,臨床無症狀的缺碘性甲狀腺低下
+11,E03,Other hypothyroidism,其他先天性甲狀腺低下症
+12,E030,Congenital hypothyroidism with diffuse goiter,先天性甲狀腺低下，伴有瀰漫性甲狀腺腫
+13,E031,Congenital hypothyroidism without goiter,先天性甲狀腺低下，未伴有甲狀腺腫
+14,E032,Hypothyroidism due to medicaments and other exogenous substances,"先天性甲狀腺低下, 藥物或其他外因性物質所致"
+15,E033,Postinfectious hypothyroidism,感染後的甲狀腺低下
+16,E034,Atrophy of thyroid (acquired),甲狀腺萎縮(後天性)
+17,E035,Myxedema coma,黏液水腫昏迷
+18,E038,Other specified hypothyroidism,其他特定的甲狀腺低下
+19,E039,"Hypothyroidism, unspecified",甲狀腺低下，未特定
+20,E04,Other nontoxic goiter,其他非毒性甲狀腺腫
+21,E040,Nontoxic diffuse goiter,非毒性瀰漫性甲狀腺腫
+22,E041,Nontoxic single thyroid nodule,非毒性單一甲狀腺結節
+23,E042,Nontoxic multinodular goiter,非毒性多結節性甲狀腺腫
+24,E048,Other specified nontoxic goiter,其他特定的非毒性甲狀腺腫
+25,E049,"Nontoxic goiter, unspecified",非毒性甲狀腺腫，未特定
+26,E05,Thyrotoxicosis [hyperthyroidism],甲狀腺毒症(甲狀腺機能抗進)
+27,E050,Thyrotoxicosis with diffuse goiter,毒性瀰漫性甲狀腺腫
+28,E0500,Thyrotoxicosis with diffuse goiter without thyrotoxic crisis or storm,毒性瀰漫性甲狀腺腫，未伴有甲狀腺毒性危象或風暴
+29,E0501,Thyrotoxicosis with diffuse goiter with thyrotoxic crisis or storm,毒性瀰漫性甲狀腺腫，伴有甲狀腺毒性危象或風暴
+30,E051,Thyrotoxicosis with toxic single thyroid nodule,毒性單一性甲狀腺結節
+31,E0510,Thyrotoxicosis with toxic single thyroid nodule without thyrotoxic crisis or storm,毒性單一甲狀腺結節，未伴有甲狀腺毒性危象或風暴
+32,E0511,Thyrotoxicosis with toxic single thyroid nodule with thyrotoxic crisis or storm,毒性單一甲狀腺結節，伴有甲狀腺毒性危象或風暴
+33,E052,Thyrotoxicosis with toxic multinodular goiter,毒性多結節性甲狀腺腫
+34,E0520,Thyrotoxicosis with toxic multinodular goiter without thyrotoxic crisis or storm,毒性多結節性甲狀腺腫，未伴有甲狀腺毒性危象或風暴
+35,E0521,Thyrotoxicosis with toxic multinodular goiter with thyrotoxic crisis or storm,毒性多結節性甲狀腺腫，伴有甲狀腺毒性危象或風暴
+36,E053,Thyrotoxicosis from ectopic thyroid tissue,異位甲狀腺組織所致之甲狀腺毒症
+37,E0530,Thyrotoxicosis from ectopic thyroid tissue without thyrotoxic crisis or storm,異位甲狀腺組織所致之甲狀腺毒症，未伴有甲狀腺毒性危象或風暴
+38,E0531,Thyrotoxicosis from ectopic thyroid tissue with thyrotoxic crisis or storm,異位甲狀腺組織所致之甲狀腺毒症，伴有甲狀腺毒性危象或風暴
+39,E054,Thyrotoxicosis factitia,人造的甲狀腺毒症
+40,E0540,Thyrotoxicosis factitia without thyrotoxic crisis or storm,人造的甲狀腺毒症，未伴有甲狀腺毒性危象或風暴
+41,E0541,Thyrotoxicosis factitia with thyrotoxic crisis or storm,人造的甲狀腺毒症，伴有甲狀腺毒性危象或風暴
+42,E058,Other thyrotoxicosis,其他病源所致之甲狀腺毒症
+43,E0580,Other thyrotoxicosis without thyrotoxic crisis or storm,其他病源所致之甲狀腺毒症，未伴有甲狀腺毒性危象或風暴
+44,E0581,Other thyrotoxicosis with thyrotoxic crisis or storm,其他病源所致之甲狀腺毒症，伴有甲狀腺毒性危象或風暴
+45,E059,"Thyrotoxicosis, unspecified",未特定之甲狀腺毒症
+46,E0590,"Thyrotoxicosis, unspecified without thyrotoxic crisis or storm",未特定之甲狀腺毒症，未伴有甲狀腺毒性危象或風暴
+47,E0591,"Thyrotoxicosis, unspecified with thyrotoxic crisis or storm",未特定之甲狀腺毒症，伴有甲狀腺毒性危象或風暴
+48,E06,Thyroiditis,甲狀腺炎
+49,E060,Acute thyroiditis,急性甲狀腺炎
+50,E061,Subacute thyroiditis,亞急性甲狀腺炎
+51,E062,Chronic thyroiditis with transient thyrotoxicosis,慢性甲狀腺炎伴有短暫性甲狀腺毒症
+52,E063,Autoimmune thyroiditis,自體免疫的甲狀腺炎
+53,E064,Drug-induced thyroiditis,藥物導致之甲狀腺炎
+54,E065,Other chronic thyroiditis,其他慢性甲狀腺炎
+55,E069,"Thyroiditis, unspecified",甲狀腺炎，未特定
+56,E07,Other disorders of thyroid,其他甲狀腺疾患
+57,E070,Hypersecretion of calcitonin,抑鈣素分泌過度
+58,E071,Dyshormogenetic goiter,賀爾蒙失調性甲狀腺腫
+59,E078,Other specified disorders of thyroid,其他特定之甲狀腺疾患
+60,E0781,Sick-euthyroid syndrome,正常的病態甲狀腺症候群
+61,E0789,Other specified disorders of thyroid,其他特定的甲狀腺疾患
+62,E079,"Disorder of thyroid, unspecified",甲狀腺疾患，未特定
+63,E08,Diabetes mellitus due to underlying condition,起因於潛在病的糖尿病
+64,E080,Diabetes mellitus due to underlying condition with hyperosmolarity,起因於潛在病的糖尿病，伴有高滲透壓
+65,E0800,Diabetes mellitus due to underlying condition with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),起因於潛在病的糖尿病，伴有高滲透壓，未伴有非酮病之高血糖-高滲透壓的昏迷
+66,E0801,Diabetes mellitus due to underlying condition with hyperosmolarity with coma,起因於潛在病的糖尿病，伴有高滲透壓，伴有昏迷
+67,E081,Diabetes mellitus due to underlying condition with ketoacidosis,起因於潛在病的糖尿病，伴有酮酸中毒
+68,E0810,Diabetes mellitus due to underlying condition with ketoacidosis without coma,起因於潛在病的糖尿病，伴有酮酸中毒，未伴有昏迷
+69,E0811,Diabetes mellitus due to underlying condition with ketoacidosis with coma,起因於潛在病的糖尿病，伴有酮酸中毒，伴有昏迷
+70,E082,Diabetes mellitus due to underlying condition with kidney complications,起因於潛在病的糖尿病，伴有腎臟併發症
+71,E0821,Diabetes mellitus due to underlying condition with diabetic nephropathy,起因於潛在病的糖尿病，伴有糖尿病的腎臟病變
+72,E0822,Diabetes mellitus due to underlying condition with diabetic chronic kidney disease,起因於潛在病的糖尿病，糖尿病的慢性腎臟疾病
+73,E0829,Diabetes mellitus due to underlying condition with other diabetic kidney complication,起因於潛在病的糖尿病，伴有其他糖尿病的腎臟併發症
+74,E083,Diabetes mellitus due to underlying condition with ophthalmic complications,起因於潛在病的糖尿病，伴有眼部併發症
+75,E0831,Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy,起因於潛在病的糖尿病，伴有糖尿病的視網膜病變
+76,E08311,Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy with macular edema,起因於潛在病的糖尿病，伴有糖尿病的視網膜病變，伴有黃斑部水腫
+77,E08319,Diabetes mellitus due to underlying condition with unspecified diabetic retinopathy without macular edema,起因於潛在病的糖尿病，伴有糖尿病的視網膜病變，未伴有黃斑部水腫
+78,E0832,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy,起因於潛在病的糖尿病，伴有輕度糖尿病的非增殖型視網膜病變
+79,E08321,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy with macular edema,起因於潛在病的糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+80,E08329,Diabetes mellitus due to underlying condition with mild nonproliferative diabetic retinopathy without macular edema,起因於潛在病的糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+81,E0833,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy,起因於潛在病的糖尿病，伴有中度糖尿病的非增殖型視網膜病變
+82,E08331,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy with macular edema,起因於潛在病的糖尿病，伴有中度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+83,E08339,Diabetes mellitus due to underlying condition with moderate nonproliferative diabetic retinopathy without macular edema,起因於潛在病的糖尿病，伴有中度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+84,E0834,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy,起因於潛在病的糖尿病，伴有重度糖尿病的非增殖型視網膜病變
+85,E08341,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy with macular edema,起因於潛在病的糖尿病，伴有重度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+86,E08349,Diabetes mellitus due to underlying condition with severe nonproliferative diabetic retinopathy without macular edema,起因於潛在病的糖尿病，伴有重度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+87,E0835,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy,起因於潛在病的糖尿病，伴有糖尿病的增殖型視網膜病變
+88,E08351,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy with macular edema,起因於潛在病的糖尿病，伴有糖尿病的增殖型視網膜病變，伴有黃斑部水腫
+89,E08359,Diabetes mellitus due to underlying condition with proliferative diabetic retinopathy without macular edema,起因於潛在病的糖尿病，伴有糖尿病的增殖型視網膜病變，未伴有黃斑部水腫
+90,E0836,Diabetes mellitus due to underlying condition with diabetic cataract,起因於潛在病的糖尿病，伴有糖尿病的白內障
+91,E0839,Diabetes mellitus due to underlying condition with other diabetic ophthalmic complication,起因於潛在病的糖尿病，伴有其他糖尿病的眼睛併發症
+92,E084,Diabetes mellitus due to underlying condition with neurological complications,起因於潛在病的糖尿病，伴有神經併發症
+93,E0840,"Diabetes mellitus due to underlying condition with diabetic neuropathy, unspecified",起因於潛在病的糖尿病，伴有糖尿病的神經病變，未特定
+94,E0841,Diabetes mellitus due to underlying condition with diabetic mononeuropathy,起因於潛在病的糖尿病，伴有糖尿病的單一神經病變
+95,E0842,Diabetes mellitus due to underlying condition with diabetic polyneuropathy,起因於潛在病的糖尿病，伴有糖尿病的多發神經病變
+96,E0843,Diabetes mellitus due to underlying condition with diabetic autonomic (poly)neuropathy,起因於潛在病的糖尿病，伴有糖尿病的自主(多發)神經病變
+97,E0844,Diabetes mellitus due to underlying condition with diabetic amyotrophy,起因於潛在病的糖尿病，糖尿病的肌肉萎縮
+98,E0849,Diabetes mellitus due to underlying condition with other diabetic neurological complication,起因於潛在病的糖尿病，伴有其他糖尿病的神經併發症
+99,E085,Diabetes mellitus due to underlying condition with circulatory complications,起因於潛在病的糖尿病，伴有循環併發症
+100,E0851,Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy without gangrene,起因於潛在病的糖尿病，伴有糖尿病的周邊血管病變，未伴有壞疽
+101,E0852,Diabetes mellitus due to underlying condition with diabetic peripheral angiopathy with gangrene,起因於潛在病的糖尿病，伴有糖尿病的周邊血管病變，伴有壞疽
+102,E0859,Diabetes mellitus due to underlying condition with other circulatory complications,起因於潛在病的糖尿病，伴有其他糖尿病的循環併發症
+103,E086,Diabetes mellitus due to underlying condition with other specified complications,起因於潛在病的糖尿病，伴有其他特定併發症
+104,E0861,Diabetes mellitus due to underlying condition with diabetic arthropathy,起因於潛在病的糖尿病，伴有其他糖尿病的關節病變
+105,E08610,Diabetes mellitus due to underlying condition with diabetic neuropathic arthropathy,起因於潛在病的糖尿病，伴有糖尿病的神經病變引起之關節病變
+106,E08618,Diabetes mellitus due to underlying condition with other diabetic arthropathy,起因於潛在病的糖尿病，伴有其他糖尿病的關節病變
+107,E0862,Diabetes mellitus due to underlying condition with skin complications,起因於潛在病的糖尿病，伴有皮膚併發症
+108,E08620,Diabetes mellitus due to underlying condition with diabetic dermatitis,起因於潛在病的糖尿病，伴有糖尿病性皮膚炎
+109,E08621,Diabetes mellitus due to underlying condition with foot ulcer,起因於潛在病的糖尿病，伴有足部潰瘍
+110,E08622,Diabetes mellitus due to underlying condition with other skin ulcer,起因於潛在病的糖尿病，伴有其他皮膚潰瘍
+111,E08628,Diabetes mellitus due to underlying condition with other skin complications,起因於潛在病的糖尿病，伴有其他皮膚併發症
+112,E0863,Diabetes mellitus due to underlying condition with oral complications,起因於潛在病的糖尿病，伴有口腔併發症
+113,E08630,Diabetes mellitus due to underlying condition with periodontal disease,起因於潛在病的糖尿病，伴有牙周疾病
+114,E08638,Diabetes mellitus due to underlying condition with other oral complications,起因於潛在病的糖尿病，伴有其他口腔併發症
+115,E0864,Diabetes mellitus due to underlying condition with hypoglycemia,起因於潛在病的糖尿病，伴有低血糖
+116,E08641,Diabetes mellitus due to underlying condition with hypoglycemia with coma,起因於潛在病的糖尿病，伴有低血糖，伴有昏迷
+117,E08649,Diabetes mellitus due to underlying condition with hypoglycemia without coma,起因於潛在病的糖尿病，伴有低血糖，未伴有昏迷
+118,E0865,Diabetes mellitus due to underlying condition with hyperglycemia,起因於潛在病的糖尿病，伴有高血糖
+119,E0869,Diabetes mellitus due to underlying condition with other specified complication,起因於潛在病的糖尿病，伴有其他特定的併發症
+120,E088,Diabetes mellitus due to underlying condition with unspecified complications,起因於潛在病的糖尿病，伴有未特定之併發症
+121,E089,Diabetes mellitus due to underlying condition without complications,起因於潛在病的糖尿病，未伴有併發症
+122,E09,Drug or chemical induced diabetes mellitus,藥物或化學物導致之糖尿病
+123,E090,Drug or chemical induced diabetes mellitus with hyperosmolarity,藥物或化學物導致之糖尿病，伴有高滲透壓
+124,E0900,Drug or chemical induced diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),藥物或化學物導致之糖尿病，伴有高滲透壓，未伴有非酮病之高血糖-高滲透壓的昏迷
+125,E0901,Drug or chemical induced diabetes mellitus with hyperosmolarity with coma,藥物或化學物導致之糖尿病，伴有高滲透壓，伴有昏迷
+126,E091,Drug or chemical induced diabetes mellitus with ketoacidosis,藥物或化學物導致之糖尿病，伴有酮酸中毒
+127,E0910,Drug or chemical induced diabetes mellitus with ketoacidosis without coma,藥物或化學物導致之糖尿病，伴有酮酸中毒，未伴有昏迷
+128,E0911,Drug or chemical induced diabetes mellitus with ketoacidosis with coma,藥物或化學物導致之糖尿病，伴有酮酸中毒，伴有昏迷
+129,E092,Drug or chemical induced diabetes mellitus with kidney complications,藥物或化學物導致之糖尿病，伴有腎臟併發症
+130,E0921,Drug or chemical induced diabetes mellitus with diabetic nephropathy,藥物或化學物導致之糖尿病，伴有糖尿病的腎臟病變
+131,E0922,Drug or chemical induced diabetes mellitus with diabetic chronic kidney disease,藥物或化學物導致之糖尿病，糖尿病的慢性腎臟疾病
+132,E0929,Drug or chemical induced diabetes mellitus with other diabetic kidney complication,藥物或化學物導致之糖尿病，伴有其他糖尿病的腎臟併發症
+133,E093,Drug or chemical induced diabetes mellitus with ophthalmic complications,藥物或化學物導致之糖尿病，伴有眼部併發症
+134,E0931,Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy,藥物或化學物導致之糖尿病，伴有未明示糖尿病的視網膜病變
+135,E09311,Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy with macular edema,藥物或化學物導致之糖尿病，伴有糖尿病的視網膜病變，伴有黃斑部水腫
+136,E09319,Drug or chemical induced diabetes mellitus with unspecified diabetic retinopathy without macular edema,藥物或化學物導致之糖尿病，伴有糖尿病的視網膜病變，未伴有黃斑部水腫
+137,E0932,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy,藥物或化學物導致之糖尿病，伴有輕度糖尿病的非增殖型視網膜病變
+138,E09321,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,藥物或化學物導致之糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+139,E09329,Drug or chemical induced diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,藥物或化學物導致之糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+140,E0933,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy,藥物或化學物導致之糖尿病，伴有中度糖尿病的非增殖型視網膜病變
+141,E09331,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,藥物或化學物導致之糖尿病，伴有中度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+142,E09339,Drug or chemical induced diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,藥物或化學物導致之糖尿病，伴有中度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+143,E0934,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy,藥物或化學物導致之糖尿病，伴有重度糖尿病的非增殖型視網膜病變
+144,E09341,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,藥物或化學物導致之糖尿病，伴有重度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+145,E09349,Drug or chemical induced diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,藥物或化學物導致之糖尿病，伴有重度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+146,E0935,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy,藥物或化學物導致之糖尿病，伴有糖尿病的增殖型視網膜病變
+147,E09351,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy with macular edema,藥物或化學物導致之糖尿病，伴有糖尿病的增殖型視網膜病變，伴有黃斑部水腫
+148,E09359,Drug or chemical induced diabetes mellitus with proliferative diabetic retinopathy without macular edema,藥物或化學物導致之糖尿病，伴有糖尿病的增殖型視網膜病變，未伴有黃斑部水腫
+149,E0936,Drug or chemical induced diabetes mellitus with diabetic cataract,藥物或化學物導致之糖尿病，伴有糖尿病的白內障
+150,E0939,Drug or chemical induced diabetes mellitus with other diabetic ophthalmic complication,藥物或化學物導致之糖尿病，伴有其他糖尿病的眼睛併發症
+151,E094,Drug or chemical induced diabetes mellitus with neurological complications,藥物或化學物導致之糖尿病，伴有神經併發症
+152,E0940,"Drug or chemical induced diabetes mellitus with neurological complications with diabetic neuropathy, unspecified",藥物或化學物導致之糖尿病，伴有糖尿病的神經病變，未特定
+153,E0941,Drug or chemical induced diabetes mellitus with neurological complications with diabetic mononeuropathy,藥物或化學物導致之糖尿病，伴有糖尿病的單一神經病變
+154,E0942,Drug or chemical induced diabetes mellitus with neurological complications with diabetic polyneuropathy,藥物或化學物導致之糖尿病，伴有糖尿病的多發神經病變
+155,E0943,Drug or chemical induced diabetes mellitus with neurological complications with diabetic autonomic (poly)neuropathy,藥物或化學物導致之糖尿病，伴有糖尿病的自主(多發)神經病變
+156,E0944,Drug or chemical induced diabetes mellitus with neurological complications with diabetic amyotrophy,藥物或化學物導致之糖尿病，糖尿病的肌肉萎縮
+157,E0949,Drug or chemical induced diabetes mellitus with neurological complications with other diabetic neurological complication,藥物或化學物導致之糖尿病，伴有其他糖尿病的神經併發症
+158,E095,Drug or chemical induced diabetes mellitus with circulatory complications,藥物或化學物導致之糖尿病，伴有循環併發症
+159,E0951,Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy without gangrene,藥物或化學物導致之糖尿病，伴有糖尿病的周邊血管病變，未伴有壞疽
+160,E0952,Drug or chemical induced diabetes mellitus with diabetic peripheral angiopathy with gangrene,藥物或化學物導致之糖尿病，伴有糖尿病的周邊血管病變，伴有壞疽
+161,E0959,Drug or chemical induced diabetes mellitus with other circulatory complications,藥物或化學物導致之糖尿病，伴有其他糖尿病的循環併發症
+162,E096,Drug or chemical induced diabetes mellitus with other specified complications,藥物或化學物導致之糖尿病，伴有其他特定併發症
+163,E0961,Drug or chemical induced diabetes mellitus with diabetic arthropathy,藥物或化學物導致之糖尿病，伴有其他糖尿病的關節病變
+164,E09610,Drug or chemical induced diabetes mellitus with diabetic neuropathic arthropathy,藥物或化學物導致之糖尿病，伴有糖尿病的神經病變導致之關節病變
+165,E09618,Drug or chemical induced diabetes mellitus with other diabetic arthropathy,藥物或化學物導致之糖尿病，伴有其他糖尿病的關節病變
+166,E0962,Drug or chemical induced diabetes mellitus with skin complications,藥物或化學物導致之糖尿病，伴有皮膚併發症
+167,E09620,Drug or chemical induced diabetes mellitus with diabetic dermatitis,藥物或化學物導致之糖尿病，伴有糖尿病性皮膚炎
+168,E09621,Drug or chemical induced diabetes mellitus with foot ulcer,藥物或化學物導致之糖尿病，伴有足部潰瘍
+169,E09622,Drug or chemical induced diabetes mellitus with other skin ulcer,藥物或化學物導致之糖尿病，伴有其他皮膚潰瘍
+170,E09628,Drug or chemical induced diabetes mellitus with other skin complications,藥物或化學物導致之糖尿病，伴有其他皮膚併發症
+171,E0963,Drug or chemical induced diabetes mellitus with oral complications,藥物或化學物導致之糖尿病，伴有口腔併發症
+172,E09630,Drug or chemical induced diabetes mellitus with periodontal disease,藥物或化學物導致之糖尿病，伴有牙周疾病
+173,E09638,Drug or chemical induced diabetes mellitus with other oral complications,藥物或化學物導致之糖尿病，伴有其他口腔併發症
+174,E0964,Drug or chemical induced diabetes mellitus with hypoglycemia,藥物或化學物導致之糖尿病，伴有低血糖
+175,E09641,Drug or chemical induced diabetes mellitus with hypoglycemia with coma,藥物或化學物導致之糖尿病，伴有低血糖，伴有昏迷
+176,E09649,Drug or chemical induced diabetes mellitus with hypoglycemia without coma,藥物或化學物導致之糖尿病，伴有低血糖，未伴有昏迷
+177,E0965,Drug or chemical induced diabetes mellitus with hyperglycemia,藥物或化學物導致之糖尿病，伴有高血糖
+178,E0969,Drug or chemical induced diabetes mellitus with other specified complication,藥物或化學物導致之糖尿病，伴有其他特定的併發症
+179,E098,Drug or chemical induced diabetes mellitus with unspecified complications,藥物或化學物導致之糖尿病，伴有未特定之併發症
+180,E099,Drug or chemical induced diabetes mellitus without complications,藥物或化學物導致之糖尿病，未伴有併發症
+181,E10,Type 1 diabetes mellitus,第1型糖尿病
+182,E101,Type 1 diabetes mellitus with ketoacidosis,第1型糖尿病，伴有酮酸中毒
+183,E1010,Type 1 diabetes mellitus with ketoacidosis without coma,第1型糖尿病，伴有酮酸中毒，未伴有昏迷
+184,E1011,Type 1 diabetes mellitus with ketoacidosis with coma,第1型糖尿病，伴有酮酸中毒，伴有昏迷
+185,E102,Type 1 diabetes mellitus with kidney complications,第1型糖尿病，伴有腎臟併發症
+186,E1021,Type 1 diabetes mellitus with diabetic nephropathy,第1型糖尿病，伴有糖尿病的腎臟病變
+187,E1022,Type 1 diabetes mellitus with diabetic chronic kidney disease,第1型糖尿病，糖尿病的慢性腎臟疾病
+188,E1029,Type 1 diabetes mellitus with other diabetic kidney complication,第1型糖尿病，伴有其他糖尿病的腎臟併發症
+189,E103,Type 1 diabetes mellitus with ophthalmic,第1型糖尿病，伴有眼部併發症
+190,E1031,Type 1 diabetes mellitus with unspecified diabetic retinopathy,第1型糖尿病，伴有未明示糖尿病的視網膜病變
+191,E10311,Type 1 diabetes mellitus with unspecified diabetic retinopathy with macular edema,第1型糖尿病，伴有糖尿病的視網膜病變，伴有黃斑部水腫
+192,E10319,Type 1 diabetes mellitus with unspecified diabetic retinopathy without macular edema,第1型糖尿病，伴有糖尿病的視網膜病變，未伴有黃斑部水腫
+193,E1032,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy,第1型糖尿病，伴有輕度糖尿病的非增殖型視網膜病變
+194,E10321,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,第1型糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+195,E10329,Type 1 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,第1型糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+196,E1033,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy,第1型糖尿病，伴有中度糖尿病的非增殖型視網膜病變
+197,E10331,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,第1型糖尿病，伴有中度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+198,E10339,Type 1 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,第1型糖尿病，伴有中度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+199,E1034,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy,第1型糖尿病，伴有重度糖尿病的非增殖型視網膜病變
+200,E10341,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,第1型糖尿病，伴有重度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+201,E10349,Type 1 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,第1型糖尿病，伴有重度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+202,E1035,Type 1 diabetes mellitus with proliferative diabetic retinopathy,第1型糖尿病，伴有糖尿病的增殖型視網膜病變
+203,E10351,Type 1 diabetes mellitus with proliferative diabetic retinopathy with macular edema,第1型糖尿病，伴有糖尿病的增殖型視網膜病變，伴有黃斑部水腫
+204,E10359,Type 1 diabetes mellitus with proliferative diabetic retinopathy without macular edema,第1型糖尿病，伴有糖尿病的增殖型視網膜病變，未伴有黃斑部水腫
+205,E1036,Type 1 diabetes mellitus with diabetic cataract,第1型糖尿病，伴有糖尿病的白內障
+206,E1039,Type 1 diabetes mellitus with other diabetic ophthalmic complication,第1型糖尿病，伴有其他糖尿病的眼睛併發症
+207,E104,Type 1 diabetes mellitus with neurological complications,第1型糖尿病，伴有神經併發症
+208,E1040,"Type 1 diabetes mellitus with diabetic neuropathy, unspecified",第1型糖尿病，伴有糖尿病的神經病變，未特定
+209,E1041,Type 1 diabetes mellitus with diabetic mononeuropathy,第1型糖尿病，伴有糖尿病的單一神經病變
+210,E1042,Type 1 diabetes mellitus with diabetic polyneuropathy,第1型糖尿病，伴有糖尿病的多發神經病變
+211,E1043,Type 1 diabetes mellitus with diabetic autonomic (poly)neuropathy,第1型糖尿病，伴有糖尿病的自主(多發)神經病變
+212,E1044,Type 1 diabetes mellitus with diabetic amyotrophy,第1型糖尿病，糖尿病的肌肉萎縮
+213,E1049,Type 1 diabetes mellitus with other diabetic neurological complication,第1型糖尿病，伴有其他糖尿病的神經併發症
+214,E105,Type 1 diabetes mellitus with circulatory complications,第1型糖尿病，伴有循環併發症
+215,E1051,Type 1 diabetes mellitus with diabetic peripheral angiopathy without gangrene,第1型糖尿病，伴有糖尿病的周邊血管病變，未伴有壞疽
+216,E1052,Type 1 diabetes mellitus with diabetic peripheral angiopathy with gangrene,第1型糖尿病，伴有糖尿病的周邊血管病變，伴有壞疽
+217,E1059,Type 1 diabetes mellitus with other circulatory complications,第1型糖尿病，伴有其他糖尿病的循環併發症
+218,E106,Type 1 diabetes mellitus with other specified complications,第1型糖尿病，伴有其他特定併發症
+219,E1061,Type 1 diabetes mellitus with diabetic arthropathy,第1型糖尿病，伴有其他糖尿病的關節病變
+220,E10610,Type 1 diabetes mellitus with diabetic neuropathic arthropathy,第1型糖尿病，伴有糖尿病的神經病變引起之關節病變
+221,E10618,Type 1 diabetes mellitus with other diabetic arthropathy,第1型糖尿病，伴有其他糖尿病的關節病變
+222,E1062,Type 1 diabetes mellitus with skin complications,第1型糖尿病，伴有皮膚併發症
+223,E10620,Type 1 diabetes mellitus with diabetic dermatitis,第1型糖尿病，伴有糖尿病性皮膚炎
+224,E10621,Type 1 diabetes mellitus with foot ulcer,第1型糖尿病，伴有足部潰瘍
+225,E10622,Type 1 diabetes mellitus with other skin ulcer,第1型糖尿病，伴有其他皮膚潰瘍
+226,E10628,Type 1 diabetes mellitus with other skin complications,第1型糖尿病，伴有其他皮膚併發症
+227,E1063,Type 1 diabetes mellitus with oral complications,第1型糖尿病，伴有口腔併發症
+228,E10630,Type 1 diabetes mellitus with periodontal disease,第1型糖尿病，伴有牙周疾病
+229,E10638,Type 1 diabetes mellitus with other oral complications,第1型糖尿病，伴有其他口腔併發症
+230,E1064,Type 1 diabetes mellitus with hypoglycemia,第1型糖尿病，伴有低血糖
+231,E10641,Type 1 diabetes mellitus with hypoglycemia with coma,第1型糖尿病，伴有低血糖，伴有昏迷
+232,E10649,Type 1 diabetes mellitus with hypoglycemia without coma,第1型糖尿病，伴有低血糖，未伴有昏迷
+233,E1065,Type 1 diabetes mellitus with hyperglycemia,第1型糖尿病，伴有高血糖
+234,E1069,Type 1 diabetes mellitus with other specified complication,第1型糖尿病，伴有其他特定的併發症
+235,E108,Type 1 diabetes mellitus with unspecified complications,第1型糖尿病，伴有未特定之併發症
+236,E109,Type 1 diabetes mellitus without complications,第1型糖尿病，未伴有併發症
+237,E11,Type 2 diabetes mellitus,第2型糖尿病
+238,E110,Type 2 diabetes mellitus with hyperosmolarity,第2型糖尿病，伴有高滲透壓
+239,E1100,Type 2 diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),第2型糖尿病，伴有高滲透壓，未伴有非酮病之高血糖-高滲透壓的昏迷
+240,E1101,Type 2 diabetes mellitus with hyperosmolarity with coma,第2型糖尿病，伴有高滲透壓，伴有昏迷
+241,E112,Type 2 diabetes mellitus with kidney complications,第2型糖尿病，伴有腎臟併發症
+242,E1121,Type 2 diabetes mellitus with diabetic nephropathy,第2型糖尿病，伴有糖尿病的腎臟病變
+243,E1122,Type 2 diabetes mellitus with diabetic chronic kidney disease,第2型糖尿病，糖尿病的慢性腎臟疾病
+244,E1129,Type 2 diabetes mellitus with other diabetic kidney complication,第2型糖尿病，伴有其他糖尿病的腎臟併發症
+245,E113,Type 2 diabetes mellitus with ophthalmic complications,第2型糖尿病，伴有眼部併發症
+246,E1131,Type 2 diabetes mellitus with unspecified diabetic retinopathy,第2型糖尿病，伴有未明示糖尿病的視網膜病變
+247,E11311,Type 2 diabetes mellitus with unspecified diabetic retinopathy with macular edema,第2型糖尿病，伴有糖尿病的視網膜病變，伴有黃斑部水腫
+248,E11319,Type 2 diabetes mellitus with unspecified diabetic retinopathy without macular edema,第2型糖尿病，伴有糖尿病的視網膜病變，未伴有黃斑部水腫
+249,E1132,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy,第2型糖尿病，伴有輕度糖尿病的非增殖型視網膜病變
+250,E11321,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,第2型糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+251,E11329,Type 2 diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,第2型糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+252,E1133,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy,第2型糖尿病，伴有中度糖尿病的非增殖型視網膜病變
+253,E11331,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,第2型糖尿病，伴有中度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+254,E11339,Type 2 diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,第2型糖尿病，伴有中度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+255,E1134,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy,第2型糖尿病，伴有重度糖尿病的非增殖型視網膜病變
+256,E11341,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,第2型糖尿病，伴有重度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+257,E11349,Type 2 diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,第2型糖尿病，伴有重度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+258,E1135,Type 2 diabetes mellitus with proliferative diabetic retinopathy,第2型糖尿病，伴有糖尿病的增殖型視網膜病變
+259,E11351,Type 2 diabetes mellitus with proliferative diabetic retinopathy with macular edema,第2型糖尿病，伴有糖尿病的增殖型視網膜病變，伴有黃斑部水腫
+260,E11359,Type 2 diabetes mellitus with proliferative diabetic retinopathy without macular edema,第2型糖尿病，伴有糖尿病的增殖型視網膜病變，未伴有黃斑部水腫
+261,E1136,Type 2 diabetes mellitus with diabetic cataract,第2型糖尿病，伴有糖尿病的白內障
+262,E1139,Type 2 diabetes mellitus with other diabetic ophthalmic complication,第2型糖尿病，伴有其他糖尿病的眼睛併發症
+263,E114,Type 2 diabetes mellitus with neurological complications,第2型糖尿病，伴有神經併發症
+264,E1140,"Type 2 diabetes mellitus with diabetic neuropathy, unspecified",第2型糖尿病，伴有糖尿病的神經病變，未特定
+265,E1141,Type 2 diabetes mellitus with diabetic mononeuropathy,第2型糖尿病，伴有糖尿病的單一神經病變
+266,E1142,Type 2 diabetes mellitus with diabetic polyneuropathy,第2型糖尿病，伴有糖尿病的多發神經病變
+267,E1143,Type 2 diabetes mellitus with diabetic autonomic (poly)neuropathy,第2型糖尿病，伴有糖尿病的自主(多發)神經病變
+268,E1144,Type 2 diabetes mellitus with diabetic amyotrophy,第2型糖尿病，糖尿病的肌肉萎縮
+269,E1149,Type 2 diabetes mellitus with other diabetic neurological complication,第2型糖尿病，伴有其他糖尿病的神經併發症
+270,E115,Type 2 diabetes mellitus with circulatory complications,第2型糖尿病，伴有循環併發症
+271,E1151,Type 2 diabetes mellitus with diabetic peripheral angiopathy without gangrene,第2型糖尿病，伴有糖尿病的周邊血管病變，未伴有壞疽
+272,E1152,Type 2 diabetes mellitus with diabetic peripheral angiopathy with gangrene,第2型糖尿病，伴有糖尿病的周邊血管病變，伴有壞疽
+273,E1159,Type 2 diabetes mellitus with other circulatory complications,第2型糖尿病，伴有其他糖尿病的循環併發症
+274,E116,Type 2 diabetes mellitus with other specified complications,第2型糖尿病，伴有其他特定併發症
+275,E1161,Type 2 diabetes mellitus with diabetic arthropathy,第2型糖尿病，伴有其他糖尿病的關節病變
+276,E11610,Type 2 diabetes mellitus with diabetic neuropathic arthropathy,第2型糖尿病，伴有糖尿病的神經病變引起之關節病變
+277,E11618,Type 2 diabetes mellitus with other diabetic arthropathy,第2型糖尿病，伴有其他糖尿病的關節病變
+278,E1162,Type 2 diabetes mellitus with skin complications,第2型糖尿病，伴有皮膚併發症
+279,E11620,Type 2 diabetes mellitus with diabetic dermatitis,第2型糖尿病，伴有糖尿病性皮膚炎
+280,E11621,Type 2 diabetes mellitus with foot ulcer,第2型糖尿病，伴有足部潰瘍
+281,E11622,Type 2 diabetes mellitus with other skin ulcer,第2型糖尿病，伴有其他皮膚潰瘍
+282,E11628,Type 2 diabetes mellitus with other skin complications,第2型糖尿病，伴有其他皮膚併發症
+283,E1163,Type 2 diabetes mellitus with oral complications,第2型糖尿病，伴有口腔併發症
+284,E11630,Type 2 diabetes mellitus with periodontal disease,第2型糖尿病，伴有牙周疾病
+285,E11638,Type 2 diabetes mellitus with other oral complications,第2型糖尿病，伴有其他口腔併發症
+286,E1164,Type 2 diabetes mellitus with hypoglycemia,第2型糖尿病，伴有低血糖
+287,E11641,Type 2 diabetes mellitus with hypoglycemia with coma,第2型糖尿病，伴有低血糖，伴有昏迷
+288,E11649,Type 2 diabetes mellitus with hypoglycemia without coma,第2型糖尿病，伴有低血糖，未伴有昏迷
+289,E1165,Type 2 diabetes mellitus with hyperglycemia,第2型糖尿病，伴有高血糖
+290,E1169,Type 2 diabetes mellitus with other specified complication,第2型糖尿病，伴有其他特定的併發症
+291,E118,Type 2 diabetes mellitus with unspecified complications,第2型糖尿病，伴有未特定之併發症
+292,E119,Type 2 diabetes mellitus without complications,第2型糖尿病，未伴有併發症
+293,E13,Other specified diabetes mellitus,其他特定的糖尿病
+294,E130,Other specified diabetes mellitus with hyperosmolarity,其他特定的糖尿病，伴有高滲透壓
+295,E1300,Other specified diabetes mellitus with hyperosmolarity without nonketotic hyperglycemic-hyperosmolar coma (NKHHC),其他特定的糖尿病，伴有高滲透壓，未伴有非酮病之高血糖-高滲透壓的昏迷
+296,E1301,Other specified diabetes mellitus with hyperosmolarity with coma,其他特定的糖尿病，伴有高滲透壓，伴有昏迷
+297,E131,Other specified diabetes mellitus with ketoacidosis,其他特定的糖尿病，伴有酮酸中毒
+298,E1310,Other specified diabetes mellitus with ketoacidosis without coma,其他特定的糖尿病，伴有酮酸中毒，未伴有昏迷
+299,E1311,Other specified diabetes mellitus with ketoacidosis with coma,其他特定的糖尿病，伴有酮酸中毒，伴有昏迷
+300,E132,Other specified diabetes mellitus with kidney complications,其他特定的糖尿病，伴有腎臟併發症
+301,E1321,Other specified diabetes mellitus with diabetic nephropathy,其他特定的糖尿病，伴有糖尿病的腎臟病變
+302,E1322,Other specified diabetes mellitus with diabetic chronic kidney disease,其他特定的糖尿病，糖尿病的慢性腎臟疾病
+303,E1329,Other specified diabetes mellitus with other diabetic kidney complication,其他特定的糖尿病，伴有其他特定糖尿病的腎臟併發症
+304,E133,Other specified diabetes mellitus with ophthalmic complications,其他特定的糖尿病，伴有眼部併發症
+305,E1331,Other specified diabetes mellitus with unspecified diabetic retinopathy,其他特定的糖尿病，伴有未明示糖尿病的視網膜病變
+306,E13311,Other specified diabetes mellitus with unspecified diabetic retinopathy with macular edema,其他特定的糖尿病，伴有糖尿病的視網膜病變，伴有黃斑部水腫
+307,E13319,Other specified diabetes mellitus with unspecified diabetic retinopathy without macular edema,其他特定的糖尿病，伴有糖尿病的視網膜病變，未伴有黃斑部水腫
+308,E1332,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy,其他特定的糖尿病，伴有輕度糖尿病的非增殖型視網膜病變
+309,E13321,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy with macular edema,其他特定的糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+310,E13329,Other specified diabetes mellitus with mild nonproliferative diabetic retinopathy without macular edema,其他特定的糖尿病，伴有輕度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+311,E1333,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy,其他特定的糖尿病，伴有中度糖尿病的非增殖型視網膜病變
+312,E13331,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy with macular edema,其他特定的糖尿病，伴有中度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+313,E13339,Other specified diabetes mellitus with moderate nonproliferative diabetic retinopathy without macular edema,其他特定的糖尿病，伴有中度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+314,E1334,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy,其他特定的糖尿病，伴有重度糖尿病的非增殖型視網膜病變
+315,E13341,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy with macular edema,其他特定的糖尿病，伴有重度糖尿病的非增殖型視網膜病變，伴有黃斑部水腫
+316,E13349,Other specified diabetes mellitus with severe nonproliferative diabetic retinopathy without macular edema,其他特定的糖尿病，伴有重度糖尿病的非增殖型視網膜病變，未伴有黃斑部水腫
+317,E1335,Other specified diabetes mellitus with proliferative diabetic retinopathy,其他特定的糖尿病，伴有糖尿病的增殖型視網膜病變
+318,E13351,Other specified diabetes mellitus with proliferative diabetic retinopathy with macular edema,其他特定的糖尿病，伴有糖尿病的增殖型視網膜病變，伴有黃斑部水腫
+319,E13359,Other specified diabetes mellitus with proliferative diabetic retinopathy without macular edema,其他特定的糖尿病，伴有糖尿病的增殖型視網膜病變，未伴有黃斑部水腫
+320,E1336,Other specified diabetes mellitus with diabetic cataract,其他特定的糖尿病，伴有糖尿病的白內障
+321,E1339,Other specified diabetes mellitus with other diabetic ophthalmic complication,其他特定的糖尿病，伴有其他特定糖尿病的眼睛併發症
+322,E134,Other specified diabetes mellitus with neurological complications,其他特定的糖尿病，伴有神經併發症
+323,E1340,"Other specified diabetes mellitus with diabetic neuropathy, unspecified",其他特定的糖尿病，伴有糖尿病的神經病變，未特定
+324,E1341,Other specified diabetes mellitus with diabetic mononeuropathy,其他特定的糖尿病，伴有糖尿病的單一神經病變
+325,E1342,Other specified diabetes mellitus with diabetic polyneuropathy,其他特定的糖尿病，伴有糖尿病的多發神經病變
+326,E1343,Other specified diabetes mellitus with diabetic autonomic (poly)neuropathy,其他特定的糖尿病，伴有糖尿病的自主(多發)神經病變
+327,E1344,Other specified diabetes mellitus with diabetic amyotrophy,其他特定的糖尿病，糖尿病的肌肉萎縮
+328,E1349,Other specified diabetes mellitus with other diabetic neurological complication,其他特定的糖尿病，伴有其他特定糖尿病的神經併發症
+329,E135,Other specified diabetes mellitus with circulatory complications,其他特定的糖尿病，伴有循環併發症
+330,E1351,Other specified diabetes mellitus with diabetic peripheral angiopathy without gangrene,其他特定的糖尿病，伴有糖尿病的周邊血管病變，未伴有壞疽
+331,E1352,Other specified diabetes mellitus with diabetic peripheral angiopathy with gangrene,其他特定的糖尿病，伴有糖尿病的周邊血管病變，伴有壞疽
+332,E1359,Other specified diabetes mellitus with other circulatory complications,其他特定的糖尿病，伴有其他特定糖尿病的循環併發症
+333,E136,Other specified diabetes mellitus with other specified complications,其他特定的糖尿病，伴有其他特定併發症
+334,E1361,Other specified diabetes mellitus with diabetic arthropathy,其他特定的糖尿病，伴有其他糖尿病的關節病變
+335,E13610,Other specified diabetes mellitus with diabetic neuropathic arthropathy,其他特定的糖尿病，伴有糖尿病的神經病變引起之關節病變
+336,E13618,Other specified diabetes mellitus with other diabetic arthropathy,其他特定的糖尿病，伴有其他特定糖尿病的關節病變
+337,E1362,Other specified diabetes mellitus with skin complications,其他特定的糖尿病，伴有皮膚併發症
+338,E13620,Other specified diabetes mellitus with diabetic dermatitis,其他特定的糖尿病，伴有糖尿病性皮膚炎
+339,E13621,Other specified diabetes mellitus with foot ulcer,其他特定的糖尿病，伴有足部潰瘍
+340,E13622,Other specified diabetes mellitus with other skin ulcer,其他特定的糖尿病，伴有其他特定皮膚潰瘍
+341,E13628,Other specified diabetes mellitus with other skin complications,其他特定的糖尿病，伴有其他特定皮膚併發症
+342,E1363,Other specified diabetes mellitus with oral complications,其他特定的糖尿病，伴有口腔併發症
+343,E13630,Other specified diabetes mellitus with periodontal disease,其他特定的糖尿病，伴有牙周疾病
+344,E13638,Other specified diabetes mellitus with other oral complications,其他特定的糖尿病，伴有其他特定口腔併發症
+345,E1364,Other specified diabetes mellitus with hypoglycemia,其他特定的糖尿病，伴有低血糖
+346,E13641,Other specified diabetes mellitus with hypoglycemia with coma,其他特定的糖尿病，伴有低血糖，伴有昏迷
+347,E13649,Other specified diabetes mellitus with hypoglycemia without coma,其他特定的糖尿病，伴有低血糖，未伴有昏迷
+348,E1365,Other specified diabetes mellitus with hyperglycemia,其他特定的糖尿病，伴有高血糖
+349,E1369,Other specified diabetes mellitus with other specified complication,其他特定的糖尿病，伴有其他特定的併發症
+350,E138,Other specified diabetes mellitus with unspecified complications,其他特定的糖尿病，伴有未特定之併發症
+351,E139,Other specified diabetes mellitus without complications,其他特定的糖尿病，未伴有併發症
+352,E15,Nondiabetic hypoglycemic coma,非糖尿病的低血糖性昏迷
+353,E16,Other disorders of pancreatic internal secretion,其他胰臟內分泌疾患
+354,E160,Drug-induced hypoglycemia without coma,藥物導致之低血糖，未伴有昏迷
+355,E161,Other hypoglycemia,其他低血糖
+356,E162,"Hypoglycemia, unspecified",低血糖，未特定
+357,E163,Increased secretion of glucagon,升糖激素分泌增加
+358,E164,Increased secretion of gastrin,胃泌素分泌增加
+359,E168,Other specified disorders of pancreatic internal secretion,其他特定的胰臟內分泌疾患
+360,E169,"Disorder of pancreatic internal secretion, unspecified",胰臟內分泌疾患，未特定
+361,E20,Hypoparathyroidism,副甲狀腺低下症
+362,E200,Idiopathic hypoparathyroidism,自發性副甲狀腺低下
+363,E201,Pseudohypoparathyroidism,假性副甲狀腺低下
+364,E208,Other hypoparathyroidism,其他副甲狀腺低下
+365,E209,"Hypoparathyroidism, unspecified",副甲狀腺低下，未特定
+366,E21,Hyperparathyroidism and other disorders of parathyroid gland,副甲狀腺亢進及其他副甲狀腺疾患
+367,E210,Primary hyperparathyroidism,原發性副甲狀腺亢進
+368,E211,"Secondary hyperparathyroidism, not elsewhere classified",繼發性副甲狀腺亢進，他處未歸類者
+369,E212,Other hyperparathyroidism,其他副甲狀腺亢進
+370,E213,"Hyperparathyroidism, unspecified",副甲狀腺亢進，未特定
+371,E214,Other specified disorders of parathyroid gland,其他特定的副甲狀腺疾患
+372,E215,"Disorder of parathyroid gland, unspecified",副甲狀腺疾患，未特定
+373,E22,Hyperfunction of pituitary gland,腦下腺功能亢進
+374,E220,Acromegaly and pituitary gigantism,肢端肥大症及腦下腺的巨人症
+375,E221,Hyperprolactinemia,高泌乳素血症
+376,E222,Syndrome of inappropriate secretion of antidiuretic hormone,不適當的抗利尿激素分泌症候群
+377,E228,Other hyperfunction of pituitary gland,其他腦下腺功能亢進
+378,E229,"Hyperfunction of pituitary gland, unspecified",腦下腺功能亢進，未特定
+379,E23,Hypofunction and other disorders of the pituitary gland,其他腦下腺疾患功能低下
+380,E230,Hypopituitarism,腦下腺功能低下
+381,E231,Drug-induced hypopituitarism,藥物導致之腦下腺功能低下
+382,E232,Diabetes insipidus,尿崩症
+383,E233,"Hypothalamic dysfunction, not elsewhere classified",下視丘功能障礙，他處未歸類者
+384,E236,Other disorders of pituitary gland,其他腦下腺疾患
+385,E237,"Disorder of pituitary gland, unspecified",腦下腺疾患，未特定
+386,E24,Cushing's syndrome,庫欣氏疾病
+387,E240,Pituitary-dependent Cushing's disease,腦下垂體依賴型庫欣氏疾病
+388,E241,Nelson's syndrome,尼爾森氏症候群
+389,E242,Drug-induced Cushing's syndrome,藥物導致之庫欣氏症候群
+390,E243,Ectopic ACTH syndrome,異位性腎上腺皮質促素症候群
+391,E244,Alcohol-induced pseudo-Cushing's syndrome,酒精導致之假性庫欣氏症候群
+392,E248,Other Cushing's syndrome,其他庫欣氏症候群
+393,E249,"Cushing's syndrome, unspecified",庫欣氏症候群，未特定
+394,E25,Adrenogenital disorders,腎上腺性生殖器疾患
+395,E250,Congenital adrenogenital disorders associated with enzyme deficiency,先天性腎上腺性生殖器疾患，與缺乏酵素有關
+396,E258,Other adrenogenital disorders,其他的腎上腺性生殖器疾患
+397,E259,"Adrenogenital disorder, unspecified",腎上腺性生殖器疾患，未特定
+398,E26,Hyperaldosteronism,高醛固酮症
+399,E260,Primary hyperaldosteronism,原發性高醛固酮症
+400,E2601,Conn's syndrome,康恩氏症候群
+401,E2602,Glucocorticoid-remediable aldosteronism,可用糖皮質激素治療的醛固酮過多症
+402,E2609,Other primary hyperaldosteronism,其他原發性高醛固酮症
+403,E261,Secondary hyperaldosteronism,繼發性高醛固酮症
+404,E268,Other hyperaldosteronism,其他高醛固酮症
+405,E2681,Bartter's syndrome,巴特氏症候群
+406,E2689,Other hyperaldosteronism,其他高醛固酮症
+407,E269,"Hyperaldosteronism, unspecified",其他高醛固酮症，未特定
+408,E27,Other disorders of adrenal gland,其他腎上腺疾患
+409,E270,Other adrenocortical overactivity,其他腎上腺皮質功能過多
+410,E271,Primary adrenocortical insufficiency,原發性腎上腺皮質功能不足
+411,E272,Addisonian crisis,艾迪森氏危象
+412,E273,Drug-induced adrenocortical insufficiency,藥物導致之腎上腺皮質功能不足
+413,E274,Other and unspecified adrenocortical insufficiency,其他或未明示之腎上腺皮質功能不足
+414,E2740,Unspecified adrenocortical insufficiency,未特定之腎上腺皮質功能不足
+415,E2749,Other adrenocortical insufficiency,其他的腎上腺皮質功能不足
+416,E275,Adrenomedullary hyperfunction,腎上腺髓質功能亢進
+417,E278,Other specified disorders of adrenal gland,其他特定的腎上腺疾患
+418,E279,"Disorder of adrenal gland, unspecified",腎上腺疾患，未特定
+419,E28,Ovarian dysfunction,卵巢功能障礙
+420,E280,Estrogen excess,動情激素過多
+421,E281,Androgen excess,雄性激素過多
+422,E282,Polycystic ovarian syndrome,多囊性卵巢症候群
+423,E283,Primary ovarian failure,原發性卵巢衰竭
+424,E2831,Premature menopause,早發性更年期
+425,E28310,Symptomatic premature menopause,有症狀之早發性更年期
+426,E28319,Asymptomatic premature menopause,無症狀之早發性更年期
+427,E2839,Other primary ovarian failure,其他原發性卵巢衰竭
+428,E288,Other ovarian dysfunction,其他卵巢功能障礙
+429,E289,"Ovarian dysfunction, unspecified",卵巢功能障礙，未特定
+430,E29,Testicular dysfunction,睪丸功能障礙
+431,E290,Testicular hyperfunction,睪丸功能亢進
+432,E291,Testicular hypofunction,睪丸功能低下
+433,E298,Other testicular dysfunction,其他睪丸功能障礙
+434,E299,"Testicular dysfunction, unspecified",睪丸功能障礙，未特定
+435,E30,"Disorders of puberty, not elsewhere classified",青春期疾患
+436,E300,Delayed puberty,青春期遲延
+437,E301,Precocious puberty,青春期過早
+438,E308,Other disorders of puberty,其他青春期疾患
+439,E309,"Disorder of puberty, unspecified",青春期疾患，未特定
+440,E31,Polyglandular dysfunction,多腺體功能障礙
+441,E310,Autoimmune polyglandular failure,自體免疫的多腺體衰竭
+442,E311,Polyglandular hyperfunction,多腺體功能亢進
+443,E312,Multiple endocrine neoplasia [MEN] syndromes,多發性內分泌腫瘤症候群
+444,E3120,"Multiple endocrine neoplasia [MEN] syndrome, unspecified",多發性內分泌腫瘤症候群，未特定
+445,E3121,Multiple endocrine neoplasia [MEN] type I,多發性內分泌腫瘤，第I型
+446,E3122,Multiple endocrine neoplasia [MEN] type IIA,多發性內分泌腫瘤，第IIA型
+447,E3123,Multiple endocrine neoplasia [MEN] type IIB,多發性內分泌腫瘤，第IIB型
+448,E318,Other polyglandular dysfunction,其他多腺體功能障礙
+449,E319,"Polyglandular dysfunction, unspecified",多腺體功能障礙，未特定
+450,E32,Diseases of thymus,胸腺疾病
+451,E320,Persistent hyperplasia of thymus,持續的胸腺增生
+452,E321,Abscess of thymus,胸腺膿瘍
+453,E328,Other diseases of thymus,其他胸腺疾病
+454,E329,"Disease of thymus, unspecified",胸腺疾病，未特定
+455,E34,Other endocrine disorders,其他內分泌疾患
+456,E340,Carcinoid syndrome,類癌症候群
+457,E341,Other hypersecretion of intestinal hormones,其他腸激素分泌過多
+458,E342,"Ectopic hormone secretion, not elsewhere classified",異位性激素分泌，他處未歸類者
+459,E343,Short stature due to endocrine disorder,起因於內分泌疾患的身材短小
+460,E344,Constitutional tall stature,天生的身材高大
+461,E345,Androgen insensitivity syndrome,對雄性激素不敏感症候群
+462,E3450,"Androgen insensitivity syndrome, unspecified",對雄性激素不敏感症候群，未特定
+463,E3451,Complete androgen insensitivity syndrome,完全對雄性激素不敏感症候群
+464,E3452,Partial androgen insensitivity syndrome,部分對雄性激素不敏感症候群
+465,E348,Other specified endocrine disorders,其他特定的內分泌疾患
+466,E349,"Endocrine disorder, unspecified",內分泌疾患，未特定
+467,E35,Disorders of endocrine glands in diseases classified elsewhere,歸類於他處疾患所致之內分泌腺疾患
+468,E36,Intraoperative complications of endocrine system,手術中的內分泌系統併發症
+469,E360,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating a procedure,手術中的內分泌器官或結構出血或血腫
+470,E3601,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating an endocrine system procedure,手術中的內分泌器官或結構出血或血腫使內分泌系統處置複雜化
+471,E3602,Intraoperative hemorrhage and hematoma of an endocrine system organ or structure complicating other procedure,手術中的內分泌器官或結構出血或血腫使其他處置複雜化
+472,E361,Accidental puncture and laceration of an endocrine system organ or structure during a procedure,對於內分泌器官或結構的意外穿刺和撕裂傷，發生在處置過程中
+473,E3611,Accidental puncture and laceration of an endocrine system organ or structure during an endocrine system procedure,對於內分泌器官或結構的意外穿刺和撕裂傷，發生在內分泌系統處置過程中
+474,E3612,Accidental puncture and laceration of an endocrine system organ or structure during other procedure,對於內分泌器官或結構的意外穿刺和撕裂傷，發生在其他處置過程中
+475,E368,Other intraoperative complications of endocrine system,其他手術中的內分泌系統併發症
+476,E40,Kwashiorkor,小兒惡性營養不良症
+477,E41,Nutritional marasmus,營養性消瘦症
+478,E42,Marasmic kwashiorkor,消瘦性小兒惡性營養不良症
+479,E43,Unspecified severe protein-calorie malnutrition,未特定之重度蛋白質-熱量營養不良症
+480,E44,Protein-calorie malnutrition of moderate and mild degree,輕度至中度蛋白質-熱量營養不良症
+481,E440,Moderate protein-calorie malnutrition,中度蛋白質-熱量營養不良症
+482,E441,Mild protein-calorie malnutrition,輕度蛋白質-熱量營養不良症
+483,E45,Retarded development following protein-calorie malnutrition,蛋白質-熱量營養不良之後的發育遲滯
+484,E46,Unspecified protein-calorie malnutrition,未特定之蛋白質-熱量營養不良症
+485,E50,Vitamin A deficiency,維生素A缺乏症
+486,E500,Vitamin A deficiency with conjunctival xerosis,維生素A缺乏伴有結膜乾燥症
+487,E501,Vitamin A deficiency with Bitot's spot and conjunctival xerosis,維生素A缺乏伴有Bitot氏斑點及結膜乾燥症
+488,E502,Vitamin A deficiency with corneal xerosis,維生素A缺乏伴有角膜乾燥症
+489,E503,Vitamin A deficiency with corneal ulceration and xerosis,維生素A缺乏伴有角膜潰瘍及乾燥症
+490,E504,Vitamin A deficiency with keratomalacia,維生素A缺乏伴有角膜軟化症
+491,E505,Vitamin A deficiency with night blindness,維生素A缺乏伴有夜盲症
+492,E506,Vitamin A deficiency with xerophthalmic scars of cornea,維生素A缺乏伴有角膜眼乾燥症的疤痕
+493,E507,Other ocular manifestations of vitamin A deficiency,其他維生素A缺乏的其他眼部表徵
+494,E508,Other manifestations of vitamin A deficiency,維生素A缺乏的其他表徵
+495,E509,"Vitamin A deficiency, unspecified",維生素A缺乏，未特定
+496,E51,Thiamine deficiency,維生素B1 (硫胺素)缺乏症
+497,E511,Beriberi,腳氣病
+498,E5111,Dry beriberi,乾性腳氣病
+499,E5112,Wet beriberi,濕性腳氣病
+500,E512,Wernicke's encephalopathy,Wernicke氏腦病變
+501,E518,Other manifestations of thiamine deficiency,硫胺素(維生素B1)缺乏的其他表徵
+502,E519,"Thiamine deficiency, unspecified",維生素B1 (硫胺素)缺乏，未特定
+503,E52,Niacin deficiency [pellagra],菸鹼酸缺乏(糙皮病)
+504,E53,Deficiency of other B group vitamins,其他維生素B群缺乏症
+505,E530,Riboflavin deficiency,核黃素(維生素B２)缺乏
+506,E531,Pyridoxine deficiency,維生素B6缺乏
+507,E538,Deficiency of other specified B group vitamins,其他特定的維生素B群缺乏症
+508,E539,"Vitamin B deficiency, unspecified",維生素B群缺乏症，未特定
+509,E54,Ascorbic acid deficiency,抗壞血酸(維生素C)缺乏
+510,E55,Vitamin D deficiency,維生素D缺乏症
+511,E550,"Rickets, active",活動性之佝僂症
+512,E559,"Vitamin D deficiency, unspecified",維生素D缺乏，未特定
+513,E56,Other vitamin deficiencies,其他維生素缺乏症
+514,E560,Deficiency of vitamin E,維生素E缺乏
+515,E561,Deficiency of vitamin K,維生素K缺乏
+516,E568,Deficiency of other vitamins,其他維生素缺乏
+517,E569,"Vitamin deficiency, unspecified",維生素缺乏症，未特定
+518,E58,Dietary calcium deficiency,飲食缺鈣
+519,E59,Dietary selenium deficiency,飲食缺硒
+520,E60,Dietary zinc deficiency,飲食缺鋅
+521,E61,Deficiency of other nutrient elements,其他營養元素缺乏
+522,E610,Copper deficiency,缺銅
+523,E611,Iron deficiency,缺鐵
+524,E612,Magnesium deficiency,缺鎂
+525,E613,Manganese deficiency,缺錳
+526,E614,Chromium deficiency,缺鉻
+527,E615,Molybdenum deficiency,缺鉬
+528,E616,Vanadium deficiency,缺釩
+529,E617,Deficiency of multiple nutrient elements,多種營養元素缺乏
+530,E618,Deficiency of other specified nutrient elements,其他特定營養元素缺乏
+531,E619,"Deficiency of nutrient element, unspecified",營養元素缺乏，未特定
+532,E63,Other nutritional deficiencies,其他營養缺乏
+533,E630,Essential fatty acid [EFA] deficiency,必需脂肪酸缺乏
+534,E631,Imbalance of constituents of food intake,食物攝取成分不均衡
+535,E638,Other specified nutritional deficiencies,其他特定之營養缺乏
+536,E639,"Nutritional deficiency, unspecified",營養缺乏，未特定
+537,E64,Sequelae of malnutrition and other nutritional deficiencies,營養不良及其他營養缺乏的後遺症
+538,E640,Sequelae of protein-calorie malnutrition,蛋白質-熱量營養不良的後遺症
+539,E641,Sequelae of vitamin A deficiency,維生素A缺乏的後遺症
+540,E642,Sequelae of vitamin C deficiency,維生素C缺乏的後遺症
+541,E643,Sequelae of rickets,佝僂症的後遺症
+542,E648,Sequelae of other nutritional deficiencies,其他特定營養缺乏的後遺症
+543,E649,Sequelae of unspecified nutritional deficiency,未特定之營養缺乏的後遺症
+544,E65,Localized adiposity,局部肥胖
+545,E66,Overweight and obesity,體重過重及肥胖
+546,E660,Obesity due to excess calories,起因於熱量過多的肥胖
+547,E6601,Morbid (severe) obesity due to excess calories,起因於熱量過多的病態性(重度)肥胖
+548,E6609,Other obesity due to excess calories,其他起因於熱量過多的肥胖
+549,E661,Drug-induced obesity,藥物導致之肥胖
+550,E662,Morbid (severe) obesity with alveolar hypoventilation,病態性(重度)肥胖症伴有肺泡性換氣不足
+551,E663,Overweight,體重過重
+552,E668,Other obesity,其他肥胖
+553,E669,"Obesity, unspecified",肥胖，未特定
+554,E67,Other hyperalimentation,其他的營養過度
+555,E670,Hypervitaminosis A,維生素A過多
+556,E671,Hypercarotinemia,高胡蘿蔔素血症
+557,E672,Megavitamin-B6 syndrome,巨量維生素B6症候群
+558,E673,Hypervitaminosis D,維生素D過多
+559,E678,Other specified hyperalimentation,其他特定的營養過度
+560,E68,Sequelae of hyperalimentation,營養過度之後遺症
+561,E70,Disorders of aromatic amino-acid metabolism,芳香族胺基酸代謝疾患
+562,E700,Classical phenylketonuria,典型苯酮尿症
+563,E701,Other hyperphenylalaninemias,其他高苯丙胺酸血症
+564,E702,Disorders of tyrosine metabolism,酪胺酸代謝疾患
+565,E7020,"Disorder of tyrosine metabolism, unspecified",酪胺酸代謝疾患，未特定
+566,E7021,Tyrosinemia,酪胺酸血症
+567,E7029,Other disorders of tyrosine metabolism,其他酪胺酸代謝疾患
+568,E703,Albinism,白化症
+569,E7030,"Albinism, unspecified",白化症，未特定
+570,E7031,Ocular albinism,眼睛白化症
+571,E70310,X-linked ocular albinism,性聯遺傳的眼白化症
+572,E70311,Autosomal recessive ocular albinism,體染色體隱性遺傳眼白化症
+573,E70318,Other ocular albinism,其他眼睛白化症
+574,E70319,"Ocular albinism, unspecified",眼白化症，未特定
+575,E7032,Oculocutaneous albinism,眼部皮膚白化症
+576,E70320,Tyrosinase negative oculocutaneous albinism,酪胺酸酵素陰性的眼部皮膚白化症
+577,E70321,Tyrosinase positive oculocutaneous albinism,酪胺酸酵素陰性的眼部皮膚白化症
+578,E70328,Other oculocutaneous albinism,其他眼部皮膚白化症
+579,E70329,"Oculocutaneous albinism, unspecified",眼部皮膚白化症，未特定
+580,E7033,Albinism with hematologic abnormality,白化症伴有血液失調
+581,E70330,Chediak-Higashi syndrome,Chediak-Higashi症候群
+582,E70331,Hermansky-Pudlak syndrome,Hermansky-Pudlak症候群
+583,E70338,Other albinism with hematologic abnormality,其他白化症伴有血液失調
+584,E70339,"Albinism with hematologic abnormality, unspecified",白化症伴有血液失調，未特定
+585,E7039,Other specified albinism,其他特定白化症
+586,E704,Disorders of histidine metabolism,組織胺酸代謝疾患
+587,E7040,"Disorders of histidine metabolism, unspecified",組織胺酸代謝疾患，未特定
+588,E7041,Histidinemia,組織胺酸血症
+589,E7049,Other disorders of histidine metabolism,其他組織胺酸代謝疾患
+590,E705,Disorders of tryptophan metabolism,色氨酸代謝疾患
+591,E708,Other disorders of aromatic amino-acid metabolism,其他芳香族胺基酸代謝疾患
+592,E709,"Disorder of aromatic amino-acid metabolism, unspecified",芳香族胺基酸代謝疾患，未特定
+593,E71,Disorders of branched-chain amino-acid metabolism and fatty-acid metabolism,支鏈胺基酸代謝及脂肪酸代謝疾患
+594,E710,Maple-syrup-urine disease,楓葉糖尿病
+595,E711,Branched-chain organic acidurias,支鏈有機酸尿症
+596,E71110,Isovaleric acidemia,異戊酸血症
+597,E71111,3-methylglutaconic aciduria,3-甲基戊二酸尿症
+598,E71118,Other branched-chain organic acidurias,其他支鏈有機酸尿症
+599,E7112,Disorders of propionate metabolism,丙酸代謝疾患
+600,E71120,Methylmalonic acidemia,甲基丙二酸尿症
+601,E71121,Propionic acidemia,丙酸血症
+602,E71128,Other disorders of propionate metabolism,其他丙酸代謝疾患
+603,E7119,Other disorders of branched-chain amino-acid metabolism,其他支鏈胺基酸代謝疾患
+604,E712,"Disorder of branched-chain amino-acid metabolism, unspecified",支鏈胺基酸代謝疾患，未特定
+605,E713,Disorders of fatty-acid metabolism,脂肪酸代謝疾患
+606,E7130,"Disorder of fatty-acid metabolism, unspecified",脂肪酸代謝疾患，未特定
+607,E7131,Disorders of fatty-acid oxidation,脂肪酸氧化疾患
+608,E71310,Long chain/very long chain acyl CoA dehydrogenase deficiency,長鏈/極長鏈脂肪酸去氫酵素缺乏
+609,E71311,Medium chain acyl CoA dehydrogenase deficiency,中鏈脂肪酸去氫酵素缺乏
+610,E71312,Short chain acyl CoA dehydrogenase deficiency,短鏈脂肪酸去氫酵素缺乏症
+611,E71313,Glutaric aciduria type II,第二型戊二酸尿症
+612,E71314,Muscle carnitine palmitoyltransferase deficiency,肉鹼棕櫚缺乏
+613,E71318,Other disorders of fatty-acid oxidation,其他脂肪酸氧化疾患
+614,E7132,Disorders of ketone metabolism,酮代謝疾患
+615,E7139,Other disorders of fatty-acid metabolism,其他脂肪酸代謝疾患
+616,E714,Disorders of carnitine metabolism,肉鹼代謝疾患
+617,E7140,"Disorder of carnitine metabolism, unspecified",肉鹼代謝疾患，未特定
+618,E7141,Primary carnitine deficiency,原發性肉鹼缺乏
+619,E7142,Carnitine deficiency due to inborn errors of metabolism,起因於先天性代謝失調的肉鹼缺乏
+620,E7143,Iatrogenic carnitine deficiency,醫源性肉鹼缺乏症
+621,E7144,Other secondary carnitine deficiency,其他繼發性肉鹼缺乏
+622,E71440,Ruvalcaba-Myhre-Smith syndrome,伏華卡巴-邁爾-史密斯症候群
+623,E71448,Other secondary carnitine deficiency,其他繼發性肉鹼缺乏症
+624,E715,Peroxisomal disorders,細胞酶小體疾患
+625,E7150,"Peroxisomal disorder, unspecified",其他繼發性肉鹼缺乏症，未特定
+626,E7151,Disorders of peroxisome biogenesis,細胞酶小體合成疾患
+627,E71510,Zellweger syndrome,Zellweger氏症候群
+628,E71511,Neonatal adrenoleukodystrophy,新生兒腎上腺腦白質退化症
+629,E71518,Other disorders of peroxisome biogenesis,其他細胞酶小體合成疾患
+630,E7152,X-linked adrenoleukodystrophy,性聯遺傳腎上腺大腦白質退化症
+631,E71520,Childhood cerebral X-linked adrenoleukodystrophy,幼童期性聯遺傳腎上腺大腦白質退化症
+632,E71521,Adolescent X-linked adrenoleukodystrophy,青少年期性聯遺傳腎上腺大腦白質退化症
+633,E71522,Adrenomyeloneuropathy,腎上腺髓質神經性病變
+634,E71528,Other X-linked adrenoleukodystrophy,其他性聯遺傳腎上腺大腦白質退化症
+635,E71529,"X-linked adrenoleukodystrophy, unspecified",性聯遺傳腎上腺大腦白質退化症，未特定
+636,E7153,Other group 2 peroxisomal disorders,其他第2群細胞酶小體疾患
+637,E7154,Other peroxisomal disorders,其他細胞酶小體疾患
+638,E71540,Rhizomelic chondrodysplasia punctata,肢近端型點狀軟骨發育不全
+639,E71541,Zellweger-like syndrome,Zellweger-like氏症候群
+640,E71542,Other group 3 peroxisomal disorders,其他第3群細胞酶小體疾患
+641,E71548,Other peroxisomal disorders,其他細胞酶小體疾患
+642,E72,Other disorders of amino-acid metabolism,其他胺基酸代謝疾患
+643,E720,Disorders of amino-acid transport,胺基酸輸送疾患
+644,E7200,"Disorders of amino-acid transport, unspecified",胺基酸輸送疾患，未特定
+645,E7201,Cystinuria,胱胺酸尿症
+646,E7202,Hartnup's disease,Hartnup 氏症
+647,E7203,Lowe's syndrome,Lowe氏症候群
+648,E7204,Cystinosis,胱胺酸症
+649,E7209,Other disorders of amino-acid transport,其他胺基酸輸送疾患
+650,E721,Disorders of sulfur-bearing amino-acid metabolism,含硫胺基酸代謝疾患
+651,E7210,"Disorders of sulfur-bearing amino-acid metabolism, unspecified",含硫胺基酸代謝疾患，未特定
+652,E7211,Homocystinuria,同胱胺酸尿症
+653,E7212,Methylenetetrahydrofolate reductase deficiency,亞甲基四氫葉酸還原酶缺乏症
+654,E7219,Other disorders of sulfur-bearing amino-acid metabolism,其他含硫胺基酸代謝疾患
+655,E722,Disorders of urea cycle metabolism,尿素週期代謝疾患
+656,E7220,"Disorder of urea cycle metabolism, unspecified",尿素週期代謝疾患，未特定
+657,E7221,Argininemia,精胺酸血症
+658,E7222,Arginosuccinic aciduria,精胺基琥珀酸尿症
+659,E7223,Citrullinemia,瓜胺酸血症
+660,E7229,Other disorders of urea cycle metabolism,其他尿素週期代謝疾患
+661,E723,Disorders of lysine and hydroxylysine metabolism,離胺酸及羥基離胺酸代謝疾患
+662,E724,Disorders of ornithine metabolism,鳥胺酸代謝疾患
+663,E725,Disorders of glycine metabolism,甘胺酸代謝疾患
+664,E7250,"Disorder of glycine metabolism, unspecified",甘胺酸代謝疾患，未特定
+665,E7251,Non-ketotic hyperglycinemia,非酮病的高甘胺酸血症
+666,E7252,Trimethylaminuria,三甲基胺尿症
+667,E7253,Hyperoxaluria,高草酸尿症
+668,E7259,Other disorders of glycine metabolism,其他甘胺酸代謝疾患
+669,E728,Other specified disorders of amino-acid metabolism,其他特定的胺基酸代謝疾患
+670,E729,"Disorder of amino-acid metabolism, unspecified",胺基酸代謝疾患，未特定
+671,E73,Lactose intolerance,乳糖酶缺乏
+672,E730,Congenital lactase deficiency,先天性乳糖酶缺乏
+673,E731,Secondary lactase deficiency,繼發性乳糖酶缺乏
+674,E738,Other lactose intolerance,其他乳糖耐受不良
+675,E739,"Lactose intolerance, unspecified",乳糖耐受不良，未特定
+676,E74,Other disorders of carbohydrate metabolism,其他的碳水化合物代謝疾患
+677,E740,Glycogen storage disease,肝糖儲藏疾病
+678,E7400,"Glycogen storage disease, unspecified",肝糖儲藏疾病，未特定
+679,E7401,von Gierke disease,von Gierke氏疾病
+680,E7402,Pompe disease,龐培(Pompe)氏疾病
+681,E7403,Cori disease,Cori氏疾病
+682,E7404,McArdle disease,麥克阿德(McArdle)氏疾病
+683,E7409,Other glycogen storage disease,其他肝糖儲藏疾病
+684,E741,Disorders of fructose metabolism,果糖代謝疾患
+685,E7410,"Disorder of fructose metabolism, unspecified",果糖代謝疾患，未特定
+686,E7411,Essential fructosuria,本態性果糖尿症
+687,E7412,Hereditary fructose intolerance,遺傳性果糖耐受不良
+688,E7419,Other disorders of fructose metabolism,其他果糖代謝疾患
+689,E742,Disorders of galactose metabolism,半乳糖代謝疾患
+690,E7420,"Disorders of galactose metabolism, unspecified",半乳糖代謝疾患，未特定
+691,E7421,Galactosemia,半乳糖血症
+692,E7429,Other disorders of galactose metabolism,其他半乳糖代謝疾患
+693,E743,Other disorders of intestinal carbohydrate absorption,其他腸道碳水化合物吸收疾患
+694,E7431,Sucrase-isomaltase deficiency,蔗糖酶-異麥芽糖酶缺乏症
+695,E7439,Other disorders of intestinal carbohydrate absorption,其他腸道碳水化合物吸收疾患
+696,E744,Disorders of pyruvate metabolism and gluconeogenesis,丙酮酸代謝及葡萄糖新生疾患
+697,E748,Other specified disorders of carbohydrate metabolism,其他特定的碳水化合物代謝疾患
+698,E749,"Disorder of carbohydrate metabolism, unspecified",碳水化合物代謝疾患，未特定
+699,E75,Disorders of sphingolipid metabolism and other lipid storage disorders,神經脂質代謝疾患及其他脂質儲存疾患
+700,E750,GM2 gangliosidosis,GM2神經節糖苷病
+701,E7500,"GM2 gangliosidosis, unspecified",GM2神經節甘脂症(GM3神經節甘脂儲積、沈積、沈著症)，未特定
+702,E7501,Sandhoff disease,Sandhoff氏疾病
+703,E7502,Tay-Sachs disease,Tay-Sachs (戴薩克斯)疾病
+704,E7509,Other GM2 gangliosidosis,其他GM2神經節糖苷病
+705,E751,Other and unspecified gangliosidosis,其他及未特定之神經節糖苷病
+706,E7510,Unspecified gangliosidosis,未特定之神經節糖苷病
+707,E7511,Mucolipidosis IV,粘糖脂蓄積症Ⅳ型
+708,E7519,Other gangliosidosis,其他神經節糖苷病
+709,E752,Other sphingolipidosis,其他神經脂質過多症
+710,E7521,Fabry (-Anderson) disease,法布瑞(-安德森)氏症
+711,E7522,Gaucher disease,高雪氏症
+712,E7523,Krabbe disease,克拉伯症
+713,E7524,Niemann-Pick disease,尼曼匹克症
+714,E75240,Niemann-Pick disease type A,A型尼曼匹克症
+715,E75241,Niemann-Pick disease type B,B型尼曼匹克症
+716,E75242,Niemann-Pick disease type C,C型尼曼匹克症
+717,E75243,Niemann-Pick disease type D,D型尼曼匹克症
+718,E75248,Other Niemann-Pick disease,其他尼曼匹克症
+719,E75249,"Niemann-Pick disease, unspecified",尼曼匹克症，未特定
+720,E7525,Metachromatic leukodystrophy,異染性腦白質退化症
+721,E7529,Other sphingolipidosis,其他神經脂質過多症
+722,E753,"Sphingolipidosis, unspecified",神經脂質過多症，未特定
+723,E754,Neuronal ceroid lipofuscinosis,神經元蠟樣質脂褐質症
+724,E755,Other lipid storage disorders,其他脂質儲存疾患
+725,E756,"Lipid storage disorder, unspecified",脂質儲存疾患，未特定
+726,E76,Disorders of glycosaminoglycan metabolism,葡萄糖胺聚合醣代謝疾患
+727,E760,"Mucopolysaccharidosis, type I",黏多醣症第I型
+728,E7601,Hurler's syndrome,賀勒氏症候群
+729,E7602,Hurler-Scheie syndrome,賀勒-施艾氏症候群
+730,E7603,Scheie's syndrome,施艾氏症候群
+731,E761,"Mucopolysaccharidosis, type II",黏多醣症第II型
+732,E762,Other mucopolysaccharidoses,其他黏多醣症
+733,E7621,Morquio mucopolysaccharidoses,莫奎歐氏黏多醣症
+734,E76210,Morquio A mucopolysaccharidoses,莫奎歐氏A型黏多醣症
+735,E76211,Morquio B mucopolysaccharidoses,莫奎歐氏B型黏多醣症
+736,E76219,"Morquio mucopolysaccharidoses, unspecified",莫奎歐氏黏多醣症，未特定
+737,E7622,Sanfilippo mucopolysaccharidoses,聖菲利柏氏黏多醣症
+738,E7629,Other mucopolysaccharidoses,其他黏多醣症
+739,E763,"Mucopolysaccharidosis, unspecified",黏多醣症，未特定
+740,E768,Other disorders of glucosaminoglycan metabolism,其他葡萄糖胺聚合醣代謝疾患
+741,E769,"Glucosaminoglycan metabolism disorder, unspecified",葡萄糖胺聚合醣代謝疾患，未特定
+742,E77,Disorders of glycoprotein metabolism,糖蛋白代謝疾患
+743,E770,Defects in post-translational modification of lysosomal enzymes,溶小體酶的轉譯後修飾缺陷
+744,E771,Defects in glycoprotein degradation,糖蛋白分解缺陷
+745,E778,Other disorders of glycoprotein metabolism,其他糖蛋白代謝疾患
+746,E779,"Disorder of glycoprotein metabolism, unspecified",糖蛋白代謝疾患，未特定
+747,E78,Disorders of lipoprotein metabolism and other lipidemias,脂蛋白代謝疾患及其他血脂症
+748,E780,Pure hypercholesterolemia,純高膽固醇血症
+749,E781,Pure hyperglyceridemia,純高三酸甘油酯血症
+750,E782,Mixed hyperlipidemia,混合型高血脂症
+751,E783,Hyperchylomicronemia,高乳糜微粒血症
+752,E784,Other hyperlipidemia,其他高血脂症
+753,E785,"Hyperlipidemia, unspecified",高血脂症，未特定
+754,E786,Lipoprotein deficiency,脂蛋白缺乏
+755,E787,Disorders of bile acid and cholesterol metabolism,膽酸及膽固醇(新陳)代謝(性)疾患
+756,E7870,"Disorder of bile acid and cholesterol metabolism, unspecified",膽酸及膽固醇代謝疾患，未特定
+757,E7871,Barth syndrome,巴氏症候群
+758,E7872,Smith-Lemli-Opitz syndrome,Smith-Lemli-Opitz症候群
+759,E7879,Other disorders of bile acid and cholesterol metabolism,其他膽酸及膽固醇(新陳)代謝(性)疾患
+760,E788,Other disorders of lipoprotein metabolism,其他脂蛋白代謝疾患
+761,E7881,Lipoid dermatoarthritis,類脂性皮膚關節炎
+762,E7889,Other lipoprotein metabolism disorders,其他脂蛋白代謝疾患
+763,E789,"Disorder of lipoprotein metabolism, unspecified",脂蛋白代謝疾患，未特定
+764,E79,Disorders of purine and phrimidine metabolism,嘌呤及嘧啶代謝疾患
+765,E790,Hyperuricemia without signs of inflammatory arthritis and tophaceous disease,高尿酸血症未伴有關節炎及痛風石
+766,E791,Lesch-Nyhan syndrome,Lesch-Nyhan 氏症候群
+767,E792,Myoadenylate deaminase deficiency,肌腺苷酸脫胺基酶缺乏
+768,E798,Other disorders of purine and pyrimidine metabolism,其他嘌呤及嘧啶代謝疾患
+769,E799,"Disorder of purine and pyrimidine metabolism, unspecified",嘌呤及嘧啶代謝疾患，未特定
+770,E80,Disorders of porphyrin and bilirubin metabolism,紫質症及膽紅素代謝疾患
+771,E800,Hereditary erythropoietic porphyria,遺傳性紅血球生成性紫質症
+772,E801,Porphyria cutanea tarda,遲發性皮膚紫質症
+773,E802,Other and unspecified porphyria,其他及未特定之紫質症
+774,E8020,Unspecified porphyria,紫質症，未特定
+775,E8021,Acute intermittent (hepatic) porphyria,急性間歇性紫質症
+776,E8029,Other porphyria,其他紫質症
+777,E803,Defects of catalase and peroxidase,過氧化氫酶和過氧化物酶缺陷
+778,E804,Gilbert's syndrome,Gilbert氏症候群
+779,E805,Crigler-Najjar syndrome,克果-納傑氏症
+780,E806,Other disorders of bilirubin metabolism,其他膽紅素代謝疾患
+781,E807,"Disorder of bilirubin metabolism, unspecified",膽紅素代謝疾患，未特定
+782,E83,Disorders of mineral metabolism,礦物質代謝疾患
+783,E830,Disorders of copper metabolism,銅代謝疾患
+784,E8300,"Disorder of copper metabolism, unspecified",銅代謝疾患，未特定
+785,E8301,Wilson's disease,威爾森氏症
+786,E8309,Other disorders of copper metabolism,其他銅代謝疾患
+787,E831,Disorders of iron metabolism,鐵代謝疾患
+788,E8310,"Disorder of iron metabolism, unspecified",鐵代謝疾患，未特定
+789,E8311,Hemochromatosis,血色素沈著症
+790,E8319,Other disorders of iron metabolism,其他鐵代謝疾患
+791,E832,Disorders of zinc metabolism,鋅代謝疾患
+792,E833,Disorders of phosphorus metabolism and phosphatases,磷及磷酸酶代謝疾患
+793,E8330,"Disorder of phosphorus metabolism, unspecified",磷代謝疾患，未特定
+794,E8331,Familial hypophosphatemia,家族性低磷血症
+795,E8332,Hereditary vitamin D-dependent rickets (type 1) (type 2),遺傳性維生素D依賴性佝僂症(第1型)(第2型)
+796,E8339,Other disorders of phosphorus metabolism,其他磷代謝疾患
+797,E834,Disorders of magnesium metabolism,鎂代謝疾患
+798,E8340,"Disorders of magnesium metabolism, unspecified",鎂代謝疾患，未特定
+799,E8341,Hypermagnesemia,高血鎂症
+800,E8342,Hypomagnesemia,低血鎂症
+801,E8349,Other disorders of magnesium metabolism,其他鎂代謝疾患
+802,E835,Disorders of calcium metabolism,鈣代謝疾患
+803,E8350,Unspecified disorder of calcium metabolism,未特定之鈣代謝疾患
+804,E8351,Hypocalcemia,低血鈣症
+805,E8352,Hypercalcemia,高血鈣症
+806,E8359,Other disorders of calcium metabolism,其他鈣代謝疾患
+807,E838,Other disorders of mineral metabolism,其他礦物質代謝疾患
+808,E8381,Hungry bone syndrome,骨頭飢餓症候群
+809,E8389,Other disorders of mineral metabolism,其他礦物質代謝疾患
+810,E839,"Disorder of mineral metabolism, unspecified",礦物質代謝疾患，未特定
+811,E84,Cystic fibrosis,囊狀纖維化症
+812,E840,Cystic fibrosis with pulmonary manifestations,囊狀纖維化症伴有肺部表徵
+813,E841,Cystic fibrosis with intestinal manifestations,囊狀纖維化症伴有腸道表徵
+814,E8411,Meconium ileus in cystic fibrosis,囊狀纖維化症伴有胎糞性腸阻塞
+815,E8419,Cystic fibrosis with other intestinal manifestations,囊狀纖維化症伴有腸道表徵
+816,E848,Cystic fibrosis with other manifestations,囊狀纖維化症伴有其他表徵
+817,E849,"Cystic fibrosis, unspecified",囊狀纖維化症，未特定
+818,E85,Amyloidosis,類澱粉變性
+819,E850,Non-neuropathic heredofamilial amyloidosis,非神經病變性家族遺傳性類澱粉變性
+820,E851,Neuropathic heredofamilial amyloidosis,神經病變性家族遺傳性類澱粉變性
+821,E852,"Heredofamilial amyloidosis, unspecified",家族遺傳性類澱粉變性，未特定
+822,E853,Secondary systemic amyloidosis,繼發性全身性類澱粉變性
+823,E854,Organ-limited amyloidosis,器官侷限性類澱粉變性
+824,E858,Other amyloidosis,其他類澱粉變性
+825,E859,"Amyloidosis, unspecified",類澱粉變性，未特定
+826,E86,Volume depletion,體液缺乏
+827,E860,Dehydration,脫水
+828,E861,Hypovolemia,低血容量
+829,E869,"Volume depletion, unspecified",體液缺乏，未特定
+830,E87,"Other disorders of fluid, electrolyte and acid-base balance",其他體液、電解質及酸鹼平衡疾患
+831,E870,Hyperosmolality and hypernatremia,高滲壓及高血鈉
+832,E871,Hypo-osmolality and hyponatremia,低滲壓及低血鈉
+833,E872,Acidosis,酸中毒
+834,E873,Alkalosis,鹼中毒
+835,E874,Mixed disorder of acid-base balance,混合性酸鹼平衡疾患
+836,E875,Hyperkalemia,高血鉀症
+837,E876,Hypokalemia,低血鉀症
+838,E877,Fluid overload,體液過多
+839,E878,"Other disorders of electrolyte and fluid balance, not elsewhere classified",其他電解質及體液平衡疾患，他處未歸類者
+840,E88,Other and unspecified metabolic disorders,其他及未特定之代謝疾患
+841,E880,"Disorders of plasma-protein metabolism, not elsewhere classified",血漿蛋白代謝疾患，他處未歸類者
+842,E8801,Alpha-1-antitrypsin deficiency,阿爾發–1型–胰蛋白酶抑制素缺乏
+843,E8809,"Other disorders of plasma-protein metabolism, not elsewhere classified",其他血漿蛋白代謝疾患，他處未歸類者
+844,E881,"Lipodystrophy, not elsewhere classified",脂質失養症，他處未歸類者
+845,E882,"Lipomatosis, not elsewhere classified",脂肪瘤過多症，他處未歸類者
+846,E883,Tumor lysis syndrome,腫瘤溶解症候群
+847,E884,Mitochondrial metabolism disorders,線粒體代謝疾患
+848,E8840,"Mitochondrial metabolism disorder, unspecified",線粒體代謝疾患，未特定
+849,E8841,MELAS syndrome,MELAS症候群
+850,E8842,MERRF syndrome,MERRF症候群
+851,E8849,Other mitochondrial metabolism disorders,其他線粒體代謝疾患
+852,E888,Other specified metabolic disorders,其他特定的新陳代謝疾患
+853,E8881,Metabolic syndrome,新陳代謝症候群
+854,E8889,Other specified metabolic disorders,其他特定的新陳代謝疾患
+855,E889,"Metabolic disorder, unspecified",新陳代謝疾患，未特定
+856,E89,"Postprocedural endocrine and metabolic complications and disorders, not elsewhere classified",處置後的內分泌及新陳代謝併發症或疾患，他處未歸類者
+857,E890,Postprocedural hypothyroidism,手術後甲狀腺低下
+858,E891,Postprocedural hypoinsulinemia,手術後低胰島血症
+859,E892,Postprocedural hypoparathyroidism,手術後副甲狀腺低下
+860,E893,Postprocedural hypopituitarism,手術後腦下腺低下
+861,E894,Postprocedural ovarian failure,手術後的卵巢衰竭
+862,E8940,Asymptomatic postprocedural ovarian failure,手術後無症狀的卵巢衰竭
+863,E8941,Symptomatic postprocedural ovarian failure,手術後有症狀的卵巢衰竭
+864,E895,Postprocedural testicular hypofunction,手術後睪丸功能低下
+865,E896,Postprocedural adrenocortical (-medullary) hypofunction,手術後腎上腺皮質(–髓質)功能低下
+866,E898,Other postprocedural endocrine and metabolic complications and disorders,其他處置後的內分泌及新陳代謝併發症或疾患
+867,E8981,Postprocedural hemorrhage and hematoma of an endocrine system organ or structure following a procedure,其他處置後引發的內分泌系統器官或結構出血及血腫
+868,E89810,Postprocedural hemorrhage and hematoma of an endocrine system organ or structure following an endocrine system procedure,內分泌系統處置後引發的內分泌系統器官或結構出血及血腫
+869,E89811,Postprocedural hemorrhage and hematoma of an endocrine system organ or structure following other procedure,其他處置後引發的內分泌系統器官或結構出血及血腫
+870,E8989,Other postprocedural endocrine and metabolic complications and disorders,其他處置後的內分泌及新陳代謝併發症或疾患

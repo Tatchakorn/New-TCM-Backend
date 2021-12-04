@@ -18,13 +18,14 @@ whitenoise = "*"
 gunicorn = "*"
 psycopg2 = "*"
 python-dotenv = "*"
+pandas = "*"
+django-url-filter = "*"
 
 [dev-packages]
 pycodestyle = "*"
 django-extensions = "*"
 pydotplus = "*"
 autopep8 = "*"
-pandas = "*"
 
 [requires]
 python_version = "*"

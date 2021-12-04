@@ -6,4 +6,11 @@ class Medicines(models.Model):
     info = models.JSONField(default=dict)
 
 
+# class FangMedicines(models.Model):
+#     ...
+
+
+# class YaoMedicines(models.Model):
+#     ...
+
     

@@ -1,0 +1,895 @@
+,code,en_name,ch_name
+0,Q00,Anencephaly and similar malformations,無腦症及類似畸形
+1,Q000,Anencephaly,無腦症
+2,Q001,Craniorachischisis,顱骨脊椎裂畸形
+3,Q002,Iniencephaly,枕骨裂露腦畸形
+4,Q01,Encephalocele,腦膨出症
+5,Q010,Frontal encephalocele,額部腦膨出症
+6,Q011,Nasofrontal encephalocele,鼻額部腦膨出症
+7,Q012,Occipital encephalocele,枕部腦膨出症
+8,Q018,Encephalocele of other sites,其他部位腦膨出症
+9,Q019,"Encephalocele, unspecified",腦膨出症，未特定
+10,Q02,Microcephaly,小頭症
+11,Q03,Congenital hydrocephalus,先天性水腦症
+12,Q030,Malformations of aqueduct of Sylvius,Sylvius氏腦導水管畸形
+13,Q031,Atresia of foramina of Magendie and Luschka,Magendie 氏孔及Luschka氏孔閉鎖
+14,Q038,Other congenital hydrocephalus,其他先天性水腦症
+15,Q039,"Congenital hydrocephalus, unspecified",先天性水腦症，未特定
+16,Q04,Other congenital malformations of brain,腦其他先天性畸形
+17,Q040,Congenital malformations of corpus callosum,胼胝體先天性畸形
+18,Q041,Arhinencephaly,無嗅腦症
+19,Q042,Holoprosencephaly,全前腦症
+20,Q043,Other reduction deformities of brain,腦其他短缺畸形
+21,Q044,Septo-optic dysplasia of brain,中隔－眼發育不良
+22,Q045,Megalencephaly,巨腦症
+23,Q046,Congenital cerebral cysts,先天性腦囊腫
+24,Q048,Other specified congenital malformations of brain,腦其他特定的先天性畸形
+25,Q049,"Congenital malformation of brain, unspecified",腦先天性畸形，未特定
+26,Q05,Spina bifida,脊椎裂
+27,Q050,Cervical spina bifida with hydrocephalus,頸椎裂伴有水腦症
+28,Q051,Thoracic spina bifida with hydrocephalus,胸椎裂伴有水腦症
+29,Q052,Lumbar spina bifida with hydrocephalus,腰椎裂伴有水腦症
+30,Q053,Sacral spina bifida with hydrocephalus,薦椎裂伴有水腦症
+31,Q054,Unspecified spina bifida with hydrocephalus,脊椎裂伴有水腦症
+32,Q055,Cervical spina bifida without hydrocephalus,頸椎裂未伴有水腦症
+33,Q056,Thoracic spina bifida without hydrocephalus,胸椎裂未伴有水腦症
+34,Q057,Lumbar spina bifida without hydrocephalus,腰椎裂未伴有水腦症
+35,Q058,Sacral spina bifida without hydrocephalus,薦椎裂未伴有水腦症
+36,Q059,"Spina bifida, unspecified",脊椎裂，未特定
+37,Q06,Other congenital malformations of spinal cord,脊髓其他先天性畸形
+38,Q060,Amyelia,無脊髓
+39,Q061,Hypoplasia and dysplasia of spinal cord,脊髓發育不全及發育不良
+40,Q062,Diastematomyelia,脊髓裂
+41,Q063,Other congenital cauda equina malformations,其他先天性脊髓尾畸形
+42,Q064,Hydromyelia,脊髓積水
+43,Q068,Other specified congenital malformations of spinal cord,脊髓其他特定的先天性畸形
+44,Q069,"Congenital malformation of spinal cord, unspecified",脊髓先天性畸形，未特定
+45,Q07,Other congenital malformations of nervous system,神經系統其他先天性畸形
+46,Q070,Arnold-Chiari syndrome,Arnold-Chiari 症候群
+47,Q0700,Arnold-Chiari syndrome without spina bifida or hydrocephalus,Arnold-Chiari 症候群未伴有脊椎裂或水腦症
+48,Q0701,Arnold-Chiari syndrome with spina bifida,Arnold-Chiari 症候群伴有脊椎裂
+49,Q0702,Arnold-Chiari syndrome with hydrocephalus,Arnold-Chiari 症候群伴有水腦症
+50,Q0703,Arnold-Chiari syndrome with spina bifida and hydrocephalus,Arnold-Chiari症候群伴有脊椎裂或水腦症
+51,Q078,Other specified congenital malformations of nervous system,神經系統其他特定的先天性畸形
+52,Q079,"Congenital malformation of nervous system, unspecified",神經系統先天性畸形，未特定
+53,Q10,"Congenital malformations of eyelid, lacrimal apparatus and orbit",眼瞼、淚器和眼窩先天性畸形
+54,Q100,Congenital ptosis,先天性眼瞼下垂
+55,Q101,Congenital ectropion,先天性眼瞼外翻
+56,Q102,Congenital entropion,先天性眼瞼內翻
+57,Q103,Other congenital malformations of eyelid,眼瞼其他先天性畸形
+58,Q104,Absence and agenesis of lacrimal apparatus,淚器缺損及發育不全
+59,Q105,Congenital stenosis and stricture of lacrimal duct,淚管先天性狹窄
+60,Q106,Other congenital malformations of lacrimal apparatus,淚器其他先天性畸形
+61,Q107,Congenital malformation of orbit,眼窩先天性畸形
+62,Q11,"Anophthalmos, microphthalmos and macrophthalmos",無眼症、小眼畸形及巨眼畸形
+63,Q110,Cystic eyeball,眼球囊腫
+64,Q111,Other anophthalmos,其他無眼症
+65,Q112,Microphthalmos,小眼畸形
+66,Q113,Macrophthalmos,巨眼畸形
+67,Q12,Congenital lens malformations,先天性水晶體畸形
+68,Q120,Congenital cataract,先天性白內障
+69,Q121,Congenital displaced lens,先天性水晶體移位
+70,Q122,Coloboma of lens,水晶體缺損
+71,Q123,Congenital aphakia,先天性無水晶體
+72,Q124,Spherophakia,球形水晶體
+73,Q128,Other congenital lens malformations,其他先天性水晶體畸形
+74,Q129,"Congenital lens malformation, unspecified",先天性水晶體畸形，未特定
+75,Q13,Congenital malformations of anterior segment of eye,前段眼先天性畸形
+76,Q130,Coloboma of iris,虹膜缺損
+77,Q131,Absence of iris,無虹膜
+78,Q132,Other congenital malformations of iris,虹膜其他先天性畸形
+79,Q133,Congenital corneal opacity,先天性角膜混濁
+80,Q134,Other congenital corneal malformations,其他先天性角膜畸形
+81,Q135,Blue sclera,藍鞏膜
+82,Q138,Other congenital malformations of anterior segment of eye,前段眼其他先天性畸形
+83,Q1381,Rieger's anomaly,Rieger氏畸形
+84,Q1389,Other congenital malformations of anterior segment of eye,前段眼其他先天性畸形
+85,Q139,"Congenital malformation of anterior segment of eye, unspecified",前段眼先天性畸形，未特定
+86,Q14,Congenital malformations of posterior segment of eye,後段眼先天性畸形
+87,Q140,Congenital malformation of vitreous humor,玻璃體先天性畸形
+88,Q141,Congenital malformation of retina,視網膜先天性畸形
+89,Q142,Congenital malformation of optic disc,視盤先天性畸形
+90,Q143,Congenital malformation of choroid,脈絡膜先天性畸形
+91,Q148,Other congenital malformations of posterior segment of eye,後段眼其他先天性畸形
+92,Q149,"Congenital malformation of posterior segment of eye, unspecified",後段眼先天性畸形，未特定
+93,Q15,Other congenital malformations of eye,眼其他先天性畸形
+94,Q150,Congenital glaucoma,先天性青光眼
+95,Q158,Other specified congenital malformations of eye,眼其他特定的先天性畸形
+96,Q159,"Congenital malformation of eye, unspecified",眼先天性畸形，未特定
+97,Q16,Congenital malformations of ear causing impairment of hearing,導致聽覺損傷的耳先天性畸形
+98,Q160,Congenital absence of (ear) auricle,先天性耳廓缺損
+99,Q161,"Congenital absence, atresia and stricture of auditory canal (external)",(外)耳道先天性缺損、閉鎖及狹窄
+100,Q162,Absence of eustachian tube,歐氏管缺損
+101,Q163,Congenital malformation of ear ossicles,聽小骨先天性畸形
+102,Q164,Other congenital malformations of middle ear,中耳其他先天性畸形
+103,Q165,Congenital malformation of inner ear,內耳先天性畸形
+104,Q169,"Congenital malformation of ear causing impairment of hearing, unspecified",導致聽覺損傷的耳先天性畸形，未特定
+105,Q17,Other congenital malformations of ear,耳其他先天性畸形
+106,Q170,Accessory auricle,副耳廓
+107,Q171,Macrotia,巨耳
+108,Q172,Microtia,小耳
+109,Q173,Other misshapen ear,其他造形異常耳
+110,Q174,Misplaced ear,錯置耳
+111,Q175,Prominent ear,凸耳
+112,Q178,Other specified congenital malformations of ear,其他特定的耳先天性畸形
+113,Q179,"Congenital malformation of ear, unspecified",耳先天性畸形，未特定
+114,Q18,Other congenital malformations of face and neck,顏面及頸其他先天性畸形
+115,Q180,"Sinus, fistula and cyst of branchial cleft",鰓裂竇、瘻管及囊腫
+116,Q181,Preauricular sinus and cyst,耳前竇及囊腫
+117,Q182,Other branchial cleft malformations,其他鰓裂畸形
+118,Q183,Webbing of neck,頸蹼
+119,Q184,Macrostomia,巨口
+120,Q185,Microstomia,小口
+121,Q186,Macrocheilia,巨唇
+122,Q187,Microcheilia,小唇
+123,Q188,Other specified congenital malformations of face and neck,顏面及頸其他特定的先天性畸形
+124,Q189,"Congenital malformation of face and neck, unspecified",顏面及頸先天性畸形，未特定
+125,Q20,Congenital malformations of cardiac chambers and connections,心臟腔室及連接處先天性畸形
+126,Q200,Common arterial trunk,共同動脈幹
+127,Q201,Double outlet right ventricle,右心室雙重出口
+128,Q202,Double outlet left ventricle,左心室雙重出口
+129,Q203,Discordant ventriculoarterial connection,心室動脈連結異常
+130,Q204,Double inlet ventricle,心室雙重入口
+131,Q205,Discordant atrioventricular connection,不一致的房室連結
+132,Q206,Isomerism of atrial appendages,心房同位症
+133,Q208,Other congenital malformations of cardiac chambers and connections,心臟腔室及連接處的其他先天性畸形
+134,Q209,"Congenital malformation of cardiac chambers and connections, unspecified",心臟腔室及連接處先天性畸形，未特定
+135,Q21,Congenital malformations of cardiac septa,心臟中隔先天性畸形
+136,Q210,Ventricular septal defect,心室中隔缺損
+137,Q211,Atrial septal defect,心房中隔缺損
+138,Q212,Atrioventricular septal defect,心內膜墊缺損
+139,Q213,Tetralogy of Fallot,法洛氏四重症
+140,Q214,Aortopulmonary septal defect,主動脈及肺動脈中隔缺損
+141,Q218,Other congenital malformations of cardiac septa,心臟中隔其他先天性畸形
+142,Q219,"Congenital malformation of cardiac septum, unspecified",心臟中隔先天性畸形，未特定
+143,Q22,Congenital malformations of pulmonary and tricuspid valves,肺動脈瓣及三尖瓣先天性畸形
+144,Q220,Pulmonary valve atresia,肺動脈瓣閉鎖
+145,Q221,Congenital pulmonary valve stenosis,先天性肺動脈瓣狹窄
+146,Q222,Congenital pulmonary valve insufficiency,先天性肺動脈瓣閉鎖不全
+147,Q223,Other congenital malformations of pulmonary valve,其他先天性肺動脈瓣畸形
+148,Q224,Congenital tricuspid stenosis,先天性三尖瓣狹窄
+149,Q225,Ebstein's anomaly,Ebstein氏畸形
+150,Q226,Hypoplastic right heart syndrome,右心發育不全徵候群
+151,Q228,Other congenital malformations of tricuspid valve,其他先天性三尖瓣畸形
+152,Q229,"Congenital malformation of tricuspid valve, unspecified",先天性三尖瓣畸形，未特定
+153,Q23,Congenital malformations of aortic and mitral valves,主動脈及二尖瓣先天性畸形
+154,Q230,Congenital stenosis of aortic valve,先天性主動脈瓣狹窄
+155,Q231,Congenital insufficiency of aortic valve,先天性主動脈瓣閉鎖不全
+156,Q232,Congenital mitral stenosis,先天性二尖瓣狹窄
+157,Q233,Congenital mitral insufficiency,先天性二尖瓣閉鎖不全
+158,Q234,Hypoplastic left heart syndrome,左心發育不全徵候群
+159,Q238,Other congenital malformations of aortic and mitral valves,其他主動脈及二尖瓣先天性畸形
+160,Q239,"Congenital malformation of aortic and mitral valves, unspecified",主動脈及二尖瓣先天性畸形 ，未特定
+161,Q24,Other congenital malformations of heart,心臟其他先天性畸形
+162,Q240,Dextrocardia,右位心
+163,Q241,Levocardia,左位心
+164,Q242,Cor triatriatum,三腔室心臟
+165,Q243,Pulmonary infundibular stenosis,肺動脈漏斗狀狹窄
+166,Q244,Congenital subaortic stenosis,主動脈瓣下狹窄
+167,Q245,Malformation of coronary vessels,冠狀動脈畸形
+168,Q246,Congenital heart block,先天性心臟傳導阻斷
+169,Q248,Other specified congenital malformations of heart,心臟其他特定的先天性畸形
+170,Q249,"Congenital malformation of heart, unspecified",心臟未特定之先天性畸形，未特定
+171,Q25,Congenital malformations of great arteries,大動脈先天性畸形
+172,Q250,Patent ductus arteriosus,開放性動脈導管
+173,Q251,Coarctation of aorta,主動脈縮窄
+174,Q252,Atresia of aorta,主動脈閉鎖
+175,Q253,Supravalvular aortic stenosis,瓣膜上主動脈狹窄
+176,Q254,Other congenital malformations of aorta,主動脈其他先天性畸形
+177,Q255,Atresia of pulmonary artery,肺動脈閉鎖
+178,Q256,Stenosis of pulmonary artery,肺動脈狹窄
+179,Q257,Other congenital malformations of pulmonary artery,肺動脈其他先天性畸形
+180,Q258,Other congenital malformations of other great arteries,大動脈其他先天性畸形
+181,Q259,"Congenital malformation of great arteries, unspecified",大動脈先天性畸形，未特定
+182,Q26,Congenital malformations of great veins,大靜脈先天性畸形
+183,Q260,Congenital stenosis of vena cava,腔靜脈先天性狹窄
+184,Q261,Persistent left superior vena cava,持續性左上腔靜脈殘留
+185,Q262,Total anomalous pulmonary venous connection,肺靜脈連接處全部異常
+186,Q263,Partial anomalous pulmonary venous connection,肺靜脈連接處部份異常
+187,Q264,"Anomalous pulmonary venous connection, unspecified",肺靜脈連接處異常，未特定
+188,Q265,Anomalous portal venous connection,門靜脈連接處異常
+189,Q266,Portal vein-hepatic artery fistula,門靜脈－肝動脈瘻管
+190,Q268,Other congenital malformations of great veins,其他大靜脈畸形
+191,Q269,"Congenital malformation of great vein, unspecified",大靜脈畸形，未特定
+192,Q27,Other congenital malformations of peripheral vascular system,周邊血管系統之其他先天性畸形
+193,Q270,Congenital absence and hypoplasia of umbilical artery,先天性臍動脈缺乏或形成不全
+194,Q271,Congenital renal artery stenosis,先天性腎動脈狹窄
+195,Q272,Other congenital malformations of renal artery,腎動脈其他畸形
+196,Q273,Arteriovenous malformation (peripheral),動靜脈畸形(周邊)
+197,Q2730,"Arteriovenous malformation, site unspecified",未特定之動靜脈畸形
+198,Q2731,Arteriovenous malformation of vessel of upper limb,上肢動靜脈畸形
+199,Q2732,Arteriovenous malformation of vessel of lower limb,下肢動靜脈畸形
+200,Q2733,Arteriovenous malformation of digestive system vessel,消化系統動靜脈畸形
+201,Q2734,Arteriovenous malformation of renal vessel,腎血管動靜脈畸形
+202,Q2739,"Arteriovenous malformation, other site",其他部位動靜脈畸形
+203,Q274,Congenital phlebectasia,先天性靜脈擴張
+204,Q278,Other specified congenital malformations of peripheral vascular system,周邊血管系統其他特定之先天性畸 形
+205,Q279,"Congenital malformation of peripheral vascular system, unspecified","周邊血管系統之先天性畸形 
+，未特定"
+206,Q28,Other congenital malformations of circulatory system,循環系統其他先天性畸形
+207,Q280,Arteriovenous malformation of precerebral vessels,腦前血管動靜脈畸形
+208,Q281,Other malformations of precerebral vessels,腦前血管其他畸形
+209,Q282,Arteriovenous malformation of cerebral vessels,腦血管動靜脈畸形
+210,Q283,Other malformations of cerebral vessels,大腦血管其他畸形
+211,Q288,Other specified congenital malformations of circulatory system,循環系統其他特定的先天性畸形
+212,Q289,"Congenital malformation of circulatory system, unspecified",循環系統先天性畸形，未特定
+213,Q30,Congenital malformations of nose,鼻先天性畸形
+214,Q300,Choanal atresia,後鼻孔閉鎖症
+215,Q301,Agenesis and underdevelopment of nose,鼻生成不良及發育不全
+216,Q302,"Fissured, notched and cleft nose",鼻裂隙、切迹及裂開
+217,Q303,Congenital perforated nasal septum,先天性鼻中隔穿孔
+218,Q308,Other congenital malformations of nose,其他先天性鼻畸形
+219,Q309,"Congenital malformation of nose, unspecified",鼻先天性畸形，未特定
+220,Q31,Congenital malformations of larynx,喉先天性畸形
+221,Q310,Web of larynx,喉部蹼翼
+222,Q311,Congenital subglottic stenosis,先天性聲門下狹窄
+223,Q312,Laryngeal hypoplasia,喉發育不全
+224,Q313,Laryngocele,喉膨出
+225,Q315,Congenital laryngomalacia,先天性喉軟化
+226,Q318,Other congenital malformations of larynx,喉其他先天性畸形
+227,Q319,"Congenital malformation of larynx, unspecified",喉先天性畸形，未特定
+228,Q32,Congenital malformations of trachea and bronchus,氣管和支氣管先天性畸形
+229,Q320,Congenital tracheomalacia,先天性氣管軟化
+230,Q321,Other congenital malformations of trachea,氣管其他先天性畸形
+231,Q322,Congenital bronchomalacia,先天性支氣管軟化
+232,Q323,Congenital stenosis of bronchus,支氣管先天性狹窄
+233,Q324,Other congenital malformations of bronchus,支氣管其他先天性畸形
+234,Q33,Congenital malformations of lung,先天性肺畸形
+235,Q330,Congenital cystic lung,先天性肺囊腫
+236,Q331,Accessory lobe of lung,肺副葉
+237,Q332,Sequestration of lung,肺分離
+238,Q333,Agenesis of lung,肺發育不全
+239,Q334,Congenital bronchiectasis,先天性支氣管擴張
+240,Q335,Ectopic tissue in lung,肺中異位組織
+241,Q336,Congenital hypoplasia and dysplasia of lung,先天性肺形成不全及發育不良
+242,Q338,Other congenital malformations of lung,肺之其他畸形
+243,Q339,"Congenital malformation of lung, unspecified",先天性之肺畸形，未特定
+244,Q34,Other congenital malformations of respiratory system,呼吸系統之其他先天性畸形
+245,Q340,Anomaly of pleura,肋膜畸形
+246,Q341,Congenital cyst of mediastinum,縱隔先天性囊腫
+247,Q348,Other specified congenital malformations of respiratory system,呼吸系統其他特定的先天性畸形
+248,Q349,"Congenital malformation of respiratory system, unspecified",呼吸系統先天性畸形，未特定
+249,Q35,Cleft palate,腭裂
+250,Q351,Cleft hard palate,硬腭裂
+251,Q353,Cleft soft palate,軟腭裂
+252,Q355,Cleft hard palate with cleft soft palate,硬腭裂伴有軟腭裂
+253,Q357,Cleft uvula,懸壅垂裂
+254,Q359,"Cleft palate, unspecified",腭裂，未特定
+255,Q36,Cleft lip,唇裂
+256,Q360,"Cleft lip, bilateral",雙側唇裂
+257,Q361,"Cleft lip, median",中線唇裂
+258,Q369,"Cleft lip, unilateral",單側唇裂
+259,Q37,Cleft palate with cleft lip,腭裂伴有唇裂
+260,Q370,Cleft hard palate with bilateral cleft lip,硬腭裂伴有雙側唇裂
+261,Q371,Cleft hard palate with unilateral cleft lip,硬腭裂伴有單側唇裂
+262,Q372,Cleft soft palate with bilateral cleft lip,軟腭裂伴有雙側唇裂
+263,Q373,Cleft soft palate with unilateral cleft lip,軟腭裂伴有單側唇裂
+264,Q374,Cleft hard and soft palate with bilateral cleft lip,硬腭裂及軟腭裂伴有雙側唇裂
+265,Q375,Cleft hard and soft palate with unilateral cleft lip,硬腭裂及軟腭裂伴有單側唇裂
+266,Q378,Unspecified cleft palate with bilateral cleft lip,未特定腭裂伴有雙側唇裂
+267,Q379,Unspecified cleft palate with unilateral cleft lip,未特定腭裂伴有單側唇裂
+268,Q38,"Other congenital malformations of tongue, mouth and pharynx",舌、口腔及咽其他先天性畸形
+269,Q380,"Congenital malformations of lips, not elsewhere classified",唇先天性畸形，他處未歸類者
+270,Q381,Ankyloglossia,舌黏連
+271,Q382,Macroglossia,巨舌
+272,Q383,Other congenital malformations of tongue,舌其他先天性畸形
+273,Q384,Congenital malformations of salivary glands and ducts,唾液腺及唾管先天性畸形
+274,Q385,"Congenital malformations of palate, not elsewhere classified",腭先天性畸形，他處未歸類者
+275,Q386,Other congenital malformations of mouth,口腔其他先天性畸形
+276,Q387,Congenital pharyngeal pouch,先天性咽囊
+277,Q388,Other congenital malformations of pharynx,咽其他先天性畸形
+278,Q39,Congenital malformations of esophagus,食道先天性畸形
+279,Q390,Atresia of esophagus without fistula,食道閉鎖未伴有瘻管
+280,Q391,Atresia of esophagus with tracheo-esophageal fistula,食道閉鎖伴有氣管－食道瘻管
+281,Q392,Congenital tracheo-esophageal fistula without atresia,先天性氣管－食道瘻管未伴有閉鎖
+282,Q393,Congenital stenosis and stricture of esophagus,食道先天性狹窄及縮窄
+283,Q394,Esophageal web,食道蹼
+284,Q395,Congenital dilatation of esophagus,食道先天性擴張
+285,Q396,Congenital diverticulum of esophagus,食道先天性憩室
+286,Q398,Other congenital malformations of esophagus,食道其他先天性畸形
+287,Q399,"Congenital malformation of esophagus, unspecified",食道先天性畸形，未特定
+288,Q40,Other congenital malformations of upper alimentary tract,上消化道其他先天性畸形
+289,Q400,Congenital hypertrophic pyloric stenosis,先天性肥大性幽門狹窄
+290,Q401,Congenital hiatus hernia,先天性裂孔疝氣
+291,Q402,Other specified congenital malformations of stomach,胃其他特定先天性畸形
+292,Q403,"Congenital malformation of stomach, unspecified",胃先天性畸形，未特定
+293,Q408,Other specified congenital malformations of upper alimentary tract,上消化道其他特定之先天性畸形
+294,Q409,"Congenital malformation of upper alimentary tract, unspecified",上消化道先天性畸形，未特定
+295,Q41,"Congenital absence, atresia and stenosis of small intestine",小腸先天性缺損、閉鎖及狹窄
+296,Q410,"Congenital absence, atresia and stenosis of duodenum",十二指腸先天性缺損、閉鎖及狹窄
+297,Q411,"Congenital absence, atresia and stenosis of jejunum",空腸先天性缺損、閉鎖及狹窄
+298,Q412,"Congenital absence, atresia and stenosis of ileum",迴腸先天性缺損、閉鎖及狹窄
+299,Q418,"Congenital absence, atresia and stenosis of other specified parts of small intestine",小腸其他特定部位的先天性缺損、閉鎖及狹窄
+300,Q419,"Congenital absence, atresia and stenosis of small intestine, part unspecified",部位未特定之小腸先天性缺損、閉鎖及狹窄
+301,Q42,"Congenital absence, atresia and stenosis of large intestine",大腸先天性缺損、閉鎖及狹窄
+302,Q420,"Congenital absence, atresia and stenosis of rectum with fistula",直腸先天性缺損、閉鎖及狹窄，伴有瘻管
+303,Q421,"Congenital absence, atresia and stenosis of rectum without fistula",直腸先天性缺損、閉鎖及狹窄，未伴有瘻管
+304,Q422,"Congenital absence, atresia and stenosis of anus with fistula",肛門缺損、閉鎖及狹窄，伴有瘻管
+305,Q423,"Congenital absence, atresia and stenosis of anus without fistula",肛門缺損、閉鎖及狹窄，未伴有瘻管
+306,Q428,"Congenital absence, atresia and stenosis of other parts of large intestine",大腸其他部位先天性缺損、閉鎖及狹窄
+307,Q429,"Congenital absence, atresia and stenosis of large intestine, part unspecified",大腸先天性缺損、閉鎖及狹窄，部位未特定者
+308,Q43,Other congenital malformations of intestine,腸其他先天性畸形
+309,Q430,Meckel's diverticulum (displaced) (hypertrophic),Meckel 氏憩室(易位)(過度肥大)
+310,Q431,Hirschsprung's disease,Hirschsprung氏症
+311,Q432,Other congenital functional disorders of colon,結腸其他先天性功能性疾患
+312,Q433,Congenital malformations of intestinal fixation,先天性腸固定畸形
+313,Q434,Duplication of intestine,雙套腸
+314,Q435,Ectopic anus,異位肛門
+315,Q436,Congenital fistula of rectum and anus,直腸及肛門先天性瘻管
+316,Q437,Persistent cloaca,泄殖腔殘存
+317,Q438,Other specified congenital malformations of intestine,腸其他特定的先天性畸形
+318,Q439,"Congenital malformation of intestine, unspecified",腸先天性畸形，未特定
+319,Q44,"Congenital malformations of gallbladder, bile ducts and liver",膽囊、膽道及肝先天性畸形
+320,Q440,"Agenesis, aplasia and hypoplasia of gallbladder",膽囊生成不良、發育不良及發育不全
+321,Q441,Other congenital malformations of gallbladder,膽囊其他先天性畸形
+322,Q442,Atresia of bile ducts,膽道閉鎖
+323,Q443,Congenital stenosis and stricture of bile ducts,膽道先天性狹窄及縮窄
+324,Q444,Choledochal cyst,總膽管囊腫
+325,Q445,Other congenital malformations of bile ducts,膽道其他先天性畸形
+326,Q446,Cystic disease of liver,肝囊腫性疾病
+327,Q447,Other congenital malformations of liver,肝其他先天性畸形
+328,Q45,Other congenital malformations of digestive system,消化系統其他先天性畸形
+329,Q450,"Agenesis, aplasia and hypoplasia of pancreas",胰生成不良、發育不良及發育不全
+330,Q451,Annular pancreas,環狀胰
+331,Q452,Congenital pancreatic cyst,先天性胰囊腫
+332,Q453,Other congenital malformations of pancreas and pancreatic duct,胰及胰管其他先天性畸形
+333,Q458,Other specified congenital malformations of digestive system,消化系統其他特定的先天性畸形
+334,Q459,"Congenital malformation of digestive system, unspecified",消化系統先天性畸形，未特定
+335,Q50,"Congenital malformations of ovaries, fallopian tubes and broad ligaments",輸卵管及子宮闊韌帶先天性畸形
+336,Q500,Congenital absence of ovary,先天性卵巢缺損
+337,Q5001,"Congenital absence of ovary, unilateral","字尾加上"",未特定"""
+338,Q5002,"Congenital absence of ovary, bilateral",雙側先天性卵巢缺損
+339,Q501,Developmental ovarian cyst,發育性卵巢囊腫
+340,Q502,Congenital torsion of ovary,卵巢先天性扭轉
+341,Q503,Other congenital malformations of ovary,卵巢其他先天性畸形
+342,Q5031,Accessory ovary,副卵巢
+343,Q5032,Ovarian streak,卵巢痕
+344,Q5039,Other congenital malformation of ovary,卵巢其他先天性畸形
+345,Q504,Embryonic cyst of fallopian tube,輸卵管胚囊
+346,Q505,Embryonic cyst of broad ligament,子宮闊靭帶胚囊
+347,Q506,Other congenital malformations of fallopian tube and broad ligament,輸卵管及子宮闊韌帶其他先天性畸形
+348,Q51,Congenital malformations of uterus and cervix,子宮及子宮頸先天性畸形
+349,Q510,Agenesis and aplasia of uterus,子宮生成不良及發育不良
+350,Q511,Doubling of uterus with doubling of cervix and vagina,雙子宮伴有雙子宮頸及雙陰道
+351,Q5110,Doubling of uterus with doubling of cervix and vagina without obstruction,雙子宮伴有雙子宮頸及雙陰道未合併阻塞
+352,Q5111,Doubling of uterus with doubling of cervix and vagina with obstruction,雙子宮伴有雙子宮頸及雙陰道合併阻塞
+353,Q512,Other doubling of uterus,其他雙子宮
+354,Q513,Bicornate uterus,雙角子宮
+355,Q514,Unicornate uterus,單角子宮
+356,Q515,Agenesis and aplasia of cervix,子宮頸生成不良及發育不良
+357,Q516,Embryonic cyst of cervix,子宮頸胚囊
+358,Q517,Congenital fistulae between uterus and digestive and urinary tracts,子宮、消化道及泌尿道間的先天性瘻管
+359,Q518,Other congenital malformations of uterus and cervix,子宮及子宮頸其他先天性畸形
+360,Q519,"Congenital malformation of uterus and cervix, unspecified",子宮及子宮頸先天性畸形，未特定
+361,Q52,Other congenital malformations of female genitalia,女性生殖器其他先天性畸形
+362,Q520,Congenital absence of vagina,先天性陰道缺損
+363,Q521,Doubling of vagina,雙陰道
+364,Q522,Congenital rectovaginal fistula,先天性直腸陰道瘻管
+365,Q523,Imperforate hymen,處女膜閉鎖
+366,Q524,Other congenital malformations of vagina,陰道其他先天性畸形
+367,Q525,Fusion of labia,陰唇融合
+368,Q526,Congenital malformation of clitoris,陰蒂先天性畸形
+369,Q527,Other and unspecified congenital malformations of vulva,女性生殖器其他和未特定先天性畸形
+370,Q5270,Unspecified congenital malformations of vulva,外陰先天性畸形
+371,Q5271,Congenital absence of vulva,外陰先天性缺損
+372,Q5279,Other congenital malformations of vulva,外陰其他先天性缺損
+373,Q528,Other specified congenital malformations of female genitalia,女性生殖器其他特定的先天性畸形
+374,Q529,"Congenital malformation of female genitalia, unspecified",女性生殖器先天性畸形，未特定
+375,Q53,Undescended and ectopic testicle,隱睪及睪丸異位
+376,Q530,Ectopic testis,睪丸異位
+377,Q5300,"Ectopic testis, unspecified",睪丸異位，未特定
+378,Q5301,"Ectopic testis, unilateral",單側睪丸異位
+379,Q5302,"Ectopic testes, bilateral",雙側睪丸異位
+380,Q531,"Undescended testicle, unilateral",單側隱睪
+381,Q5310,"Unspecified undescended testicle, unilateral",未特定單側隱睪
+382,Q5311,"Abdominal testis, unilateral",單側腹式隱睪
+383,Q5312,"Ectopic perineal testis, unilateral",單側會陰睪丸異位
+384,Q532,"Undescended testicle, bilateral",雙側隱睪
+385,Q5320,"Undescended testicle, unspecified, bilateral",雙側隱睪
+386,Q5321,"Abdominal testis, bilateral",雙側腹式隱睪
+387,Q5322,"Ectopic perineal testis, bilateral",雙側會陰睪丸異位
+388,Q539,"Undescended testicle, unspecified",隱睪，未特定
+389,Q54,Hypospadias,尿道下裂
+390,Q540,"Hypospadias, balanic",龜頭的尿道下裂
+391,Q541,"Hypospadias, penile",陰莖的尿道下裂
+392,Q542,"Hypospadias, penoscrotal",陰莖陰囊的尿道下裂
+393,Q543,"Hypospadias, perineal",會陰的尿道下裂
+394,Q544,Congenital chordee,先天性弓彎形陰莖
+395,Q548,Other hypospadias,其他尿道下裂
+396,Q549,"Hypospadias, unspecified",尿道下裂，未特定
+397,Q55,Other congenital malformations of male genital organs,男性生殖器其他先天性畸形
+398,Q550,Absence and aplasia of testis,睪丸缺損及發育不全
+399,Q551,Hypoplasia of testis and scrotum,睪丸及陰囊發育不良
+400,Q552,Other and unspecified congenital malformations of testis and scrotum,睪丸及陰囊先天性其他和未特定畸形
+401,Q5520,Unspecified congenital malformations of testis and scrotum,先天性睪丸及陰囊畸形
+402,Q5521,Polyorchism,多睪丸
+403,Q5522,Retractile testis,伸縮性睪丸
+404,Q5523,Scrotal transposition,陰囊轉位
+405,Q5529,Other congenital malformations of testis and scrotum,先天性睪丸或陰囊其他畸形
+406,Q553,Atresia of vas deferens,輸精管閉鎖
+407,Q554,"Other congenital malformations of vas deferens, epididymis, seminal vesicles and prostate",先天性輸精管、副睪、精囊及前列腺其他畸形
+408,Q555,Congenital absence and aplasia of penis,先天性陰莖缺損及發育不全
+409,Q556,Other congenital malformations of penis,陰莖先天性其他畸形
+410,Q5561,Curvature of penis (lateral),陰莖側向彎曲
+411,Q5562,Hypoplasia of penis,陰莖發育不良
+412,Q5569,Other congenital malformation of penis NOS,先天性陰莖其他畸形
+413,Q557,Congenital vasocutaneous fistula,先天性輸精管皮下廔管
+414,Q558,Other specified congenital malformations of male genital organs,先天性男性生殖器其他特定的畸形
+415,Q559,"Congenital malformation of male genital organ, unspecified",先天性男性生殖器畸形，未特定
+416,Q56,Indeterminate sex and pseudohermaphroditism,性別不明及假性陰陽人
+417,Q560,"Hermaphroditism, not elsewhere classified",假性陰陽人，他處未歸類者
+418,Q561,"Male pseudohermaphroditism, not elsewhere classified",男性假性陰陽人，他處未歸類者
+419,Q562,"Female pseudohermaphroditism, not elsewhere classified",女性假性陰陽人，他處未歸類者
+420,Q563,"Pseudohermaphroditism, unspecified",假性陰陽人，未特定
+421,Q564,"Indeterminate sex, unspecified",性別不明，未特定
+422,Q60,Renal agenesis and other reduction defects of kidney,腎無發育及腎其他縮減缺陷
+423,Q600,"Renal agenesis, unilateral",單側腎無發育
+424,Q601,"Renal agenesis, bilateral",雙側腎無發育
+425,Q602,"Renal agenesis, unspecified",腎無發育，未特定
+426,Q603,"Renal hypoplasia, unilateral",單側腎發育不良
+427,Q604,"Renal hypoplasia, bilateral",雙側腎發育不良
+428,Q605,"Renal hypoplasia, unspecified",腎發育不良，未特定
+429,Q606,Potter's syndrome,Potter氏症候群
+430,Q61,Cystic kidney disease,腎囊腫性疾病
+431,Q610,Congenital renal cyst,先天性腎囊腫
+432,Q6100,"Congenital renal cyst, unspecified",先天性腎囊腫，未特定
+433,Q6101,Congenital single renal cyst,先天性腎囊腫(單一)
+434,Q6102,Congenital multiple renal cysts,先天性囊性腎(多個)
+435,Q611,"Polycystic kidney, infantile type",嬰兒型多囊腎
+436,Q6111,Cystic dilatation of collecting ducts,集尿管囊性擴張
+437,Q6119,"Other polycystic kidney, infantile type",嬰兒型多囊腎
+438,Q612,"Polycystic kidney, adult type",成人型多囊腎
+439,Q613,"Polycystic kidney, unspecified",多囊腎，未特定
+440,Q614,Renal dysplasia,腎發育異常
+441,Q615,Medullary cystic kidney,腎髓質囊腫腎
+442,Q618,Other cystic kidney diseases,其他腎囊腫性疾病
+443,Q619,"Cystic kidney disease, unspecified",腎囊腫性疾病，未特定
+444,Q62,Congenital obstructive defects of renal pelvis and congenital malformations of ureter,先天性腎盂阻塞缺陷及先天性輸尿管其他畸形
+445,Q620,Congenital hydronephrosis,先天性水腎
+446,Q621,Congenital occlusion of ureter,先天性輸尿管閉塞
+447,Q6210,"Congenital occlusion of ureter, unspecified",先天性輸尿管閉塞，未特定
+448,Q6211,Congenital occlusion of ureteropelvic junction,先天性輸尿管腎盂結合處閉塞
+449,Q6212,Congenital occlusion of ureterovesical orifice,先天性輸尿管膀胱開口處閉塞
+450,Q622,Congenital megaureter,先天性巨輸尿管
+451,Q623,Other obstructive defects of renal pelvis and ureter,腎盂及輸尿管其他阻塞性缺陷
+452,Q6231,"Congenital ureterocele, orthotopic",先天性輸尿管膨出
+453,Q6232,Cecoureterocele,盲腸輸尿管膨出
+454,Q6239,Other obstructive defects of renal pelvis and ureter,腎盂及輸尿管其他阻塞性缺陷
+455,Q624,Agenesis of ureter,輸尿管無發育
+456,Q625,Duplication of ureter,雙套輸尿管
+457,Q626,Malposition of ureter,輸尿管錯位
+458,Q6260,"Malposition of ureter, unspecified",輸尿管錯位，未特定
+459,Q6261,Deviation of ureter,輸尿管偏移
+460,Q6262,Displacement of ureter,輸尿管移位
+461,Q6263,Anomalous implantation of ureter,輸尿管植入位置異常
+462,Q6269,Other malposition of ureter,其他輸尿管錯位
+463,Q627,Congenital vesico-uretero-renal reflux,先天性膀胱－輸尿管－腎逆流
+464,Q628,Other congenital malformations of ureter,先天性輸尿管其他畸形
+465,Q63,Other congenital malformations of kidney,先天性腎其他畸形
+466,Q630,Accessory kidney,副腎
+467,Q631,"Lobulated, fused and horseshoe kidney",分葉、融合及馬蹄形腎
+468,Q632,Ectopic kidney,異位腎
+469,Q633,Hyperplastic and giant kidney,增生殖性腎及巨腎
+470,Q638,Other specified congenital malformations of kidney,先天性腎其他特定的畸形
+471,Q639,"Congenital malformation of kidney, unspecified",先天性腎畸形，未特定
+472,Q64,Other congenital malformations of urinary system,先天性泌尿系統其他畸形
+473,Q640,Epispadias,尿道上裂
+474,Q641,Exstrophy of urinary bladder,膀胱外翻
+475,Q6410,"Exstrophy of urinary bladder, unspecified",膀胱外翻，未特定
+476,Q6411,Supravesical fissure of urinary bladder,膀胱上裂
+477,Q6412,Cloacal extrophy of urinary bladder,泄殖腔之膀胱外翻
+478,Q6419,Other exstrophy of urinary bladder,其他膀胱外翻
+479,Q642,Congenital posterior urethral valves,先天性後尿道瓣膜
+480,Q643,Other atresia and stenosis of urethra and bladder neck,尿道及膀胱頸其他閉鎖及狹窄
+481,Q6431,Congenital bladder neck obstruction,先天性膀胱頸阻塞
+482,Q6432,Congenital stricture of urethra,先天性尿道狹窄
+483,Q6433,Congenital stricture of urinary meatus,先天性尿道口狹窄
+484,Q6439,Other atresia and stenosis of urethra and bladder neck,尿道及膀胱頸其他閉鎖及狹窄
+485,Q644,Malformation of urachus,臍尿管畸形
+486,Q645,Congenital absence of bladder and urethra,先天性膀胱及尿道缺損
+487,Q646,Congenital diverticulum of bladder,先天性膀胱憩室
+488,Q647,Other and unspecified congenital malformations of bladder and urethra,先天性膀胱及尿道其他和未特定畸形
+489,Q6470,Unspecified congenital malformation of bladder and urethra,未特定先天性膀胱及尿道畸形
+490,Q6471,Congenital prolapse of urethra,先天性尿道脫垂
+491,Q6472,Congenital prolapse of urinary meatus,先天性泌尿道口脫垂
+492,Q6473,Congenital urethrorectal fistula,先天性尿道直腸瘻管
+493,Q6474,Double urethra,雙尿道
+494,Q6475,Double urinary meatus,雙泌尿道口
+495,Q6479,Other congenital malformations of bladder and urethra,先天性膀胱及尿道其他畸形
+496,Q648,Other specified congenital malformations of urinary system,先天性泌尿系統其他特定的畸形
+497,Q649,"Congenital malformation of urinary system, unspecified",先天性泌尿系統畸形，未特定
+498,Q65,Congenital deformities of hip,先天性髖部變形
+499,Q650,"Congenital dislocation of hip, unilateral",先天性單側髖部脫位
+500,Q6500,"Congenital dislocation of hip, unilateral, unspecified side",先天性未特定側單側髖部脫位
+501,Q6501,Congenital dislocation of right hip,先天性右側髖部脫位
+502,Q6502,Congenital dislocation of left hip,先天性左側髖部脫位
+503,Q651,"Congenital dislocation of hip, bilateral",先天性雙側髖部脫位
+504,Q652,"Congenital dislocation of hip, unspecified",先天性髖部脫位，未特定
+505,Q653,"Congenital partial dislocation of hip, unilateral",先天性單側髖部部分脫位
+506,Q6530,"Congenital partial dislocation of hip, unilateral, unspecified side",先天性未特定側單側髖部部分脫位
+507,Q6531,Congenital partial dislocation of right hip,先天性右側髖部部分脫位
+508,Q6532,Congenital partial dislocation of left hip,先天性左側髖部部分脫位
+509,Q654,"Congenital partial dislocation of hip, bilateral",先天性雙側髖部部分脫位
+510,Q655,"Congenital partial dislocation of hip, unspecified",先天性髖部部分脫位，未特定
+511,Q656,Congenital unstable hip,先天性髖部不穩
+512,Q658,Other congenital deformities of hip,其他先天性髖部變形
+513,Q659,"Congenital deformity of hip, unspecified",先天性髖部變形，未特定
+514,Q66,Congenital deformities of feet,先天性足變形
+515,Q660,Congenital talipes equinovarus,先天性馬蹄內翻足
+516,Q661,Congenital talipes calcaneovarus,先天性跟骨內翻足
+517,Q662,Congenital metatarsus (primus) varus,先天性 (第一)蹠骨內翻
+518,Q663,Other congenital varus deformities of feet,其他先天性足內翻變形
+519,Q664,Congenital talipes calcaneovalgus,先天性跟骨外翻足
+520,Q665,Congenital pes planus,先天性扁平足
+521,Q666,Other congenital valgus deformities of feet,其他先天性足外翻變形
+522,Q667,Congenital pes cavus,先天性弓形足
+523,Q668,Other congenital deformities of feet,其他先天性足變形
+524,Q669,"Congenital deformity of feet, unspecified",先天性足變形，未特定
+525,Q67,"Congenital musculoskeletal deformities of head, face, spine and chest",頭、顏面、脊椎及胸之先天性肌肉骨骼變形
+526,Q670,Congenital facial asymmetry,先天性顏面不對稱
+527,Q671,Congenital compression facies,先天性扁臉
+528,Q672,Dolichocephaly,長頭
+529,Q673,Plagiocephaly,斜頭
+530,Q674,"Other congenital deformities of skull, face and jaw",其他先天性顱骨、顏面及頷骨變形
+531,Q675,Congenital deformity of spine,先天性脊椎變形
+532,Q676,Pectus excavatum,漏斗胸
+533,Q677,Pectus carinatum,雞胸
+534,Q678,Other congenital deformities of chest,其他先天性胸部變形
+535,Q68,Other congenital musculoskeletal deformities,先天性肌肉骨骼其他變形
+536,Q680,Congenital deformity of sternocleidomastoid muscle,先天性胸鎖乳突肌變形
+537,Q681,Congenital deformity of finger(s) and hand,先天性手指和手變形
+538,Q682,Congenital deformity of knee,先天性膝變形
+539,Q683,Congenital bowing of femur,先天性股骨弓形彎曲
+540,Q684,Congenital bowing of tibia and fibula,先天性脛骨及腓骨弓形彎曲
+541,Q685,"Congenital bowing of long bones of leg, unspecified",先天性小腿長骨弓形彎曲，未特定
+542,Q686,Discoid meniscus,盤狀半月板異常
+543,Q688,Other specified congenital musculoskeletal deformities,其他特定的先天性肌肉骨骼變形
+544,Q69,Polydactyly,多指[趾]
+545,Q690,Accessory finger(s),副指
+546,Q691,Accessory thumb(s),副姆指
+547,Q692,Accessory toe(s),副趾
+548,Q699,"Polydactyly, unspecified",多指[趾]，未特定
+549,Q70,Syndactyly,併指[趾]
+550,Q700,Fused fingers,融合指
+551,Q7000,"Fused fingers, unspecified fingers",未特定指融合指
+552,Q7001,Fused right fingers,右側融合指
+553,Q7002,Fused left fingers,左側融合指
+554,Q7003,"Fused fingers, bilateral",雙側融合指
+555,Q701,Webbed fingers,蹼指
+556,Q7010,"Webbed fingers, unspecified side",未特定側蹼指
+557,Q7011,Webbed right fingers,右側蹼指
+558,Q7012,Webbed left fingers,左側蹼指
+559,Q7013,"Webbed fingers, bilateral",雙側蹼指
+560,Q702,Fused toes,腳趾融合
+561,Q703,Webbed toes,蹼趾
+562,Q704,Polysyndactyly,多指併指[趾]
+563,Q709,"Syndactyly, unspecified",併指[趾]，未特定
+564,Q71,Reduction defects of upper limb,先天性上肢完全缺損
+565,Q710,Congenital complete absence of upper limb,先天性僅存之手伴有上肢及前臂缺損
+566,Q7100,"Congenital complete absence of upper limb, unspecified side",先天性未特定側上肢完全缺損
+567,Q7101,Congenital complete absence of right upper limb,先天性右側上肢完全缺損
+568,Q7102,Congenital complete absence of left upper limb,先天性左側上肢完全缺損
+569,Q7103,"Congenital complete absence of upper limb, bilateral",先天性雙側上肢完全缺損
+570,Q711,Congenital absence of upper arm and forearm with hand present,先天性僅存之手伴有上肢及前臂缺損
+571,Q7110,"Congenital absence of upper arm and forearm with hand present, unspecified side",先天性未特定側僅存之手伴有上肢及前臂缺損
+572,Q7111,Congenital absence of right upper arm and forearm with hand present,先天性右側僅存之手伴有上肢及前臂缺損
+573,Q7112,Congenital absence of left upper arm and forearm with hand present,先天性左側僅存之手伴有上肢及前臂缺損
+574,Q7113,"Congenital absence of upper arm and forearm with hand present, bilateral",先天性雙側僅存之手伴有上肢及前臂缺損
+575,Q712,Congenital absence of both forearm and hand,先天性前臂及手缺損
+576,Q7120,"Congenital absence of both forearm and hand, unspecified side",先天性未特定側前臂及手缺損
+577,Q7121,Congenital absence of both right forearm and hand,先天性右側前臂及手缺損
+578,Q7122,Congenital absence of both left forearm and hand,先天性左側前臂及手缺損
+579,Q7123,"Congenital absence of both forearm and hand, bilateral",先天性雙側前臂及手皆有缺損
+580,Q713,Congenital absence of hand and finger,先天性手及手指缺損
+581,Q7130,"Congenital absence of hand and finger, unspecified side",先天性未特定側手及手指缺損
+582,Q7131,Congenital absence of right hand and finger,先天性右側手及手指缺損
+583,Q7132,Congenital absence of left hand and finger,先天性左側手及手指缺損
+584,Q7133,"Congenital absence of hand and finger, bilateral",先天性雙側手及手指缺損
+585,Q714,Longitudinal reduction defect of radius,橈骨縱行短縮缺陷
+586,Q7140,"Longitudinal reduction defect of radius, unspecified side",未特定側橈骨縱行短縮缺陷
+587,Q7141,Longitudinal reduction defect of right radius,右側橈骨縱行短縮缺陷
+588,Q7142,Longitudinal reduction defect of left radius,左側橈骨縱行短縮缺陷
+589,Q7143,"Longitudinal reduction defect of radius, bilateral",雙側橈骨縱行短縮缺陷
+590,Q715,Longitudinal reduction defect of ulna,尺骨縱行短縮缺陷
+591,Q7150,"Longitudinal reduction defect of ulna, unspecified side",未特定側尺骨縱行短縮缺陷
+592,Q7151,Longitudinal reduction defect of right ulna,右側尺骨縱行短縮缺陷
+593,Q7152,Longitudinal reduction defect of left ulna,左側尺骨縱行短縮缺陷
+594,Q7153,"Longitudinal reduction defect of ulna, bilateral",雙側尺骨縱行短縮缺陷
+595,Q716,Lobster-claw hand,龍蝦爪形手
+596,Q7160,"Lobster-claw hand, unspecified side",未特定側龍蝦爪形手
+597,Q7161,Lobster-claw right hand,右側龍蝦爪形手
+598,Q7162,Lobster-claw left hand,左側龍蝦爪形手
+599,Q7163,"Lobster-claw hand, bilateral",雙側龍蝦爪形手
+600,Q718,Other reduction defects of upper limb,龍蝦爪形手
+601,Q7180,"Other reduction defects of upper limb, unspecified side",未特定側上肢其他短縮缺陷
+602,Q7181,Other reduction defects of right upper limb,右側上肢其他短縮缺陷
+603,Q7182,Other reduction defects of left upper limb,左側上肢其他短縮缺陷
+604,Q7183,"Other reduction defects of upper limb, bilateral",雙側上肢其他短縮缺陷
+605,Q719,"Reduction defect of upper limb, unspecified",上肢未特定短縮缺陷
+606,Q7190,"Reduction defect of upper limb, unspecified, side unspecified",未特定側上肢未特定短縮缺陷
+607,Q7191,"Reduction defect of right upper limb, unspecified",右側上肢未特定短縮缺陷，未特定
+608,Q7192,"Reduction defect of left upper limb, unspecified",左側上肢未特定短縮缺陷，未特定
+609,Q7193,"Reduction defect of upper limb, unspecified, bilateral",雙側上肢未特定短縮缺陷
+610,Q72,Reduction defects of lower limb,先天性下肢完全缺損
+611,Q720,Congenital complete absence of lower limb,先天性下肢完全缺損
+612,Q7200,"Congenital complete absence of lower limb, unspecified side",先天性未特定側下肢完全缺損
+613,Q7201,Congenital complete absence of right lower limb,先天性右側下肢完全缺損
+614,Q7202,Congenital complete absence of left lower limb,先天性左側下肢完全缺損
+615,Q7203,"Congenital complete absence of lower limb, bilateral",先天性雙側下肢完全缺損
+616,Q721,Congenital absence of thigh and lower leg with foot present,先天性僅存之足伴有大腿及小腿缺損
+617,Q7210,"Congenital absence of thigh and lower leg with foot present, unspecified side",先天性未特定側僅存之足伴有大腿及小腿缺損
+618,Q7211,Congenital absence of right thigh and lower leg with foot present,先天性僅存之足伴有右側大腿及小腿缺損
+619,Q7212,Congenital absence of left thigh and lower leg with foot present,先天性僅存之足伴有左側大腿及小腿缺損
+620,Q7213,"Congenital absence of thigh and lower leg with foot present, bilateral",先天性僅存之足伴有雙側大腿及小腿缺損
+621,Q722,Congenital absence of both lower leg and foot,先天性小腿及足缺損
+622,Q7220,"Congenital absence of both lower leg and foot, unspecified side",先天性未特定側小腿及足缺損
+623,Q7221,Congenital absence of both right lower leg and foot,先天性右側小腿及足缺損
+624,Q7222,Congenital absence of both left lower leg and foot,先天性左側小腿及足缺損
+625,Q7223,"Congenital absence of both lower leg and foot, bilateral",先天性雙側小腿及足缺損
+626,Q723,Congenital absence of foot and toe(s),先天性足及趾缺損
+627,Q7230,"Congenital absence of foot and toe(s), unspecified side",先天性未特定側足及趾缺損
+628,Q7231,Congenital absence of right foot and toe(s),先天性右側足及趾缺損
+629,Q7232,Congenital absence of left foot and toe(s),先天性左側足及趾缺損
+630,Q7233,"Congenital absence of foot and toe(s), bilateral",先天性雙側足及趾缺損
+631,Q724,Longitudinal reduction defect of femur,股骨縱行短縮缺陷
+632,Q7240,"Longitudinal reduction defect of femur, unspecified side",未特定側股骨縱行短縮缺陷
+633,Q7241,Longitudinal reduction defect of right femur,右側股骨縱行短縮缺陷
+634,Q7242,Longitudinal reduction defect of left femur,左側股骨縱行短縮缺陷
+635,Q7243,"Longitudinal reduction defect of femur, bilateral",雙側股骨縱行短縮缺陷
+636,Q725,Longitudinal reduction defect of tibia,脛骨縱行短縮缺陷
+637,Q7250,"Longitudinal reduction defect of tibia, unspecified side",未特定側脛骨縱行短縮缺陷
+638,Q7251,Longitudinal reduction defect of right tibia,右側脛骨縱行短縮缺陷
+639,Q7252,Longitudinal reduction defect of left tibia,左側脛骨縱行短縮缺陷
+640,Q7253,"Longitudinal reduction defect of tibia, bilateral",雙側脛骨縱行短縮缺陷
+641,Q726,Longitudinal reduction defect of fibula,腓骨縱行短縮缺陷
+642,Q7260,"Longitudinal reduction defect of fibula, unspecified side",未特定側腓骨縱行短縮缺陷
+643,Q7261,Longitudinal reduction defect of right fibula,右側腓骨縱行短縮缺陷
+644,Q7262,Longitudinal reduction defect of left fibula,左側腓骨縱行短縮缺陷
+645,Q7263,"Longitudinal reduction defect of fibula, bilateral",雙側腓骨縱行短縮缺陷
+646,Q727,Split foot,足裂
+647,Q7270,"Split foot, unspecified side",未特定側足裂
+648,Q7271,Right split foot,右側足裂
+649,Q7272,Left split foot,左側足裂
+650,Q7273,"Split foot, bilateral",雙側足裂
+651,Q728,Other reduction defects of lower limb,下肢其他短縮缺陷
+652,Q7280,"Other reduction defects of lower limb, unspecified side",未特定側下肢其他短縮缺陷
+653,Q7281,Other reduction defects of right lower limb,右側下肢其他短縮缺陷
+654,Q7282,Other reduction defects of left lower limb,左側下肢其他短縮缺陷
+655,Q7283,"Other reduction defects of lower limb, bilateral",雙側下肢其他短縮缺陷
+656,Q729,"Reduction defect of lower limb, unspecified",下肢未特定短縮缺陷
+657,Q7290,"Reduction defect of lower limb, unspecified, unspecified side",未特定側下肢未特定短縮缺陷
+658,Q7291,"Reduction defect of right lower limb, unspecified",右側下肢短縮缺陷，未特定
+659,Q7292,"Reduction defect of left lower limb, unspecified",左側下肢短縮缺陷，未特定
+660,Q7293,"Reduction defect of lower limb, unspecified, bilateral",未特定雙側下肢短縮缺陷
+661,Q73,Reduction defects of unspecified limb,未特定肢體短縮缺陷
+662,Q730,Congenital absence of unspecified limb(s),先天性未特定肢體缺損
+663,Q731,"Phocomelia, unspecified limb(s)",未特定肢體海豹肢
+664,Q738,Other reduction defects of unspecified limb(s),未特定肢體其他短縮缺陷
+665,Q74,Other congenital malformations of limb(s),其他先天性肢體畸形
+666,Q740,"Other congenital malformations of upper limb(s), including shoulder girdle",其他先天性含肩胛帶之上肢畸形
+667,Q741,Congenital malformation of knee,先天性膝部畸形
+668,Q742,"Other congenital malformations of lower limb(s), including pelvic girdle",其他先天性含骨盆帶之下肢畸形
+669,Q743,Arthrogryposis multiplex congenita,先天性多重關節彎曲症
+670,Q748,Other specified congenital malformations of limb(s),其他特定的先天性肢體畸形
+671,Q749,Unspecified congenital malformation of limb(s),未特定先天性肢體畸形
+672,Q75,Other congenital malformations of skull and face bones,其他先天性顱骨及顏面骨畸形
+673,Q750,Craniosynostosis,顱骨縫過早封閉
+674,Q751,Craniofacial dysostosis,顱顏面骨成骨不全
+675,Q752,Hypertelorism,眼距過寬
+676,Q753,Macrocephaly,巨頭
+677,Q754,Mandibulofacial dysostosis,下頷顏面骨成骨不全
+678,Q755,Oculomandibular dysostosis,眼下頷成骨不全
+679,Q758,Other specified congenital malformations of skull and face bones,其他特定的先天性顱骨及顏面骨畸形
+680,Q759,"Congenital malformation of skull and face bones, unspecified",先天性顱骨及顏面骨畸形，未特定
+681,Q76,Congenital malformations of spine and bony thorax,先天性脊椎及骨胸廓畸形
+682,Q760,Spina bifida occulta,隱性脊柱裂
+683,Q761,Klippel-Feil syndrome,Klippel-Feil症候群
+684,Q762,Congenital spondylolisthesis,先天性脊椎滑脫
+685,Q763,Congenital scoliosis due to congenital bony malformation,先天性骨畸形所致之先天性脊椎側彎
+686,Q764,"Other congenital malformations of spine, not associated with scoliosis",其他先天性脊椎側彎無關者之脊椎畸形
+687,Q7641,Congenital kyphosis,先天性脊椎後彎
+688,Q76411,"Congenital kyphosis, occipito-atlanto-axial region",先天性枕骨-寰-軸椎脊柱後彎
+689,Q76412,"Congenital kyphosis, cervical region",先天性頸椎後彎
+690,Q76413,"Congenital kyphosis, cervicothoracic region",先天性頸胸椎後彎
+691,Q76414,"Congenital kyphosis, thoracic region",先天性胸椎後彎
+692,Q76415,"Congenital kyphosis, thoracolumbar region",先天性胸腰椎後彎
+693,Q76419,"Congenital kyphosis, unspecified region",先天性未特定脊椎後彎
+694,Q7642,Congenital lordosis,先天性脊椎前彎
+695,Q76425,"Congenital lordosis, thoracolumbar region",先天性胸腰椎前彎
+696,Q76426,"Congenital lordosis, lumbar region",先天性腰椎前彎
+697,Q76427,"Congenital lordosis, lumbosacral region",先天性腰胝椎前彎
+698,Q76428,"Congenital lordosis, sacral and sacrococcygeal region",先天性薦及薦胝椎前彎
+699,Q76429,"Congenital lordosis, unspecified region",先天性未特定脊椎前彎
+700,Q7649,"Other congenital malformations of spine, not associated with scoliosis",其他先天性脊椎側彎無關者之脊椎畸形
+701,Q765,Cervical rib,頸肋骨
+702,Q766,Other congenital malformations of ribs,其他先天性肋骨畸形
+703,Q767,Congenital malformation of sternum,先天性胸骨畸形
+704,Q768,Other congenital malformations of bony thorax,其他先天性骨胸廓畸形
+705,Q769,"Congenital malformation of bony thorax, unspecified",先天性骨胸廓畸形，未特定
+706,Q77,Osteochondrodysplasia with defects of growth of tubular bones and spine,骨軟骨發育不良伴有管狀骨及脊椎生長缺陷
+707,Q770,Achondrogenesis,軟骨生成不良
+708,Q771,Thanatophoric short stature,致死性矮小
+709,Q772,Short rib syndrome,短肋症候群
+710,Q773,Chondrodysplasia punctata,點狀軟骨發育不良
+711,Q774,Achondroplasia,軟骨發育不良
+712,Q775,Diastrophic dysplasia,彎曲變型性發育不良
+713,Q776,Chondroectodermal dysplasia,軟骨外胚層發育不良
+714,Q777,Spondyloepiphyseal dysplasia,脊椎骨骺發育不良
+715,Q778,Other osteochondrodysplasia with defects of growth of tubular bones and spine,其他骨軟骨發育不良伴有管狀骨及脊椎生長缺陷
+716,Q779,"Osteochondrodysplasia with defects of growth of tubular bones and spine, unspecified",骨軟骨發育不良伴有管狀骨及脊椎生長缺陷，未特定
+717,Q78,Other osteochondrodysplasias,其他骨軟骨發育不良
+718,Q780,Osteogenesis imperfecta,成骨不全
+719,Q781,Polyostotic fibrous dysplasia,多骨性纖維發育不良
+720,Q782,Osteopetrosis,骨質石化症
+721,Q783,Progressive diaphyseal dysplasia,漸進性骨幹發育不良
+722,Q784,Enchondromatosis,內生軟骨瘤症
+723,Q785,Metaphyseal dysplasia,骨幹骺端發育不良
+724,Q786,Multiple congenital exostoses,先天性多發性外生骨贅
+725,Q788,Other specified osteochondrodysplasias,其他特定的骨軟骨發育不良
+726,Q789,"Osteochondrodysplasia, unspecified",骨軟骨發育不良，未特定
+727,Q79,"Congenital malformations of musculoskeletal system, not elsewhere classified",先天性肌肉骨骼系統畸形，他處未歸類者
+728,Q790,Congenital diaphragmatic hernia,先天性橫膈疝氣
+729,Q791,Other congenital malformations of diaphragm,其他先天性橫膈膜畸形
+730,Q792,Exomphalos,臍膨出
+731,Q793,Gastroschisis,裂腹畸形
+732,Q794,Prune belly syndrome,梅腹症候群
+733,Q795,Other congenital malformations of abdominal wall,其他先天性腹壁畸形
+734,Q7951,Congenital hernia of bladder,先天性膀胱疝氣
+735,Q7959,Other congenital malformations of abdominal wall,其他先天性腹壁畸形
+736,Q796,Ehlers-Danlos syndrome,Ehlers-Danlos症候群
+737,Q798,Other congenital malformations of musculoskeletal system,其他先天性肌肉骨骼系統畸形
+738,Q799,"Congenital malformation of musculoskeletal system, unspecified",先天性肌肉骨骼系統畸形，未特定
+739,Q80,Congenital ichthyosis,先天性魚鱗癬
+740,Q800,Ichthyosis vulgaris,尋常魚鱗癬
+741,Q801,X-linked ichthyosis,X-性聯遺傳魚鱗癬
+742,Q802,Lamellar ichthyosis,層狀魚鱗癬
+743,Q803,Congenital bullous ichthyosiform erythroderma,先天性水疱性魚鱗癬狀紅皮症
+744,Q804,Harlequin fetus,斑色胎
+745,Q808,Other congenital ichthyosis,其他先天性魚鱗癬
+746,Q809,"Congenital ichthyosis, unspecified",先天性魚鱗癬，未特定
+747,Q81,Epidermolysis bullosa,水疱性表皮鬆解症
+748,Q810,Epidermolysis bullosa simplex,單純水疱性表皮鬆解症
+749,Q811,Epidermolysis bullosa letalis,致死性水疱性表皮鬆解症
+750,Q812,Epidermolysis bullosa dystrophica,失養性水疱性表皮鬆解症
+751,Q818,Other epidermolysis bullosa,其他水疱性表皮鬆解症
+752,Q819,"Epidermolysis bullosa, unspecified",水疱性表皮鬆解症，未特定
+753,Q82,Other congenital malformations of skin,皮膚其他先天性畸形
+754,Q820,Hereditary lymphedema,遺傳性淋巴水腫
+755,Q821,Xeroderma pigmentosum,色素性乾皮症
+756,Q822,Mastocytosis,肥大細胞增多症
+757,Q823,Incontinentia pigmenti,色素失調症
+758,Q824,Ectodermal dysplasia (anhidrotic),(無汗性)皮膚外胚層發育不良
+759,Q825,Congenital non-neoplastic nevus,先天性非腫瘤性痣
+760,Q828,Other specified congenital malformations of skin,皮膚其他特定的先天性畸形
+761,Q829,"Congenital malformation of skin, unspecified",皮膚先天性畸形，未特定
+762,Q83,Congenital malformations of breast,乳房先天性畸形
+763,Q830,Congenital absence of breast with absent nipple,先天性乳房缺損伴有乳頭缺損
+764,Q831,Accessory breast,副乳
+765,Q832,Absent nipple,無乳頭
+766,Q833,Accessory nipple,副乳頭
+767,Q838,Other congenital malformations of breast,乳房其他先天性畸形
+768,Q839,"Congenital malformation of breast, unspecified",乳房先天性畸形，未特定
+769,Q84,Other congenital malformations of integument,體表其他先天性畸形
+770,Q840,Congenital alopecia,先天性禿
+771,Q841,"Congenital morphological disturbances of hair, not elsewhere classified",毛髮先天性形態障礙，他處未歸類者
+772,Q842,Other congenital malformations of hair,毛髮其他先天性畸形
+773,Q843,Anonychia,無指[趾]甲症
+774,Q844,Congenital leukonychia,先天性指[趾]甲白斑症
+775,Q845,Enlarged and hypertrophic nails,腫大及增生的指[趾]甲
+776,Q846,Other congenital malformations of nails,指[趾]甲其他先天性畸形
+777,Q848,Other specified congenital malformations of integument,體表其他特定的先天性畸形
+778,Q849,"Congenital malformation of integument, unspecified",皮膚先天性畸形，未特定
+779,Q85,"Phakomatoses, not elsewhere classified",斑痣性瘤症，他處未歸類者
+780,Q850,Neurofibromatosis (nonmalignant),(非惡性)神經纖維瘤症
+781,Q851,Tuberous sclerosis,結節性硬化症
+782,Q858,"Other phakomatoses, not elsewhere classified",其他斑痣性瘤症，他處未歸類者
+783,Q859,"Phakomatosis, unspecified",斑痣性瘤症，未特定
+784,Q86,"Congenital malformation syndromes due to known exogenous causes, not elsewhere classified",已知外在原因所致之先天性畸形症候群，他處未歸類者
+785,Q860,Fetal alcohol syndrome (dysmorphic),異形性胎兒酒精症候群
+786,Q861,Fetal hydantoin syndrome,胎兒內醯脲症候群
+787,Q862,Dysmorphism due to warfarin,Warfarin所致之異形
+788,Q868,Other congenital malformation syndromes due to known exogenous causes,已知外在原因所致之其他先天性畸形症候群
+789,Q87,Other specified congenital malformation syndromes affecting multiple systems,影響多重系統其他特定的先天性畸形症候群
+790,Q870,Congenital malformation syndromes predominantly affecting facial appearance,影響顏面為主的先天性畸形症候群
+791,Q871,Congenital malformation syndromes predominantly associated with short stature,體型短小為主的先天性畸形症候群
+792,Q872,Congenital malformation syndromes predominantly involving limbs,涉及肢體為主的先天性畸形症候群
+793,Q873,Congenital malformation syndromes involving early overgrowth,涉及早期過度生長的先天性畸形症候群
+794,Q874,Marfan's syndrome,Marfan氏症候群
+795,Q8740,"Marfan's syndrome, unspecified",Marfan氏症候群，未特定
+796,Q8741,Marfan's syndrome with cardiovascular manifestations,Marfan氏症候群伴有心血管病病徵
+797,Q87410,Marfan's syndrome with aortic dilation,Marfan氏症候群伴有主動脈擴張
+798,Q87418,Marfan's syndrome with other cardiovascular manifestations,Marfan氏症候群伴有心血管病病徵
+799,Q8742,Marfan's syndrome with ocular manifestations,Marfan氏症候群伴有眼部病徵
+800,Q8743,Marfan's syndrome with skeletal manifestation,Marfan氏症候群伴有骨骼病徵
+801,Q875,Other congenital malformation syndromes with other skeletal changes,其他先天性畸形症候群伴有其他骨骼變化
+802,Q878,"Other specified congenital malformation syndromes, not elsewhere classified",其他特定的先天性畸形症候群，他處未歸類者
+803,Q8781,Alport syndrome,Alport氏症候群
+804,Q8789,"Other specified congenital malformation syndromes, not elsewhere classified",其他特定的先天性畸形症候群，他處未歸類者
+805,Q89,"Other congenital malformations, not elsewhere classified",其他先天性畸形，他處未歸類者
+806,Q890,Congenital absence and malformations of spleen,先天性無脾及脾畸形
+807,Q8901,Asplenia (congenital),(先天性)無脾
+808,Q8909,Congenital malformations of spleen,脾先天性畸形
+809,Q891,Congenital malformations of adrenal gland,腎上腺先天性畸形
+810,Q892,Congenital malformations of other endocrine glands,其他內分泌腺先天性畸形
+811,Q893,Situs inversus,內臟反位
+812,Q894,Conjoined twins,連體嬰
+813,Q897,"Multiple congenital malformations, not elsewhere classified",多重性先天畸形，他處未歸類者
+814,Q898,Other specified congenital malformations,其他特定的先天性畸形
+815,Q899,"Congenital malformation, unspecified",先天性畸形，未特定
+816,Q90,Down syndrome,唐氏症
+817,Q900,"Trisomy 21, nonmosaicism (meiotic nondisjunction)",第21號體染色體三條，非嵌合型(減數分裂不分離)
+818,Q901,"Trisomy 21, mosaicism (mitotic nondisjunction)",第21號體染色體三條，嵌合型(有絲分裂不分離)
+819,Q902,"Trisomy 21, translocation",第21號體染色體三條，轉位
+820,Q909,"Down's syndrome, unspecified",唐氏症，未特定
+821,Q91,Trisomy 18 and Trisomy 13,第18號體染色體及第13號體染色體
+822,Q910,"Trisomy 18, nonmosaicism (meiotic nondisjunction)",第18號體染色體三條，非嵌合型(減數分裂不分離)
+823,Q911,"Trisomy 18, mosaicism (mitotic nondisjunction)",第18號體染色體三條，嵌合型(有絲分裂不分離)
+824,Q912,"Trisomy 18, translocation",第18號體染色體三條，轉位
+825,Q913,"Trisomy 18, unspecified",第18號體染色體三條，未特定
+826,Q914,"Trisomy 13, nonmosaicism (meiotic nondisjunction)",第13號體染色體三條，非嵌合型(減數分裂不分離)
+827,Q915,"Trisomy 13, mosaicism (mitotic nondisjunction)",第13號體染色體三條，嵌合型(有絲分裂不分離)
+828,Q916,"Trisomy 13, translocation",第13號體染色體三條，轉位
+829,Q917,"Trisomy 13, unspecified",第13號體染色體三條，未特定
+830,Q92,"Other trisomies and partial trisomies of the autosomes, not elsewhere classified",其他三條體染色體和部份三條體染色體，他處未歸類者
+831,Q920,"Whole chromosome trisomy, nonmosaicism (meiotic nondisjunction)",全部體染色體三條，非嵌合型(減數分裂不分離)
+832,Q921,"Whole chromosome trisomy, mosaicism (mitotic nondisjunction)",全部體染色體三條，嵌合型(有絲分裂不分離)
+833,Q922,Partial trisomy,部份染色體三條
+834,Q925,Duplications with other complex rearrangements,染色體重複伴有其他複雜性的重新排列
+835,Q926,Marker chromosomes,標記染色體
+836,Q9261,Marker chromosomes in normal individual,正常個體的標記染色體
+837,Q9262,Marker chromosomes in abnormal individual,異常個體的標記染色體
+838,Q927,Triploidy and polyploidy,三套染色體及多套染色體
+839,Q928,Other specified trisomies and partial trisomies of autosomes,其他特定的三條體染色體和部份三條體染色體
+840,Q929,"Trisomy and partial trisomy of autosomes, unspecified",三條體染色體和部份三條體染色體，未特定
+841,Q93,"Monosomies and deletions from the autosomes, not elsewhere classified",體染色體的單條及缺損，他處未歸類者
+842,Q930,"Whole chromosome monosomy, nonmosaicism (meiotic nondisjunction)",全部染色體單條，非嵌合型(減數分裂不分離)
+843,Q931,"Whole chromosome monosomy, mosaicism (mitotic nondisjunction)",全部染色體單條，嵌合型(有絲分裂不分離)
+844,Q932,"Chromosome replaced with ring, dicentric or isochromosome",環狀染色體、兩中心粒或等臂染色體
+845,Q933,Deletion of short arm of chromosome 4,第4號染色體短臂缺損
+846,Q934,Deletion of short arm of chromosome 5,第5號染色體短臂缺損
+847,Q935,Other deletions of part of a chromosome,其他部份染色體缺損
+848,Q937,Deletions with other complex rearrangements,染色體缺損伴有其他複雜性的重新排列
+849,Q938,Other deletions from the autosomes,體染色體其他缺損
+850,Q9381,Velo-cardio-facial syndrome,Velo-cardio-facial 症候群
+851,Q9388,Other microdeletions,其他微小缺損
+852,Q9389,Other deletions from the autosomes,體染色體其他缺損
+853,Q939,"Deletion from autosomes, unspecified",體染色體缺損，未特定
+854,Q95,"Balanced rearrangements and structural markers, not elsewhere classified",平衡重新排列染色體及結構標誌，他處未歸類者
+855,Q950,Balanced translocation and insertion in normal individual,正常個體平衡轉位及嵌入
+856,Q951,Chromosome inversion in normal individual,正常個體體染色體倒轉
+857,Q952,Balanced autosomal rearrangement in abnormal individual,異常個體平衡的體染色體重新排列
+858,Q953,Balanced sex/autosomal rearrangement in abnormal individual,異常個體平衡的性∕體染色體重新排列
+859,Q955,Individual with autosomal fragile site,個體伴有體染色體脆折處
+860,Q958,Other balanced rearrangements and structural markers,其他平衡重新排列染色體及結構標記
+861,Q959,"Balanced rearrangement and structural marker, unspecified",平衡重新排列染色體及結構標誌，未特定
+862,Q96,Turner's syndrome,Turner氏症候群
+863,Q960,"Karyotype 45, X",核型 45 X
+864,Q961,"Karyotype 46, X iso (Xq)",核型 46 X iso(Xq)
+865,Q962,"Karyotype 46, X with abnormal sex chromosome, except iso (Xq)",核型 46 X，伴有性染色體異常，iso(Xq)除外
+866,Q963,"Mosaicism, 45, X/46, XX or XY",嵌合型，45 X∕46 XX或XY
+867,Q964,"Mosaicism, 45, X/other cell line(s) with abnormal sex chromosome",嵌合型，45 X∕其他細胞株伴有異常的性染色體
+868,Q968,Other variants of Turner's syndrome,Turner氏症候群其他變異型
+869,Q969,"Turner's syndrome, unspecified",Turner氏症候群，未特定
+870,Q97,"Other sex chromosome abnormalities, female phenotype, not elsewhere classified",其他性染色體異常，女性表現型，他處未歸類者
+871,Q970,"Karyotype 47, XXX",核型 47 XXX
+872,Q971,Female with more than three X chromosomes,女性具有3個X以上染色體
+873,Q972,"Mosaicism, lines with various numbers of X chromosomes",嵌合型，細胞株伴有不同數目的X-染色體
+874,Q973,"Female with 46, XY karyotype",女性具有46 XY核型
+875,Q978,"Other specified sex chromosome abnormalities, female phenotype",其他特定的性染色體異常，女性表現型
+876,Q979,"Sex chromosome abnormality, female phenotype, unspecified",性染色體異常，女性表現型，未特定
+877,Q98,"Other sex chromosome abnormalities, male phenotype, not elsewhere classified",其他性染色體異常，男性表現型，他處未歸類者
+878,Q980,"Klinefelter syndrome karyotype 47, XXY",Klinefelter氏症候群，47 XXY核型
+879,Q981,"Klinefelter syndrome, male with more than two X chromosomes",Klinefelter (氏)症候群、男性伴有多於兩個的X-染色體
+880,Q983,"Other male with 46, XX karyotype",其他男性伴有46 XX核型
+881,Q984,"Klinefelter syndrome, unspecified",Klinefelter (氏)症候群，未特定者，未特定
+882,Q985,"Karyotype 47, XYY",47 XYY核型
+883,Q986,Male with structurally abnormal sex chromosome,男性伴有結構異常的性染色體
+884,Q987,Male with sex chromosome mosaicism,男性伴有性染色體嵌合型
+885,Q988,"Other specified sex chromosome abnormalities, male phenotype",其他特定的性染色體異常，男性表現型
+886,Q989,"Sex chromosome abnormality, male phenotype, unspecified",性染色體異常，男性表現型，未特定
+887,Q99,"Other chromosome abnormalities, not elsewhere classified",其他染色體異常，他處未歸類者
+888,Q990,"Chimera 46, XX/46, XY",嵌合體46XX∕46XY
+889,Q991,"46, XX true hermaphrodite",46 XX真性陰陽人
+890,Q992,Fragile X chromosome,X-染色體脆折症
+891,Q998,Other specified chromosome abnormalities,其他特定的染色體異常
+892,Q999,"Chromosomal abnormality, unspecified",染色體異常，未特定
