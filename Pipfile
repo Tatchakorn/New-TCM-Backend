@@ -20,7 +20,6 @@ psycopg2 = "*"
 python-dotenv = "*"
 pandas = "*"
 django-url-filter = "*"
-djangorestframework-filters = "*"
 django-filter = "*"
 
 [dev-packages]
