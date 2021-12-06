@@ -1,8 +1,13 @@
 from rest_framework import serializers
-from .models import Medicines
+from .models import FangMedicines, YaoMedicines
 
 
-class MedicinesSerializer(serializers.ModelSerializer):
+class YaoMedicinesSerializer(serializers.ModelSerializer):
     class Meta:
-        model = Medicines
+        model = YaoMedicines
+        fields = '__all__'
+
+class FangMedicinesSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = FangMedicines
         fields = '__all__'

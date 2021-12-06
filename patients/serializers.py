@@ -27,6 +27,8 @@ class SheImagesSerializer(serializers.ModelSerializer):
 
 class DiagnosisInfoSerializer(serializers.ModelSerializer):
     diagnosisData = serializers.JSONField(source='diagnosis_data')
+    medicalHistory = serializers.JSONField(source='medical_history')
+    diagnosisDesc = serializers.CharField(source='diagnosis_desc')
     yanImages = YanImagesSerializer(
         many=True, read_only=True, source='yan_imgs')
     sheImages = SheImagesSerializer(
@@ -34,7 +36,16 @@ class DiagnosisInfoSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = DiagnosisInfo
-        fields = ('id', 'patient', 'diagnosisData', 'yanImages', 'sheImages',)
+        fields = (
+            'id', 
+            'patient', 
+            'diagnosisData', 
+            'yanImages', 
+            'sheImages', 
+            'medicalHistory',
+            'diagnosisDesc',
+            'physique',
+        )
 
 
 class PatientInfoSerializer(serializers.ModelSerializer):

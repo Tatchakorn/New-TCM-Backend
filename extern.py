@@ -1,4 +1,9 @@
+'''
+For Django Shell only
+'''
+
 import threading
+import json
 from pathlib import Path
 from typing import List
 from pandas import read_excel, read_csv, DataFrame
@@ -6,7 +11,7 @@ from pandas import read_excel, read_csv, DataFrame
 from django.contrib.auth.models import User
 from diseases.models import Diseases
 from patients.models import PatientsInfo
-
+from medicines.models import FangMedicines, YaoMedicines
 
 class ExternDiseases:
 
@@ -62,17 +67,37 @@ class ExternDiseases:
 
 
 class ExternMedicines:
-    ...
-
+    
+    def __init__(self, option: str) -> None:
+        '''
+        option: "fang" or "yao"
+        '''
+        fang_path = Path(r'./extern/medicines/fang/com_db.json')
+        yao_path = None # Later
+        self.json_file = fang_path if option == 'fang' else yao_path
+        self.db_obj = FangMedicines if option == 'fang' else YaoMedicines
+    
+    @staticmethod
+    def read_json(path: Path) -> dict:
+        with open(path, 'r', encoding='utf-8') as f:
+            j = dict(json.loads(f.read()))
+        return j
+    
+    def json_to_db(self) -> None:
+        data = self.read_json(self.json_file)
+        rows = [self.db_obj(bapomofo=key,name=_key,info=_val) 
+                for key, val in data.items()
+                for _key, _val in val.items()]
+        self.db_obj.objects.bulk_create(rows)
 
 def main() -> None:
     '''
     python manage.py shell
     >>> exec(open('extern.py').read())
     '''
-    # user = User.objects.get(username='admin')
-    # print(PatientsInfo.objects.all())
     # ExternDiseases().diseases_csv_to_db()
+    ExternMedicines('fang').json_to_db()
+    # ExternMedicines('yao').json_to_db()
 
 
 main()

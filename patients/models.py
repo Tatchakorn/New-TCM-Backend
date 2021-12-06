@@ -37,6 +37,9 @@ class DiagnosisInfo(models.Model):
         related_name='diagnosis',
         on_delete=models.CASCADE)
     diagnosis_data = models.JSONField(default=dict)
+    medical_history = models.JSONField(default=dict)
+    physique = models.JSONField(default=dict)
+    diagnosis_desc = models.CharField(max_length=400, blank=True, null=True)
 
 
 class YanImages(models.Model):

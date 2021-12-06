@@ -17,6 +17,6 @@ services:
       - "8000:80"
     depends_on:
       - tcm_gunicorn
-
+  
 volumes:
   static:
