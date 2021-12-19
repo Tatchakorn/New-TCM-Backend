@@ -7,7 +7,7 @@ from django.contrib.auth.models import (
     BaseUserManager,
 )
 
-from patients.models import PatientsInfo
+
 
 
 class CustomAccountManager(BaseUserManager):

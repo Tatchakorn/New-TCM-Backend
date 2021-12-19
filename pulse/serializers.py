@@ -8,4 +8,4 @@ class PulseSerializer(serializers.ModelSerializer):
     data = serializers.JSONField()
     class Meta:
         model = Pulse
-        fields = ('data', 'time', 'remarks',)
+        fields = ('name', 'data', 'time', 'remarks',)

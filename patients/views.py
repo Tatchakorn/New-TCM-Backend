@@ -4,8 +4,18 @@ from rest_framework import viewsets, renderers
 from rest_framework.response import Response
 from rest_framework.parsers import FileUploadParser, MultiPartParser, FormParser
 from rest_framework.pagination import PageNumberPagination
-from .models import PatientsInfo, DiagnosisInfo, SheImages, YanImages
-from .serializers import PatientInfoSerializer, DiagnosisInfoSerializer, SheImagesSerializer, YanImagesSerializer
+from .models import (
+    PatientsInfo, 
+    DiagnosisInfo, 
+    SheImages, 
+    YanImages,
+    OwnedPatients)
+from .serializers import (
+    PatientInfoSerializer, 
+    DiagnosisInfoSerializer, 
+    SheImagesSerializer, 
+    YanImagesSerializer,
+    OwnedPatientsSerializers)
 from .models import DiagnosisInfo
 
 
@@ -55,3 +65,8 @@ class YanImagesViewSet(viewsets.ModelViewSet):
 class SheImagesViewSet(viewsets.ModelViewSet):
     queryset = SheImages.objects.all()
     serializer_class = SheImagesSerializer
+
+
+class OwnedPatientsViewSet(viewsets.ModelViewSet):
+    queryset = OwnedPatients.objects.all()
+    serializer_class = OwnedPatientsSerializers

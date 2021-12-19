@@ -1,7 +1,7 @@
 from django.db import models
 from rest_framework import serializers
 from .models import PatientsInfo, DiagnosisInfo, YanImages, SheImages
-
+from .models import OwnedPatients
 
 class YanImagesSerializer(serializers.ModelSerializer):
     image = serializers.ImageField()
@@ -38,7 +38,7 @@ class DiagnosisInfoSerializer(serializers.ModelSerializer):
         model = DiagnosisInfo
         fields = (
             'id', 
-            'patient', 
+            'patient',
             'diagnosisData', 
             'yanImages', 
             'sheImages', 
@@ -76,3 +76,9 @@ class PatientInfoSerializer(serializers.ModelSerializer):
             'medicalOrderNumber',
             'registerTime',
         )
+
+class OwnedPatientsSerializers(serializers.ModelSerializer):
+
+    class Meta:
+        model = OwnedPatients
+        fields = '__all__'
