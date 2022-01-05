@@ -3,14 +3,24 @@ from rest_framework import serializers
 from rest_framework.validators import UniqueValidator
 from .models import CustomUser
 
-from patients.serializers import OwnedPatientsSerializers
+from patients.serializers import (
+    OwnedPatientsSerializers, 
+    PastPatientsSerializers)
 
 class UserSerializer(serializers.ModelSerializer):
     ownedPatients = OwnedPatientsSerializers(
         many=True, read_only=True, source='owned_patients')
+    pastPatients = PastPatientsSerializers(
+        many=True, read_only=True, source='past_patients')
     class Meta:
         model = CustomUser
-        fields = ('id', 'username', 'role', 'email', 'ownedPatients')
+        fields = (
+            'id', 
+            'username', 
+            'role', 
+            'email', 
+            'ownedPatients', 
+            'pastPatients')
 
 
 class UserRegistrationSerializer(serializers.ModelSerializer):

@@ -9,13 +9,15 @@ from .models import (
     DiagnosisInfo, 
     SheImages, 
     YanImages,
-    OwnedPatients)
+    OwnedPatients,
+    PastPatients,)
 from .serializers import (
     PatientInfoSerializer, 
     DiagnosisInfoSerializer, 
     SheImagesSerializer, 
     YanImagesSerializer,
-    OwnedPatientsSerializers)
+    OwnedPatientsSerializers,
+    PastPatientsSerializers,)
 from .models import DiagnosisInfo
 
 
@@ -70,3 +72,8 @@ class SheImagesViewSet(viewsets.ModelViewSet):
 class OwnedPatientsViewSet(viewsets.ModelViewSet):
     queryset = OwnedPatients.objects.all()
     serializer_class = OwnedPatientsSerializers
+
+
+class PastPatientsViewSet(viewsets.ModelViewSet):
+    queryset = PastPatients.objects.all()
+    serializer_class = PastPatientsSerializers

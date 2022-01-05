@@ -1,7 +1,12 @@
 from django.db import models
 from rest_framework import serializers
-from .models import PatientsInfo, DiagnosisInfo, YanImages, SheImages
-from .models import OwnedPatients
+from .models import (
+    PatientsInfo, 
+    DiagnosisInfo, 
+    YanImages, 
+    SheImages, 
+    OwnedPatients, 
+    PastPatients,)
 
 class YanImagesSerializer(serializers.ModelSerializer):
     image = serializers.ImageField()
@@ -81,4 +86,10 @@ class OwnedPatientsSerializers(serializers.ModelSerializer):
 
     class Meta:
         model = OwnedPatients
+        fields = '__all__'
+
+class PastPatientsSerializers(serializers.ModelSerializer):
+
+    class Meta:
+        model = PastPatients
         fields = '__all__'

@@ -72,8 +72,8 @@ class ExternMedicines:
         '''
         option: "fang" or "yao"
         '''
-        fang_path = Path(r'./extern/medicines/fang/com_db.json')
-        yao_path = None # Later
+        fang_path = Path(r'./extern/medicines/fang/fang_data.json')
+        yao_path =  Path(r'./extern/medicines/yao/yao_data.json')
         self.json_file = fang_path if option == 'fang' else yao_path
         self.db_obj = FangMedicines if option == 'fang' else YaoMedicines
     
@@ -89,15 +89,28 @@ class ExternMedicines:
                 for key, val in data.items()
                 for _key, _val in val.items()]
         self.db_obj.objects.bulk_create(rows)
+    
+    def db_delete_all(self):
+        self.db_obj.objects.all().delete()
+    
+    def db_change_all_med_titles(self):
+        # print(type(self.db_obj.objects.all()))
+        for i in self.db_obj.objects.all():
+            print(type(i))
+            print(str(i))
+        # for i in self.db_obj.objects.all():
+        #     print(i)
 
 def main() -> None:
     '''
     python manage.py shell
     >>> exec(open('extern.py').read())
     '''
+    print('[Running]')
     # ExternDiseases().diseases_csv_to_db()
-    ExternMedicines('fang').json_to_db()
+    # ExternMedicines('fang').json_to_db()
     # ExternMedicines('yao').json_to_db()
+    ExternMedicines('fang').db_change_all_med_titles()
 
 
 main()

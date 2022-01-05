@@ -1,5 +1,4 @@
 from django.db import models
-from django.db.models.base import Model
 from django.utils import timezone
 
 from users.models import CustomUser
@@ -29,6 +28,9 @@ class PatientsInfo(models.Model):
 
     def __str__(self) -> str:
         return self.name
+    
+    class Meta:
+        ordering = ['register_time']
 
 
 class DiagnosisInfo(models.Model):
@@ -62,7 +64,23 @@ class SheImages(models.Model):
     remark = models.CharField(max_length=200, blank=True, null=True)
 
 
+class PastPatients(models.Model):
+
+    patient = models.ForeignKey(
+        PatientsInfo,
+        related_name='past_patients',
+        on_delete=models.CASCADE)
+    doctor = models.ForeignKey(
+        CustomUser,
+        related_name='past_patients',
+        on_delete=models.CASCADE)
+    
+    class Meta:
+        pass
+
+
 class OwnedPatients(models.Model):
+
     patient = models.ForeignKey(
         PatientsInfo,
         related_name='owned_patients',
@@ -71,3 +89,6 @@ class OwnedPatients(models.Model):
         CustomUser,
         related_name='owned_patients',
         on_delete=models.CASCADE)
+    
+    class Meta:
+        pass
