@@ -203,14 +203,15 @@ WSGI_APPLICATION = 'tcm_project.wsgi.application'
 #         'NAME': BASE_DIR / 'db.sqlite3',
 #     }
 # }
+
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
         'NAME': os.environ.get('POSTGRES_NAME'),
         'USER': os.environ.get('POSTGRES_USER'),
         'PASSWORD': os.environ.get('POSTGRES_PASSWORD'),
-        'HOST': 'host.docker.internal',
-        # 'HOST': 'localhost',
+        # 'HOST': 'host.docker.internal',
+        'HOST': 'localhost',
         'PORT': '5432',
     }
 }

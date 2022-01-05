@@ -42,7 +42,9 @@ class DiagnosisInfo(models.Model):
     medical_history = models.JSONField(default=dict)
     physique = models.JSONField(default=dict)
     diagnosis_desc = models.CharField(max_length=400, blank=True, null=True)
-
+    diagnosed_time = models.DateTimeField(default=timezone.now)
+    class Meta:
+        ordering = ['diagnosed_time']
 
 class YanImages(models.Model):
     diagnosis = models.ForeignKey(
@@ -64,21 +66,6 @@ class SheImages(models.Model):
     remark = models.CharField(max_length=200, blank=True, null=True)
 
 
-class PastPatients(models.Model):
-
-    patient = models.ForeignKey(
-        PatientsInfo,
-        related_name='past_patients',
-        on_delete=models.CASCADE)
-    doctor = models.ForeignKey(
-        CustomUser,
-        related_name='past_patients',
-        on_delete=models.CASCADE)
-    
-    class Meta:
-        pass
-
-
 class OwnedPatients(models.Model):
 
     patient = models.ForeignKey(
@@ -88,6 +75,20 @@ class OwnedPatients(models.Model):
     doctor = models.ForeignKey(
         CustomUser,
         related_name='owned_patients',
+        on_delete=models.CASCADE)
+    
+    class Meta:
+        pass
+
+
+class PastPatients(models.Model):
+    patient = models.ForeignKey(
+        PatientsInfo,
+        related_name='past_patients',
+        on_delete=models.CASCADE)
+    doctor = models.ForeignKey(
+        CustomUser,
+        related_name='past_patients',
         on_delete=models.CASCADE)
     
     class Meta:

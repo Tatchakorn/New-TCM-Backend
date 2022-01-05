@@ -1,9 +1,6 @@
-from django.db.models import query
-from django.db.models.query import QuerySet
 from rest_framework import viewsets, renderers
-from rest_framework.response import Response
-from rest_framework.parsers import FileUploadParser, MultiPartParser, FormParser
 from rest_framework.pagination import PageNumberPagination
+from django_filters import rest_framework as filters
 from .models import (
     PatientsInfo, 
     DiagnosisInfo, 
@@ -48,13 +45,32 @@ class StandardResultsSetPagination(PageNumberPagination):
     max_page_size = 1000
 
 
+class PatientFilter(filters.FilterSet):
+    
+    class Meta:
+        model = PatientsInfo
+        fields = {
+            'name': ['icontains',],
+            'medical_order_number': ['iexact',],
+        }
+
+
+class DiagnosisFilter(filters.FilterSet):
+    
+    class Meta:
+        model = DiagnosisInfo
+        fields = ['patient',]
+
+
 class PatientViewSet(viewsets.ModelViewSet):
+    filterset_class = PatientFilter
     pagination_class = StandardResultsSetPagination
     queryset = PatientsInfo.objects.all()
     serializer_class = PatientInfoSerializer
 
 
 class DiagnosisViewSet(viewsets.ModelViewSet):
+    filterset_class = DiagnosisFilter
     queryset = DiagnosisInfo.objects.all()
     serializer_class = DiagnosisInfoSerializer
 

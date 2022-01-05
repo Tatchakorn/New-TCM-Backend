@@ -22,7 +22,18 @@ class FangMedicineFilter(filters.FilterSet):
         }
 
 
+class YaoMedicineFilter(filters.FilterSet):
+    
+    class Meta:
+        model = YaoMedicines
+        fields = {
+            'name': ['icontains',],
+            'bapomofo': ['iexact',],
+        }
+
+
 class YaoMedicinesViewset(viewsets.ModelViewSet):
+    filterset_class = YaoMedicineFilter
     pagination_class = StandardResultsSetPagination
     queryset = YaoMedicines.objects.all()
     serializer_class = YaoMedicinesSerializer

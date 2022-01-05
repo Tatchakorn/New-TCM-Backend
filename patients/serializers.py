@@ -38,7 +38,9 @@ class DiagnosisInfoSerializer(serializers.ModelSerializer):
         many=True, read_only=True, source='yan_imgs')
     sheImages = SheImagesSerializer(
         many=True, read_only=True, source='she_imgs')
-
+    diagnosedTime = serializers.DateTimeField(
+        source='diagnosed_time',
+        format=r"%a, %d %b %Y %H:%M:%S %Z")
     class Meta:
         model = DiagnosisInfo
         fields = (
@@ -50,6 +52,7 @@ class DiagnosisInfoSerializer(serializers.ModelSerializer):
             'medicalHistory',
             'diagnosisDesc',
             'physique',
+            'diagnosedTime',
         )
 
 
