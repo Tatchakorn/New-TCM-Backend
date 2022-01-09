@@ -126,16 +126,18 @@ REST_AUTH_REGISTER_SERIALIZERS = {
     'REGISTER_SERIALIZER': 'users.serializers.UserRegistrationSerializer'
 }
 
-CORS_ALLOW_ORIGINS = (
-    'https://tcm2.apulse.ai/',
-    # Vue
-    'http://127.0.0.1:8080',
-    'http://localhost:8080',
+CORS_ALLOW_ALL_ORIGINS = True
 
-    # Django
-    'http://127.0.0.1:8000',
-    'http://localhost:8000',
-)
+# CORS_ALLOW_ORIGINS = (
+#     'https://tcm2.apulse.ai/',
+#     # Vue
+#     'http://127.0.0.1:8080',
+#     'http://localhost:8080',
+
+#     # Django
+#     'http://127.0.0.1:8000',
+#     'http://localhost:8000',
+# )
 
 CORS_ALLOW_HEADERS = list(default_headers) + ['contenttype', ]
 
@@ -253,6 +255,8 @@ USE_TZ = True
 # Static files (CSS, JavaScript, Images)
 # https://docs.djangoproject.com/en/3.2/howto/static-files/
 
+PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__))
+STATIC_ROOT = os.path.join(PROJECT_ROOT, 'static')
 STATIC_URL = '/static/'
 
 # Default primary key field type
