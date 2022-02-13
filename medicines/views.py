@@ -1,10 +1,8 @@
-from django.db.models import fields
-from django.db.models.base import Model
 from rest_framework import viewsets
 from rest_framework.pagination import PageNumberPagination
 from django_filters import rest_framework as filters
-from .models import FangMedicines, YaoMedicines
-from .serializers import FangMedicinesSerializer, YaoMedicinesSerializer
+from .models import Medicine, MedicineRecord
+from .serializers import MedicineSerializer, MedicineRecordSerializer
 
 
 class StandardResultsSetPagination(PageNumberPagination):
@@ -12,36 +10,26 @@ class StandardResultsSetPagination(PageNumberPagination):
     page_size_query_param = 'page_size'
     max_page_size = 100
 
-class FangMedicineFilter(filters.FilterSet):
+
+class MedicineFilter(filters.FilterSet):
     
     class Meta:
-        model = FangMedicines
+        model = Medicine
         fields = {
             'name': ['icontains',],
-            'bapomofo': ['iexact',],
+            'bopomofo': ['iexact',],
         }
 
 
-class YaoMedicineFilter(filters.FilterSet):
-    
-    class Meta:
-        model = YaoMedicines
-        fields = {
-            'name': ['icontains',],
-            'bapomofo': ['iexact',],
-        }
-
-
-class YaoMedicinesViewset(viewsets.ModelViewSet):
-    filterset_class = YaoMedicineFilter
+class MedicineViewset(viewsets.ModelViewSet):
+    filterset_class = MedicineFilter
     pagination_class = StandardResultsSetPagination
-    queryset = YaoMedicines.objects.all()
-    serializer_class = YaoMedicinesSerializer
+    queryset = Medicine.objects.all()
+    serializer_class = MedicineSerializer
 
 
-class FangMedicinesViewset(viewsets.ModelViewSet):
-    filterset_class = FangMedicineFilter
+class MedicineRecordViewset(viewsets.ModelViewSet):
     pagination_class = StandardResultsSetPagination
-    queryset = FangMedicines.objects.all()
-    serializer_class = FangMedicinesSerializer
+    queryset = MedicineRecord.objects.all()
+    serializer_class = MedicineRecordSerializer
 

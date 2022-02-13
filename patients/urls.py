@@ -1,29 +1,21 @@
 from rest_framework.routers import SimpleRouter
 from .views import (
     PatientViewSet, 
-    DiagnosisViewSet, 
-    SheImagesViewSet, 
-    YanImagesViewSet,
-    OwnedPatientsViewSet,
-    PastPatientsViewSet)
+    PatientRegisterRecordViewSet, 
+    DiagnosisRecordViewSet, 
+    EyeImageViewSet,
+    TongueImageViewSet,)
 
 router = SimpleRouter()
 router.register('', PatientViewSet, basename='patients')
-router.register('diagnosis/info', DiagnosisViewSet, basename='diagnosis')
+router.register('patient/register', PatientRegisterRecordViewSet, basename='patients')
+router.register('diagnosis/info', DiagnosisRecordViewSet, basename='diagnosis')
 router.register(
-    'diagnosis/images/she',
-    SheImagesViewSet,
-    basename='diagnosis_she')
+    'diagnosis/images/eye',
+    EyeImageViewSet,
+    basename='diagnosis_eye')
 router.register(
-    'diagnosis/images/yan',
-    YanImagesViewSet,
-    basename='diagnosis_yan')
-router.register(
-    'info/owned-patients',
-    OwnedPatientsViewSet,
-    basename='owned_patients')
-router.register(
-    'info/past-patients',
-    PastPatientsViewSet,
-    basename='past_patients')
+    'diagnosis/images/tongue',
+    TongueImageViewSet,
+    basename='diagnosis_tongue')
 urlpatterns = router.urls

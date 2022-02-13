@@ -1,13 +1,31 @@
 from rest_framework import serializers
-from .models import FangMedicines, YaoMedicines
+from .models import Medicine, MedicineRecord
 
 
-class YaoMedicinesSerializer(serializers.ModelSerializer):
+class MedicineSerializer(serializers.ModelSerializer):
+    nhiId = serializers.CharField(source='nhi_id')
+    nhiName = serializers.CharField(source='nhi_name')
+
     class Meta:
-        model = YaoMedicines
-        fields = '__all__'
+        model = Medicine
+        fields = (
+            'name', 
+            'type', 
+            'bopomofo',
+            'nhiId', 
+            'nhiName', 
+            'cost', 
+            'price', 
+            'info',)
 
-class FangMedicinesSerializer(serializers.ModelSerializer):
+
+class MedicineRecordSerializer(serializers.ModelSerializer):
+    medicineId = serializers.PrimaryKeyRelatedField(source='medicine_id', many=True, read_only=True)
+    diagnosisRecordId = serializers.PrimaryKeyRelatedField(source='diagnosis_record_id', many=True, read_only=True)
     class Meta:
-        model = FangMedicines
-        fields = '__all__'
+        model = MedicineRecord
+        fields = (
+            'medicineId',
+            'diagnosisRecordId',
+            'dosage',
+            'subtotal',)
