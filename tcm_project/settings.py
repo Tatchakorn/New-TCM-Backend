@@ -56,6 +56,7 @@ INSTALLED_APPS = [
     'diseases',
     'medicines',
     'pulse',
+    'option',
 ]
 
 # Use custom user

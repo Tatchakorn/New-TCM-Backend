@@ -28,6 +28,7 @@ urlpatterns = [
     path('diseases/', include('diseases.urls')),        # diseases app
     path('medicines/', include('medicines.urls')),      # medicines app
     path('pulse/', include('pulse.urls')),              # pulse app
+    path('option/', include('option.urls')),            # option app
     path('api-auth/', include('rest_framework.urls')),
     path('auth/', include('dj_rest_auth.urls')),
     path('auth/registration/', include('dj_rest_auth.registration.urls')),
