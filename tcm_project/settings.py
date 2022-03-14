@@ -57,6 +57,7 @@ INSTALLED_APPS = [
     'medicines',
     'pulse',
     'acupuncture',
+    'option',
 ]
 
 # Use custom user

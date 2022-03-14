@@ -7,11 +7,19 @@ import json
 from pathlib import Path
 from typing import List
 from pandas import read_excel, read_csv, DataFrame
-
+from option.models import (
+    WenOptionCategory,
+    WangOptionCategory,
+    WenOption,
+    WangOption,
+    PulseOption,
+    DiseaseOptionCategory,
+    DiseaseOption,)
 from django.contrib.auth.models import User
-from diseases.models import Diseases
-from patients.models import PatientsInfo
-from medicines.models import FangMedicines, YaoMedicines
+# from diseases.models import Diseases
+# from patients.models import PatientsInfo
+# from medicines.models import FangMedicines, YaoMedicines
+
 
 class ExternDiseases:
 
@@ -101,19 +109,65 @@ class ExternMedicines:
         # for i in self.db_obj.objects.all():
         #     print(i)
 
+
+
+class ExternOption:
+    
+    def __init__(self):
+        self.disease_cat = Path(r'./extern/options/diseaseCategory.csv')
+        self.disease_option = Path(r'./extern/options/diseaseOption.csv')
+        self.pulse_option = Path(r'./extern/options/pulseOption.csv')
+        self.wen_cat = Path(r'./extern/options/wenCategory.csv')
+        self.wang_cat = Path(r'./extern/options/wangOptionCategory.csv')
+        self.wen_option = Path(r'./extern/options/wenOption.csv')
+        self.wang_option = Path(r'./extern/options/wangOption.csv')
+
+    def put_all_to_db(self):
+        df = read_csv(self.disease_cat)
+        rows = [DiseaseOptionCategory(name=row['name']) for _, row in df.iterrows()]
+        DiseaseOptionCategory.objects.bulk_create(rows)
+
+        
+        df = read_csv(self.disease_option)
+        rows = [DiseaseOption(option=row['option'], category=DiseaseOptionCategory.objects.get(pk=row['category'])) for _, row in df.iterrows()]
+        DiseaseOption.objects.bulk_create(rows)
+        
+        df = read_csv(self.pulse_option)
+        rows = [PulseOption(option=row['option']) for _, row in df.iterrows()]
+        PulseOption.objects.bulk_create(rows)
+
+        df = read_csv(self.wen_cat)
+        rows = [WenOptionCategory(name=row['name']) for _, row in df.iterrows()]
+        WenOptionCategory.objects.bulk_create(rows)
+
+        df = read_csv(self.wang_cat)
+        rows = [WangOptionCategory(name=row['name']) for _, row in df.iterrows()]
+        WangOptionCategory.objects.bulk_create(rows)
+        
+        df = read_csv(self.wen_option)
+        rows = [WenOption(option=row['option'], category=WenOptionCategory.objects.get(pk=row['category']))  for _, row in df.iterrows()]
+        WenOption.objects.bulk_create(rows)
+        
+        df = read_csv(self.wang_option)
+        rows = [WangOption(option=row['option'], category=WangOptionCategory.objects.get(pk=row['category'])) for _, row in df.iterrows()]
+        WangOption.objects.bulk_create(rows)
+
+
+
+
 def main() -> None:
     '''
     python manage.py shell
     >>> exec(open('extern.py').read())
     '''
     print('[Running]')
+    ExternOption().put_all_to_db()
+    print('[Done]')
     # ExternDiseases().diseases_csv_to_db()
     # ExternMedicines('fang').json_to_db()
     # ExternMedicines('yao').json_to_db()
-    ExternMedicines('fang').db_change_all_med_titles()
-
+    # ExternMedicines('fang').db_change_all_med_titles()
 
 main()
-
 if __name__ == '__main__':
-    pass
+    main()
