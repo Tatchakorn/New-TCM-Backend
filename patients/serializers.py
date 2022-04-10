@@ -93,7 +93,7 @@ class EyeImageSerializer(serializers.ModelSerializer):
     
     class Meta:
         model = EyeImage
-        fields = ('diagnosis_record_id', 'patient_id', 'image', 'uploadDate',)
+        fields = ('diagnosis_record_id', 'patient_id', 'image', 'uploadDate', 'description',)
 
 
 class TongueImageSerializer(serializers.ModelSerializer):
@@ -103,7 +103,7 @@ class TongueImageSerializer(serializers.ModelSerializer):
     
     class Meta:
         model = TongueImage
-        fields = ('diagnosis_record_id', 'patient_id', 'image', 'uploadDate',)
+        fields = ('diagnosis_record_id', 'patient_id', 'image', 'uploadDate', 'description',)
 
 
 # class TestVidSerializer(serializers.ModelSerializer):

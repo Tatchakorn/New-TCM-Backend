@@ -148,7 +148,7 @@ class EyeImage(models.Model):
         on_delete=models.CASCADE)
     image = models.ImageField(upload_to='images/eye/%Y/%m', null=True)
     upload_date = models.DateTimeField(default=timezone.now)
-    # remark = models.CharField(max_length=200, blank=True, null=True)
+    description = models.CharField(max_length=200, blank=True, null=True)
 
 
 class TongueImage(models.Model):
@@ -175,7 +175,7 @@ class TongueImage(models.Model):
         on_delete=models.CASCADE)
     image = models.ImageField(upload_to='images/tongue/%Y/%m', null=True)
     upload_date = models.DateTimeField(default=timezone.now)
-    # remark = models.CharField(max_length=200, blank=True, null=True)
+    description = models.CharField(max_length=200, blank=True, null=True)
 
 
 # class TestVid(models.Model):

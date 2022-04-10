@@ -5,6 +5,6 @@ from .views import EmployeeViewSet, EmployeeWorkScheduleViewSet
 
 router = SimpleRouter()
 router.register('', EmployeeViewSet, basename='users')
-router.register('work-schedule/', EmployeeWorkScheduleViewSet, basename='users_work_schedule')
+router.register('work-schedule', EmployeeWorkScheduleViewSet, basename='users_work_schedule')
 
 urlpatterns = router.urls
