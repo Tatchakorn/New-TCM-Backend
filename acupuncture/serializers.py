@@ -11,12 +11,10 @@ class AcupunctureSerializer(serializers.ModelSerializer):
 
 
 class AcupunctureRecordSerializer(serializers.ModelSerializer):
-    acupunctureId = serializers.PrimaryKeyRelatedField(source='acupuncture_id', many=True, read_only=True)
-    diagnosisRecordId = serializers.PrimaryKeyRelatedField(source='diagnosis_record_id', many=True, read_only=True)
     acupunctureRecordTime = serializers.CharField(source='acupuncture_record_time')
     class Meta:
         model = AcupunctureRecord
         fields = (
-            'acupunctureId', 
-            'diagnosisRecordId', 
+            'acupuncture_id', 
+            'diagnosis_record_id', 
             'acupunctureRecordTime',)

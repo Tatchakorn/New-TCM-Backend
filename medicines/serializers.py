@@ -20,12 +20,10 @@ class MedicineSerializer(serializers.ModelSerializer):
 
 
 class MedicineRecordSerializer(serializers.ModelSerializer):
-    medicineId = serializers.PrimaryKeyRelatedField(source='medicine_id', many=True, read_only=True)
-    diagnosisRecordId = serializers.PrimaryKeyRelatedField(source='diagnosis_record_id', many=True, read_only=True)
     class Meta:
         model = MedicineRecord
         fields = (
-            'medicineId',
-            'diagnosisRecordId',
+            'medicine_id',
+            'diagnosis_record_id',
             'dosage',
             'subtotal',)

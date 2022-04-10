@@ -6,13 +6,17 @@ from .models import (
     PatientRegisterRecord,
     DiagnosisRecord,
     EyeImage,
-    TongueImage,)
+    TongueImage,
+    # TestVid
+    )
 from .serializers import (
     PatientSerializer, 
     PatientRegisterRecordSerializer, 
     DiagnosisRecordSerializer, 
     EyeImageSerializer,
-    TongueImageSerializer,)
+    TongueImageSerializer,
+    # TestVidSerializer
+    )
 
 
 class StandardResultsSetPagination(PageNumberPagination):
@@ -64,3 +68,8 @@ class EyeImageViewSet(viewsets.ModelViewSet):
 class TongueImageViewSet(viewsets.ModelViewSet):
     queryset = TongueImage.objects.all()
     serializer_class = TongueImageSerializer
+
+
+# class TestVidViewSet(viewsets.ModelViewSet):
+#     queryset = TestVid.objects.all()
+#     serializer_class = TestVidSerializer

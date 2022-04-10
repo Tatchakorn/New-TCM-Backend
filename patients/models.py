@@ -140,13 +140,13 @@ class EyeImage(models.Model):
     
     diagnosis_record_id = models.ForeignKey(
         DiagnosisRecord,
-        related_name='eye_img',
+        related_name='diagnosisRecordId',
         on_delete=models.CASCADE)
     patient_id = models.ForeignKey(
         Patient,
-        related_name='eye_img',
+        related_name='patientId',
         on_delete=models.CASCADE)
-    image = models.ImageField(upload_to='images/eye', null=True)
+    image = models.ImageField(upload_to='images/eye/%Y/%m', null=True)
     upload_date = models.DateTimeField(default=timezone.now)
     # remark = models.CharField(max_length=200, blank=True, null=True)
 
@@ -173,7 +173,14 @@ class TongueImage(models.Model):
         Patient,
         related_name='tongue_img',
         on_delete=models.CASCADE)
-    image = models.ImageField(upload_to='images/tongue', null=True)
+    image = models.ImageField(upload_to='images/tongue/%Y/%m', null=True)
     upload_date = models.DateTimeField(default=timezone.now)
     # remark = models.CharField(max_length=200, blank=True, null=True)
-    
+
+
+# class TestVid(models.Model):
+#     class Meta:
+#         db_table = 'TestVid'
+#         verbose_name_plural = 'TestVids'
+
+#     vid = models.FileField(upload_to='videos/%Y/%m')

@@ -4,7 +4,9 @@ from .models import (
     PatientRegisterRecord,
     DiagnosisRecord,
     EyeImage,
-    TongueImage)
+    TongueImage,
+    # TestVid
+    )
 
 
 class PatientSerializer(serializers.ModelSerializer):
@@ -42,7 +44,6 @@ class PatientSerializer(serializers.ModelSerializer):
 
 
 class PatientRegisterRecordSerializer(serializers.ModelSerializer):
-    patientId = serializers.PrimaryKeyRelatedField(source='patient_id', many=True, read_only=True)
     recordTime = serializers.DateTimeField(
         source='record_time',
         format=r"%a, %d %b %Y %H:%M:%S %Z")
@@ -50,16 +51,12 @@ class PatientRegisterRecordSerializer(serializers.ModelSerializer):
     class Meta:
         model = PatientRegisterRecord
         fields = (
-            'patientId',
+            'patient_id',
             'recordTime',
             'payment',)
 
 
 class DiagnosisRecordSerializer(serializers.ModelSerializer):
-    patientRegisterRecordId = serializers.PrimaryKeyRelatedField(source='patient_register_record_id', many=True, read_only=True)
-    employeeWorkScheduleId = serializers.PrimaryKeyRelatedField(source='employee_work_schedule_id', many=True, read_only=True)
-    patientId = serializers.PrimaryKeyRelatedField(source='patient_id', many=True, read_only=True)
-    employeeId = serializers.PrimaryKeyRelatedField(source='employee_id', many=True, read_only=True)
     medHistory = serializers.CharField(source='med_history')
     mainComplaint = serializers.CharField(source='main_complaint')
     diseaseName = serializers.CharField(source='disease_name')
@@ -74,10 +71,10 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
     class Meta:
         model = DiagnosisRecord
         fields = (
-            'patientRegisterRecordId', 
-            'employeeWorkScheduleId',
-            'patientId',
-            'employeeId',
+            'patient_register_record_id', 
+            'employee_work_schedule_id',
+            'patient_id',
+            'employee_id',
             'medHistory',
             'mainComplaint',
             'pulse',
@@ -90,25 +87,27 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
 
 
 class EyeImageSerializer(serializers.ModelSerializer):
-    patientId = serializers.PrimaryKeyRelatedField(source='patient_id', many=True, read_only=True)
-    diagnosisRecordId = serializers.PrimaryKeyRelatedField(source='diagnosis_record_id', many=True, read_only=True)
     uploadDate = serializers.DateTimeField(
         source='upload_date',
         format=r"%a, %d %b %Y %H:%M:%S %Z")
     
     class Meta:
         model = EyeImage
-        fields = ('diagnosisRecordId', 'patientId', 'image', 'uploadDate',)
+        fields = ('diagnosis_record_id', 'patient_id', 'image', 'uploadDate',)
 
 
 class TongueImageSerializer(serializers.ModelSerializer):
-    patientId = serializers.PrimaryKeyRelatedField(source='patient_id', many=True, read_only=True)
-    diagnosisRecordId = serializers.PrimaryKeyRelatedField(source='diagnosis_record_id', many=True, read_only=True)
     uploadDate = serializers.DateTimeField(
         source='upload_date',
         format=r"%a, %d %b %Y %H:%M:%S %Z")
     
     class Meta:
         model = TongueImage
-        fields = ('diagnosisRecordId', 'patientId', 'image', 'uploadDate',)
-        
+        fields = ('diagnosis_record_id', 'patient_id', 'image', 'uploadDate',)
+
+
+# class TestVidSerializer(serializers.ModelSerializer):
+
+#     class Meta:
+#         model = TestVid
+#         fields = ('vid',)

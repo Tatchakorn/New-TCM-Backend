@@ -122,6 +122,12 @@ class ExternOption:
         self.wen_option = Path(r'./extern/options/wenOption.csv')
         self.wang_option = Path(r'./extern/options/wangOption.csv')
 
+    
+    def option_csv_to_db(self, csv_path: Path, db_object):
+        df = read_csv(csv_path)
+        rows = [row for _, row in df.iterrows()]
+
+    
     def put_all_to_db(self):
         df = read_csv(self.disease_cat)
         rows = [DiseaseOptionCategory(name=row['name']) for _, row in df.iterrows()]
@@ -169,5 +175,6 @@ def main() -> None:
     # ExternMedicines('fang').db_change_all_med_titles()
 
 main()
+
 if __name__ == '__main__':
     main()
