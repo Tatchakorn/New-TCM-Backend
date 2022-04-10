@@ -7,7 +7,11 @@ from .views import (
     WangOptionViewset,
     PulseOptionViewset,
     DiseaseOptionViewset,
-    DiseaseOptionCategoryViewset)
+    DiseaseOptionCategoryViewset,
+    EyeCategoryViewset,
+    EyeOptionViewset,
+    TongueCategoryViewset,
+    TongueOptionViewset,)
 
 router = SimpleRouter()
 router.register('wen-category', WenOptionCategoryViewset)
@@ -17,5 +21,9 @@ router.register('wang', WangOptionViewset)
 router.register('pulse', PulseOptionViewset)
 router.register('disease', DiseaseOptionViewset)
 router.register('disease-category', DiseaseOptionCategoryViewset)
+router.register('eye-category', EyeCategoryViewset)
+router.register('eye', EyeOptionViewset)
+router.register('tongue-category', TongueCategoryViewset)
+router.register('tongue', TongueOptionViewset)
 urlpatterns = router.urls
 

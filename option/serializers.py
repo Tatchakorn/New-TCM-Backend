@@ -6,7 +6,11 @@ from .models import (
     WangOption,
     PulseOption,
     DiseaseOptionCategory,
-    DiseaseOption)
+    DiseaseOption,
+    EyeCategory,
+    EyeOption,
+    TongueCategory,
+    TongueOption,)
 
 
 class PulseOptionSerializer(serializers.ModelSerializer):
@@ -47,12 +51,40 @@ class WangOptionSerializer(serializers.ModelSerializer):
 class DiseaseOptionCategorySerializer(serializers.ModelSerializer):
 
     class Meta:
-        model = WangOptionCategory
+        model = DiseaseOptionCategory
         fields = ('name',)
 
 
 class DiseaseOptionSerializer(serializers.ModelSerializer):
 
     class Meta:
-        model = WangOption
+        model = DiseaseOption
+        fields = ('option', 'category',)
+
+
+class EyeCategorySerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = EyeCategory
+        fields = ('name',)
+
+
+class EyeOptionSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = EyeOption
+        fields = ('option', 'category',)
+
+
+class TongueCategorySerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = TongueCategory
+        fields = ('name',)
+
+
+class TongueOptionSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = TongueOption
         fields = ('option', 'category',)

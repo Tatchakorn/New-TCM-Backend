@@ -5,7 +5,7 @@ from .models import (
     DiagnosisRecord,
     EyeImage,
     TongueImage,
-    # TestVid
+    OtherMedia
     )
 
 
@@ -116,8 +116,8 @@ class TongueImageSerializer(serializers.ModelSerializer):
             'description',)
 
 
-# class TestVidSerializer(serializers.ModelSerializer):
+class OtherMediaSerializer(serializers.ModelSerializer):
 
-#     class Meta:
-#         model = TestVid
-#         fields = ('vid',)
+    class Meta:
+        model = OtherMedia
+        fields = ('patient_id', 'upload_date', 'file', 'description',)

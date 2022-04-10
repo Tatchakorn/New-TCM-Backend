@@ -14,7 +14,12 @@ from option.models import (
     WangOption,
     PulseOption,
     DiseaseOptionCategory,
-    DiseaseOption,)
+    DiseaseOption,
+    EyeCategory,
+    EyeOption,
+    TongueCategory,
+    TongueOption,)
+
 from django.contrib.auth.models import User
 # from diseases.models import Diseases
 # from patients.models import PatientsInfo
@@ -122,6 +127,13 @@ class ExternOption:
         self.wen_option = Path(r'./extern/options/wenOption.csv')
         self.wang_option = Path(r'./extern/options/wangOption.csv')
 
+        # ----------------------------------------------------------------
+
+        self.eye_option = Path(r'./extern/options/eyeOption.csv')
+        self.eye_cat = Path(r'./extern/options/eyeCategory.csv')
+        self.tongue_option = Path(r'./extern/options/tongueOption.csv')
+        self.tongue_cat = Path(r'./extern/options/tongueCategory.csv')
+
     
     def option_csv_to_db(self, csv_path: Path, db_object):
         df = read_csv(csv_path)
@@ -157,9 +169,24 @@ class ExternOption:
         df = read_csv(self.wang_option)
         rows = [WangOption(option=row['option'], category=WangOptionCategory.objects.get(pk=row['category'])) for _, row in df.iterrows()]
         WangOption.objects.bulk_create(rows)
+    
 
+    def put_tongue_and_eye(self):
+        df = read_csv(self.eye_cat)
+        rows = [EyeCategory(name=row['CategoryName']) for _, row in df.iterrows()]
+        EyeCategory.objects.bulk_create(rows)
+        
+        df = read_csv(self.eye_option)
+        rows = [EyeOption(category=EyeCategory.objects.get(pk=row['CategoryFK']), option=row['OptionName']) for _, row in df.iterrows()]
+        EyeOption.objects.bulk_create(rows)
 
+        df = read_csv(self.tongue_cat)
+        rows = [TongueCategory(name=row['CategoryName']) for _, row in df.iterrows()]
+        TongueCategory.objects.bulk_create(rows)
 
+        df = read_csv(self.tongue_option)
+        rows = [TongueOption(category=TongueCategory.objects.get(pk=row['CategoryFK']), option=row['OptionName']) for _, row in df.iterrows()]
+        TongueOption.objects.bulk_create(rows)
 
 def main() -> None:
     '''
@@ -167,7 +194,7 @@ def main() -> None:
     >>> exec(open('extern.py').read())
     '''
     print('[Running]')
-    ExternOption().put_all_to_db()
+    ExternOption().put_tongue_and_eye()
     print('[Done]')
     # ExternDiseases().diseases_csv_to_db()
     # ExternMedicines('fang').json_to_db()

@@ -5,7 +5,7 @@ from .views import (
     DiagnosisRecordViewSet, 
     EyeImageViewSet,
     TongueImageViewSet,
-    # TestVidViewSet,
+    OtherMediaViewSet,
     )
 
 router = SimpleRouter()
@@ -20,8 +20,8 @@ router.register(
     'diagnosis/images/tongue',
     TongueImageViewSet,
     basename='diagnosis_tongue')
-# router.register(
-#     'diagnosis/videos',
-#     TestVidViewSet,
-#     basename='vid')
+router.register(
+    'diagnosis/videos',
+    OtherMediaViewSet,
+    basename='other_media')
 urlpatterns = router.urls

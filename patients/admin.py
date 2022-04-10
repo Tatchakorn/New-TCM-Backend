@@ -4,11 +4,13 @@ from .models import (
     PatientRegisterRecord,
     DiagnosisRecord,
     EyeImage,
-    TongueImage)
+    TongueImage,
+    OtherMedia)
 
 admin.site.register([
     Patient,
     PatientRegisterRecord,
     DiagnosisRecord,
     EyeImage,
-    TongueImage])
+    TongueImage,
+    OtherMedia,])

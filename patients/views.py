@@ -7,7 +7,7 @@ from .models import (
     DiagnosisRecord,
     EyeImage,
     TongueImage,
-    # TestVid
+    OtherMedia
     )
 from .serializers import (
     PatientSerializer, 
@@ -15,7 +15,7 @@ from .serializers import (
     DiagnosisRecordSerializer, 
     EyeImageSerializer,
     TongueImageSerializer,
-    # TestVidSerializer
+    OtherMediaSerializer
     )
 
 
@@ -70,6 +70,6 @@ class TongueImageViewSet(viewsets.ModelViewSet):
     serializer_class = TongueImageSerializer
 
 
-# class TestVidViewSet(viewsets.ModelViewSet):
-#     queryset = TestVid.objects.all()
-#     serializer_class = TestVidSerializer
+class OtherMediaViewSet(viewsets.ModelViewSet):
+    queryset = OtherMedia.objects.all()
+    serializer_class = OtherMediaSerializer

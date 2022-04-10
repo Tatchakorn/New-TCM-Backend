@@ -6,7 +6,11 @@ from .models import (
     WangOption,
     PulseOption,
     DiseaseOptionCategory,
-    DiseaseOption)
+    DiseaseOption,
+    EyeCategory,
+    EyeOption,
+    TongueCategory,
+    TongueOption,)
 from .serializers import (
     WenOptionCategorySerializer,
     WangOptionCategorySerializer,
@@ -14,7 +18,11 @@ from .serializers import (
     WangOptionSerializer,
     PulseOptionSerializer,
     DiseaseOptionCategorySerializer,
-    DiseaseOptionSerializer)
+    DiseaseOptionSerializer,
+    EyeCategorySerializer,
+    EyeOptionSerializer,
+    TongueCategorySerializer,
+    TongueOptionSerializer,)
 
 
 class WenOptionCategoryViewset(viewsets.ModelViewSet):
@@ -50,3 +58,23 @@ class DiseaseOptionViewset(viewsets.ModelViewSet):
 class DiseaseOptionCategoryViewset(viewsets.ModelViewSet):
     queryset = DiseaseOptionCategory.objects.all()
     serializer_class = DiseaseOptionCategorySerializer
+
+
+class EyeOptionViewset(viewsets.ModelViewSet):
+    queryset = EyeOption.objects.all()
+    serializer_class = EyeOptionSerializer
+
+
+class EyeCategoryViewset(viewsets.ModelViewSet):
+    queryset = EyeCategory.objects.all()
+    serializer_class = EyeCategorySerializer
+
+
+class TongueOptionViewset(viewsets.ModelViewSet):
+    queryset = TongueOption.objects.all()
+    serializer_class = TongueOptionSerializer
+
+
+class TongueCategoryViewset(viewsets.ModelViewSet):
+    queryset = TongueCategory.objects.all()
+    serializer_class = TongueCategorySerializer

@@ -178,9 +178,19 @@ class TongueImage(models.Model):
     description = models.CharField(max_length=200, blank=True, null=True)
 
 
-# class TestVid(models.Model):
-#     class Meta:
-#         db_table = 'TestVid'
-#         verbose_name_plural = 'TestVids'
-
-#     vid = models.FileField(upload_to='videos/%Y/%m')
+class OtherMedia(models.Model):
+    '''
+    type, patientID, path, upload timestamp, description,
+    '''
+    
+    class Meta:
+        db_table = 'OtherMedia'
+        verbose_name_plural = 'OtherMedia'
+    
+    patient_id = models.ForeignKey(
+        Patient,
+        related_name='other_media',
+        on_delete=models.CASCADE)
+    upload_date = models.DateTimeField(default=timezone.now)
+    file = models.FileField(upload_to='videos/%Y/%m')
+    description = models.CharField(max_length=200, blank=True, null=True)

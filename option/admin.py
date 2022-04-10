@@ -1,3 +1,21 @@
 from django.contrib import admin
 
-# Register your models here.
+from .models import (
+    WenOptionCategory,
+    WenOption,
+    WangOptionCategory,
+    WangOption,
+    DiseaseOptionCategory,
+    PulseOption,
+    EyeOption, 
+    EyeCategory,)
+
+admin.site.register([
+    WenOptionCategory,
+    WenOption,
+    WangOptionCategory,
+    WangOption,
+    DiseaseOptionCategory,
+    PulseOption,
+    EyeOption, 
+    EyeCategory,])
