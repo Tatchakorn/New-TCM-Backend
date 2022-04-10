@@ -138,10 +138,10 @@ class EyeImage(models.Model):
         verbose_name_plural = 'EyeImages'
         ordering = ['-upload_date']
     
-    diagnosis_record_id = models.ForeignKey(
-        DiagnosisRecord,
-        related_name='diagnosisRecordId',
-        on_delete=models.CASCADE)
+    # diagnosis_record_id = models.ForeignKey(
+    #     DiagnosisRecord,
+    #     related_name='diagnosisRecordId',
+    #     on_delete=models.CASCADE)
     patient_id = models.ForeignKey(
         Patient,
         related_name='patientId',
@@ -165,10 +165,10 @@ class TongueImage(models.Model):
         verbose_name_plural = 'TongueImages'
         ordering = ['-upload_date']
 
-    diagnosis_record_id = models.ForeignKey(
-        DiagnosisRecord,
-        related_name='tongue_img',
-        on_delete=models.CASCADE)
+    # diagnosis_record_id = models.ForeignKey(
+    #     DiagnosisRecord,
+    #     related_name='tongue_img',
+    #     on_delete=models.CASCADE)
     patient_id = models.ForeignKey(
         Patient,
         related_name='tongue_img',
