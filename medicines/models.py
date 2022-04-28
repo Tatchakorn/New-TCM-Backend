@@ -24,6 +24,7 @@ class Medicine(models.Model):
     bopomofo = models.CharField(max_length=20)
     nhi_id = models.CharField(max_length=20, blank=True, null=True)
     nhi_name = models.CharField(max_length=20, blank=True, null=True)
+    manufacturer = models.CharField(max_length=20, blank=True, null=True)
     cost = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     price = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     info = models.TextField(blank=True, null=True)

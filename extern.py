@@ -6,6 +6,8 @@ import threading
 import json
 from pathlib import Path
 from typing import List
+import numpy as np
+import pandas as pd
 from pandas import read_excel, read_csv, DataFrame
 from option.models import (
     WenOptionCategory,
@@ -19,7 +21,12 @@ from option.models import (
     EyeOption,
     TongueCategory,
     TongueOption,)
-
+from acupuncture.models import (
+    Acupuncture, 
+    DongAcupuncture, 
+    AcupunctureArea, 
+    DongAcupunctureArea)
+from medicines.models import Medicine
 from django.contrib.auth.models import User
 # from diseases.models import Diseases
 # from patients.models import PatientsInfo
@@ -81,39 +88,27 @@ class ExternDiseases:
 
 class ExternMedicines:
     
-    def __init__(self, option: str) -> None:
-        '''
-        option: "fang" or "yao"
-        '''
-        fang_path = Path(r'./extern/medicines/fang/fang_data.json')
-        yao_path =  Path(r'./extern/medicines/yao/yao_data.json')
-        self.json_file = fang_path if option == 'fang' else yao_path
-        self.db_obj = FangMedicines if option == 'fang' else YaoMedicines
-    
-    @staticmethod
-    def read_json(path: Path) -> dict:
-        with open(path, 'r', encoding='utf-8') as f:
-            j = dict(json.loads(f.read()))
-        return j
-    
-    def json_to_db(self) -> None:
-        data = self.read_json(self.json_file)
-        rows = [self.db_obj(bapomofo=key,name=_key,info=_val) 
-                for key, val in data.items()
-                for _key, _val in val.items()]
-        self.db_obj.objects.bulk_create(rows)
-    
-    def db_delete_all(self):
-        self.db_obj.objects.all().delete()
-    
-    def db_change_all_med_titles(self):
-        # print(type(self.db_obj.objects.all()))
-        for i in self.db_obj.objects.all():
-            print(type(i))
-            print(str(i))
-        # for i in self.db_obj.objects.all():
-        #     print(i)
 
+    def __init__(self) -> None:
+        self.med_path =  Path(r'./extern/medicines/medicine.csv')
+
+
+    def put_it(self,):
+        df = read_csv(self.med_path)
+        df = df.fillna('')
+        rows = [Medicine(
+                type=row['MedicineType'], 
+                name=row['MedicineName'], 
+                bopomofo=row['MedicineBopomoCode'], 
+                nhi_id=row['MedicineNHIID'],
+                nhi_name=row['MedicineNHIName'],
+                manufacturer=row['MedicineManufacturer'],
+                cost=row['MedicineCost'],
+                price=row['MedicinePrice'],
+                info=row['MedicineInfo'],
+            ) 
+            for _, row in df.iterrows()]
+        Medicine.objects.bulk_create(rows)
 
 
 class ExternOption:
@@ -133,12 +128,7 @@ class ExternOption:
         self.eye_cat = Path(r'./extern/options/eyeCategory.csv')
         self.tongue_option = Path(r'./extern/options/tongueOption.csv')
         self.tongue_cat = Path(r'./extern/options/tongueCategory.csv')
-
     
-    def option_csv_to_db(self, csv_path: Path, db_object):
-        df = read_csv(csv_path)
-        rows = [row for _, row in df.iterrows()]
-
     
     def put_all_to_db(self):
         df = read_csv(self.disease_cat)
@@ -188,14 +178,64 @@ class ExternOption:
         rows = [TongueOption(category=TongueCategory.objects.get(pk=row['CategoryFK']), option=row['OptionName']) for _, row in df.iterrows()]
         TongueOption.objects.bulk_create(rows)
 
+
+class ExternAcc:
+
+    def __init__(self,):
+        self.acu = Path(r'./extern/acupuncture/accu.csv')
+        self.acu_area = Path(r'./extern/acupuncture/accuArea.csv')
+        self.dong_acu = Path(r'./extern/acupuncture/dongAccu.csv')
+        self.dong_acu_area = Path(r'./extern/acupuncture/dongAccuArea.csv')
+    
+
+    def put_it(self):
+        # rows = [EyeCategory(name=row['CategoryName']) for _, row in df.iterrows()]
+        # EyeCategory.objects.bulk_create(rows)
+        
+        df = read_csv(self.acu_area)
+        AcupunctureArea.objects.bulk_create(
+            [AcupunctureArea(part=row['part']) 
+                for _, row in df.iterrows()]
+        )
+
+        df = read_csv(self.dong_acu_area)
+        DongAcupunctureArea.objects.bulk_create(
+            [DongAcupunctureArea(part=row['part']) 
+                for _, row in df.iterrows()]
+        )
+
+        df = read_csv(self.acu)
+        df = df.fillna('')
+        rows = [
+            Acupuncture(
+                name=row['name'], 
+                part=AcupunctureArea.objects.get(pk=row['part']), 
+                alias=row['alias'], 
+                link=row['link']) 
+                for _, row in df.iterrows()]
+        Acupuncture.objects.bulk_create(rows)
+
+        df = read_csv(self.dong_acu)
+        df = df.fillna('')
+        rows = [
+            DongAcupunctureArea(
+                name=row['name'], 
+                part=DongAcupunctureArea.objects.get(pk=row['part']), 
+                link=row['link']) 
+                for _, row in df.iterrows()]
+        DongAcupunctureArea.objects.bulk_create(rows)
+
+
 def main() -> None:
     '''
     python manage.py shell
     >>> exec(open('extern.py').read())
     '''
     print('[Running]')
-    ExternOption().put_tongue_and_eye()
+    # ExternMedicines().put_it()
+    # ExternAcc().put_it()
     print('[Done]')
+    # ExternOption().put_tongue_and_eye()
     # ExternDiseases().diseases_csv_to_db()
     # ExternMedicines('fang').json_to_db()
     # ExternMedicines('yao').json_to_db()

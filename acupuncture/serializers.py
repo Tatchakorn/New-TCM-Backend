@@ -1,20 +1,35 @@
 from dataclasses import fields
 from rest_framework import serializers
-from .models import Acupuncture, AcupunctureRecord
+from .models import (
+    Acupuncture, 
+    DongAcupuncture, 
+    AcupunctureArea, 
+    DongAcupunctureArea)
 
 
 class AcupunctureSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Acupuncture
-        fields = ('name', 'area', 'info')
+        fields = '__all__'
 
 
-class AcupunctureRecordSerializer(serializers.ModelSerializer):
-    acupunctureRecordTime = serializers.CharField(source='acupuncture_record_time')
+class DongAcupunctureSerializer(serializers.ModelSerializer):
+    
     class Meta:
-        model = AcupunctureRecord
-        fields = (
-            'acupuncture_id', 
-            'diagnosis_record_id', 
-            'acupunctureRecordTime',)
+        model = DongAcupuncture
+        fields = '__all__'
+
+
+class AcupunctureAreaSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = AcupunctureArea
+        fields = '__all__'
+
+
+class DongAcupunctureAreaSerializer(serializers.ModelSerializer):
+    
+    class Meta:
+        model = DongAcupunctureArea
+        fields = '__all__'

@@ -16,7 +16,8 @@ class MedicineSerializer(serializers.ModelSerializer):
             'nhiName', 
             'cost', 
             'price', 
-            'info',)
+            'info',
+            'manufacturer',)
 
 
 class MedicineRecordSerializer(serializers.ModelSerializer):
