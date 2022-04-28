@@ -193,16 +193,12 @@ class ExternAcc:
         # EyeCategory.objects.bulk_create(rows)
         
         df = read_csv(self.acu_area)
-        AcupunctureArea.objects.bulk_create(
-            [AcupunctureArea(part=row['part']) 
-                for _, row in df.iterrows()]
-        )
+        rows = [AcupunctureArea(part=row['part']) for _, row in df.iterrows()]
+        AcupunctureArea.objects.bulk_create(rows)
 
         df = read_csv(self.dong_acu_area)
-        DongAcupunctureArea.objects.bulk_create(
-            [DongAcupunctureArea(part=row['part']) 
-                for _, row in df.iterrows()]
-        )
+        rows = [DongAcupunctureArea(part=row['part']) for _, row in df.iterrows()]
+        DongAcupunctureArea.objects.bulk_create(rows)
 
         df = read_csv(self.acu)
         df = df.fillna('')
