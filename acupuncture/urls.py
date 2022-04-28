@@ -7,8 +7,8 @@ from .views import (
 
 
 router = SimpleRouter()
+router.register('acu/area', AcupunctureAreaViewset, basename='area')
+router.register('dong-acu/area', DongAcupunctureAreaViewset, basename='dong-area')
 router.register('acupuncture', AcupunctureViewset, basename='acupuncture')
-router.register('dong-acupuncture', DongAcupunctureViewset, basename='acupuncture')
-router.register('acupuncture/area', AcupunctureAreaViewset, basename='acupuncture')
-router.register('dong-acupuncture/area', DongAcupunctureAreaViewset, basename='acupuncture')
+router.register('dong-acupuncture', DongAcupunctureViewset, basename='dong-acupuncture')
 urlpatterns = router.urls

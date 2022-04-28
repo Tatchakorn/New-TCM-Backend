@@ -189,8 +189,6 @@ class ExternAcc:
     
 
     def put_it(self):
-        # rows = [EyeCategory(name=row['CategoryName']) for _, row in df.iterrows()]
-        # EyeCategory.objects.bulk_create(rows)
         
         df = read_csv(self.acu_area)
         rows = [AcupunctureArea(part=row['part']) for _, row in df.iterrows()]

@@ -18,7 +18,7 @@ class DongAcupunctureSerializer(serializers.ModelSerializer):
     
     class Meta:
         model = DongAcupuncture
-        fields = '__all__'
+        fields = ('part',)
 
 
 class AcupunctureAreaSerializer(serializers.ModelSerializer):
@@ -32,4 +32,4 @@ class DongAcupunctureAreaSerializer(serializers.ModelSerializer):
     
     class Meta:
         model = DongAcupunctureArea
-        fields = '__all__'
+        fields = ('part',)
