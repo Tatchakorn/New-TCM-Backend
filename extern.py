@@ -218,12 +218,12 @@ class ExternAcc:
         df = read_csv(self.dong_acu)
         df = df.fillna('')
         rows = [
-            DongAcupunctureArea(
+            DongAcupuncture(
                 name=row['name'], 
                 part=DongAcupunctureArea.objects.get(pk=row['part']), 
                 link=row['link']) 
                 for _, row in df.iterrows()]
-        DongAcupunctureArea.objects.bulk_create(rows)
+        DongAcupuncture.objects.bulk_create(rows)
 
 
 def main() -> None:
