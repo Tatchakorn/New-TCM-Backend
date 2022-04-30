@@ -18,6 +18,7 @@ class MedicineFilter(filters.FilterSet):
         fields = {
             'name': ['icontains',],
             'bopomofo': ['iexact',],
+            'type': ['icontains',],
         }
 
 
