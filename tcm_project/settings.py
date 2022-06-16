@@ -132,6 +132,7 @@ REST_AUTH_REGISTER_SERIALIZERS = {
 
 CORS_ALLOW_ALL_ORIGINS = True
 
+
 # CORS_ALLOW_ORIGINS = (
 #     'https://tcm2.apulse.ai/',
 #     # Vue

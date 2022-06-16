@@ -87,7 +87,11 @@ class DiagnosisRecord(models.Model):
     MedicalHistory VARCHAR(256)
     MainComplaint TEXT
     Pulse TEXT
-    DiseaseName VARCHAR(50)
+    DiseaseICDCode VARCHAR(50)
+    CoDiseaseICDCode VARCHAR(50)
+    CoDiseaseICDCode2 VARCHAR(50)
+    MedicineWay TEXT
+    Decoctions **
     MedicinePackAmount FLOAT8
     ** MedicineDay INT8
     MedicineTotalAmount FLOAT8
@@ -117,10 +121,17 @@ class DiagnosisRecord(models.Model):
     med_history = models.CharField(max_length=256, blank=True, null=True)
     main_complaint = models.TextField(blank=True, null=True)
     pulse = models.TextField(blank=True, null=True)
-    disease_name = models.CharField(max_length=50, blank=True, null=True)
+    disease_icd_code = models.CharField(max_length=50, blank=True, null=True)
+    codisease_icd_code = models.CharField(max_length=50, blank=True, null=True)
+    codisease_icd_code_2 = models.CharField(max_length=50, blank=True, null=True)
+    medicine_way = models.TextField(blank=True, null=True)
     med_pack_amount = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     med_day = models.SmallIntegerField()
     med_total_amount = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+    decoction_pack_amout = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+    decoction_cook_way = models.TextField(blank=True, null=True)
+    decoction_way = models.TextField(blank=True, null=True)
+    decoction_total_amount = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     record_time = models.DateTimeField(auto_now_add=True)
 
 

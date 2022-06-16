@@ -1,5 +1,11 @@
 from rest_framework import serializers
-from .models import Medicine, MedicineRecord
+from .models import (
+    Medicine, 
+    MedicineRecord,
+    Decoction,
+    DecoctionComponents,
+    DecoctionRecord,
+    )
 
 
 class MedicineSerializer(serializers.ModelSerializer):
@@ -28,3 +34,41 @@ class MedicineRecordSerializer(serializers.ModelSerializer):
             'diagnosis_record_id',
             'dosage',
             'subtotal',)
+
+
+class DecoctionSerializers(serializers.ModelSerializer):
+    
+    class Meta:
+        model = Decoction
+        fields = (
+            'name',
+            'bopomofo',
+            'cost', 
+            'price', 
+            'info', 
+        )
+
+
+class DecoctionComponentsSerializers(serializers.ModelSerializer):
+    
+    class Meta:
+        model = DecoctionComponents
+        fields = (
+            'decoction_id',
+            'medicine_id',
+            'dosage',
+        )
+
+
+class DecoctionRecordSerializers(serializers.ModelSerializer):
+    
+    class Meta:
+        model = DecoctionRecord
+        fields = (
+            'decoction_id',
+            'diagnosis_record_id',
+            'dosage',
+            'subtotal',
+        )
+
+

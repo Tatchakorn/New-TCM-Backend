@@ -59,7 +59,6 @@ class PatientRegisterRecordSerializer(serializers.ModelSerializer):
 class DiagnosisRecordSerializer(serializers.ModelSerializer):
     medHistory = serializers.CharField(source='med_history')
     mainComplaint = serializers.CharField(source='main_complaint')
-    diseaseName = serializers.CharField(source='disease_name')
     medPackAmount = serializers.DecimalField(source='med_pack_amount', max_digits=10, decimal_places=2)
     medDay = serializers.IntegerField(source='med_day')
     medTotalAmount = serializers.DecimalField(source='med_total_amount', max_digits=10, decimal_places=2)
@@ -78,7 +77,14 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
             'medHistory',
             'mainComplaint',
             'pulse',
-            'diseaseName',
+            'disease_icd_code',
+            'codisease_icd_code',
+            'codisease_icd_code_2',
+            'medicine_way',
+            'decoction_pack_amout',
+            'decoction_cook_way',
+            'decoction_way',
+            'decoction_total_amount',
             'medPackAmount',
             'medDay',
             'medTotalAmount',

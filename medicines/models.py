@@ -53,3 +53,36 @@ class MedicineRecord(models.Model):
         on_delete=models.CASCADE)
     dosage = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     subtotal = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+
+
+class Decoction(models.Model):
+    name = models.CharField(max_length=10, blank=True, null=True)
+    bopomofo = models.CharField(max_length=20)
+    cost = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+    price = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+    info = models.TextField(blank=True, null=True)
+
+
+class DecoctionComponents(models.Model):
+    decoction_id = models.ForeignKey(
+        Decoction,
+        related_name='decoc_component',
+        on_delete=models.CASCADE)
+    medicine_id = models.ForeignKey(
+        Medicine,
+        related_name='decoc_component',
+        on_delete=models.CASCADE)
+    dosage = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+
+
+class DecoctionRecord(models.Model):
+    decoction_id = models.ForeignKey(
+        Decoction,
+        related_name='decoc_rec',
+        on_delete=models.CASCADE)
+    diagnosis_record_id = models.ForeignKey(
+        DiagnosisRecord,
+        related_name='decoc_rec',
+        on_delete=models.CASCADE)
+    dosage = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+    subtotal = models.DecimalField(max_digits=10, decimal_places=2, default=0)
