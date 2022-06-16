@@ -32,6 +32,8 @@ class PatientFilter(filters.FilterSet):
         fields = {
             'name': ['icontains',],
             'nhi_card_num': ['icontains',],
+            'phone_number': ['icontains',],
+            'emergency_contact_phone': ['icontains',],
         }
 
 
