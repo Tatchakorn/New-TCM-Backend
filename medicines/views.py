@@ -7,6 +7,8 @@ from .models import (
     Decoction,
     DecoctionComponents,
     DecoctionRecord,
+    InjuryTreatment,
+    InjuryTreatmentRecord,
     )
 from .serializers import (
     MedicineSerializer, 
@@ -14,6 +16,8 @@ from .serializers import (
     DecoctionSerializers,
     DecoctionComponentsSerializers,
     DecoctionRecordSerializers,
+    InjuryTreatmentSerializers,
+    InjuryTreatmentRecordSerializers,
     )
 
 
@@ -63,3 +67,15 @@ class DecoctionRecordViewSet(viewsets.ModelViewSet):
     
     queryset = DecoctionRecord.objects.all()
     serializer_class = DecoctionRecordSerializers
+
+
+class InjuryTreatmentViewSet(viewsets.ModelViewSet):
+    
+    queryset = InjuryTreatment.objects.all()
+    serializer_class = InjuryTreatmentSerializers
+
+
+class InjuryTreatmentRecordViewSet(viewsets.ModelViewSet):
+    
+    queryset = InjuryTreatmentRecord.objects.all()
+    serializer_class = InjuryTreatmentRecordSerializers

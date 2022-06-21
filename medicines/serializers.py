@@ -5,6 +5,8 @@ from .models import (
     Decoction,
     DecoctionComponents,
     DecoctionRecord,
+    InjuryTreatment,
+    InjuryTreatmentRecord,
     )
 
 
@@ -27,6 +29,7 @@ class MedicineSerializer(serializers.ModelSerializer):
 
 
 class MedicineRecordSerializer(serializers.ModelSerializer):
+    
     class Meta:
         model = MedicineRecord
         fields = (
@@ -45,8 +48,7 @@ class DecoctionSerializers(serializers.ModelSerializer):
             'bopomofo',
             'cost', 
             'price', 
-            'info', 
-        )
+            'info',)
 
 
 class DecoctionComponentsSerializers(serializers.ModelSerializer):
@@ -57,6 +59,7 @@ class DecoctionComponentsSerializers(serializers.ModelSerializer):
             'decoction_id',
             'medicine_id',
             'dosage',
+            'unit',
         )
 
 
@@ -72,3 +75,15 @@ class DecoctionRecordSerializers(serializers.ModelSerializer):
         )
 
 
+class InjuryTreatmentSerializers(serializers.ModelSerializer):
+    
+    class Meta:
+        model = InjuryTreatment
+        fields = '__all__'
+
+
+class InjuryTreatmentRecordSerializers(serializers.ModelSerializer):
+
+    class Meta:
+        model = InjuryTreatmentRecord
+        fields = '__all__'

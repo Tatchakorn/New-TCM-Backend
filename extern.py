@@ -6,6 +6,7 @@ import threading
 import json
 from pathlib import Path
 from typing import List
+from decimal import Decimal
 import numpy as np
 import pandas as pd
 from pandas import read_excel, read_csv, DataFrame
@@ -26,7 +27,11 @@ from acupuncture.models import (
     DongAcupuncture, 
     AcupunctureArea, 
     DongAcupunctureArea)
-from medicines.models import Medicine
+from medicines.models import (
+    Medicine, 
+    InjuryTreatment, 
+    Decoction, 
+    DecoctionComponents)
 from django.contrib.auth.models import User
 # from diseases.models import Diseases
 # from patients.models import PatientsInfo
@@ -95,17 +100,18 @@ class ExternMedicines:
 
     def put_it(self,):
         df = read_csv(self.med_path)
-        df = df.fillna('')
+        df.fillna('', inplace=True)
         rows = [Medicine(
-                type=row['MedicineType'], 
+                type=row['MedicineType'],
                 name=row['MedicineName'], 
                 bopomofo=row['MedicineBopomoCode'], 
                 nhi_id=row['MedicineNHIID'],
                 nhi_name=row['MedicineNHIName'],
                 manufacturer=row['MedicineManufacturer'],
-                cost=row['MedicineCost'],
-                price=row['MedicinePrice'],
+                # cost=Decimal(row['MedicineCost']),
+                # price=Decimal(row['MedicinePrice']),
                 info=row['MedicineInfo'],
+                unit=row['MedicineUnit'],
             ) 
             for _, row in df.iterrows()]
         Medicine.objects.bulk_create(rows)
@@ -220,13 +226,67 @@ class ExternAcc:
         DongAcupuncture.objects.bulk_create(rows)
 
 
+class ExternInjury:
+    
+    def __init__(self) -> None:
+        self.injury = Path('./extern/injury/InjuryTreatment.csv')
+
+    
+    def put_it(self) -> None:
+        df = read_csv(self.injury)
+        df.fillna('', inplace=True)
+        rows = [
+            InjuryTreatment(
+                name=row['InjuryTreatmentName'], 
+                unit=row['InjuryTreatmentUnit'], 
+                code=row['InjuryTreatmentNHICode']) 
+                for _, row in df.iterrows()]
+        InjuryTreatment.objects.bulk_create(rows)
+
+
+class ExternDecoction:
+    
+    def __init__(self) -> None:
+        self.decoction = Path('./extern/decoction/decoction.csv')
+        self.decoction_comp = Path('./extern/decoction/decoctionCompo.csv')
+    
+    def put_it(self) -> None:
+        df = read_csv(self.decoction)
+        df.fillna('', inplace=True)
+        
+        rows = [
+            Decoction(
+                name=row['DecoctionName'], 
+                bopomofo=row['DecoctionBopomoCode'], 
+                # cost=Decimal(row['DecoctionCost']), 
+                # price=Decimal(row['DecoctionPrice']),
+                info=row['DecoctionInfo']) 
+                for _, row in df.iterrows()]
+        Decoction.objects.bulk_create(rows)
+    
+        df = read_csv(self.decoction_comp)
+        df.fillna('', inplace=True)
+        
+        rows = [
+            DecoctionComponents(
+                decoction_id=Decoction.objects.get(pk=row['DecoctionID']), 
+                medicine_id=Medicine.objects.get(pk=row['MedicineID']), 
+                dosage=Decimal(row['CompoDosage']),
+                unit=row['CompoUnit']) 
+                for _, row in df.iterrows()]
+        DecoctionComponents.objects.bulk_create(rows)
+
+
+
 def main() -> None:
     '''
     python manage.py shell
     >>> exec(open('extern.py').read())
     '''
     print('[Running]')
-    # ExternMedicines().put_it()
+    ExternMedicines().put_it()
+    ExternInjury().put_it()
+    ExternDecoction().put_it() 
     # ExternAcc().put_it()
     print('[Done]')
     # ExternOption().put_tongue_and_eye()
@@ -236,6 +296,3 @@ def main() -> None:
     # ExternMedicines('fang').db_change_all_med_titles()
 
 main()
-
-if __name__ == '__main__':
-    main()
