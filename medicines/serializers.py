@@ -17,6 +17,7 @@ class MedicineSerializer(serializers.ModelSerializer):
     class Meta:
         model = Medicine
         fields = (
+            'id',
             'name', 
             'type', 
             'bopomofo',

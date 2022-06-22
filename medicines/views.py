@@ -28,13 +28,13 @@ class StandardResultsSetPagination(PageNumberPagination):
 
 
 class MedicineFilter(filters.FilterSet):
-    
     class Meta:
         model = Medicine
         fields = {
             'name': ['icontains',],
             'bopomofo': ['iexact',],
             'type': ['icontains',],
+            'id': ['in'],
         }
 
 
