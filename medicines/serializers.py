@@ -44,6 +44,7 @@ class DecoctionSerializers(serializers.ModelSerializer):
     class Meta:
         model = Decoction
         fields = (
+            'id',
             'name',
             'bopomofo',
             'cost', 
