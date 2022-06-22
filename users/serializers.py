@@ -1,38 +1,43 @@
 from typing import Any
 from rest_framework import serializers
 from rest_framework.validators import UniqueValidator
-from .models import CustomUser
+from .models import Employee, EmployeeWorkSchedule
 
-from patients.serializers import (
-    OwnedPatientsSerializers, 
-    PastPatientsSerializers)
 
-class UserSerializer(serializers.ModelSerializer):
-    ownedPatients = OwnedPatientsSerializers(
-        many=True, read_only=True, source='owned_patients')
-    pastPatients = PastPatientsSerializers(
-        many=True, read_only=True, source='past_patients')
+class EmployeeSerializer(serializers.ModelSerializer):
+
     class Meta:
-        model = CustomUser
+        model = Employee
         fields = (
             'id', 
+            'id_num', 
             'username', 
-            'role', 
+            'phone_number', 
             'email', 
-            'ownedPatients', 
-            'pastPatients')
+            'department',)
+
+
+class EmployeeWorkScheduleSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = EmployeeWorkSchedule
+        fields = (
+            'id', 
+            'employee_id', 
+            'employee_work_schedule_day', 
+            'employee_work_schedule_day_period',)
 
 
 class UserRegistrationSerializer(serializers.ModelSerializer):
 
     email = serializers.EmailField(
-        validators=[UniqueValidator(queryset=CustomUser.objects.all())])
+        validators=[UniqueValidator(queryset=Employee.objects.all())])
 
     password2 = serializers.CharField(
         style={'input_type': 'password'}, write_only=True)
 
     class Meta:
-        model = CustomUser
+        model = Employee
         fields = ['username', 'email', 'password', 'password2', ]
         extra_kwargs = {
             'password': {
@@ -42,9 +47,9 @@ class UserRegistrationSerializer(serializers.ModelSerializer):
 
     # def save(self, request):
     def save(self, *args, **kwargs):
-        user = CustomUser(
+        user = Employee(
             email=self.validated_data['email'],
-            username=self.validated_data['username'],
+            name=self.validated_data['username'],
         )
 
         password = self.validated_data['password']

@@ -14,8 +14,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 
 # SECURITY WARNING: keep the secret key used in production secret!
 # SECRET_KEY = 'django-insecure-fbwe4do^nt8=ll4u2_8+lt-#l&ugs%nzbfa&^@n8yns6jb%_jr'
-SECRET_KEY = os.environ.get('SECRET_KEY')
-
+try:
+    SECRET_KEY = os.environ["SECRET_KEY"]
+except KeyError as e:
+    raise RuntimeError("Could not find a SECRET_KEY in environment") from e
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
@@ -56,10 +58,12 @@ INSTALLED_APPS = [
     'diseases',
     'medicines',
     'pulse',
+    'acupuncture',
+    'option',
 ]
 
 # Use custom user
-AUTH_USER_MODEL = 'users.CustomUser'
+AUTH_USER_MODEL = 'users.Employee'
 
 # For images
 MEDIA_ROOT = Path(BASE_DIR).joinpath('media')
@@ -128,6 +132,7 @@ REST_AUTH_REGISTER_SERIALIZERS = {
 
 CORS_ALLOW_ALL_ORIGINS = True
 
+
 # CORS_ALLOW_ORIGINS = (
 #     'https://tcm2.apulse.ai/',
 #     # Vue
@@ -195,29 +200,16 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'tcm_project.wsgi.application'
 
-
-# Database
-# https://docs.djangoproject.com/en/3.2/ref/settings/#databases
-
-# DATABASES = {
-#     'default': {
-#         'ENGINE': 'django.db.backends.sqlite3',
-#         'NAME': BASE_DIR / 'db.sqlite3',
-#     }
-# }
-
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.postgresql_psycopg2',
-        'NAME': os.environ.get('POSTGRES_NAME'),
+        'NAME': os.environ.get('DB_NAME'),
         'USER': os.environ.get('POSTGRES_USER'),
         'PASSWORD': os.environ.get('POSTGRES_PASSWORD'),
-        # 'HOST': 'host.docker.internal',
-        'HOST': 'localhost',
+        'HOST': os.environ.get('DB_HOST'),
         'PORT': '5432',
     }
 }
-
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators

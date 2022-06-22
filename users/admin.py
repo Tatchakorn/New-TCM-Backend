@@ -1,17 +1,17 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
 
-from .models import CustomUser
+from .models import Employee
 
 
-class CustomUserAdmin(UserAdmin):
-    model = CustomUser
-    ordering = ('-date_joined',)
+class CustomEmployeeAdmin(UserAdmin):
+    model = Employee
+    ordering = ('-username',)
     list_display = ('email', 'username', 'is_active', 'is_staff')
     fieldsets = (
-        (None, {'fields': ('email', 'username', 'role')}),
+        (None, {'fields': ('email', 'username',)}),
         ('Permission', {'fields': ('is_staff', 'is_active')}),
     )
 
 
-admin.site.register(CustomUser, CustomUserAdmin)
+admin.site.register(Employee, CustomEmployeeAdmin)

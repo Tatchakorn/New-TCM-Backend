@@ -1,10 +1,24 @@
-from django.db.models import fields
-from django.db.models.base import Model
 from rest_framework import viewsets
 from rest_framework.pagination import PageNumberPagination
 from django_filters import rest_framework as filters
-from .models import FangMedicines, YaoMedicines
-from .serializers import FangMedicinesSerializer, YaoMedicinesSerializer
+from .models import (
+    Medicine, 
+    MedicineRecord,
+    Decoction,
+    DecoctionComponents,
+    DecoctionRecord,
+    InjuryTreatment,
+    InjuryTreatmentRecord,
+    )
+from .serializers import (
+    MedicineSerializer, 
+    MedicineRecordSerializer,
+    DecoctionSerializers,
+    DecoctionComponentsSerializers,
+    DecoctionRecordSerializers,
+    InjuryTreatmentSerializers,
+    InjuryTreatmentRecordSerializers,
+    )
 
 
 class StandardResultsSetPagination(PageNumberPagination):
@@ -12,36 +26,62 @@ class StandardResultsSetPagination(PageNumberPagination):
     page_size_query_param = 'page_size'
     max_page_size = 100
 
-class FangMedicineFilter(filters.FilterSet):
+
+class MedicineFilter(filters.FilterSet):
     
     class Meta:
-        model = FangMedicines
+        model = Medicine
         fields = {
             'name': ['icontains',],
-            'bapomofo': ['iexact',],
+            'bopomofo': ['iexact',],
+            'type': ['icontains',],
         }
 
 
-class YaoMedicineFilter(filters.FilterSet):
+class MedicineViewset(viewsets.ModelViewSet):
+    filterset_class = MedicineFilter
+    pagination_class = StandardResultsSetPagination
+    queryset = Medicine.objects.all()
+    serializer_class = MedicineSerializer
+
+
+class MedicineRecordViewset(viewsets.ModelViewSet):
+    pagination_class = StandardResultsSetPagination
+    queryset = MedicineRecord.objects.all()
+    serializer_class = MedicineRecordSerializer
+
+class DecoctionFilter(filters.FilterSet):
     
     class Meta:
-        model = YaoMedicines
+        model = Decoction
         fields = {
-            'name': ['icontains',],
-            'bapomofo': ['iexact',],
+            'bopomofo': ['iexact',],
         }
+class DecoctionViewSet(viewsets.ModelViewSet):
+    filterset_class = DecoctionFilter
+    queryset = Decoction.objects.all()
+    serializer_class = DecoctionSerializers
 
 
-class YaoMedicinesViewset(viewsets.ModelViewSet):
-    filterset_class = YaoMedicineFilter
-    pagination_class = StandardResultsSetPagination
-    queryset = YaoMedicines.objects.all()
-    serializer_class = YaoMedicinesSerializer
+class DecoctionComponentsViewSet(viewsets.ModelViewSet):
+    
+    queryset = DecoctionComponents.objects.all()
+    serializer_class = DecoctionComponentsSerializers
 
 
-class FangMedicinesViewset(viewsets.ModelViewSet):
-    filterset_class = FangMedicineFilter
-    pagination_class = StandardResultsSetPagination
-    queryset = FangMedicines.objects.all()
-    serializer_class = FangMedicinesSerializer
+class DecoctionRecordViewSet(viewsets.ModelViewSet):
+    
+    queryset = DecoctionRecord.objects.all()
+    serializer_class = DecoctionRecordSerializers
 
+
+class InjuryTreatmentViewSet(viewsets.ModelViewSet):
+    
+    queryset = InjuryTreatment.objects.all()
+    serializer_class = InjuryTreatmentSerializers
+
+
+class InjuryTreatmentRecordViewSet(viewsets.ModelViewSet):
+    
+    queryset = InjuryTreatmentRecord.objects.all()
+    serializer_class = InjuryTreatmentRecordSerializers

@@ -10,9 +10,9 @@ from rest_framework_simplejwt.views import TokenObtainPairView, TokenRefreshView
 
 schema_view = get_schema_view(
     openapi.Info(
-        title='TCM API',
+        title='Traditional Chinese Medicine API',
         default_version='v1',
-        description="API for TCM project",
+        description='',
         # terms_of_service='',
         # contact=openapi.Contact(email=''),
         # license=openapi.License(name='License'),
@@ -28,6 +28,8 @@ urlpatterns = [
     path('diseases/', include('diseases.urls')),        # diseases app
     path('medicines/', include('medicines.urls')),      # medicines app
     path('pulse/', include('pulse.urls')),              # pulse app
+    path('acupuncture/', include('acupuncture.urls')),  # acupuncture app
+    path('option/', include('option.urls')),  # option app
     path('api-auth/', include('rest_framework.urls')),
     path('auth/', include('dj_rest_auth.urls')),
     path('auth/registration/', include('dj_rest_auth.registration.urls')),
