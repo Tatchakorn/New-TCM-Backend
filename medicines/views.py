@@ -53,7 +53,7 @@ class MedicineRecordViewset(viewsets.ModelViewSet):
 class DecoctionFilter(filters.FilterSet):
     
     class Meta:
-        model = Medicine
+        model = Decoction
         fields = {
             'bopomofo': ['iexact',],
         }
