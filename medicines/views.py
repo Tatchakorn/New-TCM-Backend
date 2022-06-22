@@ -63,8 +63,15 @@ class DecoctionViewSet(viewsets.ModelViewSet):
     serializer_class = DecoctionSerializers
 
 
+class DecoctionComponentsFilter(filters.FilterSet):
+    class Meta:
+        model = DecoctionComponents
+        fields = {
+            'decoction_id': ['exact',],
+        }
+
 class DecoctionComponentsViewSet(viewsets.ModelViewSet):
-    
+    filterset_class = DecoctionComponentsFilter
     queryset = DecoctionComponents.objects.all()
     serializer_class = DecoctionComponentsSerializers
 
