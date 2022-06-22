@@ -50,9 +50,15 @@ class MedicineRecordViewset(viewsets.ModelViewSet):
     queryset = MedicineRecord.objects.all()
     serializer_class = MedicineRecordSerializer
 
-
-class DecoctionViewSet(viewsets.ModelViewSet):
+class DecoctionFilter(filters.FilterSet):
     
+    class Meta:
+        model = Medicine
+        fields = {
+            'bopomofo': ['iexact',],
+        }
+class DecoctionViewSet(viewsets.ModelViewSet):
+    filterset_class = DecoctionFilter
     queryset = Decoction.objects.all()
     serializer_class = DecoctionSerializers
 
