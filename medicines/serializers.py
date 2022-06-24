@@ -26,6 +26,7 @@ class MedicineSerializer(serializers.ModelSerializer):
             'cost', 
             'price', 
             'info',
+            'unit',
             'manufacturer',)
 
 
