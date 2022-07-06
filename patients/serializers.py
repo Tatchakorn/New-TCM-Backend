@@ -18,6 +18,9 @@ class PatientSerializer(serializers.ModelSerializer):
     emergencyContactPhone = serializers.CharField(source='emergency_contact_phone')
     emergencyContactRelation = serializers.CharField(source='emergency_contact_rel')
     eduLevel = serializers.CharField(source='edu_level')
+    medHistory = serializers.CharField(source='med_history')
+    bodyFitness = serializers.CharField(source='body_fitness')
+
     
     class Meta:
         model = Patient
@@ -33,6 +36,9 @@ class PatientSerializer(serializers.ModelSerializer):
             'height',
             'weight',
             'bloodType',
+            'medHistory',
+            'bodyFitness',
+            'physique',
             'emergencyContactName',
             'emergencyContactPhone',
             'emergencyContactRelation',
@@ -57,7 +63,6 @@ class PatientRegisterRecordSerializer(serializers.ModelSerializer):
 
 
 class DiagnosisRecordSerializer(serializers.ModelSerializer):
-    medHistory = serializers.CharField(source='med_history')
     mainComplaint = serializers.CharField(source='main_complaint')
     medPackAmount = serializers.DecimalField(source='med_pack_amount', max_digits=10, decimal_places=2)
     medDay = serializers.IntegerField(source='med_day')
@@ -74,7 +79,6 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
             'employee_work_schedule_id',
             'patient_id',
             'employee_id',
-            'medHistory',
             'mainComplaint',
             'pulse',
             'disease_icd_code',
