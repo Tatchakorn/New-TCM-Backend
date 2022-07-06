@@ -16,6 +16,9 @@ class Patient(models.Model):
     PatientHeight FLOAT8
     PatientWeight FLOAT8
     PatientBloodType CHAR(5)
+    PatientMedicalHistory VARCHAR(100)
+    PatientPhysique VARCHAR(100)
+    PatientBodyFitness VARCHAR(100)
     PatientEmergencyContactName VARCHAR(10)
     PatientEmergencyContactPhone VARCHAR(10)
     PatientEmergencyContactRelationship VARCHAR(10)
@@ -48,6 +51,9 @@ class Patient(models.Model):
     height = models.DecimalField(max_digits=6, decimal_places=3)
     weight = models.DecimalField(max_digits=6, decimal_places=3)
     blood_type = models.CharField(max_length=20, blank=True, null=True)
+    med_history = models.CharField(max_length=100, blank=True, null=True)
+    physique = models.CharField(max_length=100, blank=True, null=True)
+    body_fitness = models.CharField(max_length=100, blank=True, null=True)
     emergency_contact_name = models.CharField(max_length=10, blank=True, null=True)
     emergency_contact_phone = models.CharField(max_length=10, blank=True, null=True)
     emergency_contact_rel = models.CharField(max_length=10, blank=True, null=True)
@@ -84,7 +90,6 @@ class DiagnosisRecord(models.Model):
     EmployeeWorkScheduleID VARCHAR(50) <fk>
     PatientID VARCHAR(50) <fk>
     EmployeeID VARCHAR(50) <fk>
-    MedicalHistory VARCHAR(256)
     MainComplaint TEXT
     Pulse TEXT
     DiseaseICDCode VARCHAR(50)
@@ -118,7 +123,6 @@ class DiagnosisRecord(models.Model):
         Employee,
         related_name='diagnosis_rec',
         on_delete=models.CASCADE)
-    med_history = models.CharField(max_length=256, blank=True, null=True)
     main_complaint = models.TextField(blank=True, null=True)
     pulse = models.TextField(blank=True, null=True)
     disease_icd_code = models.CharField(max_length=50, blank=True, null=True)
