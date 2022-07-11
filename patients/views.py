@@ -50,14 +50,19 @@ class PatientViewSet(viewsets.ModelViewSet):
     queryset = Patient.objects.all()
     serializer_class = PatientSerializer
 
-
+class RegisterRecordFilter(filters.FilterSet):
+    class Meta:
+        model = PatientRegisterRecord
+        fields = {
+            'patient_id': ['exact']
+        }
 class PatientRegisterRecordViewSet(viewsets.ModelViewSet):
+    filterset_class = RegisterRecordFilter
     queryset = PatientRegisterRecord.objects.all()
     serializer_class = PatientRegisterRecordSerializer
 
 
 class DiagnosisRecordViewSet(viewsets.ModelViewSet):
-    # filterset_class = DiagnosisRecord
     queryset = DiagnosisRecord.objects.all()
     serializer_class = DiagnosisRecordSerializer
 

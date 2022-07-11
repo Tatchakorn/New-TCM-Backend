@@ -10,17 +10,6 @@ from .models import (
 
 
 class PatientSerializer(serializers.ModelSerializer):
-    nhiCardNum = serializers.CharField(source='nhi_card_num')
-    idNum = serializers.CharField(source='id_num')
-    phoneNumber = serializers.CharField(source='phone_number')
-    bloodType = serializers.CharField(source='blood_type')
-    emergencyContactName = serializers.CharField(source='emergency_contact_name')
-    emergencyContactPhone = serializers.CharField(source='emergency_contact_phone')
-    emergencyContactRelation = serializers.CharField(source='emergency_contact_rel')
-    eduLevel = serializers.CharField(source='edu_level')
-    medHistory = serializers.CharField(source='med_history')
-    bodyFitness = serializers.CharField(source='body_fitness')
-
     
     class Meta:
         model = Patient
@@ -29,57 +18,52 @@ class PatientSerializer(serializers.ModelSerializer):
             'name',
             'gender',
             'birthday',
-            'nhiCardNum',
-            'idNum',
-            'phoneNumber',
+            'nhi_card_num',
+            'id_num',
+            'phone_number',
             'address',
             'height',
             'weight',
-            'bloodType',
-            'medHistory',
-            'bodyFitness',
+            'blood_type',
+            'med_history',
+            'body_fitness',
             'physique',
-            'emergencyContactName',
-            'emergencyContactPhone',
-            'emergencyContactRelation',
+            'emergency_contact_name',
+            'emergency_contact_phone',
+            'emergency_contact_rel',
             'job',
-            'eduLevel',
+            'edu_level',
             'marriage',
             'note',
         )
 
 
 class PatientRegisterRecordSerializer(serializers.ModelSerializer):
-    recordTime = serializers.DateTimeField(
-        source='record_time',
+    record_time = serializers.DateTimeField(
         format=r"%a, %d %b %Y %H:%M:%S %Z")
     
     class Meta:
         model = PatientRegisterRecord
         fields = (
             'patient_id',
-            'recordTime',
+            'record_time',
             'payment',)
 
 
 class DiagnosisRecordSerializer(serializers.ModelSerializer):
-    mainComplaint = serializers.CharField(source='main_complaint')
-    medPackAmount = serializers.DecimalField(source='med_pack_amount', max_digits=10, decimal_places=2)
-    medDay = serializers.IntegerField(source='med_day')
-    medTotalAmount = serializers.DecimalField(source='med_total_amount', max_digits=10, decimal_places=2)
-    recordTime = serializers.DateTimeField(
+    record_time = serializers.DateTimeField(
         source='diagnosis_record_time',
         format=r"%a, %d %b %Y %H:%M:%S %Z")
 
 
     class Meta:
         model = DiagnosisRecord
-        fields = (
+        fields = ( 
             'patient_register_record_id', 
             'employee_work_schedule_id',
             'patient_id',
             'employee_id',
-            'mainComplaint',
+            'main_complaint',
             'pulse',
             'disease_icd_code',
             'codisease_icd_code',
@@ -89,16 +73,15 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
             'decoction_cook_way',
             'decoction_way',
             'decoction_total_amount',
-            'medPackAmount',
-            'medDay',
-            'medTotalAmount',
-            'recordTime',
+            'med_pack_amount',
+            'med_day',
+            'med_total_amount',
+            'record_time',
         )
 
 
 class EyeImageSerializer(serializers.ModelSerializer):
-    uploadDate = serializers.DateTimeField(
-        source='upload_date',
+    upload_date = serializers.DateTimeField(
         format=r"%a, %d %b %Y %H:%M:%S %Z")
     
     class Meta:
@@ -107,13 +90,12 @@ class EyeImageSerializer(serializers.ModelSerializer):
             # 'diagnosis_record_id', 
             'patient_id', 
             'image', 
-            'uploadDate', 
+            'upload_date', 
             'description',)
 
 
 class TongueImageSerializer(serializers.ModelSerializer):
-    uploadDate = serializers.DateTimeField(
-        source='upload_date',
+    upload_date = serializers.DateTimeField(
         format=r"%a, %d %b %Y %H:%M:%S %Z")
     
     class Meta:
@@ -122,7 +104,7 @@ class TongueImageSerializer(serializers.ModelSerializer):
             # 'diagnosis_record_id', 
             'patient_id', 
             'image', 
-            'uploadDate', 
+            'upload_date', 
             'description',)
 
 
