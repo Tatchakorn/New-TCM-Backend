@@ -40,7 +40,6 @@ class PatientSerializer(serializers.ModelSerializer):
 
 class PatientRegisterRecordSerializer(serializers.ModelSerializer):
     record_time = serializers.DateTimeField(
-        source='record_time',
         format=r"%a, %d %b %Y %H:%M:%S %Z")
     
     class Meta:
@@ -83,7 +82,6 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
 
 class EyeImageSerializer(serializers.ModelSerializer):
     upload_date = serializers.DateTimeField(
-        source='upload_date',
         format=r"%a, %d %b %Y %H:%M:%S %Z")
     
     class Meta:
@@ -98,7 +96,6 @@ class EyeImageSerializer(serializers.ModelSerializer):
 
 class TongueImageSerializer(serializers.ModelSerializer):
     upload_date = serializers.DateTimeField(
-        source='upload_date',
         format=r"%a, %d %b %Y %H:%M:%S %Z")
     
     class Meta:
