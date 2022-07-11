@@ -58,7 +58,7 @@ class RegisterRecordFilter(filters.FilterSet):
         }
 class PatientRegisterRecordViewSet(viewsets.ModelViewSet):
     filterset_class = RegisterRecordFilter
-    queryset = PatientRegisterRecord.objects.first()
+    queryset = PatientRegisterRecord.objects.all()
     serializer_class = PatientRegisterRecordSerializer
 
 
