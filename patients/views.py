@@ -54,7 +54,7 @@ class RegisterRecordFilter(filters.FilterSet):
     class Meta:
         model = PatientRegisterRecord
         fields = {
-            'patient_id': 'exact'
+            'patient_id': ['exact']
         }
 class PatientRegisterRecordViewSet(viewsets.ModelViewSet):
     filterset_class = RegisterRecordFilter
