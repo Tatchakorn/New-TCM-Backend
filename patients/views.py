@@ -63,7 +63,6 @@ class PatientRegisterRecordViewSet(viewsets.ModelViewSet):
 
 
 class DiagnosisRecordViewSet(viewsets.ModelViewSet):
-    filterset_class = DiagnosisRecordFilter
     queryset = DiagnosisRecord.objects.all()
     serializer_class = DiagnosisRecordSerializer
 
