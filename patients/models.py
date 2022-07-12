@@ -79,7 +79,7 @@ class PatientRegisterRecord(models.Model):
         Patient,
         related_name='patient_register_rec',
         on_delete=models.CASCADE)
-    record_time = models.DateTimeField(default=timezone.now)
+    record_time = models.DateTimeField(auto_now=True, default=timezone.now)
     payment = models.DecimalField(max_digits=10, decimal_places=2, default=0)
 
 
@@ -162,7 +162,7 @@ class EyeImage(models.Model):
         related_name='patientId',
         on_delete=models.CASCADE)
     image = models.ImageField(upload_to='images/eye/%Y/%m', null=True)
-    upload_date = models.DateTimeField(default=timezone.now)
+    upload_date = models.DateTimeField(auto_now=True, default=timezone.now)
     description = models.CharField(max_length=200, blank=True, null=True)
 
 
@@ -189,7 +189,7 @@ class TongueImage(models.Model):
         related_name='tongue_img',
         on_delete=models.CASCADE)
     image = models.ImageField(upload_to='images/tongue/%Y/%m', null=True)
-    upload_date = models.DateTimeField(default=timezone.now)
+    upload_date = models.DateTimeField(auto_now=True, default=timezone.now)
     description = models.CharField(max_length=200, blank=True, null=True)
 
 
@@ -206,6 +206,6 @@ class OtherMedia(models.Model):
         Patient,
         related_name='other_media',
         on_delete=models.CASCADE)
-    upload_date = models.DateTimeField(default=timezone.now)
+    upload_date = models.DateTimeField(auto_now=True, default=timezone.now)
     file = models.FileField(upload_to='videos/%Y/%m')
     description = models.CharField(max_length=200, blank=True, null=True)
