@@ -1,7 +1,7 @@
 from django.contrib import admin
 from django.contrib.auth.admin import UserAdmin
 
-from .models import Employee
+from .models import Employee, EmployeeWorkSchedule
 
 
 class CustomEmployeeAdmin(UserAdmin):
@@ -15,3 +15,5 @@ class CustomEmployeeAdmin(UserAdmin):
 
 
 admin.site.register(Employee, CustomEmployeeAdmin)
+
+admin.site.register(EmployeeWorkSchedule)
