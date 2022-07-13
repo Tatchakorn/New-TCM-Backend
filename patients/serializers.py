@@ -48,7 +48,10 @@ class PatientRegisterRecordSerializer(serializers.ModelSerializer):
         fields = (
             'patient_id',
             'record_time',
-            'payment',)
+            'payment',
+            'employee_work_schedule_id',
+            'diagnosis_record_id'
+            )
 
 
 class DiagnosisRecordSerializer(serializers.ModelSerializer):
@@ -61,12 +64,12 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
     class Meta:
         model = DiagnosisRecord
         fields = ( 
-            'patient_register_record_id', 
             'employee_work_schedule_id',
             'patient_id',
             'employee_id',
             'main_complaint',
             'pulse',
+            'disease_name',
             'disease_icd_code',
             'codisease_icd_code',
             'codisease_icd_code_2',
