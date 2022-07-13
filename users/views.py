@@ -14,9 +14,9 @@ class EmployeeViewSet(viewsets.ModelViewSet):
 
 class WorkScheduleFilter(filters.FilterSet):
     class Meta:
-        model = EmployeeWorkSchedule
+        model = EmployeeWorkSchedule 
         fields = {
-            'employee_work_schedule_day_period': ['iexact',],
+            'employee_work_schedule_day_period': ['exact',],
         }
 
 class EmployeeWorkScheduleViewSet(viewsets.ModelViewSet):
