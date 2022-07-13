@@ -20,6 +20,6 @@ class WorkScheduleFilter(filters.FilterSet):
         }
 
 class EmployeeWorkScheduleViewSet(viewsets.ModelViewSet):
+    filterset_class = WorkScheduleFilter
     queryset = EmployeeWorkSchedule.objects.all()
     serializer_class = EmployeeWorkScheduleSerializer
-    filterset_class = WorkScheduleFilter
