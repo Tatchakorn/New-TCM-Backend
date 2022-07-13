@@ -1,4 +1,5 @@
 from rest_framework import viewsets
+from django_filters import rest_framework as filters
 
 from .models import Employee, EmployeeWorkSchedule
 from .serializers import (
@@ -6,11 +7,19 @@ from .serializers import (
     EmployeeWorkScheduleSerializer)
 
 
-class EmployeeViewSet(viewsets.ModelViewSet):
+class EmployeeViewSet(viewsets.ModelViewSet): 
     queryset = Employee.objects.all()
     serializer_class = EmployeeSerializer
 
 
+class WorkScheduleFilter(filters.FilterSet):
+    class Meta:
+        model = EmployeeWorkSchedule
+        fields = {
+            'employee_work_schedule_day_period': ['iexact',],
+        }
+
 class EmployeeWorkScheduleViewSet(viewsets.ModelViewSet):
     queryset = EmployeeWorkSchedule.objects.all()
     serializer_class = EmployeeWorkScheduleSerializer
+    filterset_class = WorkScheduleFilter
