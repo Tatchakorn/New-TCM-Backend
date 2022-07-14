@@ -1,3 +1,4 @@
+from users.serializers import EmployeeWorkScheduleSerializer
 from rest_framework import serializers
 from .models import (
     Patient,
@@ -43,15 +44,23 @@ class PatientRegisterRecordSerializer(serializers.ModelSerializer):
         format=r"%a, %d %b %Y %H:%M:%S %Z",
         read_only=True)
     
+    patient_data = PatientSerializer(source="patient_id", read_only=True)
+    employee_work_schedule_data = EmployeeWorkScheduleSerializer(source="employee_work_schedule_id", read_only=True)
     class Meta:
         model = PatientRegisterRecord
         fields = (
-            'patient_id',
+            'id',
+            'patient_data',
             'record_time',
+            'patient_id',
             'payment',
             'employee_work_schedule_id',
-            'diagnosis_record_id'
+            'diagnosis_record_id',
+            'register_sequence',
+            'employee_work_schedule_data'
             )
+        extra_kwargs = { 'patient_id': {'write_only': True}, 'employee_work_schedule_id': {'write_only': True, 'required': True} }
+
 
 
 class DiagnosisRecordSerializer(serializers.ModelSerializer):

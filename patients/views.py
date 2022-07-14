@@ -15,7 +15,7 @@ from .serializers import (
     DiagnosisRecordSerializer, 
     EyeImageSerializer,
     TongueImageSerializer,
-    OtherMediaSerializer
+    OtherMediaSerializer,
     )
 
 
@@ -60,7 +60,6 @@ class PatientRegisterRecordViewSet(viewsets.ModelViewSet):
     filterset_class = RegisterRecordFilter
     queryset = PatientRegisterRecord.objects.all()
     serializer_class = PatientRegisterRecordSerializer
-
 
 class DiagnosisRecordViewSet(viewsets.ModelViewSet):
     queryset = DiagnosisRecord.objects.all()
