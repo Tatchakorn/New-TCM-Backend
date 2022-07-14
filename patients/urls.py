@@ -24,4 +24,6 @@ router.register(
     'diagnosis/videos',
     OtherMediaViewSet,
     basename='other_media')
+
 urlpatterns = router.urls
+
