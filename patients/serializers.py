@@ -73,6 +73,7 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
     class Meta:
         model = DiagnosisRecord
         fields = ( 
+            'id',
             'employee_work_schedule_id',
             'patient_id',
             'employee_id',
@@ -92,6 +93,13 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
             'med_total_amount',
             'record_time',
         )
+
+        extra_kwargs = {
+            "med_day": {"required": False},
+            "medicine_way": {"required": False},
+            "med_pack_amount": {"required": False},
+            "med_total_amount": {"required": False}
+        }
 
 
 class EyeImageSerializer(serializers.ModelSerializer):
