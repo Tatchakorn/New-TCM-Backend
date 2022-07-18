@@ -79,8 +79,8 @@ class DecoctionComponents(models.Model):
 
 
 class DecoctionRecord(models.Model):
-    decoction_id = models.ForeignKey(
-        Decoction,
+    decoction_component_id = models.ForeignKey(
+        DecoctionComponents,
         related_name='decoc_rec',
         on_delete=models.CASCADE)
     diagnosis_record_id = models.ForeignKey(
