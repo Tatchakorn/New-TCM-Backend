@@ -59,6 +59,7 @@ class DecoctionComponentsSerializers(serializers.ModelSerializer):
     class Meta:
         model = DecoctionComponents
         fields = (
+            'id',
             'decoction_id',
             'medicine_id',
             'dosage',
