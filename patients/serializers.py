@@ -73,6 +73,7 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
     class Meta:
         model = DiagnosisRecord
         fields = ( 
+            'id',
             'employee_work_schedule_id',
             'patient_id',
             'employee_id',
