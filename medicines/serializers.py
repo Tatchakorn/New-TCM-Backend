@@ -71,7 +71,7 @@ class DecoctionRecordSerializers(serializers.ModelSerializer):
     class Meta:
         model = DecoctionRecord
         fields = (
-            'decoction_id',
+            'decoction_component_id',
             'diagnosis_record_id',
             'dosage',
             'subtotal',
