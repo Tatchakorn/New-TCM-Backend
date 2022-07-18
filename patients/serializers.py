@@ -94,6 +94,13 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
             'record_time',
         )
 
+        extra_kwargs = {
+            "med_day": {"required": False},
+            "medicine_way": {"required": False},
+            "med_pack_amount": {"required": False},
+            "med_total_amount": {"required": False}
+        }
+
 
 class EyeImageSerializer(serializers.ModelSerializer):
     upload_date = serializers.DateTimeField(
