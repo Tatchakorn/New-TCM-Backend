@@ -107,7 +107,7 @@ class DiagnosisRecord(models.Model):
     codisease_icd_code_2 = models.CharField(max_length=50, blank=True, null=True)
     medicine_way = models.TextField(blank=True, null=True)
     med_pack_amount = models.DecimalField(max_digits=10, decimal_places=2, default=0)
-    med_day = models.SmallIntegerField()
+    med_day = models.SmallIntegerField(blank=True, null=True)
     med_total_amount = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     decoction_pack_amout = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     decoction_cook_way = models.TextField(blank=True, null=True)
