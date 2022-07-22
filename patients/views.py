@@ -54,7 +54,10 @@ class RegisterRecordFilter(filters.FilterSet):
     class Meta:
         model = PatientRegisterRecord
         fields = {
-            'patient_id': ['exact']
+            'patient_id': ['exact'],
+            'patient_id__name': ['icontains'],
+            'patient_id__phone_number': ['icontains'],
+            'patient_id__birthday': ['exact']
         }
 class PatientRegisterRecordViewSet(viewsets.ModelViewSet):
     filterset_class = RegisterRecordFilter
