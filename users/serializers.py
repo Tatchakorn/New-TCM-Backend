@@ -1,4 +1,5 @@
 from typing import Any
+from numpy import source
 from rest_framework import serializers
 from rest_framework.validators import UniqueValidator
 from .models import Employee, EmployeeWorkSchedule
@@ -19,11 +20,13 @@ class EmployeeSerializer(serializers.ModelSerializer):
 
 class EmployeeWorkScheduleSerializer(serializers.ModelSerializer):
 
+    employee_name = serializers.CharField(source="employee_id.username", read_only=True)
     class Meta:
         model = EmployeeWorkSchedule
         fields = (
             'id', 
             'employee_id', 
+            'employee_name',
             'employee_work_schedule_day', 
             'employee_work_schedule_day_period',)
 
