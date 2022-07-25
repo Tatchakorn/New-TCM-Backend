@@ -39,30 +39,6 @@ class PatientSerializer(serializers.ModelSerializer):
         )
 
 
-class PatientRegisterRecordSerializer(serializers.ModelSerializer):
-    record_time = serializers.DateTimeField(
-        format=r"%a, %d %b %Y %H:%M:%S %Z",
-        read_only=True)
-    
-    patient_data = PatientSerializer(source="patient_id", read_only=True)
-    employee_work_schedule_data = EmployeeWorkScheduleSerializer(source="employee_work_schedule_id", read_only=True)
-    class Meta:
-        model = PatientRegisterRecord
-        fields = (
-            'id',
-            'patient_data',
-            'record_time',
-            'patient_id',
-            'payment',
-            'employee_work_schedule_id',
-            'diagnosis_record_id',
-            'register_sequence',
-            'employee_work_schedule_data'
-            )
-        extra_kwargs = { 'patient_id': {'write_only': True}, 'employee_work_schedule_id': {'write_only': True, 'required': True} }
-
-
-
 class DiagnosisRecordSerializer(serializers.ModelSerializer):
     record_time = serializers.DateTimeField(
         source='diagnosis_record_time',
@@ -101,6 +77,34 @@ class DiagnosisRecordSerializer(serializers.ModelSerializer):
             "med_total_amount": {"required": False}
         }
 
+
+class PatientRegisterRecordSerializer(serializers.ModelSerializer):
+    record_time = serializers.DateTimeField(
+        format=r"%a, %d %b %Y %H:%M:%S %Z",
+        read_only=True)
+    
+    patient_data = PatientSerializer(source="patient_id", read_only=True)
+    employee_work_schedule_data = EmployeeWorkScheduleSerializer(source="employee_work_schedule_id", read_only=True)
+    diagnosis_record_data = DiagnosisRecordSerializer(source="diagnosis_record_id", read_only=True)
+    class Meta:
+        model = PatientRegisterRecord
+        fields = (
+            'id',
+            'patient_data',
+            'record_time',
+            'patient_id',
+            'payment',
+            'employee_work_schedule_id',
+            'diagnosis_record_id',
+            'diagnosis_record_data',
+            'register_sequence',
+            'employee_work_schedule_data'
+            )
+        extra_kwargs = {
+            'patient_id': {'write_only': True, 'required': True},
+            'employee_work_schedule_id': {'write_only': True, 'required': True},
+            'diagnosis_record_id': {'write_only': True, 'required': True}
+            }
 
 class EyeImageSerializer(serializers.ModelSerializer):
     upload_date = serializers.DateTimeField(
