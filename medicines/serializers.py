@@ -98,7 +98,7 @@ class InjuryTreatmentSerializers(serializers.ModelSerializer):
 
 
 class InjuryTreatmentRecordSerializers(serializers.ModelSerializer):
-    injury_treatment_data = InjuryTreatmentSerializers(source="diagnosis_id", read_only=True)
+    injury_treatment_data = InjuryTreatmentSerializers(source="injury_treatment_id", read_only=True)
     class Meta:
         model = InjuryTreatmentRecord
         fields = [
