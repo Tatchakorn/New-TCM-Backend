@@ -57,6 +57,7 @@ class DecoctionFilter(filters.FilterSet):
         fields = {
             'bopomofo': ['iexact',],
         }
+
 class DecoctionViewSet(viewsets.ModelViewSet):
     filterset_class = DecoctionFilter
     queryset = Decoction.objects.all()
@@ -76,8 +77,14 @@ class DecoctionComponentsViewSet(viewsets.ModelViewSet):
     serializer_class = DecoctionComponentsSerializers
 
 
+class DecoctionRecordFilter(filters.FilterSet):
+    class Meta:
+        model = DecoctionRecord
+        fields = {
+            'diagnosis_record_id' : ['exact']
+        }
 class DecoctionRecordViewSet(viewsets.ModelViewSet):
-    
+    filterset_class = DecoctionRecordFilter
     queryset = DecoctionRecord.objects.all()
     serializer_class = DecoctionRecordSerializers
 

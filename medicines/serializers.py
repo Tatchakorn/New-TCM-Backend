@@ -69,11 +69,13 @@ class DecoctionComponentsSerializers(serializers.ModelSerializer):
 
 class DecoctionRecordSerializers(serializers.ModelSerializer):
     
+    decoction_component_data = DecoctionComponentsSerializers(source="decoction_component_id", read_only=True)
     class Meta:
         model = DecoctionRecord
         fields = (
             'decoction_component_id',
             'diagnosis_record_id',
+            'decoction_component_data',
             'dosage',
             'subtotal',
         )
