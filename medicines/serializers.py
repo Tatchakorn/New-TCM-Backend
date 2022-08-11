@@ -31,11 +31,12 @@ class MedicineSerializer(serializers.ModelSerializer):
 
 
 class MedicineRecordSerializer(serializers.ModelSerializer):
-    
+    medicine_name = serializers.CharField(source="medicine_id.name")
     class Meta:
         model = MedicineRecord
         fields = (
             'medicine_id',
+            'medicine_name',
             'diagnosis_record_id',
             'dosage',
             'subtotal',)
