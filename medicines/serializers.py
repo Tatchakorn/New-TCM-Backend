@@ -1,3 +1,4 @@
+from numpy import source
 from rest_framework import serializers
 from .models import (
     Medicine, 
@@ -31,11 +32,14 @@ class MedicineSerializer(serializers.ModelSerializer):
 
 
 class MedicineRecordSerializer(serializers.ModelSerializer):
-    
+    medicine_name = serializers.CharField(source="medicine_id.name")
+    medicine_unit = serializers.CharField(source="medicine_id.unit")
     class Meta:
         model = MedicineRecord
         fields = (
             'medicine_id',
+            'medicine_name',
+            'medicine_unit',
             'diagnosis_record_id',
             'dosage',
             'subtotal',)
