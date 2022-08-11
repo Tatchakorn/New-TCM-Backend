@@ -51,6 +51,7 @@ class MedicineRecordFilter(filters.FilterSet):
             'diagnosis_record_id' : ['exact']
         }
 class MedicineRecordViewset(viewsets.ModelViewSet):
+    filterset_class = MedicineRecordFilter
     pagination_class = StandardResultsSetPagination
     queryset = MedicineRecord.objects.all()
     serializer_class = MedicineRecordSerializer
