@@ -89,7 +89,12 @@ class InjuryTreatmentSerializers(serializers.ModelSerializer):
     
     class Meta:
         model = InjuryTreatment
-        fields = '__all__'
+        fields = [
+            'id',
+            'code',
+            'name',
+            'unit'
+        ]
 
 
 class InjuryTreatmentRecordSerializers(serializers.ModelSerializer):
