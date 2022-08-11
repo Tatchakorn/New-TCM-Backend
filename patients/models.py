@@ -142,6 +142,7 @@ class PatientRegisterRecord(models.Model):
         DiagnosisRecord,
         on_delete=models.SET_NULL,
         default=None,
+        blank=True,
         null=True)
     record_time = models.DateTimeField(auto_now_add=True)
     payment = models.DecimalField(max_digits=10, decimal_places=2, default=0)
