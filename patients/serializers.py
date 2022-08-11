@@ -104,7 +104,7 @@ class PatientRegisterRecordSerializer(serializers.ModelSerializer):
         extra_kwargs = {
             'patient_id': {'write_only': True, 'required': True},
             'employee_work_schedule_id': {'write_only': True, 'required': True},
-            'diagnosis_record_id': {'write_only': True, 'required': True}
+            'diagnosis_record_id': {'write_only': True, 'required': False}
             }
 
 class EyeImageSerializer(serializers.ModelSerializer):
