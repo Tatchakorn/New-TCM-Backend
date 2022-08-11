@@ -100,8 +100,12 @@ class InjuryTreatmentViewSet(viewsets.ModelViewSet):
     queryset = InjuryTreatment.objects.all()
     serializer_class = InjuryTreatmentSerializers
 
-
+class InjuryTreatmentRecordFulterSet(filters.FilterSet):
+    model = InjuryTreatmentRecord
+    fields = {
+        'diagnosis_id': ['exact']
+    }
 class InjuryTreatmentRecordViewSet(viewsets.ModelViewSet):
-    
+    filterset_class = InjuryTreatmentRecordFulterSet
     queryset = InjuryTreatmentRecord.objects.all()
     serializer_class = InjuryTreatmentRecordSerializers
