@@ -54,6 +54,7 @@ class RegisterRecordFilter(filters.FilterSet):
     class Meta:
         model = PatientRegisterRecord
         fields = {
+            'diagnosis_record_id': ['isnull'],
             'patient_id': ['exact'],
             'patient_id__name': ['icontains'],
             'patient_id__phone_number': ['icontains'],
