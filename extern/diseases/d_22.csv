@@ -1,0 +1,1415 @@
+,code,en_name,ch_name
+0,Z00,"Encounter for general examination without complaint, suspected or reported diagnosis",未有主訴或懷疑診斷者來院接受一般檢查
+1,Z000,Encounter for general adult medical examination,成人來院接受一般醫學檢查
+2,Z0000,Encounter for general adult medical examination without abnormal findings,來院接受一般醫學檢查無異常發現
+3,Z0001,Encounter for general adult medical examination with abnormal findings,來院接受一般醫學檢查伴有異常發現
+4,Z001,"Encounter for newborn, infant and child health examinations",來院接受新生兒，兒童健康檢查
+5,Z0011,Newborn health examination,新生兒健康檢查
+6,Z00110,Health examination for newborn under 8 days old,出生8天內之新生兒健康檢查
+7,Z00111,Health examination for newborn 8 to 28 days old,出生後8至28天之新生兒健康檢查
+8,Z0012,Encounter for routine child health examination,來院接受常規性兒童健康檢查
+9,Z00121,Encounter for routine child health examination with abnormal findings,來院接受常規性兒童健康檢查伴有異常發現
+10,Z00129,Encounter for routine child health examination without abnormal findings,來院接受常規性兒童健康檢查無異常發現
+11,Z002,Encounter for examination for period of rapid growth in childhood,來院接受幼兒快速成長期之檢查
+12,Z003,Encounter for examination for adolescent development state,來院接受青春期身體發育狀況之檢查
+13,Z005,Encounter for examination of potential donor of organ and tissue,來院接受對可能成為器官及組織捐贈者的檢查
+14,Z006,Encounter for examination for normal comparison and control in clinical research program,來院接受在臨床研究計畫中對正常對照及控制組的檢查
+15,Z007,Encounter for examination for period of delayed growth in childhood,來院接受幼兒成長遲緩期之檢查
+16,Z0070,Encounter for examination for period of delayed growth in childhood without abnormal findings,來院接受幼兒成長遲緩期之檢查無異常發現
+17,Z0071,Encounter for examination for period of delayed growth in childhood with abnormal findings,來院接受幼兒成長遲緩期之檢查伴有異常發現
+18,Z008,Encounter for other general examination,來院接受其他一般檢查
+19,Z01,"Encounter for other special examination without complaint, suspected or reported diagnosis",未有主訴或懷疑診斷者來院接受其他特定檢查
+20,Z010,Encounter for examination of eyes and vision,來院接受眼睛及視力檢查
+21,Z0100,Encounter for examination of eyes and vision without abnormal findings,來院接受眼睛及視力檢查無異常發現
+22,Z0101,Encounter for examination of eyes and vision with abnormal findings,來院接受眼睛及視力檢查伴有異常發現
+23,Z011,Encounter for examination of ears and hearing,來院接受耳及聽力檢查
+24,Z0110,Encounter for examination of ears and hearing without abnormal findings,來院接受耳及聽力檢查無異常發現
+25,Z0111,Encounter for examination of ears and hearing with abnormal findings,來院接受耳及聽力檢查伴有異常發現
+26,Z01110,Encounter for hearing examination following failed hearing screening,來院接受聽力篩檢未通過後之聽力檢查
+27,Z01118,Encounter for examination of ears and hearing with other abnormal findings,來院接受耳及聽力檢查伴有其他異常發現
+28,Z0112,Encounter for hearing conservation and treatment,來院接受聽力保存和治療
+29,Z012,Encounter for dental examination and cleaning,來院接受牙齒檢查和清洗
+30,Z0120,Encounter for dental examination and cleaning without abnormal findings,來院接受牙齒檢查和清洗無異常發現
+31,Z0121,Encounter for dental examination and cleaning with abnormal findings,來院接受牙齒檢查和清洗伴有異常發現
+32,Z013,Encounter for examination of blood pressure,來院接受血壓檢查
+33,Z0130,Encounter for examination of blood pressure without abnormal findings,來院接受血壓檢查無異常發現
+34,Z0131,Encounter for examination of blood pressure with abnormal findings,來院接受血壓檢查伴有異常發現
+35,Z014,Encounter for gynecological examination,來院接受婦科檢查
+36,Z0141,Encounter for routine gynecological examination,來院接受常規性婦科檢查
+37,Z01411,Encounter for gynecological examination (general) (routine) with abnormal findings,來院接受婦科檢查(一般)(常規)伴有異常發現
+38,Z01419,Encounter for gynecological examination (general) (routine) without abnormal findings,來院接受婦科檢查(一般)(常規)無異常發現
+39,Z0142,Encounter for cervical smear to confirm findings of recent normal smear following initial abnormal smear,來院接受子宮頸抹片，以確認最初抹片異常但近期抹片結果正常
+40,Z018,Encounter for other specified special examinations,來院接受其他特定的特殊檢查
+41,Z0181,Encounter for preprocedural examinations,來院接受執行醫療處置前之檢查
+42,Z01810,Encounter for preprocedural cardiovascular examination,來院接受執行醫療處置前之心臟血管檢查
+43,Z01811,Encounter for preprocedural respiratory examination,來院接受執行醫療處置前之呼吸系統檢查
+44,Z01812,Encounter for preprocedural laboratory examination,來院接受執行醫療處置前實驗室檢查
+45,Z01818,Encounter for other preprocedural examination,來院接受執行醫療處置前之其他檢查
+46,Z0182,Encounter for allergy testing,來院接受過敏測試
+47,Z0183,Encounter for blood typing,來院接受血型檢查
+48,Z0184,Encounter for antibody response examination,來院接受抗體反應檢查
+49,Z0189,Encounter for other specified special examinations,來院接受其他特定的特殊檢查
+50,Z02,Encounter for administrative examination,來院接受行政檢查
+51,Z020,Encounter for examination for admission to educational institution,來院接受教育機構入學檢查
+52,Z021,Encounter for pre-employment examination,來院接受就職前檢查
+53,Z022,Encounter for examination for admission to residential institution,來院接受居住機構入住檢查
+54,Z023,Encounter for examination for recruitment to armed forces,來院接受新兵入伍檢查
+55,Z024,Encounter for examination for driving license,來院接受辦理駕駛執照的檢查
+56,Z025,Encounter for examination for participation in sport,來院接受參加運動比賽的檢查
+57,Z026,Encounter for examination for insurance purposes,來院接受保險目的的檢查
+58,Z027,Encounter for issue of medical certificate,來院接受開立診斷証明書
+59,Z0271,Encounter for disability determination,來院接受殘障鑑定
+60,Z0279,Encounter for issue of other medical certificate,來院接受開立其他診斷証明書
+61,Z028,Encounter for other administrative examinations,來院接受其他行政檢查
+62,Z0281,Encounter for paternity testing,來院接受親子鑑定
+63,Z0282,Encounter for adoption services,來院接受領養服務
+64,Z0283,Encounter for blood-alcohol and blood-drug test,來院接受血中酒精和血中藥物測試
+65,Z0289,Encounter for other administrative examinations,來院接受其他行政檢查
+66,Z029,"Encounter for administrative examinations, unspecified",來院接受行政檢查，未特定
+67,Z03,Encounter for medical observation for suspected diseases and conditions ruled out,"來院接受對疑似的疾病和狀況的觀察,已排除"
+68,Z036,Encounter for observation for suspected toxic effect from ingested substance ruled out,"來院接受觀察攝入物質所導致之疑似毒性作用,已排除"
+69,Z037,Encounter for suspected maternal and fetal conditions ruled out,"來院接受疑似的母親和胎兒狀況,已排除"
+70,Z0371,Encounter for suspected problem with amniotic cavity and membrane ruled out,"來院接受疑似羊膜腔內和羊膜的問題,已排除"
+71,Z0372,Encounter for suspected placental problem ruled out,"來院接受疑似的胎盤問題,已排除"
+72,Z0373,Encounter for suspected fetal anomaly ruled out,"來院接受疑似的胎兒異常,已排除"
+73,Z0374,Encounter for suspected problem with fetal growth ruled out,來院接受疑似的胎兒成長的問題被排除
+74,Z0375,Encounter for suspected cervical shortening ruled out,"來院接受疑似的子宮頸縮短,已排除"
+75,Z0379,Encounter for other suspected maternal and fetal conditions ruled out,"來院接受其他疑似的母親和胎兒狀況,已排除"
+76,Z038,Encounter for observation for other suspected diseases and conditions ruled out,"來院接受對其他疑似的疾病和狀況的觀察,已排除"
+77,Z0381,Encounter for observation for suspected exposure to biological agents ruled out,"來院接受對疑似暴露在生物製劑的觀察,已排除"
+78,Z03810,Encounter for observation for suspected exposure to anthrax ruled out,"來院接受對疑似暴露在炭疽的的觀察,已排除"
+79,Z03818,Encounter for observation for suspected exposure to other biological agents ruled out,"來院接受對疑似暴露在其他生物製劑的觀察,已排除"
+80,Z0389,Encounter for observation for other suspected diseases and conditions ruled out,"來院接受對其他疑似的疾病和狀況的觀察,已排除"
+81,Z04,Encounter for examination and observation for other reasons,來院接受其他理由的檢查及觀察
+82,Z041,Encounter for examination and observation following transport accident,來院接受運輸事故後的檢查及觀察
+83,Z042,Encounter for examination and observation following work accident,來院接受對工作意外後之檢查及觀察
+84,Z043,Encounter for examination and observation following other accident,來院接受對其他意外後之檢查及觀察
+85,Z044,Encounter for examination and observation following alleged rape,來院接受對宣稱被強暴的檢查和觀察
+86,Z0441,Encounter for examination and observation following alleged adult rape,來院接受對宣稱被強暴之成人的檢查和觀察
+87,Z0442,Encounter for examination and observation following alleged child rape,來院接受對宣稱被強暴之兒童的檢查和觀察
+88,Z046,"Encounter for general psychiatric examination, requested by authority",來院接受官方要求作之一般精神檢查
+89,Z047,Encounter for examination and observation following alleged physical abuse,來院接受對宣稱被身體虐待的檢查及觀察
+90,Z0471,Encounter for examination and observation following alleged adult physical abuse,來院接受對宣稱被身體虐待之成人的檢查及觀察
+91,Z0472,Encounter for examination and observation following alleged child physical abuse,來院接受對宣稱被身體虐待之兒童的檢查及觀察
+92,Z048,Encounter for examination and observation for other specified reasons,來院接受其他特定理由的檢查及觀察
+93,Z049,Encounter for examination and observation for unspecified reason,來院接受未特定理由的檢查及觀察
+94,Z08,Encounter for follow-up examination after completed treatment for malignant neoplasm,來院接受惡性腫瘤完整治療後的追蹤檢查
+95,Z09,Encounter for follow-up examination after completed treatment for conditions other than malignant neoplasm,來院接受惡性腫瘤以外病況完整治療後的追蹤檢查
+96,Z11,Encounter for screening for infectious and parasitic diseases,來院接受腸道感染性疾病的篩檢
+97,Z110,Encounter for screening for intestinal infectious diseases,來院接受腸道感染性疾病的篩檢
+98,Z111,Encounter for screening for respiratory tuberculosis,來院接受呼吸道結核病的篩檢
+99,Z112,Encounter for screening for other bacterial diseases,來院接受其他細菌性疾病的篩檢
+100,Z113,Encounter for screening for infections with a predominantly sexual mode of transmission,來院接受主要經由性傳播模式感染的篩檢
+101,Z114,Encounter for screening for human immunodeficiency virus [HIV],來院接受人類免疫缺乏病毒[HIV]的篩檢
+102,Z115,Encounter for screening for other viral diseases,來院接受病毒性疾病的篩檢
+103,Z1151,Encounter for screening for human papillomavirus (HPV),來院接受人類乳突病毒[HPV]的篩檢
+104,Z1159,Encounter for screening for other viral diseases,來院接受其他病毒性疾病的篩檢
+105,Z116,Encounter for screening for other protozoal diseases and helminthiases,來院接受其他原蟲病及蠕蟲病的篩檢
+106,Z118,Encounter for screening for other infectious and parasitic diseases,來院接受其他感染及寄生蟲疾病的篩檢
+107,Z119,"Encounter for screening for infectious and parasitic diseases, unspecified",來院接受感染及寄生蟲疾病的篩檢，未特定
+108,Z12,Encounter for screening for malignant neoplasms,來院接受惡性腫瘤之篩檢
+109,Z120,Encounter for screening for malignant neoplasm of stomach,來院接受胃惡性腫瘤的篩檢
+110,Z121,Encounter for screening for malignant neoplasm of intestinal tract,來院接受腸道惡性腫瘤之篩檢
+111,Z1210,"Encounter for screening for malignant neoplasm of intestinal tract, unspecified",來院接受腸道惡性腫瘤的篩檢，未特定
+112,Z1211,Encounter for screening for malignant neoplasm of colon,來院接受結腸惡性腫瘤的篩檢
+113,Z1212,Encounter for screening for malignant neoplasm of rectum,來院接受直腸惡性腫瘤的篩檢
+114,Z1213,Encounter for screening for malignant neoplasm of small intestine,來院接受小腸惡性腫瘤的篩檢
+115,Z122,Encounter for screening for malignant neoplasm of respiratory organs,來院接受呼吸器官惡性腫瘤之篩檢
+116,Z123,Encounter for screening for malignant neoplasm of breast,來院接受乳房惡性腫瘤之篩檢
+117,Z1231,Encounter for screening mammogram for malignant neoplasm of breast,來院接受乳房惡性腫瘤的乳房攝影篩檢
+118,Z1239,Encounter for other screening for malignant neoplasm of breast,來院接受乳房惡性腫瘤其他篩檢
+119,Z124,Encounter for screening for malignant neoplasm of cervix,來院接受子宮頸惡性腫瘤篩檢
+120,Z125,Encounter for screening for malignant neoplasm of prostate,來院接受攝護腺惡性腫瘤篩檢
+121,Z126,Encounter for screening for malignant neoplasm of bladder,來院接受膀胱惡性腫瘤篩檢
+122,Z127,Encounter for screening for malignant neoplasm of other genitourinary organs,來院接受其他生殖器官惡性腫瘤篩檢
+123,Z1271,Encounter for screening for malignant neoplasm of testis,來院接受睪丸惡性腫瘤篩檢
+124,Z1272,Encounter for screening for malignant neoplasm of vagina,來院接受陰道惡性腫瘤篩檢
+125,Z1273,Encounter for screening for malignant neoplasm of ovary,來院接受卵巢惡性腫瘤篩檢
+126,Z1279,Encounter for screening for malignant neoplasm of other genitourinary organs,來院接受其他生殖器官惡性腫瘤篩檢
+127,Z128,Encounter for screening for malignant neoplasm of other sites,來院接受其他部位惡性腫瘤之篩檢
+128,Z1281,Encounter for screening for malignant neoplasm of oral cavity,來院接受口腔惡性腫瘤篩檢
+129,Z1282,Encounter for screening for malignant neoplasm of nervous system,來院接受神經系統惡性腫瘤之篩檢
+130,Z1283,Encounter for screening for malignant neoplasm of skin,來院接受皮膚惡性腫瘤篩檢
+131,Z1289,Encounter for screening for malignant neoplasm of other sites,來院接受其他部位惡性腫瘤之篩檢
+132,Z129,"Encounter for screening for malignant neoplasm, site unspecified","來院接受惡性腫瘤之篩檢,部位未特定"
+133,Z13,Encounter for screening for other diseases and disorders,來院接受其他疾病或疾患之篩檢
+134,Z130,Encounter for screening for diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,來院接受血液、造血器官疾病及涉及免疫系統疾患的篩檢
+135,Z131,Encounter for screening for diabetes mellitus,來院接受糖尿病篩檢
+136,Z132,"Encounter for screening for nutritional, metabolic and other endocrine disorders",來院接受營養，代謝性及其他內分泌疾患篩檢
+137,Z1321,Encounter for screening for nutritional disorder,來院接受營養疾患的篩檢
+138,Z1322,Encounter for screening for metabolic disorder,來院接受代謝性疾患篩檢
+139,Z13220,Encounter for screening for lipoid disorders,來院接受脂質異常篩檢
+140,Z13228,Encounter for screening for other metabolic disorders,來院接受其他代謝性疾患篩檢
+141,Z1329,Encounter for screening for other suspected endocrine disorder,來院接受其他疑似內分泌疾患的篩檢
+142,Z134,Encounter for screening for certain developmental disorders in childhood,來院接受兒童期某些發育疾患的篩檢
+143,Z135,Encounter for screening for eye and ear disorders,來院接受眼及耳疾患的篩檢
+144,Z136,Encounter for screening for cardiovascular disorders,來院接受心臟血管疾患的篩檢
+145,Z137,Encounter for screening for genetic and chromosomal anomalies,來院接受基因及染色體異常的篩檢
+146,Z1371,Encounter for nonprocreative screening for genetic disease carrier status,來院接受非為了生育所執行之基因性疾病帶因狀態篩檢
+147,Z1379,Encounter for other screening for genetic and chromosomal anomalies,來院接受基因及染色體異常的篩檢
+148,Z138,Encounter for screening for other specified diseases and disorders,來院接受其他特定疾病或疾患之篩檢
+149,Z1381,Encounter for screening for digestive system disorders,來院接受消化系統疾患的篩檢
+150,Z13810,Encounter for screening for upper gastrointestinal disorder,來院接受上腸胃道疾患的篩檢
+151,Z13811,Encounter for screening for lower gastrointestinal disorder,來院接受下腸胃道疾患的篩檢
+152,Z13818,Encounter for screening for other digestive system disorders,來院接受其他消化系統疾患的篩檢
+153,Z1382,Encounter for screening for musculoskeletal disorder,來院接受骨骼肌肉疾患篩檢
+154,Z13820,Encounter for screening for osteoporosis,來院接受骨質疏鬆症篩檢
+155,Z13828,Encounter for screening for other musculoskeletal disorder,來院接受其他骨骼肌肉疾患篩檢
+156,Z1383,Encounter for screening for respiratory disorder NEC,來院接受呼吸疾患篩檢
+157,Z1384,Encounter for screening for dental disorders,來院接受牙齒疾患篩檢
+158,Z1385,Encounter for screening for nervous system disorders,來院接受神經系統疾患篩檢
+159,Z13850,Encounter for screening for traumatic brain injury,來院接受創傷性腦損傷篩檢
+160,Z13858,Encounter for screening for other nervous system disorders,來院接受其他神經系統疾患篩檢
+161,Z1388,Encounter for screening for disorder due to exposure to contaminants,來院接受因暴露在污染中導致疾患之篩檢
+162,Z1389,Encounter for screening for other disorder,來院接受其他疾患之篩檢
+163,Z139,"Encounter for screening, unspecified",來院接受篩檢，未特定
+164,Z14,Genetic carrier,遺傳性疾病帶原者
+165,Z140,Hemophilia A carrier,A型血友病帶原者
+166,Z1401,Asymptomatic hemophilia A carrier,無症狀的A型血友病帶原者
+167,Z1402,Symptomatic hemophilia A carrier,有症狀的A型血友病帶原者
+168,Z141,Cystic fibrosis carrier,囊狀纖維化症帶原者
+169,Z148,Genetic carrier of other disease,其他遺傳性疾病帶原者
+170,Z15,Genetic susceptibility to disease,疾病基因易感性
+171,Z150,Genetic susceptibility to malignant neoplasm,惡性腫瘤基因易感性
+172,Z1501,Genetic susceptibility to malignant neoplasm of breast,乳房惡性腫瘤基因易感性
+173,Z1502,Genetic susceptibility to malignant neoplasm of ovary,卵巢惡性腫瘤基因易感性
+174,Z1503,Genetic susceptibility to malignant neoplasm of prostate,前列腺惡性腫瘤基因易感性
+175,Z1504,Genetic susceptibility to malignant neoplasm of endometrium,子宮內膜惡性腫瘤基因易感性
+176,Z1509,Genetic susceptibility to other malignant neoplasm,其他惡性腫瘤基因易感性
+177,Z158,Genetic susceptibility to other disease,其他疾病基因易感性
+178,Z1581,Genetic susceptibility to multiple endocrine neoplasia [MEN],多發性內分泌腫瘤基因易感性
+179,Z1589,Genetic susceptibility to other disease,其他疾病基因易感性
+180,Z16,Infection with drug resistant microorganisms,抗藥性微生物之感染
+181,Z17,Estrogen receptor status,雌激素受體狀態
+182,Z170,Estrogen receptor positive status [ER+],雌激素受體陽性狀態[ER+]
+183,Z171,Estrogen receptor negative status [ER-],雌激素受體陰性狀態[ER-]
+184,Z20,Contact with and (suspected) exposure to communicable diseases,細菌性傳染疾病的接觸和(疑似)曝露
+185,Z200,Contact with and (suspected) exposure to intestinal infectious diseases,腸道感染性疾病的接觸及(疑似)暴露
+186,Z2001,Contact with and (suspected) exposure to intestinal infectious diseases due to Escherichia coli (E. coli),因大腸桿菌導致之腸道感染性疾病的接觸及(疑似)暴露
+187,Z2009,Contact with and (suspected) exposure to other intestinal infectious diseases,其他之腸道感染性疾病的接觸及(疑似)暴露
+188,Z201,Contact with and (suspected) exposure to tuberculosis,結核病的接觸或(疑似)曝露
+189,Z202,Contact with and (suspected) exposure to infections with a predominantly sexual mode of transmission,主要經由性傳播模式感染的接觸或(疑似)曝露
+190,Z203,Contact with and (suspected) exposure to rabies,狂犬病的接觸和(疑似)曝露
+191,Z204,Contact with and (suspected) exposure to rubella,德國麻疹的接觸和(疑似)曝露
+192,Z205,Contact with and (suspected) exposure to viral hepatitis,病毒性肝炎的接觸和(疑似)曝露
+193,Z206,Contact with and (suspected) exposure to human immunodeficiency virus [HIV],人類免疫不全病毒的接觸和(疑似)曝露
+194,Z207,"Contact with and (suspected) exposure to pediculosis, acariasis and other infestations",蝨病、恙蟲病及其他寄生蟲的接觸和(疑似)曝露
+195,Z208,Contact with and (suspected) exposure to other communicable diseases,其他傳染性疾病的接觸和(疑似)曝露
+196,Z2081,Contact with and (suspected) exposure to other bacterial communicable diseases,其他細菌性傳染性疾病的接觸和(疑似)曝露
+197,Z20810,Contact with and (suspected) exposure to anthrax,炭疽的接觸或(疑似)曝露
+198,Z20811,Contact with and (suspected) exposure to meningococcus,腦膜炎雙球菌的接觸和(疑似)曝露
+199,Z20818,Contact with and (suspected) exposure to other bacterial communicable diseases,細菌性傳染疾病的接觸和(疑似)曝露
+200,Z2082,Contact with and (suspected) exposure to other viral communicable diseases,其他病毒傳染性疾病的接觸和(疑似)曝露
+201,Z20820,Contact with and (suspected) exposure to varicella,水痘的接觸和(疑似)曝露
+202,Z20828,Contact with and (suspected) exposure to other viral communicable diseases,病毒傳染性疾病的接觸和(疑似)曝露
+203,Z2089,Contact with and (suspected) exposure to other communicable diseases,其他傳染性疾病的接觸和(疑似)曝露
+204,Z209,Contact with and (suspected) exposure to unspecified communicable disease,未特定傳染性疾病的接觸和(疑似)曝露
+205,Z21,Asymptomatic human immunodeficiency virus [HIV] infection status,無症狀之人類免疫不全病毒感染狀態
+206,Z22,Carrier of infectious disease,感染性疾病之帶菌者
+207,Z220,Carrier of typhoid,傷寒之帶菌者
+208,Z221,Carrier of other intestinal infectious diseases,其他腸道感染疾病帶菌者
+209,Z222,Carrier of diphtheria,白喉之帶菌者
+210,Z223,Carrier of other specified bacterial diseases,其他特定細菌疾病之帶菌者
+211,Z2231,Carrier of bacterial disease due to meningococci,腦膜炎雙球菌所致細菌性疾病帶原者
+212,Z2232,Carrier of bacterial disease due to staphylococci,葡萄球菌所致細菌性疾病帶原者
+213,Z2233,Carrier of bacterial disease due to streptococci,鏈球菌之帶菌者
+214,Z22330,Carrier of Group B streptococcus,B型鏈球菌之帶菌者
+215,Z22338,Carrier of other streptococcus,其他鏈球菌之帶菌者
+216,Z2239,Carrier of other specified bacterial diseases,其他特定細菌疾病之帶菌者
+217,Z224,Carrier of infections with a predominantly sexual mode of transmission,主要經由性傳播模式感染的帶原者
+218,Z225,Carrier of viral hepatitis,病毒性肝炎之帶原者
+219,Z2250,Carrier of unspecified viral hepatitis,未特定之病毒性肝炎之帶原者
+220,Z2251,Carrier of viral hepatitis B,B型病毒性肝炎之帶原者
+221,Z2252,Carrier of viral hepatitis C,C型病毒性肝炎之帶原者
+222,Z2259,Carrier of other viral hepatitis,其他病毒性肝炎之帶原者
+223,Z226,Carrier of human T-lymphotropic virus type-1 [HTLV-1] infection,第1型人類T-淋巴細胞病毒[HTLV-1]感染的帶原者
+224,Z228,Carrier of other infectious diseases,其他感染性疾病之帶菌者
+225,Z229,"Carrier of infectious disease, unspecified",感染性疾病之帶菌者，未特定
+226,Z23,Encounter for immunization,來院接受疫苗接種
+227,Z28,Immunization not carried out and underimmunization status,未執行疫苗接種及疫苗接種不足狀態
+228,Z280,Immunization not carried out because of contraindication,因禁忌而未執行疫苗接種
+229,Z2801,Immunization not carried out because of acute illness of patient,因病患的急性疾病而未執行疫苗接種
+230,Z2802,Immunization not carried out because of chronic illness or condition of patient,因病患的慢性疾病或狀態而未執行疫苗接種
+231,Z2803,Immunization not carried out because of immune compromised state of patient,因病患的免疫功能不全而未執行疫苗接種
+232,Z2804,Immunization not carried out because of patient allergy to vaccine or component,因病患對疫苗或成份過敏而未執行疫苗接種
+233,Z2809,Immunization not carried out because of other contraindication,因其他禁忌而未執行疫苗接種
+234,Z281,Immunization not carried out because of patient decision for reasons of belief or group pressure,因信仰或群體壓力而使病患決定不執行疫苗接種
+235,Z282,Immunization not carried out because of patient decision for other and unspecified reason,因其他及未特定原因使病患決定不執行疫苗接種
+236,Z2820,Immunization not carried out because of patient decision for unspecified reason,因其他未特定原因而使病患決定不執行疫苗接種
+237,Z2821,Immunization not carried out because of patient refusal,因病患拒絕故未執行疫苗接種
+238,Z2829,Immunization not carried out because of patient decision for other reason,因其他原因使病患決定不執行疫苗接種
+239,Z283,Underimmunization status,疫苗接種不足狀態
+240,Z288,Immunization not carried out for other reason,因其他原因未執行疫苗接種
+241,Z2881,Immunization not carried out due to patient having had the disease,因病患曾罹患該疾病而未執行疫苗接種
+242,Z2882,Immunization not carried out because of caregiver refusal,因為照顧者拒絕而未執行疫苗接種
+243,Z2889,Immunization not carried out for other reason,因其他原因未執行疫苗接種
+244,Z289,Immunization not carried out for unspecified reason,因未特定原因而未執行疫苗接種
+245,Z30,Encounter for contraceptive management,來院接受避孕指導處理
+246,Z300,Encounter for general counseling and advice on contraception,來院接受一般性避孕諮詢及建議
+247,Z3001,Encounter for initial prescription of contraceptives,來院接受避孕方法的初次處方
+248,Z30011,Encounter for initial prescription of contraceptive pills,來院接受避孕藥的初次處方
+249,Z30012,Encounter for prescription of emergency contraception,來院接受緊急避孕處方
+250,Z30013,Encounter for initial prescription of injectable contraceptive,來院接受避孕注射用藥的初次處方
+251,Z30014,Encounter for initial prescription of intrauterine contraceptive device,來院接受子宮內避孕器植入之初次處方
+252,Z30018,Encounter for initial prescription of other contraceptives,來院接受其他避孕方法的初次處方
+253,Z30019,"Encounter for initial prescription of contraceptives, unspecified",來院接受避孕方法的初次處方，未特定
+254,Z3002,Counseling and instruction in natural family planning to avoid pregnancy,以自然方式避孕之諮詢及指導
+255,Z3009,Encounter for other general counseling and advice on contraception,來院接受其他一般性避孕諮詢及建議
+256,Z302,Encounter for sterilization,來院接受結紮
+257,Z304,Encounter for surveillance of contraceptives,來院接受避孕監測
+258,Z3040,"Encounter for surveillance of contraceptives, unspecified",來院接受避孕監測，未特定
+259,Z3041,Encounter for surveillance of contraceptive pills,來院接受避孕藥監測
+260,Z3042,Encounter for surveillance of injectable contraceptive,來院接受避孕注射藥監測
+261,Z3043,Encounter for surveillance of intrauterine contraceptive device,來院接受子宮內避孕裝置監測
+262,Z3049,Encounter for surveillance of other contraceptives,來院接受其他避孕監測
+263,Z308,Encounter for other contraceptive management,來院接受其他避孕指導處理
+264,Z309,"Encounter for contraceptive management, unspecified",來院接受避孕指導處理，未特定
+265,Z31,Encounter for procreative management,來院接受生育指導處理
+266,Z310,Encounter for reversal of previous sterilization,來院接受恢復先前的絕育
+267,Z314,Encounter for procreative investigation and testing,來院接受生殖之研究和試驗
+268,Z3141,Encounter for fertility testing,來院接受生育力試驗
+269,Z3142,Aftercare following sterilization reversal,絕育恢復後之照護
+270,Z3143,Encounter for genetic testing of female for procreative management,來院接受為生育目的之女性遺傳性疾病帶因狀態試驗
+271,Z31430,Encounter of female for testing for genetic disease carrier status for procreative management,來院接受為生育目的所做之女性遺傳性疾病帶因狀態試驗
+272,Z31438,Encounter for other genetic testing of female for procreative managment,來院接受為生育目的之其他遺傳性疾病試驗
+273,Z3144,Encounter for genetic testing of male for procreative management,來院接受為生育目的之男性遺傳性疾病試驗
+274,Z31440,Encounter of male for testing for genetic disease carrier status for procreative management,來院接受為生育目的所做之男性遺傳性疾病帶因狀態試驗
+275,Z31441,Encounter for testing of male partner of habitual aborter,來院接受習慣性流產者之男性伴侶試驗
+276,Z31448,Encounter for other genetic testing of male for procreative management,來院接受為生育目的所做之男性其他遺傳性疾病試驗
+277,Z3149,Encounter for other procreative investigation and testing,來院接受其他生殖之研究和試驗
+278,Z315,Encounter for genetic counseling,來院接受遺傳諮詢
+279,Z316,Encounter for general counseling and advice on procreation,來院接受對生殖一般性諮詢及指導
+280,Z3161,Procreative counseling and advice using natural family planning,使用合乎自然的家庭計劃對生殖諮詢及指導
+281,Z3162,Encounter for fertility preservation counseling,來院接受保留生育力的諮詢
+282,Z3169,Encounter for other general counseling and advice on procreation,來院接受對生殖一般性諮詢及指導
+283,Z318,Encounter for other procreative management,來院接受其他生育指導處理
+284,Z3181,Encounter for male factor infertility in female patient,來院接受男性因素不孕的女性患者
+285,Z3182,Encounter for Rh incompatibility status,來院，因Rh 不相容狀態
+286,Z3183,Encounter for assisted reproductive fertility procedure cycle,來院接受週期性生殖能力輔助之醫療處置
+287,Z3184,Encounter for fertility preservation procedure,來院接受保留生育之醫療處置
+288,Z3189,Encounter for other procreative management,來院接受其他生育指導處理
+289,Z319,"Encounter for procreative management, unspecified",來院接受生育指導處理，未特定
+290,Z32,Encounter for pregnancy test and childbirth and childcare instruction,來院接受懷孕試驗，分娩及育兒的指導
+291,Z320,Encounter for pregnancy test,來院接受妊娠試驗
+292,Z3200,"Encounter for pregnancy test, result unknown","來院接受懷孕試驗,結果未知"
+293,Z3201,"Encounter for pregnancy test, result positive","來院接受妊娠試驗,結果陽性"
+294,Z3202,"Encounter for pregnancy test, result negative","來院接受妊娠試驗,結果陰性"
+295,Z322,Encounter for childbirth instruction,來院接受分娩的指導
+296,Z323,Encounter for childcare instruction,來院接受育兒指導
+297,Z33,Pregnant state,妊娠狀態
+298,Z331,"Pregnant state, incidental",未期望之妊娠狀態
+299,Z332,Encounter for elective termination of pregnancy,來院接受選擇性終止妊娠
+300,Z34,Encounter for supervision of normal pregnancy,來院接受正常妊娠的監測
+301,Z340,Encounter for supervision of normal first pregnancy,來院接受首次正常妊娠的監測
+302,Z3400,"Encounter for supervision of normal first pregnancy, unspecified trimester","來院接受首次正常妊娠的監測,未特定孕期"
+303,Z3401,"Encounter for supervision of normal first pregnancy, first trimester","來院接受首次正常妊娠的監測,第一孕期"
+304,Z3402,"Encounter for supervision of normal first pregnancy, second trimester","來院接受首次正常妊娠的監測,第二孕期"
+305,Z3403,"Encounter for supervision of normal first pregnancy, third trimester","來院接受首次正常妊娠的監測,第三孕期"
+306,Z348,Encounter for supervision of other normal pregnancy,來院接受其他正常妊娠的監測
+307,Z3480,"Encounter for supervision of other normal pregnancy, unspecified trimester","來院接受其他正常妊娠的監測,未特定孕期"
+308,Z3481,"Encounter for supervision of other normal pregnancy, first trimester","來院接受其他正常妊娠的監測,第一孕期"
+309,Z3482,"Encounter for supervision of other normal pregnancy, second trimester","來院接受其他正常妊娠的監測,第二孕期"
+310,Z3483,"Encounter for supervision of other normal pregnancy, third trimester","來院接受其他正常妊娠的監測,第三孕期"
+311,Z349,"Encounter for supervision of normal pregnancy, unspecified",來院接受正常妊娠的監測，未特定
+312,Z3490,"Encounter for supervision of normal pregnancy, unspecified, unspecified trimester","來院接受正常妊娠的監測,未特定孕期"
+313,Z3491,"Encounter for supervision of normal pregnancy, unspecified, first trimester","來院接受正常妊娠的監測,第一孕期"
+314,Z3492,"Encounter for supervision of normal pregnancy, unspecified, second trimester","來院接受正常妊娠的監測,第二孕期"
+315,Z3493,"Encounter for supervision of normal pregnancy, unspecified, third trimester","來院接受正常妊娠的監測,第三孕期"
+316,Z36,Encounter for antenatal screening of mother,來院接受母體產前篩檢
+317,Z37,Outcome of delivery,分娩之結果
+318,Z370,Single live birth,單胞胎活產
+319,Z371,Single stillbirth,單胞胎死產
+320,Z372,"Twins, both liveborn",雙胞胎均活產
+321,Z373,"Twins, one liveborn and one stillborn",雙胞胎，一為活產一為死產
+322,Z374,"Twins, both stillborn",雙胞胎，均死產
+323,Z375,"Other multiple births, all liveborn",其他多胞胎，均活產
+324,Z3750,"Multiple births, unspecified, all liveborn",未特定多胞胎生產，均活產
+325,Z3751,"Triplets, all liveborn",三胞胎，均活產
+326,Z3752,"Quadruplets, all liveborn",四胞胎，均活產
+327,Z3753,"Quintuplets, all liveborn",五胞胎，均活產
+328,Z3754,"Sextuplets, all liveborn",六胞胎，均活產
+329,Z3759,"Other multiple births, all liveborn",其他多胞胎，均活產
+330,Z376,"Other multiple births, some liveborn",其他多胞胎，部分活產
+331,Z3760,"Multiple births, unspecified, some liveborn",未特定多胞胎，部分活產
+332,Z3761,"Triplets, some liveborn",三胞胎，部分活產
+333,Z3762,"Quadruplets, some liveborn",四胞胎，部分活產
+334,Z3763,"Quintuplets, some liveborn",五胞胎，部分活產
+335,Z3764,"Sextuplets, some liveborn",六胞胎，部分活產
+336,Z3769,"Other multiple births, some liveborn",其他多胞胎，部分活產
+337,Z377,"Other multiple births, all stillborn",其他多胞胎，均死產
+338,Z379,"Outcome of delivery, unspecified",分娩之結果，未特定
+339,Z38,Liveborn infants according to place of birth and type of delivery,按生產場所及出生型態劃分的活產嬰兒
+340,Z380,"Single liveborn infant, born in hospital",單胞胎活產，生於醫院
+341,Z3800,"Single liveborn infant, delivered vaginally","單胞胎活產,陰道分娩"
+342,Z3801,"Single liveborn infant, delivered by cesarean","單胞胎活產,以剖腹產分娩"
+343,Z381,"Single liveborn infant, born outside hospital","單胞胎活產,非生於醫院"
+344,Z382,"Single liveborn infant, unspecified as to place of birth","單胞胎活產,未特定生產場所"
+345,Z383,"Twin liveborn infant, born in hospital",雙胞胎活產，生於醫院
+346,Z3830,"Twin liveborn infant, delivered vaginally","雙胞胎活產,陰道分娩"
+347,Z3831,"Twin liveborn infant, delivered by cesarean","雙胞胎活產,以剖腹產分娩"
+348,Z384,"Twin liveborn infant, born outside hospital","雙胞胎活產,非生於醫院"
+349,Z385,"Twin liveborn infant, unspecified as to place of birth","雙胞胎活產,未特定生產場所"
+350,Z386,"Other multiple liveborn infant, born in hospital",其他多胞胎活產，生於醫院
+351,Z3861,"Triplet liveborn infant, delivered vaginally","三胞胎活產,陰道分娩"
+352,Z3862,"Triplet liveborn infant, delivered by cesarean","三胞胎活產,以剖腹產分娩"
+353,Z3863,"Quadruplet liveborn infant, delivered vaginally","四胞胎活產,陰道分娩"
+354,Z3864,"Quadruplet liveborn infant, delivered by cesarean","四胞胎活產,以剖腹產分娩"
+355,Z3865,"Quintuplet liveborn infant, delivered vaginally","五胞胎活產,陰道分娩"
+356,Z3866,"Quintuplet liveborn infant, delivered by cesarean","五胞胎活產,以剖腹產分娩"
+357,Z3868,"Other multiple liveborn infant, delivered vaginally","其他多胞胎活產,陰道分娩"
+358,Z3869,"Other multiple liveborn infant, delivered by cesarean","其他多胞胎活產,以剖腹產分娩"
+359,Z387,"Other multiple liveborn infant, born outside hospital","其他多胞胎活產,非生於醫院"
+360,Z388,"Other multiple liveborn infant, unspecified as to place of birth","其他多胞胎活產,未特定生產場所"
+361,Z39,Encounter for maternal postpartum care and examination,來院接受母親產後照護及檢查
+362,Z390,Encounter for care and examination of mother immediately after delivery,來院接受母親產後即時的照護及檢查
+363,Z391,Encounter for care and examination of lactating mother,來院接受產後母親哺乳的照護與檢查
+364,Z392,Encounter for routine postpartum follow-up,來院接受產後例行追蹤
+365,Z40,Encounter for prophylactic surgery,來院接受預防性手術
+366,Z400,Encounter for prophylactic surgery for risk factors related to malignant neoplasms,來院接受針對惡性腫瘤有關危險因子的預防性(外科)手術
+367,Z4000,Encounter for prophylactic removal of unspecified organ,"來院接受預防性摘除器官,未特定器官"
+368,Z4001,Encounter for prophylactic removal of breast,來院接受預防性乳房移除
+369,Z4002,Encounter for prophylactic removal of ovary,來院接受預防性卵巢移除
+370,Z4009,Encounter for prophylactic removal of other organ,來院接受預防性其他器官移除
+371,Z408,Encounter for other prophylactic surgery,來院接受其他預防性手術
+372,Z409,"Encounter for prophylactic surgery, unspecified",來院接受預防性手術，未特定
+373,Z41,Encounter for procedures for purposes other than remedying health state,來院接受非以改善健康狀態為目的之其他醫療醫療處置
+374,Z411,Encounter for cosmetic surgery,來院接受整容手術
+375,Z412,Encounter for routine and ritual male circumcision,來院接受常規性及儀式性的包皮環割術
+376,Z413,Encounter for ear piercing,來院接受穿耳洞
+377,Z418,Encounter for other procedures for purposes other than remedying health state,來院接受非以改善健康狀態為目的之其他醫療醫療處置
+378,Z419,"Encounter for procedure for purposes other than remedying health state, unspecified",來院接受非以改善健康狀態為目的之醫療醫療處置，未特定
+379,Z42,Encounter for plastic and reconstructive surgery following medical procedure or healed injury,來院接受醫療醫療處置或損傷癒合後的整形及重建手術
+380,Z421,Encounter for breast reconstruction following mastectomy,來院接受乳房切除後之乳房重建
+381,Z428,Encounter for other plastic and reconstructive surgery following medical procedure or healed injury,來院接受醫療醫療處置或損傷癒合後的其他整形及重建手術
+382,Z43,Encounter for attention to artificial openings,來院接受人工造口之照料
+383,Z430,Encounter for attention to tracheostomy,來院接受氣管造口之照料
+384,Z431,Encounter for attention to gastrostomy,來院接受胃造口之照料
+385,Z432,Encounter for attention to ileostomy,來院接受迴腸造口之照料
+386,Z433,Encounter for attention to colostomy,來院接受結腸造口之照料
+387,Z434,Encounter for attention to other artificial openings of digestive tract,來院接受其他消化道人工造口之照料
+388,Z435,Encounter for attention to cystostomy,來院接受膀胱造口之照料
+389,Z436,Encounter for attention to other artificial openings of urinary tract,來院接受其他泌尿道人工造口之照料
+390,Z437,Encounter for attention to artificial vagina,來院接受人工陰道之照料
+391,Z438,Encounter for attention to other artificial openings,來院接受其他人工造口之照料
+392,Z439,Encounter for attention to unspecified artificial opening,來院接受未特定人工造口之照料
+393,Z44,Encounter for fitting and adjustment of external prosthetic device,來院接受外部人工置換裝置的裝配及調整
+394,Z440,Encounter for fitting and adjustment of artificial arm,來院接受義臂的裝配及調整
+395,Z4400,Encounter for fitting and adjustment of unspecified artificial arm,來院接受未特定義臂的裝配及調整
+396,Z44001,Encounter for fitting and adjustment of unspecified right artificial arm,來院接受未特定右義臂的裝配及調整
+397,Z44002,Encounter for fitting and adjustment of unspecified left artificial arm,來院接受未特定左義臂的裝配及調整
+398,Z44009,"Encounter for fitting and adjustment of unspecified artificial arm, unspecified arm","來院接受未特定義臂的裝配及調整,未特定臂"
+399,Z4401,Encounter for fitting and adjustment of complete artificial arm,來院接受全肢義臂的裝配及調整
+400,Z44011,Encounter for fitting and adjustment of complete right artificial arm,來院接受右全肢義臂的裝配及調整
+401,Z44012,Encounter for fitting and adjustment of complete left artificial arm,來院接受左全肢義臂的裝配及調整
+402,Z44019,"Encounter for fitting and adjustment of complete artificial arm, unspecified arm","來院接受全肢義臂的裝配及調整,未特定臂"
+403,Z4402,Encounter for fitting and adjustment of partial artificial arm,來院接受部份義臂的裝配及調整
+404,Z44021,Encounter for fitting and adjustment of partial artificial right arm,來院接受部份右義臂的裝配及調整
+405,Z44022,Encounter for fitting and adjustment of partial artificial left arm,來院接受部份左義臂的裝配及調整
+406,Z44029,"Encounter for fitting and adjustment of partial artificial arm, unspecified arm","來院接受部份義臂的裝配及調整,未特定臂"
+407,Z441,Encounter for fitting and adjustment of artificial leg,來院接受義腿的裝配及調整
+408,Z4410,Encounter for fitting and adjustment of unspecified artificial leg,來院接受未特定義腿的裝配及調整
+409,Z44101,Encounter for fitting and adjustment of unspecified right artificial leg,來院接受未特定右義腿的裝配及調整
+410,Z44102,Encounter for fitting and adjustment of unspecified left artificial leg,來院接受未特定左義腿的裝配及調整
+411,Z44109,"Encounter for fitting and adjustment of unspecified artificial leg, unspecified leg","來院接受未特定義腿的裝配及調整,未特定腿"
+412,Z4411,Encounter for fitting and adjustment of complete artificial leg,來院接受全肢義腿的裝配及調整
+413,Z44111,Encounter for fitting and adjustment of complete right artificial leg,來院接受右全肢義腿的裝配及調整
+414,Z44112,Encounter for fitting and adjustment of complete left artificial leg,來院接受左全肢義腿的裝配及調整
+415,Z44119,"Encounter for fitting and adjustment of complete artificial leg, unspecified leg","來院接受全肢義腿的裝配及調整,未特定腿"
+416,Z4412,Encounter for fitting and adjustment of partial artificial leg,來院接受部份義腿的裝配及調整
+417,Z44121,Encounter for fitting and adjustment of partial artificial right leg,來院接受部份右義腿的裝配及調整
+418,Z44122,Encounter for fitting and adjustment of partial artificial left leg,來院接受部份左義腿的裝配及調整
+419,Z44129,"Encounter for fitting and adjustment of partial artificial leg, unspecified leg","來院接受部份義腿的裝配及調整,未特定腿"
+420,Z442,Encounter for fitting and adjustment of artificial eye,來院接受義眼的裝配及調整
+421,Z4420,"Encounter for fitting and adjustment of artificial eye, unspecified",來院接受義眼的裝配及調整，未特定
+422,Z4421,Encounter for fitting and adjustment of artificial right eye,來院接受右側義眼的裝配及調整
+423,Z4422,Encounter for fitting and adjustment of artificial left eye,來院接受左側義眼的裝配及調整
+424,Z443,Encounter for fitting and adjustment of external breast prosthesis,來院接受外部義乳的裝配及調整
+425,Z4430,"Encounter for fitting and adjustment of external breast prosthesis, unspecified breast","來院接受外部義乳的裝配及調整,未特定乳房"
+426,Z4431,Encounter for fitting and adjustment of external right breast prosthesis,來院接受右側外部義乳的裝配及調整
+427,Z4432,Encounter for fitting and adjustment of external left breast prosthesis,來院接受左側外部義乳的裝配及調整
+428,Z448,Encounter for fitting and adjustment of other external prosthetic devices,來院接受其他外部裝置的裝配及調整
+429,Z449,Encounter for fitting and adjustment of unspecified external prosthetic device,來院接受未特定外部裝置的裝配及調整
+430,Z45,Encounter for adjustment and management of implanted device,來院接受植入性裝置物調整及處理
+431,Z450,Encounter for adjustment and management of cardiac device,來院接受部分心臟裝置的調整及處理
+432,Z4501,Encounter for adjustment and management of cardiac pacemaker,來院接受部分心臟節律器的調整及處理
+433,Z45010,Encounter for checking and testing of cardiac pacemaker pulse generator [battery],來院接受心臟節律器脈衝產生器[電池]的檢視及測試
+434,Z45018,Encounter for adjustment and management of other part of cardiac pacemaker,來院接受其他部分心臟節律器的調整及處理
+435,Z4502,Encounter for adjustment and management of automatic implantable cardiac defibrillator,來院接受植入式自動心臟去顫器的調整及處理
+436,Z4509,Encounter for adjustment and management of other cardiac device,來院接受其他心臟裝置之調整及處理
+437,Z451,Encounter for adjustment and management of infusion pump,來院接受注射唧筒的調整及處理
+438,Z452,Encounter for adjustment and management of vascular access device,來院接受血管導管裝置的調整及處理
+439,Z453,Encounter for adjustment and management of implanted devices of the special senses,來院接受特殊感官植入裝置的調整及處理
+440,Z4531,Encounter for adjustment and management of implanted visual substitution device,來院接受植入性聽力替代裝置的調整及處理
+441,Z4532,Encounter for adjustment and management of implanted hearing device,來院接受植入性聽力裝置的調整及處理
+442,Z45320,Encounter for adjustment and management of bone conduction device,來院接受骨性傳導裝置的調整及處理
+443,Z45321,Encounter for adjustment and management of cochlear device,來院接受耳蝸裝置的調整及醫療處置
+444,Z45328,Encounter for adjustment and management of other implanted hearing device,來院接受其他植入性聽力裝置的調整及醫療處置
+445,Z454,Encounter for adjustment and management of implanted nervous system device,來院接受神經系統植入性裝置物之調整及處理
+446,Z4541,Encounter for adjustment and management of cerebrospinal fluid drainage device,來院接受腦室分流管裝置的調整及醫療處置
+447,Z4542,Encounter for adjustment and management of neuropacemaker (brain) (peripheral nerve) (spinal cord),來院接受神經節律器(腦)(末梢神經)(脊髓)之調整及處理
+448,Z4549,Encounter for adjustment and management of other implanted nervous system device,來院接受其他神經系統植入性裝置物之調整及處理
+449,Z458,Encounter for adjustment and management of other implanted devices,來院接受其他植入性裝置物之調整及處理
+450,Z4581,Encounter for adjustment or removal of breast implant,來院接受乳房植入物之調整或移除
+451,Z45811,Encounter for adjustment or removal of right breast implant,來院接受右側乳房植入物之調整或移除
+452,Z45812,Encounter for adjustment or removal of left breast implant,來院接受左側乳房植入物之調整或移除
+453,Z45819,Encounter for adjustment or removal of unspecified breast implant,來院接受未特定乳房植入物之調整或移除
+454,Z4582,Encounter for adjustment or removal of myringotomy device (stent) (tube),來院接受鼓膜裝置物(支架)(管)調整或移除
+455,Z4589,Encounter for adjustment and management of other implanted devices,來院接受其他植入性裝置物調整及處理
+456,Z459,Encounter for adjustment and management of unspecified implanted device,來院接受未特定植入性裝置物調整及處理
+457,Z46,Encounter for fitting and adjustment of other devices,來院接受其他裝置之安裝及調整
+458,Z460,Encounter for fitting and adjustment of spectacles and contact lenses,來院接受眼鏡及隱形眼鏡之安裝及調整
+459,Z461,Encounter for fitting and adjustment of hearing aid,來院接受助聽器之安裝及調整
+460,Z462,Encounter for fitting and adjustment of other devices related to nervous system and special senses,來院接受其他有關神經系統及特殊感官的裝置之安裝及調整
+461,Z463,Encounter for fitting and adjustment of dental prosthetic device,來院接受牙齒彌補裝置物之安裝及調整
+462,Z464,Encounter for fitting and adjustment of orthodontic device,來院接受齒科矯形器之安裝及調整
+463,Z465,Encounter for fitting and adjustment of other gastrointestinal appliance and device,來院接受其他胃腸道裝置之安裝及調整
+464,Z4651,Encounter for fitting and adjustment of gastric lap band,來院接受胃束帶之安裝及調整
+465,Z4659,Encounter for fitting and adjustment of other gastrointestinal appliance and device,來院接受其他胃腸道裝置之安裝及調整
+466,Z466,Encounter for fitting and adjustment of urinary device,來院接受泌尿道裝置之安裝及調整
+467,Z468,Encounter for fitting and adjustment of other specified devices,來院接受其他特定裝置之安裝及調整
+468,Z4681,Encounter for fitting and adjustment of insulin pump,來院接受胰島素幫浦之安裝及調整
+469,Z4682,Encounter for fitting and adjustment of non-vascular catheter,來院接受非血管內的導管之安裝及調整
+470,Z4689,Encounter for fitting and adjustment of other specified devices,來院接受其他特定裝置之安裝及調整
+471,Z469,Encounter for fitting and adjustment of unspecified device,來院接受未特定裝置之安裝及調整
+472,Z47,Orthopedic aftercare,來院接受骨科之術後療養
+473,Z471,Aftercare following joint replacement surgery,關節置換後之術後療養
+474,Z472,Encounter for removal of internal fixation device,來院接受移除內固定裝置
+475,Z478,Encounter for other orthopedic aftercare,來院接受其他骨科之術後療養
+476,Z4781,Encounter for orthopedic aftercare following surgical amputation,來院接受截肢手術後之骨科術後療養
+477,Z4782,Encounter for orthopedic aftercare following scoliosis surgery,來院接受脊椎側彎手術後之骨科術後療養
+478,Z4789,Encounter for other orthopedic aftercare,來院接受其他骨科之術後療養
+479,Z48,Encounter for other postprocedural aftercare,來院接受其他之外科照護
+480,Z480,"Encounter for attention to dressings, sutures and drains",來院接受外科敷包縫合的照料
+481,Z4800,Encounter for change or removal of nonsurgical wound dressing,來院接受更換或移除非手術傷口敷料
+482,Z4801,Encounter for change or removal of surgical wound dressing,來院接受更換或移除手術傷口敷料
+483,Z4802,Encounter for removal of sutures,來院接受拆線
+484,Z4803,Encounter for change or removal of drains,來院接受更換或移除非引流管
+485,Z481,Encounter for planned postprocedural wound closure,來院接受預定的術後傷口縫合
+486,Z482,Encounter for aftercare following organ transplant,來院接受器官移植之術後療養
+487,Z4821,Encounter for aftercare following heart transplant,來院接受心臟移植之術後療養
+488,Z4822,Encounter for aftercare following kidney transplant,腎移植後之照護
+489,Z4823,Encounter for aftercare following liver transplant,肝移植後之照護
+490,Z4824,Encounter for aftercare following lung transplant,肺移植後之照護
+491,Z4828,Encounter for aftercare following multiple organ transplant,來院接受多重器官移植後之照護
+492,Z48280,Encounter for aftercare following heart-lung transplant,心肺移植後之照護
+493,Z48288,Encounter for aftercare following multiple organ transplant,多重器官移植後之照護
+494,Z4829,Encounter for aftercare following other organ transplant,來院接受其他器官移植後之照護
+495,Z48290,Encounter for aftercare following bone marrow transplant,骨髓移植後之照護
+496,Z48298,Encounter for aftercare following other organ transplant,其它器官移植後之照護
+497,Z483,Aftercare following surgery for neoplasm,腫瘤術後之照護
+498,Z488,Encounter for other specified postprocedural aftercare,來院接受其他特定之術後照護
+499,Z4881,Encounter for surgical aftercare following surgery on specified body systems,來院接受其他特定身體系統之術後照護
+500,Z48810,Encounter for surgical aftercare following surgery on the sense organs,感覺器官手術後之外科照護
+501,Z48811,Encounter for surgical aftercare following surgery on the nervous system,神經系統手術後之外科照護
+502,Z48812,Encounter for surgical aftercare following surgery on the circulatory system,循環系統手術後之外科照護
+503,Z48813,Encounter for surgical aftercare following surgery on the respiratory system,呼吸系統手術後之外科照護
+504,Z48814,Encounter for surgical aftercare following surgery on the teeth or oral cavity,牙齒或口腔手術後之外科照護
+505,Z48815,Encounter for surgical aftercare following surgery on the digestive system,消化系統手術後之外科照護
+506,Z48816,Encounter for surgical aftercare following surgery on the genitourinary system,泌尿生殖系統手術後之外科照護
+507,Z48817,Encounter for surgical aftercare following surgery on the skin and subcutaneous tissue,皮膚及皮下組織手術後之外科照護
+508,Z4889,Encounter for other specified surgical aftercare,其他特定之外科照護
+509,Z49,Encounter for care involving renal dialysis,來院接受涉及透析的照護
+510,Z490,Preparatory care for renal dialysis,透析的準備照護
+511,Z4901,Encounter for fitting and adjustment of extracorporeal dialysis catheter,體外透析導管安裝及調整
+512,Z4902,Encounter for fitting and adjustment of peritoneal dialysis catheter,腹膜透析導管安裝及調整
+513,Z493,Encounter for adequacy testing for dialysis,來院接受血液透析之充分性檢驗
+514,Z4931,Encounter for adequacy testing for hemodialysis,血液透析之充分性檢驗
+515,Z4932,Encounter for adequacy testing for peritoneal dialysis,腹膜透析之充分性檢驗
+516,Z51,Encounter for other aftercare,來院接受其它照護
+517,Z510,Encounter for antineoplastic radiation therapy,抗腫瘤放射線治療
+518,Z511,Encounter for antineoplastic chemotherapy and immunotherapy,來院接受抗腫瘤化學及免疫治療
+519,Z5111,Encounter for antineoplastic chemotherapy,抗腫瘤化學治療
+520,Z5112,Encounter for antineoplastic immunotherapy,抗腫瘤免疫療法
+521,Z515,Encounter for palliative care,緩和照護
+522,Z518,Encounter for other specified aftercare,來院接受其它特定照護
+523,Z5181,Encounter for therapeutic drug level monitoring,治療性藥物值監測
+524,Z5189,Encounter for other specified aftercare,其它特定照護
+525,Z52,Donors of organs and tissues,器官或組織捐贈者
+526,Z520,Blood donor,血液捐贈者
+527,Z5200,Unspecified blood donor,未特定血液捐贈者
+528,Z52000,"Unspecified donor, whole blood",未特定全血捐贈者
+529,Z52001,"Unspecified donor, stem cells",未特定骨髓幹細胞捐贈者
+530,Z52008,"Unspecified donor, other blood",未特定其他血液捐贈者
+531,Z5201,Autologous blood donor,自體血液捐贈者
+532,Z52010,"Autologous donor, whole blood",自體全血捐贈者
+533,Z52011,"Autologous donor, stem cells",自體骨髓幹細胞捐贈者
+534,Z52018,"Autologous donor, other blood",自體其他血液捐贈者
+535,Z5209,Other blood donor,其他血液捐贈者
+536,Z52090,"Other blood donor, whole blood",其它全血捐贈者
+537,Z52091,"Other blood donor, stem cells",其它骨髓幹細胞捐贈者
+538,Z52098,"Other blood donor, other blood",其他血液捐贈者
+539,Z521,Skin donor,皮膚捐贈者
+540,Z5210,"Skin donor, unspecified",皮膚捐贈者，未特定
+541,Z5211,"Skin donor, autologous",自體皮膚捐贈者
+542,Z5219,"Skin donor, other",其它皮膚捐贈者
+543,Z522,Bone donor,骨骼捐贈者
+544,Z5220,"Bone donor, unspecified",骨骼捐贈者，未特定
+545,Z5221,"Bone donor, autologous",自體骨骼捐贈者
+546,Z5229,"Bone donor, other",其它骨骼捐贈者
+547,Z523,Bone marrow donor,骨髓捐贈者
+548,Z524,Kidney donor,腎臟捐贈者
+549,Z525,Cornea donor,角膜捐贈者
+550,Z526,Liver donor,肝臟捐贈者
+551,Z528,Donor of other specified organs or tissues,其他特定器官或組織捐贈者
+552,Z5281,Egg (Oocyte) donor,卵(卵母細胞） 捐贈者
+553,Z52810,"Egg (Oocyte) donor under age 35, anonymous recipient",年齡 35歲以下卵 (卵母細胞） 捐贈者，匿名受贈者
+554,Z52811,"Egg (Oocyte) donor under age 35, designated recipient",年齡 35歲以下卵 (卵母細胞） 捐贈者，指定受贈者
+555,Z52812,"Egg (Oocyte) donor age 35 and over, anonymous recipient",年齡大於等於35歲卵 (卵母細胞） 捐贈者，匿名受贈者
+556,Z52813,"Egg (Oocyte) donor age 35 and over, designated recipient",年齡大於等於35歲卵 (卵母細胞） 捐贈者，指定受贈者
+557,Z52819,"Egg (Oocyte) donor, unspecified",卵(卵母細胞） 捐贈者，未特定
+558,Z5289,Donor of other specified organs or tissues,其他特定器官或組織捐贈者
+559,Z529,Donor of unspecified organ or tissue,未特定器官或組織捐贈者
+560,Z53,"Persons encountering health services for specific procedures and treatment, not carried out","因特定醫療處置而接觸醫療保健
+服務者，該處置未執行"
+561,Z530,Procedure and treatment not carried out because of contraindication,因禁忌而未執行醫療處置或治療
+562,Z5301,Procedure and treatment not carried out due to patient smoking,因患者吸煙而未執行醫療處置或治療
+563,Z5309,Procedure and treatment not carried out because of other contraindication,因其它禁忌而未執行醫療處置或治療
+564,Z531,Procedure and treatment not carried out because of patient's decision for reasons of belief and group pressure,病患因信仰或群體壓力原因而決定不執行醫療處置和治療
+565,Z532,Procedure and treatment not carried out because of patient's decision for other and unspecified reasons,病人因其他或未特定原因而決定不執行醫療處置和治療
+566,Z5320,Procedure and treatment not carried out because of patient's decision for unspecified reasons,病人因未特定原因而決定不執行醫療處置和治療
+567,Z5321,Procedure and treatment not carried out due to patient leaving prior to being seen by health care provider,由於病人在健康照護者看診之前離開而未執行醫療處置和治療
+568,Z5329,Procedure and treatment not carried out because of patient's decision for other reasons,病患因其它原因而決定不執行醫療處置或治療
+569,Z538,Procedure and treatment not carried out for other reasons,因其他原因而未執行醫療處置或治療
+570,Z539,"Procedure and treatment not carried out, unspecified reason",未特定原因而未執行醫療處置或治療
+571,Z55,Problems related to education and literacy,有關教育及識字的問題
+572,Z550,Illiteracy and low-level literacy,文盲及低學歷
+573,Z551,Schooling unavailable and unattainable,缺乏學校及無法入學
+574,Z552,Failed school examinations,學校考試不及格
+575,Z553,Underachievement in school,學校課業表現落後
+576,Z554,Educational maladjustment and discord with teachers and classmates,教育上適應不良及與老師、同學不和(不融洽)
+577,Z558,Other problems related to education and literacy,有關教育及識字的其他問題
+578,Z559,"Problems related to education and literacy, unspecified",有關教育及識字的問題，未特定
+579,Z56,Problems related to employment and unemployment,與就業及失業有關的問題
+580,Z560,"Unemployment, unspecified",失業，未特定
+581,Z561,Change of job,換工作
+582,Z562,Threat of job loss,失去工作的威脅
+583,Z563,Stressful work schedule,具壓力的工作期程(進度)
+584,Z564,Discord with boss and workmates,與老闆(上司)及同事不和(不融洽)
+585,Z565,Uncongenial work environment,不合意的工作環境
+586,Z566,Other physical and mental strain related to work,與工作有關的其他身體及精神[心智]過勞[使用過度]
+587,Z568,Other problems related to employment,與就業及失業有關的其他問題
+588,Z5681,Sexual harassment on the job,工作上的性騷擾
+589,Z5682,Military deployment status,軍事部署狀態
+590,Z5689,Other problems related to employment,與就業有關的其他問題
+591,Z569,Unspecified problems related to employment,與就業有關的未指定問題
+592,Z57,Occupational exposure to risk factors,危險因素的職業性暴露
+593,Z570,Occupational exposure to noise,職業性的噪音暴露
+594,Z571,Occupational exposure to radiation,職業性的輻射(放射線)暴露
+595,Z572,Occupational exposure to dust,職業性的粉塵暴露
+596,Z573,Occupational exposure to other air contaminant,職業性的其他空氣污染物的暴露
+597,Z5731,Occupational exposure to environmental tobacco smoke,職業性的其他空氣污染物的暴露
+598,Z5739,Occupational exposure to other air contaminants,職業性的農業毒性因子的暴露
+599,Z574,Occupational exposure to toxic agents in agriculture,職業性的農業毒性因子的暴露
+600,Z575,Occupational exposure to toxic agents in other industries,職業性的其他工業毒性因子的暴露
+601,Z576,Occupational exposure to extreme temperature,職業性的極端溫度的暴露
+602,Z577,Occupational exposure to vibration,職業性的振動暴露
+603,Z578,Occupational exposure to other risk factors,其他危險因素的職業性暴露
+604,Z579,Occupational exposure to unspecified risk factor,未特定危險因素的職業性暴露
+605,Z59,Problems related to housing and economic circumstances,與居處及經濟環境情況有關的問題
+606,Z590,Homelessness,無居所[無家可歸]
+607,Z591,Inadequate housing,居處不良
+608,Z592,"Discord with neighbors, lodgers and landlord",與鄰居、房客及房東不和
+609,Z593,Problems related to living in residential institution,與居住在住宅機構有關的問題
+610,Z594,Lack of adequate food and safe drinking water,食物和飲用水不足
+611,Z595,Extreme poverty,極端貧窮
+612,Z596,Low income,低收入
+613,Z597,Insufficient social insurance and welfare support,社會保險及福利支持不足
+614,Z598,Other problems related to housing and economic circumstances,與居處及經濟環境情況有關的其他問題
+615,Z599,"Problem related to housing and economic circumstances, unspecified",與居處及經濟環境情況有關的問題，未特定
+616,Z60,Problems related to social environment,與社會環境有關的問題
+617,Z600,Problems of adjustment to life-cycle transitions,生命週期遞變的調適問題
+618,Z602,Problems related to living alone,獨居有關的問題
+619,Z603,Acculturation difficulty,文化適應困難
+620,Z604,Social exclusion and rejection,社會排斥及拒絕
+621,Z605,Target of (perceived) adverse discrimination and persecution,感覺成為不良歧視及迫害的目標
+622,Z608,Other problems related to social environment,與社會環境有關的其他問題
+623,Z609,"Problem related to social environment, unspecified",與未特定之社會環境有關的問題，未特定
+624,Z61,Problems related to negative life events in childhood,"與兒童期負面生活事件有關
+的問題"
+625,Z610,Loss of love relationship in childhood,兒童期親密關係的喪失
+626,Z611,Removal from home in childhood,兒童期離家
+627,Z612,Altered pattern of family relationships in childhood,兒童期家庭關係型式改變
+628,Z613,Events resulting in loss of self-esteem in childhood,兒童期導致喪失自尊的事件
+629,Z617,Personal frightening experience in childhood,兒童期個人驚嚇的經驗
+630,Z618,Other negative life events in childhood,兒童期其他負面的生活事件
+631,Z6181,Personal history of abuse in childhood,在兒童期虐待的個人病史
+632,Z61810,Personal history of physical and sexual abuse in childhood,在兒童期身體及性虐待的個人病史
+633,Z61811,Personal history of psychological abuse in childhood,在兒童期精神虐待的個人病史
+634,Z61812,Personal history of neglect in childhood,在兒童期忽略的個人病史
+635,Z61819,Personal history of unspecified abuse in childhood,在兒童期未特定虐待的個人病史
+636,Z6188,Other negative life events in childhood,兒童期其他負面的生活事件
+637,Z619,"Negative life event in childhood, unspecified",孩(兒)童期負面生活事件，未特定者
+638,Z62,Problems related to upbringing,與養育有關的問題
+639,Z620,Inadequate parental supervision and control,父母親監督及管控不當
+640,Z621,Parental overprotection,父母親過度保護
+641,Z622,Upbringing away from parents,遠離父母的養育
+642,Z6221,Child in welfare custody,兒童福利機構監護
+643,Z6222,Institutional upbringing,機構養育
+644,Z6229,Other upbringing away from parents,其他遠離父母的養育
+645,Z623,Hostility towards and scapegoating of child,對孩童敵視及使之成為代罪羔羊
+646,Z626,Inappropriate (excessive) parental pressure,父母親不當的壓力(過度)
+647,Z628,Other specified problems related to upbringing,與養育有關的其他問題
+648,Z6281,Personal history of abuse in childhood,在兒童期虐待的個人病史
+649,Z62810,Personal history of physical and sexual abuse in childhood,兒童時期被身體和性濫用的個人史
+650,Z62811,Personal history of psychological abuse in childhood,兒童時期被精神虐待的個人史
+651,Z62812,Personal history of neglect in childhood,兒童時期被疏忽照顧的個人史
+652,Z62819,Personal history of unspecified abuse in childhood,兒童時期被未特定虐待的個人史
+653,Z6282,Parent-child conflict,父母與子女的衝突
+654,Z62820,Parent-biological child conflict,父母與親生子女衝突
+655,Z62821,Parent-adopted child conflict,父母與收養子女的衝突
+656,Z62822,Parent-foster child conflict,父母與寄養子女的衝突
+657,Z6289,Other specified problems related to upbringing,與教養有關的其他特定問題
+658,Z62890,Parent-child estrangement NEC,父母-子女隔閡，他處無法歸類者
+659,Z62891,Sibling rivalry,兄弟姊妹間的競爭
+660,Z62898,Other specified problems related to upbringing,與教養有關的其他特定問題
+661,Z629,"Problem related to upbringing, unspecified",教養有關的問題，未特定
+662,Z63,"Other problems related to primary support group, including family circumstances",與主要支持者有關的其他特定問題
+663,Z630,Problems in relationship with spouse or partner,與配偶或伴侶間關係的問題
+664,Z631,Problems in relationship with in-laws,姻親關係的問題
+665,Z633,Absence of family member,家庭成員的不在
+666,Z6331,Absence of family member due to military deployment,由於軍事部署家庭成員不在
+667,Z6332,Other absence of family member,其它家庭成員的不在
+668,Z634,Disappearance and death of family member,家庭成員失蹤、 死亡
+669,Z635,Disruption of family by separation and divorce,分居和離婚的家庭破裂
+670,Z636,Dependent relative needing care at home,不能自理生活，需要在家依賴照護的親屬
+671,Z637,Other stressful life events affecting family and household,影響家庭及家人的其他生活壓力事件
+672,Z6371,Stress on family due to return of family member from military deployment,家族成員從軍事調度中返回所造成的家庭壓力
+673,Z6372,Alcoholism and drug addiction in family,家庭中的酗酒和藥物成癮者
+674,Z6379,Other stressful life events affecting family and household,影響家庭及家人的其他生活壓力事件
+675,Z638,Other specified problems related to primary support group,與主要支持者有關的其他特定問題
+676,Z639,"Problem related to primary support group, unspecified",與主要支持者有關的問題，未特定
+677,Z64,Problems related to certain psychosocial circumstances,與某些心理社會環境有關的問題
+678,Z640,Problems related to unwanted pregnancy,不想要之妊娠有關的問題
+679,Z641,Problems related to multiparity,與多產次有關的問題
+680,Z644,Discord with counselors,與輔導者不和(不融洽)
+681,Z65,Problems related to other psychosocial circumstances,與其他心理社會環境有關的問題
+682,Z650,Conviction in civil and criminal proceedings without imprisonment,民事及刑事訴訟程序中定罪，未監禁
+683,Z651,Imprisonment and other incarceration,入獄及其他監禁
+684,Z652,Problems related to release from prison,與自監獄釋放有關的問題
+685,Z653,Problems related to other legal circumstances,與其他法律情況有關的問題
+686,Z654,Victim of crime and terrorism,罪行及恐怖行動的受害者
+687,Z655,"Exposure to disaster, war and other hostilities",遭遇災難、戰爭及其他敵意行為
+688,Z658,Other specified problems related to psychosocial circumstances,與心理社會環境有關的其他特定問題
+689,Z659,Problem related to unspecified psychosocial circumstances,與未特定心理社會情況有關的問題
+690,Z66,Do not resuscitate,不做復甦
+691,Z67,Blood type,血型
+692,Z671,Type A blood,A型血型
+693,Z6710,"Type A blood, Rh positive",A型血型、 Rh 陽性
+694,Z6711,"Type A blood, Rh negative",A型血型、 Rh 陰性
+695,Z672,Type B blood,B型血型
+696,Z6720,"Type B blood, Rh positive",B型血型、 Rh 陽性
+697,Z6721,"Type B blood, Rh negative",B型血型、 Rh 陰性
+698,Z673,Type AB blood,AB型血型
+699,Z6730,"Type AB blood, Rh positive",AB型血型、 Rh 陽性
+700,Z6731,"Type AB blood, Rh negative",A型血型、 Rh 陰性
+701,Z674,Type O blood,O型血型
+702,Z6740,"Type O blood, Rh positive",O型血型、 Rh 陽性
+703,Z6741,"Type O blood, Rh negative",O型血型、 Rh 陰性
+704,Z679,Unspecified blood type,未特定血型
+705,Z6790,"Unspecified blood type, Rh positive",未特定血型，Rh 陽性
+706,Z6791,"Unspecified blood type, Rh negative",未特定血型，Rh 陰性
+707,Z68,Body mass index (BMI),身體質量指數 （BMI）
+708,Z681,"Body mass index (BMI) 19 or less, adult",身體質量指數 （BMI） 19 或更少，成人
+709,Z682,"Body mass index (BMI) 20-29, adult",身體質量指數 （BMI） 20-29，成人
+710,Z6820,"Body mass index (BMI) 20.0-20.9, adult",身體質量指數 （BMI） 20.0-20.9，成人
+711,Z6821,"Body mass index (BMI) 21.0-21.9, adult",身體質量指數 （BMI） 21.0-21.9，成人
+712,Z6822,"Body mass index (BMI) 22.0-22.9, adult",身體質量指數 （BMI） 22.0-22.9，成人
+713,Z6823,"Body mass index (BMI) 23.0-23.9, adult",身體質量指數 （BMI） 23.0-23.9，成人
+714,Z6824,"Body mass index (BMI) 24.0-24.9, adult",身體質量指數 （BMI） 24.0-24.9，成人
+715,Z6825,"Body mass index (BMI) 25.0-25.9, adult",身體質量指數 （BMI） 25.0-25.9，成人
+716,Z6826,"Body mass index (BMI) 26.0-26.9, adult",身體質量指數 （BMI） 26.0-26.9，成人
+717,Z6827,"Body mass index (BMI) 27.0-27.9, adult",身體質量指數 （BMI） 27.0-27.9，成人
+718,Z6828,"Body mass index (BMI) 28.0-28.9, adult",身體質量指數 （BMI） 28.0-28.9，成人
+719,Z6829,"Body mass index (BMI) 29.0-29.9, adult",身體質量指數 （BMI） 29.0-29.9，成人
+720,Z683,"Body mass index (BMI) 30-39, adult",身體質量指數 （BMI） 30-39，成人
+721,Z6830,"Body mass index (BMI) 30.0-30.9, adult",身體質量指數 （BMI） 30.0-30.9，成人
+722,Z6831,"Body mass index (BMI) 31.0-31.9, adult",身體質量指數 （BMI） 31.0-31.9，成人
+723,Z6832,"Body mass index (BMI) 32.0-32.9, adult",身體質量指數 （BMI） 32.0-32.9，成人
+724,Z6833,"Body mass index (BMI) 33.0-33.9, adult",身體質量指數 （BMI） 33.0-33.9，成人
+725,Z6834,"Body mass index (BMI) 34.0-34.9, adult",身體質量指數 （BMI） 34.0-34.9，成人
+726,Z6835,"Body mass index (BMI) 35.0-35.9, adult",身體質量指數 （BMI） 35.0-35.9，成人
+727,Z6836,"Body mass index (BMI) 36.0-36.9, adult",身體質量指數 （BMI） 36.0-36.9，成人
+728,Z6837,"Body mass index (BMI) 37.0-37.9, adult",身體質量指數 （BMI） 37.0-37.9，成人
+729,Z6838,"Body mass index (BMI) 38.0-38.9, adult",身體質量指數 （BMI） 38.0-38.9，成人
+730,Z6839,"Body mass index (BMI) 39.0-39.9, adult",身體質量指數 （BMI） 39.0-39.9，成人
+731,Z684,"Body mass index (BMI) 40 or greater, adult",身體質量指數 （BMI） 40或更高，成人
+732,Z685,Body mass index (BMI) pediatric,身體質量指數 （BMI），小兒
+733,Z6851,"Body mass index (BMI) pediatric, less than 5th percentile for age",身體質量指數 （BMI） 小於該年齡之 5 個百分位，小兒
+734,Z6852,"Body mass index (BMI) pediatric, 5th percentile to less than 85th percentile for age",身體質量指數 （BMI）介於該年齡5~85個百分位，小兒
+735,Z6853,"Body mass index (BMI) pediatric, 85th percentile to less than 95th percentile for age",身體質量指數 （BMI）介於該年齡85~95個百分位，小兒
+736,Z6854,"Body mass index (BMI) pediatric, greater than or equal to 95th percentile for age",身體質量指數 （BMI） 大於或等於該年齡 95 百分位，小兒
+737,Z69,Encounter for mental health services for victim and perpetrator of abuse,來院接受親子虐待受害者接受心理健康服務
+738,Z690,Encounter for mental health services for child abuse problems,親子虐待問題接受心理健康服務
+739,Z6901,Encounter for mental health services for parental child abuse,親子虐待接受心理健康服務
+740,Z69010,Encounter for mental health services for victim of parental child abuse,親子虐待受害者接受心理健康服務
+741,Z69011,Encounter for mental health services for perpetrator of parental child abuse,親子虐待施害者接受心理健康服務
+742,Z6902,Encounter for mental health services for non-parental child abuse,非親子虐待受害者接受心理健康服務
+743,Z69020,Encounter for mental health services for victim of non-parental child abuse,非親子虐待受害者接受心理健康服務
+744,Z69021,Encounter for mental health services for perpetrator of non-parental child abuse,非親子虐待施害者接受心理健康服務
+745,Z691,Encounter for mental health services for spousal or partner abuse problems,配偶及伴侶虐待諮詢接受心理健康服務
+746,Z6911,Encounter for mental health services for victim of spousal or partner abuse,配偶及伴侶虐待受害者接受心理健康服務
+747,Z6912,Encounter for mental health services for perpetrator of spousal or partner abuse,配偶及伴侶虐待施害者諮詢接受心理健康服務
+748,Z698,Encounter for mental health services for victim or perpetrator of other abuse,虐待受害者或施虐者接受心理健康服務
+749,Z6981,Encounter for mental health services for victim of other abuse,其它虐待受害者接受心理健康服務
+750,Z6982,Encounter for mental health services for perpetrator of other abuse,其它虐待施害者接受心理健康服務
+751,Z70,"Counseling related to sexual attitude, behavior and orientation",與性態度、行為及取向(傾向)有關的諮詢
+752,Z700,Counseling related to sexual attitude,與性態度有關的諮詢
+753,Z701,Counseling related to patient's sexual behavior and orientation,與病患性行為及取向(傾向)有關的諮詢
+754,Z702,Counseling related to sexual behavior and orientation of third party,與第三者性行為及取向(傾向)有關的諮詢
+755,Z703,"Counseling related to combined concerns regarding sexual attitude, behavior and orientation",與性態度、行為及取向(傾向)有關的綜合諮詢
+756,Z708,Other sex counseling,其他性諮詢
+757,Z709,"Sex counseling, unspecified",性諮詢，未特定
+758,Z71,"Persons encountering health services for other counseling and medical advice, not elsewhere classified",為其他諮詢及醫療指導而接觸醫療保健服務者，他處未歸類者
+759,Z710,Person encountering health services to consult on behalf of another person,代表他人尋求健康服務諮詢者
+760,Z711,Person with feared health complaint in whom no diagnosis is made,具恐懼某健康狀況之主訴，但未有診斷者
+761,Z712,Person consulting for explanation of examination or test findings,尋求檢查或檢驗結果解釋之諮詢者
+762,Z713,Dietary counseling and surveillance,飲食諮詢與監測
+763,Z714,Alcohol abuse counseling and surveillance,酒精濫用的諮詢及監測
+764,Z7141,Alcohol abuse counseling and surveillance of alcoholic,酒精濫用的諮詢及監測
+765,Z7142,Counseling for family member of alcoholic,酗酒者家庭成員的諮詢
+766,Z715,Drug abuse counseling and surveillance,藥物濫用的諮詢及監測
+767,Z7151,Drug abuse counseling and surveillance of drug abuser,藥物濫用者之藥物濫用的諮詢及監測
+768,Z7152,Counseling for family member of drug abuser,藥物濫用者之家庭成員的諮詢
+769,Z716,Tobacco abuse counseling,菸草濫用的諮詢
+770,Z717,Human immunodeficiency virus [HIV] counseling,後天免疫缺乏病毒疾病的諮詢
+771,Z718,Other specified counseling,其他特定的的諮詢
+772,Z7181,Spiritual or religious counseling,精神上或宗教上的諮詢
+773,Z7189,Other specified counseling,其它特定的諮詢
+774,Z719,"Counseling, unspecified",諮詢，未特定
+775,Z72,Problems related to lifestyle,生活方式有關之問題
+776,Z720,Tobacco use,菸草使用
+777,Z723,Lack of physical exercise,缺乏運動
+778,Z724,Inappropriate diet and eating habits,不適當之飲食習慣
+779,Z725,High risk sexual behavior,高危險的性行為
+780,Z7251,High risk heterosexual behavior,高危險異性戀性行為
+781,Z7252,High risk homosexual behavior,高危險同性戀性行為
+782,Z7253,High risk bisexual behavior,高危險雙性戀性行為
+783,Z726,Gambling and betting,賭博
+784,Z728,Other problems related to lifestyle,生活方式有關之其他問題
+785,Z7281,Antisocial behavior,反社會行為
+786,Z72810,Child and adolescent antisocial behavior,兒童和青少年反社會行為
+787,Z72811,Adult antisocial behavior,成年人反社會行為
+788,Z7282,Problems related to sleep,睡眠有關之問題
+789,Z72820,Sleep deprivation,睡眠剝奪
+790,Z72821,Inadequate sleep hygiene,睡眠衛生不足
+791,Z7289,Other problems related to lifestyle,其他與生活方式有關之問題
+792,Z729,"Problem related to lifestyle, unspecified",生活方式有關之問題，未特定
+793,Z73,Problems related to life management difficulty,與生活處理困難有關的問題
+794,Z730,Burn-out,精神體力耗盡[過勞]
+795,Z731,Type A behavior pattern,A 型行為模式
+796,Z732,Lack of relaxation and leisure,缺乏鬆弛及休閒
+797,Z733,"Stress, not elsewhere classified",壓力，他處未歸類者
+798,Z734,"Inadequate social skills, not elsewhere classified",社交技能不足，他處未歸類者
+799,Z735,"Social role conflict, not elsewhere classified",社會角色衝突，他處未歸類者
+800,Z736,Limitation of activities due to disability,失能導致活動受限
+801,Z738,Other problems related to life management difficulty,與生活處理困難有關的其他問題
+802,Z7381,Behavioral insomnia of childhood,行為性兒童失眠
+803,Z73810,"Behavioral insomnia of childhood, sleep-onset association type",行為性兒童失眠，入睡相關型
+804,Z73811,"Behavioral insomnia of childhood, limit setting type",行為性兒童失眠，設定限制型
+805,Z73812,"Behavioral insomnia of childhood, combined type",行為性兒童失眠，混合型
+806,Z73819,"Behavioral insomnia of childhood, unspecified type",行為性兒童失眠，未特定型
+807,Z7382,Dual sensory impairment,雙重感覺障礙
+808,Z7389,Other problems related to life management difficulty,與生活處理困難有關的其他問題
+809,Z739,"Problem related to life management difficulty, unspecified",與生活處理困難有關的問題，未特定
+810,Z74,Problems related to care provider dependency,與需依賴照護提供者有關的問題
+811,Z740,Reduced mobility,活動力降低
+812,Z7401,Bed confinement status,臥床狀態
+813,Z7409,Other reduced mobility,其它活動力降低
+814,Z741,Need for assistance with personal care,個人照顧需要輔助
+815,Z742,Need for assistance at home and no other household member able to render care,需要居家輔助，而無其他家屬能給予照顧
+816,Z743,Need for continuous supervision,需要持續監督
+817,Z748,Other problems related to care provider dependency,與需依賴照護提供者有關的其他問題
+818,Z749,"Problem related to care provider dependency, unspecified",與需依賴照護提供者有關的問題，未特定
+819,Z75,Problems related to medical facilities and other health care,與醫療設施及其他醫療保健照護有關的問題
+820,Z750,Medical services not available in home,居家醫療服務之無法獲得
+821,Z751,Person awaiting admission to adequate facility elsewhere,患者等候其他適合之機構住院
+822,Z752,Other waiting period for investigation and treatment,診察及治療的其他等待期
+823,Z753,Unavailability and inaccessibility of health-care facilities,無或且難到達醫療保健設施
+824,Z754,Unavailability and inaccessibility of other helping agencies,無或且難到達其他協助機構
+825,Z755,Holiday relief care,假日替代照顧
+826,Z758,Other problems related to medical facilities and other health care,與醫療設施及其他醫療保健照護有關的問題
+827,Z759,Unspecified problem related to medical facilities and other health care,未特定與醫療設施及其他醫療保健照護有關的問題
+828,Z76,Persons encountering health services in other circumstances,在其他情況下接觸醫療保健服務者
+829,Z760,Encounter for issue of repeat prescription,重複開立處方
+830,Z761,Encounter for health supervision and care of foundling,棄嬰(兒)的醫療保健監督及照護
+831,Z762,Encounter for health supervision and care of other healthy infant and child,其他健康嬰兒及孩(兒)童的醫療保健監督及照護
+832,Z763,Healthy person accompanying sick person,陪伴病患的健康者
+833,Z764,Other boarder to healthcare facility,醫療保健照護設施其他寄膳宿者
+834,Z765,Malingerer [conscious simulation],詐病者[蓄意裝病]
+835,Z768,Persons encountering health services in other specified,在其他特定情況下接觸醫療保健服務者
+836,Z7681,Expectant parent(s) prebirth pediatrician visit,準父母嬰兒出生前就診兒科醫生
+837,Z7682,Awaiting organ transplant status,等待器官移植的狀態
+838,Z7689,Persons encountering health services in other specified circumstances,在其他特定情況下接觸醫療保健服務者
+839,Z77,Other contact with and (suspected) exposures hazardous to health,其他接觸和 （疑似）有害健康的暴露
+840,Z770,"Contact with and (suspected) exposure to hazardous, chiefly nonmedicinal, chemicals",接觸 和（疑似）主要非藥用，化學品其他危險的暴露
+841,Z7701,Contact with and (suspected) exposure to hazardous metals,接觸和（疑似）危險的金屬的暴露
+842,Z77010,Contact with and (suspected) exposure to arsenic,接觸和（疑似）砷的暴露
+843,Z77011,Contact with and (suspected) exposure to lead,接觸和（疑似）鉛的暴露
+844,Z77018,Contact with and (suspected) exposure to other hazardous metals,接觸和（疑似）其他危險的金屬的暴露
+845,Z7702,Contact with and (suspected) exposure to hazardous aromatic compounds,接觸和（疑似）危險的芳香族化合物的暴露
+846,Z77020,Contact with and (suspected) exposure to aromatic amines,接觸和（疑似）芳香胺的暴露
+847,Z77021,Contact with and (suspected) exposure to benzene,接觸和（疑似）苯的暴露
+848,Z77028,Contact with and (suspected) exposure to other hazardous aromatic compounds,接觸和（疑似）其他危險的芳香族化合物的暴露
+849,Z7709,"Contact with and (suspected) exposure to other hazardous, chiefly nonmedicinal, chemicals",接觸 和（疑似）主要非藥用，化學品其他危險的暴露
+850,Z77090,Contact with and (suspected) exposure to asbestos,接觸和（疑似）石綿的暴露
+851,Z77098,"Contact with and (suspected) exposure to other hazardous, chiefly nonmedicinal, chemicals",接觸 和（疑似）主要非藥用，化學品其他危險的暴露
+852,Z771,Contact with and (suspected) exposure to environmental pollution and hazards in the physical environment,接觸和（疑似）物理環境汙染及危害暴露
+853,Z7711,Contact with and (suspected) exposure to environmental pollution,接觸和（疑似）物理環境汙染及危害暴露
+854,Z77110,Contact with and (suspected) exposure to air pollution,接觸和（疑似）空氣污染的暴露
+855,Z77111,Contact with and (suspected) exposure to water pollution,接觸和（疑似）水污染的暴露
+856,Z77112,Contact with and (suspected) exposure to soil pollution,接觸和（疑似）土壤污染的暴露
+857,Z77118,Contact with and (suspected) exposure to other environmental pollution,接觸和（疑似）環境污染的暴露
+858,Z7712,Contact with and (suspected) exposure to hazards in the physical environment,接觸和（疑似）物理環境中的危害暴露
+859,Z77120,Contact with and (suspected) exposure to mold (toxic),接觸和（疑似）(毒)霉菌的暴露
+860,Z77121,Contact with and (suspected) exposure to harmful algae and algae toxins,接觸和 （疑似）有害藻類和藻毒素的暴露
+861,Z77122,Contact with and (suspected) exposure to noise,接觸和（疑似）噪音的暴露
+862,Z77123,Contact with and (suspected) exposure to radon and other naturally occuring radiation,接觸和（疑似）氡和其他自然存在輻射的暴露
+863,Z77128,Contact with and (suspected) exposure to other hazards in the physical environment,接觸和（疑似）物理環境中的其他危害暴露
+864,Z772,Contact with and (suspected ) exposure to other hazardous substances,接觸和（疑似）其他有害物質的暴露
+865,Z7721,Contact with and (suspected) exposure to potentially hazardous body fluids,接觸和（疑似）潛在危險的體液暴露
+866,Z7722,Contact with and (suspected) exposure to environmental tobacco smoke (acute) (chronic),接觸和（疑似）環境菸草煙霧 （急性） （慢性）的 暴露
+867,Z7729,Contact with and (suspected ) exposure to other hazardous substances,接觸和（疑似）其他有害物質的暴露
+868,Z779,Other contact with and (suspected) exposures hazardous to health,其他接觸和 （疑似）有害健康的暴露
+869,Z78,Other specified health status,其他特定的健康狀況
+870,Z780,Asymptomatic menopausal state,無症狀的更年期狀態
+871,Z789,Other specified health status,其他特定的健康狀況
+872,Z79,Long term (current) drug therapy,長期 （現在的）使用藥物治療
+873,Z790,Long term (current) use of anticoagulants and antithrombotics/antiplatelets,長期(現在的)服用抗凝血劑、抗血栓劑/抗血小板劑
+874,Z7901,Long term (current) use of anticoagulants,長期(現在的)服用抗凝血劑
+875,Z7902,Long term (current) use of antithrombotics/antiplatelets,長期(現在的)服用抗血栓劑/抗血小板劑
+876,Z791,Long term (current) use of non-steroidal anti-inflammatories (NSAID),長期(現在的)服用非類固醇類消炎藥
+877,Z792,Long term (current) use of antibiotics,長期(現在的)服用抗生素
+878,Z793,Long term (current) use of hormonal contraceptives,長期(現在的)服用荷爾蒙避孕藥
+879,Z794,Long term (current) use of insulin,長期(現在的)服用胰島素
+880,Z795,Long term (current) use of steroids,長期(現在的)使用類固醇
+881,Z7951,Long term (current) use of inhaled steroids,長期(現在的)使用吸入性類固醇
+882,Z7952,Long term (current) use of systemic steroids,長期(現在的)使用全身性類固醇
+883,Z798,Other long term (current) drug therapy,長期 （現在的）使用其他藥物治療
+884,Z7981,Long term (current) use of agents affecting estrogen receptors and estrogen levels,長期（現在的）使用藥劑影響雌激素受體和雌激素值
+885,Z79810,Long term (current) use of selective estrogen receptor modulators (SERMs),長期(現在的)服用選擇性動情素受體調節劑
+886,Z79811,Long term (current) use of aromatase inhibitors,長期(現在的)服用芳香酶抑制劑
+887,Z79818,Long term (current) use of other agents affecting estrogen receptors and estrogen levels,長期（現在的）使用其他藥劑影響雌激素受體和雌激素值
+888,Z7982,Long term (current) use of aspirin,長期(現在的)服用阿斯匹林藥
+889,Z7989,Other long term (current) drug therapy,長期 （現在的）使用其他藥物治療
+890,Z79890,Hormone replacement therapy (postmenopausal),荷爾蒙補充療法(停經後)
+891,Z79891,Long term (current) use of opiate analgesic,長期 （現在的）使用的鴉片類的鎮痛劑
+892,Z79899,Other long term (current) drug therapy,長期 （現在的）使用藥物治療
+893,Z80,Family history of primary malignant neoplasm,惡性腫瘤的家族史
+894,Z800,Family history of malignant neoplasm of digestive organs,消化器官之惡性腫瘤的家族史
+895,Z801,"Family history of malignant neoplasm of trachea, bronchus and lung",氣管，支氣管及肺之惡性腫瘤的家族史
+896,Z802,Family history of malignant neoplasm of other respiratory and intrathoracic organs,其他呼吸系統及胸內器官之惡性腫瘤的家族史
+897,Z803,Family history of malignant neoplasm of breast,乳房之惡性腫瘤的家族史
+898,Z804,Family history of malignant neoplasm of genital organs,生殖器官之惡性腫瘤的家族史
+899,Z8041,Family history of malignant neoplasm of ovary,卵巢之惡性腫瘤的家族史
+900,Z8042,Family history of malignant neoplasm of prostate,攝護腺之惡性腫瘤的家族史
+901,Z8043,Family history of malignant neoplasm of testis,睪丸之惡性腫瘤的家族史
+902,Z8049,Family history of malignant neoplasm of other genital organs,生殖器官之惡性腫瘤的家族史
+903,Z805,Family history of malignant neoplasm of urinary tract,泌尿泌器官之惡性腫瘤的家族史
+904,Z8051,Family history of malignant neoplasm of kidney,腎臟之惡性腫瘤的家族史
+905,Z8052,Family history of malignant neoplasm of bladder,膀胱之惡性腫瘤的家族史
+906,Z8059,Family history of malignant neoplasm of other urinary tract organ,其他泌尿泌器官之惡性腫瘤的家族史
+907,Z806,Family history of leukemia,白血病之家族史
+908,Z807,"Family history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",淋巴、造血及有關組織惡性腫瘤的家族史
+909,Z808,Family history of malignant neoplasm of other organs or systems,其他器官或系統之惡性腫瘤的家族史
+910,Z809,"Family history of malignant neoplasm, unspecified",惡性腫瘤的家族史，未特定
+911,Z81,Family history of mental and behavioral disorders,心理及行為疾患的家族史
+912,Z810,Family history of mental retardation,智能不足的家族史
+913,Z811,Family history of alcohol abuse and dependence,酒精濫用和依賴的家族史
+914,Z812,Family history of tobacco abuse and dependence,菸草濫用和依賴的家族史
+915,Z813,Family history of other psychoactive substance abuse and dependence,其它精神作用物質濫用和依賴的家族史
+916,Z814,Family history of other substance abuse and dependence,其他物質濫用和依賴的家族史
+917,Z818,Family history of other mental and behavioral disorders,其他心理及行為疾患的家族史
+918,Z82,Family history of certain disabilities and chronic diseases (leading to disablement),失能及慢性疾病造成殘障(廢)的家族史
+919,Z820,Family history of epilepsy and other diseases of the nervous system,癲癇及其他神經系統疾病的家族史
+920,Z821,Family history of blindness and visual loss,眼盲(失明)及視覺(力)喪失的家族史
+921,Z822,Family history of deafness and hearing loss,耳聾和聽力喪失的家族史
+922,Z823,Family history of stroke,中風的家族史
+923,Z824,Family history of ischemic heart disease and other diseases of the circulatory system,缺血性心臟病及其他循環系統疾病的家族史
+924,Z8241,Family history of sudden cardiac death,心臟性猝死的家族史
+925,Z8249,Family history of ischemic heart disease and other diseases of the circulatory system,缺血性心臟病及其他循環系統疾病的家族史
+926,Z825,Family history of asthma and other chronic lower respiratory diseases,哮喘(氣喘)及其他慢性下呼吸道疾病的家族史
+927,Z826,Family history of arthritis and other diseases of the musculoskeletal system and connective tissue,關節炎、肌肉骨骼系統和結締組織的疾病的家族史
+928,Z8261,Family history of arthritis,關節炎的家族史
+929,Z8262,Family history of osteoporosis,骨質疏鬆症的家族史
+930,Z8269,Family history of other diseases of the musculoskeletal system and connective tissue,肌肉骨骼系統和結締組織的其它疾病的家族史
+931,Z827,"Family history of congenital malformations, deformations and chromosomal abnormalities",先天性畸形、變形及染色體異常的家族史
+932,Z8271,Family history of polycystic kidney,多囊腎的家族史
+933,Z8279,"Family history of other congenital malformations, deformations and chromosomal abnormalities",其他先天性畸形、變形及染色體異常的家族史
+934,Z828,"Family history of other disabilities and chronic diseases leading to disablement, not elsewhere classified",其他失能及慢性疾病造成殘障(廢)的家族史，他處未歸類者
+935,Z83,Family history of other specific disorders,其他特定疾患的家族史
+936,Z830,Family history of human immunodeficiency virus [HIV] disease,人類免疫缺乏病毒疾病[HIV]的家族史
+937,Z831,Family history of other infectious and parasitic diseases,其他感染症及寄生蟲疾病的家族史
+938,Z832,Family history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,血液、造血器官疾病及涉及免疫機轉疾患的家族史
+939,Z833,Family history of diabetes mellitus,糖尿病的家族史
+940,Z834,"Family history of other endocrine, nutritional and metabolic diseases",內分泌、營養及新陳代謝性疾病的家族史
+941,Z8341,Family history of multiple endocrine neoplasia [MEN] syndrome,多內分泌腺瘤病 [MEN]症候群的家族史
+942,Z8349,"Family history of other endocrine, nutritional and metabolic diseases",其他內分泌、營養及新陳代謝性疾病的家族史
+943,Z835,Family history of eye and ear disorders,眼睛和耳朵疾患的家族史
+944,Z836,Family history of other diseases of the respiratory system,呼吸系統疾病的家族史
+945,Z837,Family history of diseases of the digestive system,消化系統疾病的家族史
+946,Z8371,Family history of colonic polyps,結腸息肉的家族史
+947,Z8379,Family history of other diseases of the digestive system,其他消化系統疾病的家族史
+948,Z84,Family history of other conditions,其他病況的家族史
+949,Z840,Family history of diseases of the skin and subcutaneous tissue,皮膚及皮下組織疾病的家族史
+950,Z841,Family history of disorders of kidney and ureter,腎及輸尿管疾患的家族史
+951,Z842,Family history of other diseases of the genitourinary system,其他生殖泌尿系統疾病的家族史
+952,Z843,Family history of consanguinity,近親結婚的家族史
+953,Z848,Family history of other specified conditions,其他特定病況的家族史
+954,Z8481,Family history of carrier of genetic disease,遺傳疾病帶原者的家族史
+955,Z8489,Family history of other specified conditions,其他特定病況的家族史
+956,Z85,Personal history of malignant neoplasm,惡性腫瘤的個人史
+957,Z850,Personal history of malignant neoplasm of digestive organs,消化器官惡性腫瘤的個人史
+958,Z8500,Personal history of malignant neoplasm of unspecified digestive organ,未特定消化器官惡性腫瘤的個人史
+959,Z8501,Personal history of malignant neoplasm of esophagus,食道惡性腫瘤的個人史
+960,Z8502,Personal history of malignant neoplasm of stomach,胃惡性類癌的的個人史
+961,Z85020,Personal history of malignant carcinoid tumor of stomach,胃惡性類癌的的個人史
+962,Z85028,Personal history of other malignant neoplasm of stomach,胃其他惡性腫瘤的個人史
+963,Z8503,Personal history of malignant neoplasm of large intestine,大腸惡性類癌的的個人史
+964,Z85030,Personal history of malignant carcinoid tumor of large intestine,大腸惡性類癌的個人史
+965,Z85038,Personal history of other malignant neoplasm of large intestine,大腸其它惡性腫瘤的個人史
+966,Z8504,"Personal history of malignant neoplasm of rectum, rectosigmoid junction, and anus",直腸、 直腸乙狀結腸連接部和肛門的惡性腫瘤的個人史
+967,Z85040,Personal history of malignant carcinoid tumor of rectum,直腸惡性類癌的個人史
+968,Z85048,"Personal history of other malignant neoplasm of rectum, rectosigmoid junction, and anus",直腸、 直腸乙狀結腸連接部和肛門的其他惡性腫瘤的個人史
+969,Z8505,Personal history of malignant neoplasm of liver,肝惡性腫瘤的個人史
+970,Z8506,Personal history of malignant neoplasm of small intestine,小腸惡性類癌的的個人史
+971,Z85060,Personal history of malignant carcinoid tumor of small intestine,小腸惡性類癌的個人史
+972,Z85068,Personal history of other malignant neoplasm of small intestine,小腸其他惡性腫瘤的個人史
+973,Z8507,Personal history of malignant neoplasm of pancreas,胰腺惡性腫瘤的個人史
+974,Z8509,Personal history of malignant neoplasm of other digestive organs,其他消化器官惡性腫瘤的個人史
+975,Z851,"Personal history of malignant neoplasm of trachea, bronchus and lung",氣管、支氣管及肺惡性腫瘤病的個人史
+976,Z8511,Personal history of malignant neoplasm of bronchus and lung,支氣管及肺惡性腫瘤病的個人史
+977,Z85110,Personal history of malignant carcinoid tumor of bronchus and lung,支氣管及肺惡性類癌的個人史
+978,Z85118,Personal history of other malignant neoplasm of bronchus and lung,支氣管及肺其它惡性腫瘤的個人史
+979,Z8512,Personal history of malignant neoplasm of trachea,氣管惡性腫瘤病的個人史
+980,Z852,Personal history of malignant neoplasm of other respiratory and intrathoracic organs,呼吸及胸腔內器官惡性腫瘤的個人史
+981,Z8520,Personal history of malignant neoplasm of unspecified respiratory organ,未特定呼吸器官惡性腫瘤的個人史
+982,Z8521,Personal history of malignant neoplasm of larynx,喉頭惡性腫瘤的個人史
+983,Z8522,"Personal history of malignant neoplasm of nasal cavities, middle ear, and accessory sinuses",鼻腔，中耳及副鼻竇惡性腫瘤的個人史
+984,Z8523,Personal history of malignant neoplasm of thymus,胸腺惡性腫瘤的個人史
+985,Z85230,Personal history of malignant carcinoid tumor of thymus,胸腺惡性類癌的個人史
+986,Z85238,Personal history of malignant neoplasm of thymus,胸腺惡性腫瘤的個人史
+987,Z8529,Personal history of malignant neoplasm of other respiratory and intrathoracic organs,其他呼吸及胸腔內器官惡性腫瘤的個人史
+988,Z853,Personal history of malignant neoplasm of breast,乳房惡性腫瘤的個人史
+989,Z854,Personal history of malignant neoplasm of genital organs,生殖器官惡性腫瘤的個人史
+990,Z8540,Personal history of malignant neoplasm of unspecified female genital organ,女性生殖器官惡性腫瘤的個人史
+991,Z8541,Personal history of malignant neoplasm of cervix uteri,子宮頸惡性腫瘤的個人史
+992,Z8542,Personal history of malignant neoplasm of other parts of uterus,子宮其他部位惡性腫瘤的個人史
+993,Z8543,Personal history of malignant neoplasm of ovary,卵巢惡性腫瘤的個人史
+994,Z8544,Personal history of malignant neoplasm of other female genital organs,其他女性生殖器官惡性腫瘤的個人史
+995,Z8545,Personal history of malignant neoplasm of unspecified male genital organ,男性生殖器官惡性腫瘤的個人史
+996,Z8546,Personal history of malignant neoplasm of prostate,攝護腺惡性腫瘤的個人史
+997,Z8547,Personal history of malignant neoplasm of testis,睪丸惡性腫瘤的個人史
+998,Z8548,Personal history of malignant neoplasm of epididymis,副(附)睪惡性腫瘤的個人史
+999,Z8549,Personal history of malignant neoplasm of other male genital organs,其他男性生殖器官惡性腫瘤的個人史
+1000,Z855,Personal history of malignant neoplasm of urinary tract,泌尿器官惡性腫瘤的個人史
+1001,Z8550,Personal history of malignant neoplasm of unspecified urinary tract organ,泌尿器官惡性腫瘤的個人史
+1002,Z8551,Personal history of malignant neoplasm of bladder,膀胱惡性腫瘤的個人史
+1003,Z8552,Personal history of malignant neoplasm of kidney,腎臟惡性類癌的個人史
+1004,Z85520,Personal history of malignant carcinoid tumor of kidney,腎臟惡性類癌的個人史
+1005,Z85528,Personal history of other malignant neoplasm of kidney,腎臟其它惡性腫瘤病史
+1006,Z8553,Personal history of malignant neoplasm of renal pelvis,腎盂惡性腫瘤的個人史
+1007,Z8559,Personal history of malignant neoplasm of other urinary tract organ,其他泌尿器官惡性腫瘤的個人史
+1008,Z856,Personal history of leukemia,白血病的個人史
+1009,Z857,"Personal history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",淋巴、造血及有關組織惡性腫瘤的個人史
+1010,Z8571,Personal history of Hodgkin lymphoma,何杰金氏淋巴瘤的個人史
+1011,Z8572,Personal history of non-Hodgkin lymphomas,非何杰金氏淋巴瘤的個人史
+1012,Z8579,"Personal history of other malignant neoplasms of lymphoid, hematopoietic and related tissues",其他淋巴、造血及有關組織惡性腫瘤的個人史
+1013,Z858,Personal history of malignant neoplasms of other organs and systems,其他器官及系統惡性腫瘤的個人史
+1014,Z8581,"Personal history of malignant neoplasm of lip, oral cavity, and pharynx",唇、 口腔及咽喉惡性腫瘤的個人史
+1015,Z85810,Personal history of malignant neoplasm of tongue,舌惡性腫瘤的個人史
+1016,Z85818,"Personal history of malignant neoplasm of other sites of lip, oral cavity, and pharynx",唇其他部位、 口腔及咽喉惡性腫瘤的個人史
+1017,Z85819,"Personal history of malignant neoplasm of unspecified site of lip, oral cavity, and pharynx",唇未特定部位、 口腔及咽喉惡性腫瘤的個人史
+1018,Z8582,Personal history of malignant neoplasm of skin,皮膚惡性腫瘤的個人史
+1019,Z85820,Personal history of malignant melanoma of skin,皮膚惡性黑色素瘤的個人史
+1020,Z85821,Personal history of Merkel cell carcinoma,Merkel細胞癌的個人史
+1021,Z85828,Personal history of other malignant neoplasm of skin,其他皮膚惡性腫瘤的個人史
+1022,Z8583,Personal history of malignant neoplasm of bone and soft tissue,骨骼及軟組織惡性腫瘤的個人史
+1023,Z85830,Personal history of malignant neoplasm of bone,骨骼惡性腫瘤的個人史
+1024,Z85831,Personal history of malignant neoplasm of soft tissue,軟組織惡性腫瘤的個人史
+1025,Z8584,Personal history of malignant neoplasm of eye and nervous tissue,眼及神經組織惡性腫瘤的個人史
+1026,Z85840,Personal history of malignant neoplasm of eye,眼惡性腫瘤的個人史
+1027,Z85841,Personal history of malignant neoplasm of brain,腦惡性腫瘤的個人史
+1028,Z85848,Personal history of malignant neoplasm of other parts of nervous tissue,神經組織其他部位之惡性腫瘤的個人史
+1029,Z8585,Personal history of malignant neoplasm of endocrine glands,內分泌腺之惡性腫瘤的個人史
+1030,Z85850,Personal history of malignant neoplasm of thyroid,甲狀腺惡性腫瘤的個人史
+1031,Z85858,Personal history of malignant neoplasm of other endocrine glands,其他內分泌腺之惡性腫瘤的個人史
+1032,Z8589,Personal history of malignant neoplasm of other organs and systems,其他器官和系統惡性腫瘤的個人史
+1033,Z859,"Personal history of malignant neoplasm, unspecified",惡性腫瘤的個人史，未特定
+1034,Z86,Personal history of certain other diseases,某些其他疾病的個人史
+1035,Z860,Personal history of in-situ and benign neoplasms and neoplasms of uncertain behavior,原位癌、良性腫瘤及不能確定為良性或惡性腫瘤的個人史
+1036,Z8600,Personal history of in-situ neoplasm,原位癌的個人史
+1037,Z86000,Personal history of in-situ neoplasm of breast,乳房原位癌的個人史
+1038,Z86001,Personal history of in-situ neoplasm of cervix uteri,子宮頸原位癌的個人史
+1039,Z86008,Personal history of in-situ neoplasm of other site,其他部位原位癌病史
+1040,Z8601,Personal history of benign neoplasm,良性腫瘤的個人史
+1041,Z86010,Personal history of colonic polyps,結腸息肉的個人史
+1042,Z86011,Personal history of benign neoplasm of the brain,腦良性腫瘤的個人史
+1043,Z86012,Personal history of benign carcinoid tumor,良性類癌瘤的個人史
+1044,Z86018,Personal history of other benign neoplasm,其他良性腫瘤的個人史
+1045,Z8603,Personal history of neoplasm of uncertain behavior,不能確定為良性或惡性腫瘤的個人史
+1046,Z861,Personal history of infectious and parasitic diseases,感染症和寄生蟲病的個人史
+1047,Z8611,Personal history of tuberculosis,結核病的個人史
+1048,Z8612,Personal history of poliomyelitis,小兒麻痺的個人史
+1049,Z8613,Personal history of malaria,瘧疾的個人史
+1050,Z8619,Personal history of other infectious and parasitic diseases,其他感染症和寄生蟲病的個人史
+1051,Z862,Personal history of diseases of the blood and blood-forming organs and certain disorders involving the immune mechanism,血液、造血器官疾患及涉及某些免疫機轉疾的個人史
+1052,Z863,"Personal history of endocrine, nutritional and metabolic diseases",內分泌、營養及新陳代謝的個人史
+1053,Z8631,Personal history of diabetic foot ulcer,糖尿病足部潰瘍的個人史
+1054,Z8639,"Personal history of other endocrine, nutritional and metabolic disease",內分泌、營養及新陳代謝的個人史
+1055,Z866,Personal history of diseases of the nervous system and sense organs,中樞神經系統和感覺器官疾病的個人史
+1056,Z8661,Personal history of infections of the central nervous system,中樞神經系統感染的個人史
+1057,Z8669,Personal history of other diseases of the nervous system and sense organs,中樞神經系統和感覺器官之其他疾病的個人史
+1058,Z867,Personal history of diseases of the circulatory system,循環系統疾病的個人史
+1059,Z8671,Personal history of venous thrombosis and embolism,靜脈栓塞及栓塞的個人史
+1060,Z8672,Personal history of thrombophlebitis,血栓靜脈炎的個人史
+1061,Z8673,"Personal history of transient ischemic attack (TIA), and cerebral infarction without residual deficits",短暫性腦缺血發作 (TIA)與無殘餘缺損的腦梗塞的個人史
+1062,Z8674,Personal history of sudden cardiac arrest,心臟驟停的個人史
+1063,Z8679,Personal history of other diseases of the circulatory system,循環系統的其他疾病的個人史
+1064,Z87,Personal history of other diseases and conditions,其他情況的個人史
+1065,Z870,Personal history of diseases of the respiratory system,呼吸系統疾病的個人史
+1066,Z8701,Personal history of pneumonia (recurrent),肺炎(復發)的個人史
+1067,Z8709,Personal history of other diseases of the respiratory system,呼吸系統其他疾病的個人史
+1068,Z871,Personal history of diseases of the digestive system,消化系統疾病的個人史
+1069,Z8711,Personal history of peptic ulcer disease,消化性潰瘍的個人史
+1070,Z8719,Personal history of other diseases of the digestive system,消化系統其他疾病的個人史
+1071,Z872,Personal history of diseases of the skin and subcutaneous tissue,皮膚及皮下組織疾的個人史
+1072,Z873,Personal history of diseases of the musculoskeletal system and connective tissue,肌肉骨骼系統和結締組織疾病的個人史
+1073,Z8731,Personal history of (healed) nontraumatic fracture,非外傷性骨折(痊癒)的個人史
+1074,Z87310,Personal history of (healed) osteoporosis fracture,骨質疏鬆性骨折(痊愈)的個人史
+1075,Z87311,Personal history of (healed) other pathological fracture,其他病理性骨折(痊癒)的個人史
+1076,Z87312,Personal history of (healed) stress fracture,壓力性骨折(痊癒)的個人史
+1077,Z8739,Personal history of other diseases of the musculoskeletal system and connective tissue,肌肉骨骼系統和結締組織其他疾病的個人史
+1078,Z874,Personal history of diseases of the genitourinary system,泌尿生殖系統疾病病史
+1079,Z8741,Personal history of urinary (tract) infection(s),尿道感染的個人史
+1080,Z8742,Personal history of nephrotic syndrome,腎病症候群的個人史
+1081,Z8743,Personal history of urinary calculi,泌尿結石的個人史
+1082,Z8744,Personal history of cervical dysplasia,子宮頸上皮結構不良的個人史
+1083,Z8749,Personal history of other diseases of the genitourinary system,泌尿生殖系統其他疾病病史
+1084,Z875,"Personal history of complications of pregnancy, childbirth and the puerperium",懷孕、 分娩和產褥期併發症的個人史
+1085,Z8751,Personal history of pre-term labor,早期分娩的個人史
+1086,Z8759,"Personal history of other complications of pregnancy, childbirth and the puerperium",懷孕、 分娩和產褥期其他併發症的個人史
+1087,Z877,Personal history of congenital malformations and deformations,先天性畸形和變形的個人史
+1088,Z8771,Personal history of hypospadias,尿道下裂的個人史
+1089,Z8779,Personal history of other congenital malformations and deformations,其他的先天性畸形和變形的個人史
+1090,Z878,Personal history of other specified conditions,其他特定情況的個人史
+1091,Z8781,Personal history of (healed) traumatic fracture,外傷性骨折（痊癒)的個人史
+1092,Z8782,Personal history of other (healed) physical injury and trauma,物理損傷與創傷(痊癒)的個人史
+1093,Z87820,Personal history of traumatic brain injury,創傷性腦損傷的個人史
+1094,Z87828,Personal history of other (healed) physical injury and trauma,其他物理損傷與創傷(痊癒)的個人史
+1095,Z8789,Personal history of other specified conditions,其他特定情況的個人史
+1096,Z87890,Personal history of sex reassignment,變性的個人史
+1097,Z87891,Personal history of nicotine dependence,尼古丁依賴的個人史
+1098,Z87898,Personal history of other specified conditions,其他特定情況的個人史
+1099,Z88,"Allergy status to drugs, medicaments and biological substances",對藥物及藥劑及生物性物質(製劑、製品、材料)過敏狀態
+1100,Z880,Allergy status to penicillin,對盤尼西林過敏狀態
+1101,Z881,Allergy status to other antibiotic agents status,對其他抗生素過敏狀態
+1102,Z882,Allergy status to sulfonamides status,對磺醯胺過敏狀態
+1103,Z883,Allergy status to other anti-infective agents status,對其他抗感染藥物過敏狀態
+1104,Z884,Allergy status to anesthetic agent status,對麻醉劑過敏狀態
+1105,Z885,Allergy status to narcotic agent status,對麻醉止痛藥劑過敏狀態
+1106,Z886,Allergy status to analgesic agent status,對止痛劑過敏狀態
+1107,Z887,Allergy status to serum and vaccine status,對血清或疫苗過敏狀態
+1108,Z888,"Allergy status to other drugs, medicaments and biological substances status",對其他藥物及藥劑及生物性物質(製劑、製品、材料)過敏狀態
+1109,Z889,"Allergy status to unspecified drugs, medicaments and biological substances status",對未特定藥物、藥劑及生物性物質(製劑、製品、材料)過敏狀態
+1110,Z89,Acquired absence of limb,後天性肢體缺損
+1111,Z890,Acquired absence of thumb and other finger(s),後天性拇指及其他手指缺損
+1112,Z8901,Acquired absence of thumb,後天性拇指缺損
+1113,Z89011,Acquired absence of right thumb,後天性右拇指缺損
+1114,Z89012,Acquired absence of left thumb,後天性左拇指缺損
+1115,Z89019,Acquired absence of unspecified thumb,後天性拇指缺損
+1116,Z8902,Acquired absence of other finger(s),後天性其他手指缺損
+1117,Z89021,Acquired absence of right finger(s),後天性右手指缺損
+1118,Z89022,Acquired absence of left finger(s),後天性左手指缺損
+1119,Z89029,Acquired absence of unspecified finger(s),後天性手指缺損
+1120,Z891,Acquired absence of hand and wrist,後天性手及腕缺損
+1121,Z8911,Acquired absence of hand,後天性手缺損
+1122,Z89111,Acquired absence of right hand,後天性右手缺損
+1123,Z89112,Acquired absence of left hand,後天性左手缺損
+1124,Z89119,Acquired absence of unspecified hand,後天性手部缺損
+1125,Z8912,Acquired absence of wrist,後天性腕缺損
+1126,Z89121,Acquired absence of right wrist,後天性右手腕缺損
+1127,Z89122,Acquired absence of left wrist,後天性左手腕缺損
+1128,Z89129,Acquired absence of unspecified wrist,後天性手腕缺損
+1129,Z892,Acquired absence of upper limb above wrist,後天性腕以上之上肢缺損
+1130,Z8920,"Acquired absence of upper limb, unspecified level",後天性上肢缺損，未指定程度
+1131,Z89201,"Acquired absence of right upper limb, unspecified level",後天性右上肢缺損，未指定程度
+1132,Z89202,"Acquired absence of left upper limb, unspecified level",後天性左上肢缺損，未指定程度
+1133,Z89209,"Acquired absence of unspecified upper limb, unspecified level",後天性上肢缺損，未指定程度
+1134,Z8921,Acquired absence of upper limb below elbow,後天性肘部以下之上肢缺損
+1135,Z89211,Acquired absence of right upper limb below elbow,後天性肘部以下之右上肢缺損
+1136,Z89212,Acquired absence of left upper limb below elbow,後天性肘部以下之左上肢缺損
+1137,Z89219,Acquired absence of unspecified upper limb below elbow,後天性肘部以下之上肢缺損
+1138,Z8922,Acquired absence of upper limb above elbow,後天性肘部以上之上肢缺損
+1139,Z89221,Acquired absence of right upper limb above elbow,後天性肘部以上之右上肢缺損
+1140,Z89222,Acquired absence of left upper limb above elbow,後天性肘部以上之左上肢缺損
+1141,Z89229,Acquired absence of unspecified upper limb above elbow,後天性肘部以上之上肢缺損
+1142,Z8923,Acquired absence of shoulder,後天性肩缺損
+1143,Z89231,Acquired absence of right shoulder,後天性右肩缺損
+1144,Z89232,Acquired absence of left shoulder,後天性左肩缺損
+1145,Z89239,Acquired absence of unspecified shoulder,後天性肩部缺損
+1146,Z894,"Acquired absence of toe(s), foot, and ankle",後天性腳趾、足及踝缺損
+1147,Z8941,Acquired absence of great toe,後天性大腳趾缺損
+1148,Z89411,Acquired absence of right great toe,後天性右大腳趾缺損
+1149,Z89412,Acquired absence of left great toe,後天性左大腳趾缺損[殘缺]
+1150,Z89419,Acquired absence of unspecified great toe,後天性大腳趾缺損
+1151,Z8942,Acquired absence of other toe(s),後天性其他腳趾缺損
+1152,Z89421,Acquired absence of other right toe(s),後天性其它右腳趾缺損
+1153,Z89422,Acquired absence of other left toe(s),後天性其它左腳趾缺損
+1154,Z89429,"Acquired absence of other toe(s), unspecified side",後天性其它腳趾缺損，未特定側
+1155,Z8943,Acquired absence of foot,後天性足缺損
+1156,Z89431,Acquired absence of right foot,後天性右足缺損
+1157,Z89432,Acquired absence of left foot,後天性左足缺損
+1158,Z89439,Acquired absence of unspecified foot,後天性足部缺損
+1159,Z8944,Acquired absence of ankle,後天性踝缺損
+1160,Z89441,Acquired absence of right ankle,後天性右踝缺損
+1161,Z89442,Acquired absence of left ankle,後天性左踝缺損
+1162,Z89449,Acquired absence of unspecified ankle,後天性踝部缺損
+1163,Z895,Acquired absence of leg below knee,後天性膝部以下之腳部缺損
+1164,Z8950,"Acquired absence of leg knee, unspecified side",後天性膝部之腳部缺損，未特定側
+1165,Z8951,Acquired absence of right leg below knee,後天性右膝部以下之腳部缺損
+1166,Z8952,Acquired absence of left leg below knee,後天性左膝部以下之腳部缺損
+1167,Z896,Acquired absence of leg above knee,後天性膝部以上之腳部缺損
+1168,Z8961,Acquired absence of leg above knee,後天性膝部以上之腳部缺損
+1169,Z89611,Acquired absence of right leg above knee,後天性右膝部以上之腳部缺損
+1170,Z89612,Acquired absence of left leg above knee,後天性左膝部以上之腳部缺損
+1171,Z89619,Acquired absence of unspecified leg above knee,後天性膝部以上之腳部缺損
+1172,Z8962,Acquired absence of hip,後天性髖部缺損
+1173,Z89621,Acquired absence of right hip,後天性右髖部缺損
+1174,Z89622,Acquired absence of left hip,後天性左髖部缺損
+1175,Z89629,Acquired absence of unspecified hip,後天性髖部缺損
+1176,Z899,"Acquired absence of limb, unspecified",後天性肢體缺損，未特定
+1177,Z90,"Acquired absence of organs, not elsewhere classified",後天性其他器官缺損，他處未歸類者
+1178,Z900,Acquired absence of part of head and neck,後天性頭及頸部位缺損
+1179,Z9001,Acquired absence of eye,後天性眼睛缺損
+1180,Z9002,Acquired absence of larynx,後天性喉缺損
+1181,Z9009,Acquired absence of other part of head and neck,後天性頭及頸部位缺損
+1182,Z901,Acquired absence of breast and nipple,後天性乳房和乳頭缺損
+1183,Z9010,Acquired absence of unspecified breast and nipple,後天性乳房和乳頭缺損
+1184,Z9011,Acquired absence of right breast and nipple,後天性右側乳房和乳頭缺損
+1185,Z9012,Acquired absence of left breast and nipple,後天性左側乳房和乳頭缺損
+1186,Z9013,Acquired absence of bilateral breasts and nipples,後天性雙側乳房和乳頭缺損
+1187,Z902,Acquired absence of lung [part of],後天性肺[部份]缺損
+1188,Z903,Acquired absence of stomach [part of],後天性胃[部份]缺損
+1189,Z904,Acquired absence of other parts of digestive tract,後天性消化道其他部分缺損
+1190,Z905,Acquired absence of kidney,後天性腎臟缺損
+1191,Z906,Acquired absence of other parts of urinary tract,後天性泌尿道其他部分缺損
+1192,Z907,Acquired absence of genital organ(s),後天性生殖器官缺損
+1193,Z9071,Acquired absence of cervix and uterus,後天性子宮頸和子宮缺損
+1194,Z90710,Acquired absence of both cervix and uterus,後天性子宮頸和子宮缺損
+1195,Z90711,Acquired absence of uterus with remaining cervical stump,後天性子宮缺損有子宮頸殘端
+1196,Z90712,Acquired absence of cervix with remaining uterus,後天性子宮頸缺損與殘餘的子宮
+1197,Z9072,Acquired absence of ovaries,後天性卵巢缺損
+1198,Z90721,"Acquired absence of ovaries, unilateral",後天性單側卵巢缺損
+1199,Z90722,"Acquired absence of ovaries, bilateral",後天性雙側卵巢缺損
+1200,Z9079,Acquired absence of other genital organ(s),後天性其它生殖器官缺損
+1201,Z908,Acquired absence of other organs,後天性其他器官缺損
+1202,Z9081,Acquired absence of spleen,後天性脾臟缺損
+1203,Z9089,Acquired absence of other organs,後天性其他器官缺損
+1204,Z91,"Personal risk factors, not elsewhere classified",危險因素的個人史，他處未歸類者
+1205,Z910,"Allergy status, other than to drugs and biological substances",過敏狀態，除了藥物及生物性物質
+1206,Z9101,Food allergy status,食物過敏狀態
+1207,Z91010,Allergy to peanuts,花生過敏
+1208,Z91011,Allergy to milk products,奶製品過敏
+1209,Z91012,Allergy to eggs,蛋過敏
+1210,Z91013,Allergy to seafood,海鮮過敏
+1211,Z91018,Allergy to other foods,其他食物過敏
+1212,Z9102,Food additives allergy status,食品添加劑過敏狀態
+1213,Z9103,Insect allergy status,昆蟲過敏狀態
+1214,Z91030,Bee allergy status,蜜蜂過敏狀態
+1215,Z91038,Other insect allergy status,其它昆蟲過敏狀態
+1216,Z9104,Nonmedicinal substance allergy status,非藥用物質過敏狀態
+1217,Z91040,Latex allergy status,合成乳膠過敏狀態
+1218,Z91041,Radiographic dye allergy status,放射顯影劑過敏狀態
+1219,Z91048,Other nonmedicinal substance allergy status,其他非藥用物質過敏狀態
+1220,Z9109,"Other allergy status, other than to drugs and biological substances",其他過敏狀態，除了藥物及生物性物質(製劑、製品、材料)
+1221,Z911,Patient's noncompliance with medical treatment and regimen,病人對醫療及療程不順從
+1222,Z9111,Patient's noncompliance with dietary regimen,病人對飲食療程不順從
+1223,Z9112,Patient's intentional underdosing of medication regimen,病人有意減少用藥療程
+1224,Z91120,Patient's intentional underdosing of medication regimen due to financial hardship,由於經濟困難，病人有意減少用藥療程
+1225,Z91128,Patient's intentional underdosing of medication regimen for other reason,由於其它理由，病人有意減少用藥療程
+1226,Z9113,Patient's unintentional underdosing of medication regimen,病人非有意減少用藥療程
+1227,Z91130,Patient's unintentional underdosing of medication regimen due to age-related debility,由於年齡有關的衰弱，病人非有意減少用藥療程
+1228,Z91138,Patient's unintentional underdosing of medication regimen for other reason,由於其它理由，病人非有意減少用藥療程
+1229,Z9114,Patient's other noncompliance with medication regimen,病人對其它用藥療程不順從
+1230,Z9115,Patient's noncomplicance with renal dialysis,病人對腎透析不順從
+1231,Z9119,Patient's noncompliance with other medical treatment and regimen,對其它醫療及療程不順從
+1232,Z914,"Personal history of psychological trauma, not elsewhere classified",心理創傷的其它個人史，他處未歸類者
+1233,Z9141,Personal history of adult abuse,成人被虐待的個人史
+1234,Z91410,Personal history of adult physical and sexual abuse,成人被生理和性虐待的個人史
+1235,Z91411,Personal history of adult psychological abuse,成人被生理和性虐待的個人史
+1236,Z91412,Personal history of adult neglect,成人被疏忽的個人史
+1237,Z91419,Personal history of unspecified adult abuse,未指定的成人被虐待的個人史
+1238,Z9149,"Other personal history of psychological trauma, not elsewhere classified",心理創傷的其它個人史，他處未歸類者
+1239,Z915,Personal history of self-harm,自殘的個人史
+1240,Z918,"Other specified personal risk factors, not elsewhere classified",其他特定危險因素的個人史，他處未歸類者
+1241,Z9181,History of falling,跌倒的個人史
+1242,Z9182,Personal history of military deployment,軍事調度的個人史
+1243,Z9189,"Other specified personal risk factors, not elsewhere classified",其他特定危險因素的個人史，他處未歸類者
+1244,Z92,Personal history of medical treatment,醫療的個人史
+1245,Z920,Personal history of contraception,避孕的個人史
+1246,Z922,Personal history of drug therapy,藥物治療的個人史
+1247,Z9221,Personal history of antineoplastic chemotherapy,抗腫瘤化療的個人史
+1248,Z9222,Personal history of monoclonal drug therapy,單株藥物治療的個人史
+1249,Z9223,Personal history of estrogen therapy,雌激素治療的個人史
+1250,Z9224,Personal history of steroid therapy,類固醇治療的個人史
+1251,Z92240,Personal history of inhaled steroid therapy,吸入性類固醇治療的個人史
+1252,Z92241,Personal history of systemic steroid therapy,全身性類固醇治療的個人史
+1253,Z9225,Personal history of immunosupression therapy,免疫抑制劑治療的個人史
+1254,Z9229,Personal history of other drug therapy,其它藥物治療的個人史
+1255,Z923,Personal history of irradiation,放射治療的個人史
+1256,Z928,Personal history of other medical treatment,其他醫療的個人史
+1257,Z9281,Personal history of extracorporeal membrane oxygenation (ECMO),使用葉克膜體外維生系統(ECMO)的個人史
+1258,Z9282,Status post administration of tPA (rtPA) in a different facility within the last 24 hours prior to admission to current facility,在不同醫院24小時內施打tPA (rtPA)轉入現在的醫院的狀態
+1259,Z9283,Personal history of failed moderate sedation,中量鎮靜劑失敗的個人史
+1260,Z9289,Personal history of other medical treatment,其他醫療的個人史
+1261,Z93,Artificial opening status,人工造口狀態
+1262,Z930,Tracheostomy status,氣管造口狀態
+1263,Z931,Gastrostomy status,胃造口狀態
+1264,Z932,Ileostomy status,迴腸造口狀態
+1265,Z933,Colostomy status,結腸造口狀態
+1266,Z934,Other artificial openings of gastrointestinal tract status,胃腸道其他人工造口狀態
+1267,Z935,Cystostomy status,膀胱造口狀態
+1268,Z9350,Unspecified cystostomy status,膀胱造口狀態
+1269,Z9351,Cutaneous-vesicostomy status,皮膚－膀胱造口狀態
+1270,Z9352,Appendico-vesicostomy status,闌尾－膀胱造口狀態
+1271,Z9359,Other cystostomy status,其他膀胱造口狀態
+1272,Z936,Other artificial openings of urinary tract status,泌尿道其他人工造口狀態
+1273,Z938,Other artificial opening status,其他人工造口狀態
+1274,Z939,"Artificial opening status, unspecified",人工造口狀態，未特定
+1275,Z94,Transplanted organ and tissue status,器官組織移植狀態
+1276,Z940,Kidney transplant status,腎臟移植狀態
+1277,Z941,Heart transplant status,心臟移植狀態
+1278,Z942,Lung transplant status,肺臟移植狀態
+1279,Z943,Heart and lungs transplant status,心臟及肺臟移植狀態
+1280,Z944,Liver transplant status,肝臟移植狀態
+1281,Z945,Skin transplant status,皮膚移植狀態
+1282,Z946,Bone transplant status,骨骼移植狀態
+1283,Z947,Corneal transplant status,眼角膜移植狀態
+1284,Z948,Other transplanted organ and tissue status,其他器官組織移植狀態
+1285,Z9481,Bone marrow transplant status,骨髓移植狀態
+1286,Z9482,Intestine transplant status,小腸移植狀態
+1287,Z9483,Pancreas transplant status,胰臟移植狀態
+1288,Z9484,Stem cells transplant status,幹細胞移植狀態
+1289,Z9489,Other transplanted organ and tissue status,其他器官或組織移植狀態
+1290,Z949,"Transplanted organ and tissue status, unspecified",器官或組織移植狀態，未特定
+1291,Z95,Presence of cardiac and vascular implants and grafts,存有心臟或血管植入物及移植物
+1292,Z950,Presence of cardiac pacemaker,存有心臟節律器
+1293,Z951,Presence of aortocoronary bypass graft,存有主動脈冠狀動脈繞道移植物
+1294,Z952,Presence of prosthetic heart valve,存有人工心(臟)瓣膜
+1295,Z953,Presence of xenogenic heart valve,存有異種心(臟)瓣膜
+1296,Z954,Presence of other heart-valve replacement,存有其他心(臟)瓣膜置換物
+1297,Z955,Presence of coronary angioplasty implant and graft,存有冠狀動脈血管成形術植入物及移植物
+1298,Z958,Presence of other cardiac and vascular implants and grafts,存有其他心臟或血管植入物及移植物
+1299,Z9581,Presence of other cardiac implants and grafts,存有其他心臟植入物及移植物
+1300,Z95810,Presence of automatic (implantable) cardiac defibrillator,存有自動心臟去纖維顫動器
+1301,Z95811,Presence of heart assist device,存有心臟輔助裝置
+1302,Z95812,Presence of fully implantable artificial heart,存有完全植入式人工心臟
+1303,Z95818,Presence of other cardiac implants and grafts,存有其他心(臟)植入物及移植物
+1304,Z9582,Presence of other vascular implants and grafts,存有其他血管植入物及移植物
+1305,Z95820,Peripheral vascular angioplasty status with implants and grafts,周邊血管成形術與植入物和移植物之術後狀態
+1306,Z95828,Presence of other vascular implants and grafts,存有其他的血管植入物和移植物
+1307,Z959,"Presence of cardiac and vascular implant and graft, unspecified",存有心(臟)血管植入物及移植物，未特定
+1308,Z96,Presence of other functional implants,存有其他功能性植入物
+1309,Z960,Presence of urogenital implants,存有泌尿生殖系統植入物
+1310,Z961,Presence of intraocular lens,存有眼內水晶體
+1311,Z962,Presence of otological and audiological implants,存有耳科及聽力植入物
+1312,Z9620,"Presence of otological and audiological implant, unspecified",存有耳科及聽力植入物，未特定
+1313,Z9621,Cochlear implant status,耳蝸植入物狀態
+1314,Z9622,Myringotomy tube(s) status,鼓膜切開術導管狀態
+1315,Z9629,Presence of other otological and audiological implants,存有其它耳科及聽力植入物
+1316,Z963,Presence of artificial larynx,存有人工喉(裝置)
+1317,Z964,Presence of endocrine implants,存有內分泌植入物
+1318,Z9641,Presence of insulin pump (external) (internal),存有胰島素幫浦（外部） (內部)
+1319,Z9649,Presence of other endocrine implants,存有其它內分泌植入物
+1320,Z965,Presence of tooth-root and mandibular implants,存有牙(齒)根及下顎植入物
+1321,Z966,Presence of orthopedic joint implants,存有骨科關節植入物
+1322,Z9660,Presence of unspecified orthopedic joint implant,存有未特定骨科關節植入物
+1323,Z96611,Presence of right artificial shoulder joint,存有右人工肩關節
+1324,Z96612,Presence of left artificial shoulder joint,存有左人工肩關節
+1325,Z96619,Presence of unspecified artificial shoulder joint,存有人工肩關節
+1326,Z9662,Presence of artificial elbow joint,存有人工肘關節
+1327,Z96621,Presence of right artificial elbow joint,存有右人工肘關節
+1328,Z96622,Presence of left artificial elbow joint,存有左人工肘關節
+1329,Z96629,Presence of unspecified artificial elbow joint,存有人工肘關節
+1330,Z9663,Presence of artificial wrist joint,存有人工腕關節
+1331,Z96631,Presence of right artificial wrist joint,存有右人工腕關節
+1332,Z96632,Presence of left artificial wrist joint,存有左人工腕關節
+1333,Z96639,Presence of unspecified artificial wrist joint,存有人工腕關節
+1334,Z9664,Presence of artificial hip joint,存有人工髖關節
+1335,Z96641,Presence of right artificial hip joint,存有右人工髖關節
+1336,Z96642,Presence of left artificial hip joint,存有左人工髖關節
+1337,Z96643,"Presence of artificial hip joint, bilateral",存有雙側人工髖關節
+1338,Z96649,Presence of unspecified artificial hip joint,存有人工髖關節
+1339,Z9665,Presence of artificial knee joint,存有人工膝關節
+1340,Z96651,Presence of right artificial knee joint,存有右人工膝關節
+1341,Z96652,Presence of left artificial knee joint,存有左人工膝關節
+1342,Z96653,"Presence of artificial knee joint, bilateral",存有雙側人工膝關節
+1343,Z96659,Presence of unspecified artificial knee joint,存有人工膝關節
+1344,Z9666,Presence of artificial ankle joint,存有人工踝關節
+1345,Z96661,Presence of right artificial ankle joint,存有右人工踝關節
+1346,Z96662,Presence of left artificial ankle joint,存有左人工踝關節
+1347,Z96669,Presence of unspecified artificial ankle joint,存有人工踝關節
+1348,Z9669,Presence of other orthopedic joint implants,存有其他骨科關節植入物
+1349,Z96691,Finger-joint replacement of right hand,右手手指關節置換
+1350,Z96692,Finger-joint replacement of left hand,左手手指關節置換
+1351,Z96693,"Finger-joint replacement, bilateral",雙手手指關節置換
+1352,Z96698,Presence of other orthopedic joint implants,存有其他骨科關節植入物
+1353,Z967,Presence of other bone and tendon implants,存有其他骨及肌腱植入物
+1354,Z968,Presence of other specified functional implants,存有其他特定功能性植入物
+1355,Z9681,Presence of artificial skin,存有人工皮膚
+1356,Z9689,Presence of other specified functional implants,存有其他特定功能性植入物
+1357,Z969,"Presence of functional implant, unspecified",存有功能性植入物，未特定
+1358,Z97,Presence of other devices,存有其他裝置
+1359,Z970,Presence of artificial eye,存有義眼
+1360,Z971,Presence of artificial limb (complete) (partial),存有(全部)(部份)義肢
+1361,Z9710,"Presence of artificial limb (complete) (partial), unspecified",存有(全部)(部份)義肢，未特定
+1362,Z9711,Presence of artificial right arm (complete) (partial),存有(全部)(部份)右臂義肢
+1363,Z9712,Presence of artificial left arm (complete) (partial),存有(全部)(部份)左臂義肢
+1364,Z9713,Presence of artificial right leg (complete) (partial),存有(全部)(部份)右腳義肢
+1365,Z9714,Presence of artificial left leg (complete) (partial),存有(全部)(部份)左腳義肢
+1366,Z9715,"Presence of artificial arms, bilateral (complete) (partial)",存有(全部)(部份)雙臂義肢
+1367,Z9716,"Presence of artificial legs, bilateral (complete) (partial)",存有(全部)(部份)雙腳義肢
+1368,Z972,Presence of dental prosthetic device (complete) (partial),存有(全口)(部份)假牙裝置
+1369,Z973,Presence of spectacles and contact lenses,存有眼鏡及隱形眼鏡
+1370,Z974,Presence of external hearing-aid,存有外戴式助聽器
+1371,Z975,Presence of (intrauterine) contraceptive device,存有(子宮內)避孕裝置
+1372,Z978,Presence of other specified devices,存有其他特定裝置
+1373,Z98,Other postprocedural states,其他處置後狀態
+1374,Z980,Intestinal bypass and anastomosis status,腸之分流術或吻合術後狀態
+1375,Z981,Arthrodesis status,關節固定術狀態
+1376,Z982,Presence of cerebrospinal fluid drainage device,存有腦脊髓液引流裝置
+1377,Z983,Post therapeutic collapse of lung status,肺塌陷治療後狀態
+1378,Z984,Cataract extraction status,白內障摘除術後狀態
+1379,Z9841,"Cataract extraction status, right eye",右眼白內障摘除術後狀態
+1380,Z9842,"Cataract extraction status, left eye",左眼白內障摘除術後狀態
+1381,Z9849,"Cataract extraction status, unspecified eye",白內障摘除術後狀態
+1382,Z985,Sterilization status,節育狀態
+1383,Z9851,Tubal ligation status,輸卵管結紮狀態
+1384,Z9852,Vasectomy status,輸精管切除狀態
+1385,Z986,Angioplasty status,成形術後狀態
+1386,Z9861,Coronary angioplasty status,冠狀動脈血管成形術後狀態
+1387,Z9862,Peripheral vascular angioplasty status,周邊血管成形術狀態
+1388,Z988,Other specified postprocedural states,其他特定處置後狀態
+1389,Z9881,Dental procedure status,牙科處置狀態
+1390,Z98810,Dental sealant status,牙膠狀態
+1391,Z98811,Dental restoration status,牙齒修復狀態
+1392,Z98818,Other dental procedure status,其他牙科處置狀態
+1393,Z9882,Breast implant status,乳房植入狀態
+1394,Z9883,Filtering (vitreous) bleb after glaucoma surgery status,青光眼濾(玻璃)泡手術後狀態
+1395,Z9884,Bariatric surgery status,減肥手術後狀態
+1396,Z9885,Transplanted organ removal status,移植器官移除狀態
+1397,Z9886,Personal history of breast implant removal,乳房植入物移除病史
+1398,Z9887,Personal history of in utero procedure,子宮內處置的個人病史
+1399,Z98870,Personal history of in utero procedure during pregnancy,在懷孕期間有子宮內處置病史
+1400,Z98871,Personal history of in utero procedure while a fetus,胎兒在子宮內處置的個人病史
+1401,Z9889,Other specified postprocedural states,其他特定處置後狀態
+1402,Z99,"Dependence on enabling machines and devices, not elsewhere classified",維生機械及裝置依賴
+1403,Z990,Dependence on aspirator,抽吸器依賴
+1404,Z991,Dependence on respirator,呼吸器依賴
+1405,Z9911,Dependence on respirator [ventilator] status,呼吸器依賴狀態
+1406,Z9912,Encounter for respirator [ventilator] dependence during power failure,呼吸氣依賴期間電力故障
+1407,Z992,Dependence on renal dialysis,腎(臟)透析依賴
+1408,Z993,Dependence on wheelchair,輪椅依賴
+1409,Z998,Dependence on other enabling machines and devices,維生機械及裝置依賴
+1410,Z9981,Dependence on supplemental oxygen,補充氧氣的依賴
+1411,Z9989,Dependence on other enabling machines and devices,其他維生機械及裝置依賴

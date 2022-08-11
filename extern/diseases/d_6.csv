@@ -1,0 +1,2921 @@
+,code,en_name,ch_name
+0,H00,Hordeolum and chalazion,麥粒腫及霰粒腫
+1,H000,Hordeolum (externum) (internum) of eyelid,眼瞼(外)(內)麥粒腫
+2,H0001,Hordeolum externum,眼瞼外麥粒腫
+3,H00011,Hordeolum externum right upper eyelid,右側上眼瞼外麥粒腫
+4,H00012,Hordeolum externum right lower eyelid,右側下眼瞼外麥粒腫
+5,H00013,"Hordeolum externum right eye, unspecified eyelid",右側眼未特定上、下眼瞼外麥粒腫
+6,H00014,Hordeolum externum left upper eyelid,左側上眼瞼外麥粒腫
+7,H00015,Hordeolum externum left lower eyelid,左側下眼瞼外麥粒腫
+8,H00016,"Hordeolum externum left eye, unspecified eyelid",左側眼未特定上、下眼瞼外麥粒腫
+9,H00019,"Hordeolum externum unspecified eye, unspecified eyelid",未特定左側、右側眼之眼瞼外麥粒腫，未特定上或下眼瞼
+10,H0002,Hordeolum internum,眼瞼內麥粒腫
+11,H00021,Hordeolum internum right upper eyelid,右側上眼瞼內麥粒腫
+12,H00022,Hordeolum internum right lower eyelid,右側下眼瞼內麥粒腫
+13,H00023,"Hordeolum internum right eye, unspecified eyelid",右側眼未特定上、下眼瞼內麥粒腫
+14,H00024,Hordeolum internum left upper eyelid,左側上眼瞼內麥粒腫
+15,H00025,Hordeolum internum left lower eyelid,左側下眼瞼內麥粒腫
+16,H00026,"Hordeolum internum left eye, unspecified eyelid",左側眼未特定上、下眼瞼內麥粒腫
+17,H00029,"Hordeolum internum unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下眼瞼內麥粒腫
+18,H0003,Abscess of eyelid,眼瞼膿瘍
+19,H00031,Abscess of right upper eyelid,右側上眼瞼膿瘍
+20,H00032,Abscess of right lower eyelid,右側下眼瞼膿瘍
+21,H00033,"Abscess of eyelid right eye, unspecified eyelid",右側眼未特定上、下眼瞼膿瘍
+22,H00034,Abscess of left upper eyelid,左側上眼瞼膿瘍
+23,H00035,Abscess of left lower eyelid,左側下眼瞼膿瘍
+24,H00036,"Abscess of eyelid left eye, unspecified eyelid",左側眼未特定上、下眼瞼膿瘍
+25,H00039,"Abscess of eyelid unspecified eye, unspecified eyelid",未特定左側、右側眼瞼及上或下眼瞼膿瘍
+26,H001,Chalazion,霰粒腫
+27,H0011,Chalazion right upper eyelid,右側上眼瞼霰粒腫
+28,H0012,Chalazion right lower eyelid,右側下眼瞼霰粒腫
+29,H0013,"Chalazion right eye, unspecified eyelid",右側眼霰粒腫，未特定上或下眼瞼
+30,H0014,Chalazion left upper eyelid,左側上眼瞼霰粒腫
+31,H0015,Chalazion left lower eyelid,左側下眼瞼霰粒腫
+32,H0016,"Chalazion left eye, unspecified eyelid",左側眼霰粒腫，未特定上或下眼瞼
+33,H0019,"Chalazion unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下眼瞼霰粒腫
+34,H01,Other inflammation of eyelid,眼瞼其他發炎
+35,H010,Blepharitis,眼瞼緣炎
+36,H0100,Unspecified blepharitis,未特定之眼瞼緣炎
+37,H01001,Unspecified blepharitis right upper eyelid,右側上眼瞼緣炎
+38,H01002,Unspecified blepharitis right lower eyelid,右側下眼瞼緣炎
+39,H01003,"Unspecified blepharitis right eye, unspecified eyelid",右側眼瞼緣炎，未特定上或下眼瞼
+40,H01004,Unspecified blepharitis left upper eyelid,左側上眼瞼緣炎
+41,H01005,Unspecified blepharitis left lower eyelid,左側下眼瞼緣炎
+42,H01006,"Unspecified blepharitis left eye, unspecified eyelid",左側眼瞼緣炎，未特定上或下眼瞼
+43,H01009,"Unspecified blepharitis unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼緣炎
+44,H0101,Ulcerative blepharitis,潰瘍性眼瞼緣炎
+45,H01011,Ulcerative blepharitis right upper eyelid,右側上眼瞼潰瘍性眼瞼緣炎
+46,H01012,Ulcerative blepharitis right lower eyelid,右側下眼瞼潰瘍性眼瞼緣炎
+47,H01013,"Ulcerative blepharitis right eye, unspecified eyelid",右側眼潰瘍性眼瞼緣炎，未特定上或下眼瞼
+48,H01014,Ulcerative blepharitis left upper eyelid,左側上眼瞼潰瘍性眼瞼緣炎
+49,H01015,Ulcerative blepharitis left lower eyelid,左側下眼瞼潰瘍性眼瞼緣炎
+50,H01016,"Ulcerative blepharitis left eye, unspecified eyelid",左側眼潰瘍性眼瞼緣炎，未特定上或下眼瞼
+51,H01019,"Ulcerative blepharitis unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之潰瘍性眼瞼緣炎
+52,H0102,Squamous blepharitis,鱗屑性眼瞼緣炎
+53,H01021,Squamous blepharitis right upper eyelid,右側上眼瞼鱗屑性眼瞼緣炎
+54,H01022,Squamous blepharitis right lower eyelid,右側下眼瞼鱗屑性眼瞼緣炎
+55,H01023,"Squamous blepharitis right eye, unspecified eyelid",右側眼鱗屑性眼瞼緣炎，未特定上或下眼瞼
+56,H01024,Squamous blepharitis left upper eyelid,左側上眼瞼鱗屑性眼瞼緣炎
+57,H01025,Squamous blepharitis left lower eyelid,左側下眼瞼鱗屑性眼瞼緣炎
+58,H01026,"Squamous blepharitis left eye, unspecified eyelid",左側眼鱗屑性眼瞼緣炎，未特定上或下眼瞼
+59,H01029,"Squamous blepharitis unspecified eye, unspecified eyelid",未特定左側、 右側眼及上或下之鱗屑性眼瞼緣炎
+60,H011,Noninfectious dermatoses of eyelid,眼瞼非感染性皮膚炎
+61,H0111,Allergic dermatitis of eyelid,眼瞼過敏性皮膚炎
+62,H01111,Allergic dermatitis of right upper eyelid,右側上眼瞼過敏性皮膚炎
+63,H01112,Allergic dermatitis of right lower eyelid,右側下眼瞼過敏性皮膚炎
+64,H01113,"Allergic dermatitis of right eye, unspecified eyelid",右側眼過敏性眼瞼皮膚炎，未特定上或下眼瞼
+65,H01114,Allergic dermatitis of left upper eyelid,左側上眼瞼過敏性皮膚炎
+66,H01115,Allergic dermatitis of left lower eyelid,左側下眼瞼過敏性皮膚炎
+67,H01116,"Allergic dermatitis of left eye, unspecified eyelid",左側眼過敏性眼瞼皮膚炎，未特定上或下眼瞼
+68,H01119,"Allergic dermatitis of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之過敏性眼瞼皮膚炎
+69,H0112,Discoid lupus erythematosus of eyelid,眼瞼盤狀紅斑性狼瘡
+70,H01121,Discoid lupus erythematosus of right upper eyelid,右側上眼瞼盤狀紅斑性狼瘡
+71,H01122,Discoid lupus erythematosus of right lower eyelid,右側下眼瞼盤狀紅斑性狼瘡
+72,H01123,"Discoid lupus erythematosus of right eye, unspecified eyelid",右側眼瞼盤狀紅斑性狼瘡，未特定上或下眼瞼
+73,H01124,Discoid lupus erythematosus of left upper eyelid,左側上眼瞼盤狀紅斑性狼瘡
+74,H01125,Discoid lupus erythematosus of left lower eyelid,左側下眼瞼盤狀紅斑性狼瘡
+75,H01126,"Discoid lupus erythematosus of left eye, unspecified eyelid",左側眼瞼盤狀紅斑性狼瘡，未特定上或下眼瞼
+76,H01129,"Discoid lupus erythematosus of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼盤狀紅斑性狼瘡
+77,H0113,Eczematous dermatitis of eyelid,眼瞼濕疹性皮膚炎
+78,H01131,Eczematous dermatitis of right upper eyelid,右側上眼瞼濕疹性皮膚炎
+79,H01132,Eczematous dermatitis of right lower eyelid,右側下眼瞼濕疹性皮膚炎
+80,H01133,"Eczematous dermatitis of right eye, unspecified eyelid",右側眼瞼濕疹性皮膚炎，未特定上或下眼瞼
+81,H01134,Eczematous dermatitis of left upper eyelid,左側上眼瞼濕疹性皮膚炎
+82,H01135,Eczematous dermatitis of left lower eyelid,左側下眼瞼濕疹性皮膚炎
+83,H01136,"Eczematous dermatitis of left eye, unspecified eyelid",左側眼瞼濕疹性皮膚炎，未特定上或下眼瞼
+84,H01139,"Eczematous dermatitis of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼濕疹性皮膚炎
+85,H0114,Xeroderma of eyelid,眼瞼乾皮症
+86,H01141,Xeroderma of right upper eyelid,右側上眼瞼乾皮症
+87,H01142,Xeroderma of right lower eyelid,右側下眼瞼乾皮症
+88,H01143,"Xeroderma of right eye, unspecified eyelid",右側眼瞼乾皮症，未特定上或下眼瞼
+89,H01144,Xeroderma of left upper eyelid,左側上眼瞼乾皮症
+90,H01145,Xeroderma of left lower eyelid,左側下眼瞼乾皮症
+91,H01146,"Xeroderma of left eye, unspecified eyelid",左側眼瞼乾皮症，未特定上或下眼瞼
+92,H01149,"Xeroderma of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼乾皮症
+93,H018,Other specified inflammations of eyelid,其它特定之眼瞼發炎
+94,H019,Unspecified inflammation of eyelid,眼瞼發炎
+95,H02,Other disorders of eyelid,眼瞼其他疾患
+96,H020,Entropion and trichiasis of eyelid,眼瞼內翻及倒睫
+97,H0200,Unspecified entropion of eyelid,未特定之眼瞼內翻
+98,H02001,Unspecified entropion of right upper eyelid,右側上眼瞼內翻
+99,H02002,Unspecified entropion of right lower eyelid,右側下眼瞼內翻
+100,H02003,"Unspecified entropion of right eye, unspecified eyelid",右側眼瞼內翻，未特定上或下眼瞼
+101,H02004,Unspecified entropion of left upper eyelid,左側上眼瞼內翻
+102,H02005,Unspecified entropion of left lower eyelid,左側下眼瞼內翻
+103,H02006,"Unspecified entropion of left eye, unspecified eyelid",左側眼瞼內翻，未特定上或下眼瞼
+104,H02009,"Unspecified entropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼內翻
+105,H0201,Cicatricial entropion of eyelid,瘢痕性眼瞼內翻
+106,H02011,Cicatricial entropion of right upper eyelid,右側上眼瞼瘢痕性眼瞼內翻
+107,H02012,Cicatricial entropion of right lower eyelid,右側下眼瞼瘢痕性眼瞼內翻
+108,H02013,"Cicatricial entropion of right eye, unspecified eyelid",右側眼瘢痕性眼瞼內翻，未特定上或下眼瞼
+109,H02014,Cicatricial entropion of left upper eyelid,左側上眼瞼瘢痕性眼瞼內翻
+110,H02015,Cicatricial entropion of left lower eyelid,左側下眼瞼瘢痕性眼瞼內翻
+111,H02016,"Cicatricial entropion of left eye, unspecified eyelid",左側眼瘢痕性眼瞼內翻，未特定上或下眼瞼
+112,H02019,"Cicatricial entropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之瘢痕性眼瞼內翻
+113,H0202,Mechanical entropion of eyelid,機械性眼瞼內翻
+114,H02021,Mechanical entropion of right upper eyelid,右側上眼瞼機械性眼瞼內翻
+115,H02022,Mechanical entropion of right lower eyelid,右側下眼瞼機械性眼瞼內翻
+116,H02023,"Mechanical entropion of right eye, unspecified eyelid",右側眼機械性眼瞼內翻，未特定上或下眼瞼
+117,H02024,Mechanical entropion of left upper eyelid,左側上眼瞼機械性眼瞼內翻
+118,H02025,Mechanical entropion of left lower eyelid,左側下眼瞼機械性眼瞼內翻
+119,H02026,"Mechanical entropion of left eye, unspecified eyelid",左側眼機械性眼瞼內翻，未特定上或下眼瞼
+120,H02029,"Mechanical entropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之機械性眼瞼內翻
+121,H0203,Senile entropion of eyelid,老年性眼瞼內翻
+122,H02031,Senile entropion of right upper eyelid,右側上眼瞼老年性眼瞼內翻
+123,H02032,Senile entropion of right lower eyelid,右側下眼瞼老年性眼瞼內翻
+124,H02033,"Senile entropion of right eye, unspecified eyelid",右側眼老年性眼瞼內翻，未特定上或下眼瞼
+125,H02034,Senile entropion of left upper eyelid,左側上眼瞼老年性眼瞼內翻
+126,H02035,Senile entropion of left lower eyelid,左側下眼瞼老年性眼瞼內翻
+127,H02036,"Senile entropion of left eye, unspecified eyelid",左側眼老年性眼瞼內翻，未特定上或下眼瞼
+128,H02039,"Senile entropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之老年性眼瞼內翻
+129,H0204,Spastic entropion of eyelid,痙攣性眼瞼內翻
+130,H02041,Spastic entropion of right upper eyelid,右側上眼瞼痙攣性眼瞼內翻
+131,H02042,Spastic entropion of right lower eyelid,右側下眼瞼痙攣性眼瞼內翻
+132,H02043,"Spastic entropion of right eye, unspecified eyelid",右側眼痙攣性眼瞼內翻，未特定上或下眼瞼
+133,H02044,Spastic entropion of left upper eyelid,左側上眼瞼痙攣性眼瞼內翻
+134,H02045,Spastic entropion of left lower eyelid,左側下眼瞼痙攣性眼瞼內翻
+135,H02046,"Spastic entropion of left eye, unspecified eyelid",左側眼痙攣性眼瞼內翻，未特定上或下眼瞼
+136,H02049,"Spastic entropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之痙攣性眼瞼內翻
+137,H0205,Trichiasis without entropian,無眼瞼內翻之倒睫
+138,H02051,Trichiasis without entropian right upper eyelid,右側上眼瞼無眼瞼內翻之倒睫
+139,H02052,Trichiasis without entropian right lower eyelid,右側下眼瞼無眼瞼內翻之倒睫
+140,H02053,"Trichiasis without entropian right eye, unspecified eyelid",右側眼無眼瞼內翻之倒睫，未特定上或下眼瞼
+141,H02054,Trichiasis without entropian left upper eyelid,左側上眼瞼無眼瞼內翻之倒睫
+142,H02055,Trichiasis without entropian left lower eyelid,左側下眼瞼無眼瞼內翻之倒睫
+143,H02056,"Trichiasis without entropian left eye, unspecified eyelid",左側眼無眼瞼內翻之倒睫，未特定上或下眼瞼
+144,H02059,"Trichiasis without entropian unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下眼瞼之無眼瞼內翻性倒睫
+145,H021,Ectropion of eyelid,眼瞼外翻
+146,H0210,Unspecified ectropion of eyelid,未特定之眼瞼外翻
+147,H02101,Unspecified ectropion of right upper eyelid,右側上眼瞼外翻
+148,H02102,Unspecified ectropion of right lower eyelid,右側下眼瞼外翻
+149,H02103,"Unspecified ectropion of right eye, unspecified eyelid",右側眼瞼外翻，未特定上或下眼瞼
+150,H02104,Unspecified ectropion of left upper eyelid,左側上眼瞼外翻
+151,H02105,Unspecified ectropion of left lower eyelid,左側下眼瞼外翻
+152,H02106,"Unspecified ectropion of left eye, unspecified eyelid",左側眼瞼外翻，未特定上或下眼瞼
+153,H02109,"Unspecified ectropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼外翻
+154,H0211,Cicatricial ectropion of eyelid,瘢痕性眼瞼外翻
+155,H02111,Cicatricial ectropion of right upper eyelid,右側上眼瞼瘢痕性眼瞼外翻
+156,H02112,Cicatricial ectropion of right lower eyelid,右側下眼瞼瘢痕性眼瞼外翻
+157,H02113,"Cicatricial ectropion of right eye, unspecified eyelid",右側眼瘢痕性眼瞼外翻，未特定上或下眼瞼
+158,H02114,Cicatricial ectropion of left upper eyelid,左側上眼瞼瘢痕性眼瞼外翻
+159,H02115,Cicatricial ectropion of left lower eyelid,左側下眼瞼瘢痕性眼瞼外翻
+160,H02116,"Cicatricial ectropion of left eye, unspecified eyelid",左側眼瘢痕性眼瞼外翻，未特定上或下眼瞼
+161,H02119,"Cicatricial ectropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之瘢痕性眼瞼外翻
+162,H0212,Mechanical ectropion of eyelid,機械性眼瞼外翻
+163,H02121,Mechanical ectropion of right upper eyelid,右側上眼瞼機械性眼瞼外翻
+164,H02122,Mechanical ectropion of right lower eyelid,右側下眼瞼機械性眼瞼外翻
+165,H02123,"Mechanical ectropion of right eye, unspecified eyelid",右側眼機械性眼瞼外翻，未特定上或下眼瞼
+166,H02124,Mechanical ectropion of left upper eyelid,左側上眼瞼機械性眼瞼外翻
+167,H02125,Mechanical ectropion of left lower eyelid,左側下眼瞼機械性眼瞼外翻
+168,H02126,"Mechanical ectropion of left eye, unspecified eyelid",左側眼機械性眼瞼外翻，未特定上或下眼瞼
+169,H02129,"Mechanical ectropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之機械性眼瞼外翻
+170,H0213,Senile ectropion of eyelid,老年性眼瞼外翻
+171,H02131,Senile ectropion of right upper eyelid,右側上眼瞼老年性眼瞼外翻
+172,H02132,Senile ectropion of right lower eyelid,右側下眼瞼老年性眼瞼外翻
+173,H02133,"Senile ectropion of right eye, unspecified eyelid",右側眼老年性眼瞼外翻，未特定眼瞼
+174,H02134,Senile ectropion of left upper eyelid,左側上眼瞼老年性眼瞼外翻
+175,H02135,Senile ectropion of left lower eyelid,左側下眼瞼老年性眼瞼外翻
+176,H02136,"Senile ectropion of left eye, unspecified eyelid",左側眼老年性眼瞼外翻，未特定上或下眼瞼
+177,H02139,"Senile ectropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之老年性眼瞼外翻
+178,H0214,Spastic ectropion of eyelid,痙攣性眼瞼外翻
+179,H02141,Spastic ectropion of right upper eyelid,右側上眼瞼痙攣性眼瞼外翻
+180,H02142,Spastic ectropion of right lower eyelid,右側下眼瞼痙攣性眼瞼外翻
+181,H02143,"Spastic ectropion of right eye, unspecified eyelid",右側眼痙攣性眼瞼外翻，未特定上或下眼瞼
+182,H02144,Spastic ectropion of left upper eyelid,左側上眼瞼痙攣性眼瞼外翻
+183,H02145,Spastic ectropion of left lower eyelid,左側下眼瞼痙攣性眼瞼外翻
+184,H02146,"Spastic ectropion of left eye, unspecified eyelid",左側眼痙攣性眼瞼外翻，未特定上或下眼瞼
+185,H02149,"Spastic ectropion of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之痙攣性眼瞼外翻
+186,H022,Lagophthalmos,兔眼
+187,H0220,Unspecified lagophthalmos,未特定之兔眼
+188,H02201,Unspecified lagophthalmos right upper eyelid,右側上眼瞼兔眼
+189,H02202,Unspecified lagophthalmos right lower eyelid,右側下眼瞼兔眼
+190,H02203,"Unspecified lagophthalmos right eye, unspecified eyelid",右側眼之兔眼，未特定上或下眼瞼
+191,H02204,Unspecified lagophthalmos left upper eyelid,左側上眼瞼兔眼
+192,H02205,Unspecified lagophthalmos left lower eyelid,左側下眼瞼兔眼
+193,H02206,"Unspecified lagophthalmos left eye, unspecified eyelid",左側眼之兔眼，未特定上或下眼瞼
+194,H02209,"Unspecified lagophthalmos unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之兔眼
+195,H0221,Cicatricial lagophthalmos,瘢痕性兔眼
+196,H02211,Cicatricial lagophthalmos right upper eyelid,右側上眼瞼瘢痕性兔眼
+197,H02212,Cicatricial lagophthalmos right lower eyelid,右側下眼瞼瘢痕性兔眼
+198,H02213,"Cicatricial lagophthalmos right eye, unspecified eyelid",右側眼瘢痕性兔眼，未特定上或下眼瞼
+199,H02214,Cicatricial lagophthalmos left upper eyelid,左側上眼瞼瘢痕性兔眼
+200,H02215,Cicatricial lagophthalmos left lower eyelid,左側下眼瞼瘢痕性兔眼
+201,H02216,"Cicatricial lagophthalmos left eye, unspecified eyelid",左側眼瘢痕性兔眼，未特定上或下眼瞼
+202,H02219,"Cicatricial lagophthalmos unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之瘢痕性兔眼
+203,H0222,Mechanical lagophthalmos,機械性兔眼
+204,H02221,Mechanical lagophthalmos right upper eyelid,右側上眼瞼機械性兔眼
+205,H02222,Mechanical lagophthalmos right lower eyelid,右側下眼瞼機械性兔眼
+206,H02223,"Mechanical lagophthalmos right eye, unspecified eyelid",右側眼機械性兔眼，未特定上或下眼瞼
+207,H02224,Mechanical lagophthalmos left upper eyelid,左側上眼瞼機械性兔眼
+208,H02225,Mechanical lagophthalmos left lower eyelid,左側下眼瞼之機械性兔眼
+209,H02226,"Mechanical lagophthalmos left eye, unspecified eyelid",左側眼機械性兔眼，未特定上或下眼瞼
+210,H02229,"Mechanical lagophthalmos unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之機械性兔眼
+211,H0223,Paralytic lagophthalmos,麻痺性兔眼
+212,H02231,Paralytic lagophthalmos right upper eyelid,右側上眼瞼麻痺性兔眼
+213,H02232,Paralytic lagophthalmos right lower eyelid,右側下眼瞼麻痺性兔眼
+214,H02233,"Paralytic lagophthalmos right eye, unspecified eyelid",右側眼麻痺性兔眼，未特定上或下眼瞼
+215,H02234,Paralytic lagophthalmos left upper eyelid,左側上眼瞼麻痺性兔眼
+216,H02235,Paralytic lagophthalmos left lower eyelid,左側下眼瞼麻痺性兔眼
+217,H02236,"Paralytic lagophthalmos left eye, unspecified eyelid",左側眼麻痺性兔眼，未特定上或下眼瞼
+218,H02239,"Paralytic lagophthalmos unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之麻痺性兔眼
+219,H023,Blepharochalasis,眼瞼鬆弛
+220,H0230,"Blepharochalasis unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼鬆弛
+221,H0231,Blepharochalasis right upper eyelid,右側上眼瞼鬆弛
+222,H0232,Blepharochalasis right lower eyelid,右側下眼瞼鬆弛
+223,H0233,"Blepharochalasis right eye, unspecified eyelid",右側眼瞼鬆弛，未特定上或下眼瞼
+224,H0234,Blepharochalasis left upper eyelid,左側上眼瞼鬆弛
+225,H0235,Blepharochalasis left lower eyelid,左側下眼瞼鬆弛
+226,H0236,"Blepharochalasis left eye, unspecified eyelid",左側眼瞼鬆弛，未特定上或下眼瞼
+227,H024,Ptosis of eyelid,眼瞼下垂
+228,H0240,Unspecified ptosis of eyelid,未特定之眼瞼下垂
+229,H02401,Unspecified ptosis of right eyelid,右側眼瞼下垂
+230,H02402,Unspecified ptosis of left eyelid,左側眼瞼下垂
+231,H02403,Unspecified ptosis of bilateral eyelids,雙側眼瞼下垂
+232,H02409,Unspecified ptosis of unspecified eyelid,眼瞼下垂
+233,H0241,Mechanical ptosis of eyelid,機械性眼瞼下垂
+234,H02411,Mechanical ptosis of right eyelid,右側眼機械性眼瞼下垂
+235,H02412,Mechanical ptosis of left eyelid,左側眼機械性眼瞼下垂
+236,H02413,Mechanical ptosis of bilateral eyelids,雙側眼機械性眼瞼下垂
+237,H02419,Mechanical ptosis of unspecified eyelid,未特定側性之機械性眼瞼下垂
+238,H0242,Myogenic ptosis of eyelid,肌原性眼瞼下垂
+239,H02421,Myogenic ptosis of right eyelid,右側眼肌原性眼瞼下垂
+240,H02422,Myogenic ptosis of left eyelid,左側眼肌原性眼瞼下垂
+241,H02423,Myogenic ptosis of bilateral eyelids,雙側眼肌原性眼瞼下垂
+242,H02429,Myogenic ptosis of unspecified eyelid,未特定側性之肌原性眼瞼下垂
+243,H0243,Paralytic ptosis of eyelid,麻痺性眼瞼下垂
+244,H02431,Paralytic ptosis of right eyelid,右側眼麻痺性眼瞼下垂
+245,H02432,Paralytic ptosis of left eyelid,左側眼麻痺性眼瞼下垂
+246,H02433,Paralytic ptosis of bilateral eyelids,雙側眼麻痺性眼瞼下垂
+247,H02439,Paralytic ptosis unspecified eyelid,未特定側性之麻痺性眼瞼下垂
+248,H025,Other disorders affecting eyelid function,未特定左側、右側眼及上或下之眼瞼退縮
+249,H0251,Abnormal innervation syndrome,異常神經支配徵候群
+250,H02511,Abnormal innervation syndrome right upper eyelid,右側上眼瞼異常神經支配徵候群
+251,H02512,Abnormal innervation syndrome right lower eyelid,右側下眼瞼異常神經支配徵候群
+252,H02513,"Abnormal innervation syndrome right eye, unspecified eyelid",右側眼異常神經支配徵候群，未特定上或下眼瞼
+253,H02514,Abnormal innervation syndrome left upper eyelid,左側上眼瞼異常神經支配徵候群
+254,H02515,Abnormal innervation syndrome left lower eyelid,左側下眼瞼異常神經支配徵候群
+255,H02516,"Abnormal innervation syndrome left eye, unspecified eyelid",左側眼異常神經支配徵候群，未特定上或下眼瞼
+256,H02519,"Abnormal innervation syndrome unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下眼瞼之異常神經支配徵候群
+257,H0252,Blepharophimosis,眼瞼裂縫狹小
+258,H02521,Blepharophimosis right upper eyelid,右側上眼瞼裂縫狹小
+259,H02522,Blepharophimosis right lower eyelid,右側下眼瞼裂縫狹小
+260,H02523,"Blepharophimosis right eye, unspecified eyelid",右側眼瞼裂縫狹小，未特定上或下眼瞼
+261,H02524,Blepharophimosis left upper eyelid,左側上眼瞼裂縫狹小
+262,H02525,Blepharophimosis left lower eyelid,左側下眼瞼裂縫狹小
+263,H02526,"Blepharophimosis left eye, unspecified eyelid",左側眼瞼裂縫狹小，未特定上或下眼瞼
+264,H02529,"Blepharophimosis unspecified eye, unspecified lid",未特定左側、右側眼及上或下之瞼裂縫狹小
+265,H0253,Eyelid retraction,眼瞼退縮
+266,H02531,Eyelid retraction right upper eyelid,右側上眼瞼退縮
+267,H02532,Eyelid retraction right lower eyelid,右側下眼瞼退縮
+268,H02533,"Eyelid retraction right eye, unspecified eyelid",右側眼眼瞼退縮，未特定上或下眼瞼
+269,H02534,Eyelid retraction left upper eyelid,左側上眼瞼退縮
+270,H02535,Eyelid retraction left lower eyelid,左側下眼瞼退縮
+271,H02536,"Eyelid retraction left eye, unspecified eyelid",左側眼眼瞼退縮，未特定上或下眼瞼
+272,H02539,"Eyelid retraction unspecified eye, unspecified lid",未特定左側、右側眼及上或下之眼瞼退縮
+273,H0259,Other disorders affecting eyelid function,其它影響眼瞼功能之疾患
+274,H026,Xanthelasma of eyelid,眼瞼黃斑瘤
+275,H0260,"Xanthelasma of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼黃斑瘤
+276,H0261,Xanthelasma of right upper eyelid,右側上眼瞼黃斑瘤
+277,H0262,Xanthelasma of right lower eyelid,右側下眼瞼黃斑瘤
+278,H0263,"Xanthelasma of right eye, unspecified eyelid",右側眼瞼黃斑瘤，未特定上或下眼瞼
+279,H0264,Xanthelasma of left upper eyelid,左側上眼瞼黃斑瘤
+280,H0265,Xanthelasma of left lower eyelid,左側下眼瞼黃斑瘤
+281,H0266,"Xanthelasma of left eye, unspecified eyelid",左側眼瞼黃斑瘤，未特定上或下眼瞼
+282,H027,Other and unspecified degenerative disorders of eyelid and periocular area,眼瞼及眼周其他及未特定之退化性疾患
+283,H0270,Unspecified degenerative disorders of eyelid and periocular area,眼瞼及眼周之退化性疾患
+284,H0271,Chloasma of eyelid and periocular area,眼瞼及眼周黃褐斑
+285,H02711,Chloasma of right upper eyelid and periocular area,右側上眼瞼及眼周黃褐斑
+286,H02712,Chloasma of right lower eyelid and periocular area,右側下眼瞼及眼周黃褐斑
+287,H02713,"Chloasma of right eye, unspecified eyelid and periocular area",右側眼黃褐斑，未特定上或下眼瞼及眼周
+288,H02714,Chloasma of left upper eyelid and periocular area,左側上眼瞼及眼周黃褐斑
+289,H02715,Chloasma of left lower eyelid and periocular area,左側下眼瞼及眼周黃褐斑
+290,H02716,"Chloasma of left eye, unspecified eyelid and periocular area",左側眼黃褐斑，未特定上或下眼瞼及眼周
+291,H02719,"Chloasma of unspecified eye, unspecified eyelid and periocular area",未特定左側、右側眼及上或下眼瞼及眼周之黃褐斑
+292,H0272,Madarosis of eyelid and periocular area,眼瞼及眼周睫毛脫落
+293,H02721,Madarosis of right upper eyelid and periocular area,右側上眼瞼及眼周睫毛脫落
+294,H02722,Madarosis of right lower eyelid and periocular area,右側下眼瞼及眼周睫毛脫落
+295,H02723,"Madarosis of right eye, unspecified eyelid and periocular area",右側眼瞼睫毛脫落，未特定上或下眼瞼及眼周
+296,H02724,Madarosis of left upper eyelid and periocular area,左側上眼瞼及眼周睫毛脫落
+297,H02725,Madarosis of left lower eyelid and periocular area,左側下眼瞼及眼周睫毛脫落
+298,H02726,"Madarosis of left eye, unspecified eyelid and periocular area",左側眼瞼睫毛脫落，未特定上或下眼瞼及眼周
+299,H02729,"Madarosis of unspecified eye, unspecified eyelid and periocular area",未特定左側、右側眼及上或下眼瞼及眼周之眼瞼睫毛脫落
+300,H0273,Vitiligo of eyelid and periocular area,眼瞼及眼周白斑
+301,H02731,Vitiligo of right upper eyelid and periocular area,右側上眼瞼及眼周白斑
+302,H02732,Vitiligo of right lower eyelid and periocular area,右側下眼瞼及眼周白斑
+303,H02733,"Vitiligo of right eye, unspecified eyelid and periocular area",右側眼瞼白斑，未特定上或下眼瞼及眼周
+304,H02734,Vitiligo of left upper eyelid and periocular area,左側上眼瞼及眼周白斑
+305,H02735,Vitiligo of left lower eyelid and periocular area,左側下眼瞼及眼周白斑
+306,H02736,"Vitiligo of left eye, unspecified eyelid and periocular area",左側眼瞼白斑，未特定上或下眼瞼及眼周
+307,H02739,"Vitiligo of unspecified eye, unspecified eyelid and periocular area",未特定左側、右側眼及上或下眼瞼及眼周之眼瞼白斑
+308,H0279,Other degenerative disorders of eyelid and periocular area,其他眼瞼及眼周皮膚之退化疾患
+309,H028,Other specified disorders of eyelid,眼瞼其他特定疾患
+310,H0281,Retained foreign body in eyelid,眼瞼異物滯留
+311,H02811,Retained foreign body in right upper eyelid,右側上眼瞼異物滯留
+312,H02812,Retained foreign body in right lower eyelid,右側下眼瞼異物滯留
+313,H02813,"Retained foreign body in right eye, unspecified eyelid",右側眼瞼異物滯留，未特定上或下眼瞼
+314,H02814,Retained foreign body in left upper eyelid,左側上眼瞼異物滯留
+315,H02815,Retained foreign body in left lower eyelid,左側下眼瞼異物滯留
+316,H02816,"Retained foreign body in left eye, unspecified eyelid",左側眼瞼異物滯留，未特定上或下眼瞼
+317,H02819,"Retained foreign body in unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼異物滯留
+318,H0282,Cysts of eyelid,眼瞼囊腫
+319,H02821,Cysts of right upper eyelid,右側上眼瞼囊腫
+320,H02822,Cysts of right lower eyelid,右側下眼瞼囊腫
+321,H02823,"Cysts of right eye, unspecified eyelid",右側眼瞼囊腫，未特定上或下眼瞼
+322,H02824,Cysts of left upper eyelid,左側上眼瞼囊腫
+323,H02825,Cysts of left lower eyelid,左側下眼瞼囊腫
+324,H02826,"Cysts of left eye, unspecified eyelid",左側眼瞼囊腫，未特定上或下眼瞼
+325,H02829,"Cysts of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼囊腫
+326,H0283,Dermatochalasis of eyelid,眼瞼皮鬆弛
+327,H02831,Dermatochalasis of right upper eyelid,右側上眼瞼皮鬆弛
+328,H02832,Dermatochalasis of right lower eyelid,右側下眼瞼皮鬆弛
+329,H02833,"Dermatochalasis of right eye, unspecified eyelid",右側眼瞼皮鬆弛，未特定上或下眼瞼
+330,H02834,Dermatochalasis of left upper eyelid,左側上眼瞼皮鬆弛
+331,H02835,Dermatochalasis of left lower eyelid,左側下眼瞼皮鬆弛
+332,H02836,"Dermatochalasis of left eye, unspecified eyelid",左側眼瞼皮鬆弛，未特定上或下眼瞼
+333,H02839,"Dermatochalasis of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼皮鬆弛
+334,H0284,Edema of eyelid,眼瞼水腫
+335,H02841,Edema of right upper eyelid,右側上眼瞼水腫
+336,H02842,Edema of right lower eyelid,右側下眼瞼水腫
+337,H02843,"Edema of right eye, unspecified eyelid",右側眼瞼水腫，未特定上或下眼瞼
+338,H02844,Edema of left upper eyelid,左側上眼瞼水腫
+339,H02845,Edema of left lower eyelid,左側下眼瞼水腫
+340,H02846,"Edema of left eye, unspecified eyelid",左側眼瞼水腫，未特定上或下眼瞼
+341,H02849,"Edema of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼水腫
+342,H0285,Elephantiasis of eyelid,眼瞼象皮病
+343,H02851,Elephantiasis of right upper eyelid,右側上眼瞼象皮病
+344,H02852,Elephantiasis of right lower eyelid,右側下眼瞼象皮病
+345,H02853,"Elephantiasis of right eye, unspecified eyelid",右側眼瞼象皮病，未特定上或下眼瞼
+346,H02854,Elephantiasis of left upper eyelid,左側上眼瞼象皮病
+347,H02855,Elephantiasis of left lower eyelid,左側下眼瞼象皮病
+348,H02856,"Elephantiasis of left eye, unspecified eyelid",左側眼瞼象皮病，未特定上或下眼瞼
+349,H02859,"Elephantiasis of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼象皮病
+350,H0286,Hypertrichosis of eyelid,眼瞼多毛症
+351,H02861,Hypertrichosis of right upper eyelid,右側上眼瞼多毛症
+352,H02862,Hypertrichosis of right lower eyelid,右側下眼瞼多毛症
+353,H02863,"Hypertrichosis of right eye, unspecified eyelid",右側眼瞼多毛症，未特定上或下眼瞼
+354,H02864,Hypertrichosis of left upper eyelid,左側上眼瞼多毛症
+355,H02865,Hypertrichosis of left lower eyelid,左側下眼瞼多毛症
+356,H02866,"Hypertrichosis of left eye, unspecified eyelid",左側眼瞼多毛症，未特定上或下眼瞼
+357,H02869,"Hypertrichosis of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼多毛症
+358,H0287,Vascular anomalies of eyelid,眼瞼血管異常
+359,H02871,Vascular anomalies of right upper eyelid,右側上眼瞼血管異常
+360,H02872,Vascular anomalies of right lower eyelid,右側下眼瞼血管異常
+361,H02873,"Vascular anomalies of right eye, unspecified eyelid",右側眼瞼血管異常，未特定上或下眼瞼
+362,H02874,Vascular anomalies of left upper eyelid,左側上眼瞼血管異常
+363,H02875,Vascular anomalies of left lower eyelid,左側下眼瞼血管異常
+364,H02876,"Vascular anomalies of left eye, unspecified eyelid",左側眼瞼血管異常，未特定上或下眼瞼
+365,H02879,"Vascular anomalies of unspecified eye, unspecified eyelid",未特定左側、右側眼及上或下之眼瞼血管異常
+366,H0289,Other specified disorders of eyelid,其它特定之眼瞼疾患
+367,H029,Unspecified disorder of eyelid,眼瞼疾患
+368,H04,Disorders of lacrimal system,淚道系統之疾患
+369,H040,Dacryoadenitis,淚腺炎
+370,H0400,Unspecified dacryoadenitis,淚腺炎
+371,H04001,"Unspecified dacryoadenitis, right lacrimal gland",右側淚腺炎
+372,H04002,"Unspecified dacryoadenitis, left lacrimal gland",左側淚腺炎
+373,H04003,"Unspecified dacryoadenitis, bilateral lacrimal glands",雙側淚腺炎
+374,H04009,"Unspecified dacryoadenitis, unspecified lacrimal gland",未特定側性之淚腺炎
+375,H0401,Acute dacyoadenitis,急性淚腺炎
+376,H04011,"Acute dacryoadenitis, right lacrimal gland",右側急性淚腺炎
+377,H04012,"Acute dacryoadenitis, left lacrimal gland",左側急性淚腺炎
+378,H04013,"Acute dacryoadenitis, bilateral lacrimal glands",雙側急性淚腺炎
+379,H04019,"Acute dacryoadenitis, unspecified lacrimal gland",未特定側性之急性淚腺炎
+380,H0402,Chronic dacryoadenitis,慢性淚腺炎
+381,H04021,"Chronic dacryoadenitis, right lacrimal gland",右側慢性淚腺炎
+382,H04022,"Chronic dacryoadenitis, left lacrimal gland",左側慢性淚腺炎
+383,H04023,"Chronic dacryoadenitis, bilateral lacrimal gland",雙側慢性淚腺炎
+384,H04029,"Chronic dacryoadenitis, unspecified lacrimal gland",未特定側性之慢性淚腺炎
+385,H0403,Chronic enlargement of lacrimal gland,淚腺慢性腫大
+386,H04031,Chronic enlargement of right lacrimal gland,右側淚腺慢性腫大
+387,H04032,Chronic enlargement of left lacrimal gland,左側淚腺慢性腫大
+388,H04033,Chronic enlargement of bilateral lacrimal glands,雙側淚腺慢性腫大
+389,H04039,Chronic enlargement of unspecified lacrimal gland,未特定側性之慢性淚腺腫大
+390,H041,Other disorders of lacrimal gland,其他淚腺疾患
+391,H0411,Dacryops,淚管積液（淚眼）
+392,H04111,Dacryops of right lacrimal gland,右側淚管積液（淚眼）
+393,H04112,Dacryops of left lacrimal gland,左側淚管積液（淚眼）
+394,H04113,Dacryops of bilateral lacrimal glands,雙側淚管積液（淚眼）
+395,H04119,Dacryops of unspecified lacrimal gland,未特定側性之淚管積液（淚眼）
+396,H0412,Dry eye syndrome,乾眼症
+397,H04121,Dry eye syndrome of right lacrimal gland,右側淚腺乾眼症
+398,H04122,Dry eye syndrome of left lacrimal gland,左側淚腺乾眼症
+399,H04123,Dry eye syndrome of bilateral lacrimal glands,雙側淚腺乾眼症
+400,H04129,Dry eye syndrome of unspecified lacrimal gland,未特定側性之淚腺乾眼症
+401,H0413,Lacrimal cyst,淚管囊腫
+402,H04131,Lacrimal cyst right lacrimal gland,右側淚管囊腫
+403,H04132,Lacrimal cyst left lacrimal gland,左側淚管囊腫
+404,H04133,Lacrimal cyst bilateral lacrimal glands,雙側淚管囊腫
+405,H04139,Lacrimal cyst unspecified lacrimal gland,未特定側性之淚管囊腫
+406,H0414,Primary lacrimal gland atrophy,原發性淚腺萎縮
+407,H04141,Right primary lacrimal gland atrophy,右側原發性淚腺萎縮
+408,H04142,Left primary lacrimal gland atrophy,左側原發性淚腺萎縮
+409,H04143,Bilateral primary lacrimal gland atrophy,雙側原發性淚腺萎縮
+410,H04149,Unspecified primary lacrimal gland atrophy,原發性淚腺萎縮
+411,H0415,Secondary lacrimal gland atrophy,續發性淚腺萎縮
+412,H04151,Right secondary lacrimal gland atrophy,右側續發性淚腺萎縮
+413,H04152,Left secondary lacrimal gland atrophy,左側續發性淚腺萎縮
+414,H04153,Bilateral secondary lacrimal gland atrophy,雙側續發性淚腺萎縮
+415,H04159,Unspecified secondary lacrimal gland atrophy,續發性淚腺萎縮
+416,H0416,Lacrimal gland dislocation,淚腺脫位
+417,H04161,Right lacrimal gland dislocation,右側淚腺脫位
+418,H04162,Left lacrimal gland dislocation,左側淚腺脫位
+419,H04163,Bilateral lacrimal gland dislocation,雙側淚腺脫位
+420,H04169,Unspecified lacrimal gland dislocation,淚腺脫位
+421,H0419,Other disorders of lacrimal gland,其它淚腺疾患
+422,H042,Epiphora,溢淚
+423,H0420,Unspecified epiphora,溢淚
+424,H04201,"Epiphora, right side",右側溢淚
+425,H04202,"Epiphora, left side",左側溢淚
+426,H04203,"Epiphora, bilateral",雙側溢淚
+427,H04209,"Epiphora, unspecified side",未特定側性之溢淚
+428,H0421,Epiphora due to excess lacrimation,淚液分泌過多造成之溢淚
+429,H04211,"Epiphora due to excess lacrimation, right side",右側淚液分泌過多造成之溢淚
+430,H04212,"Epiphora due to excess lacrimation, left side",左側淚液分泌過多造成之溢淚
+431,H04213,"Epiphora due to excess lacrimation, bilateral",雙側淚液分泌過多造成之溢淚
+432,H04219,"Epiphora due to excess lacrimation, unspecified side",未特定側性之淚液分泌過多造成的溢淚
+433,H0422,Epiphora due to insufficient drainage,排液功能不足造成之溢淚
+434,H04221,"Epiphora due to insufficient drainage, right side",右側排液功能不足造成之溢淚
+435,H04222,"Epiphora due to insufficient drainage, left side",左側排液功能不足造成之溢淚
+436,H04223,"Epiphora due to insufficient drainage, bilateral",雙側排液功能不足造成之溢淚
+437,H04229,"Epiphora due to insufficient drainage, unspecified side",未特定側性之排液功能不足造成的溢淚
+438,H043,Acute and unspecified inflammation of lacrimal passages,淚道急性及未特定之發炎
+439,H0430,Unspecified dacryocystitis,淚囊炎
+440,H04301,Unspecified dacryocystitis of right lacrimal passage,右側淚囊炎
+441,H04302,Unspecified dacryocystitis of left lacrimal passage,左側淚囊炎
+442,H04303,Unspecified dacryocystitis of bilateral lacrimal passages,雙側淚囊炎
+443,H04309,Unspecified dacryocystitis of unspecified lacrimal passage,未特定側性之淚囊炎
+444,H0431,Phlegmonous dacryocystitis,蜂窩組織性淚囊炎
+445,H04311,Phlegmonous dacryocystitis of right lacrimal passage,右側淚道蜂窩組織性淚囊炎
+446,H04312,Phlegmonous dacryocystitis of left lacrimal passage,左側淚道蜂窩組織性淚囊炎
+447,H04313,Phlegmonous dacryocystitis of bilateral lacrimal passages,雙側淚道蜂窩組織性淚囊炎
+448,H04319,Phlegmonous dacryocystitis of unspecified lacrimal passage,未特定淚道之蜂窩組織性淚囊炎
+449,H0432,Acute dacryocystitis,急性淚囊炎
+450,H04321,Acute dacryocystitis of right lacrimal passage,右側淚道急性淚囊炎
+451,H04322,Acute dacryocystitis of left lacrimal passage,左側淚道急性淚囊炎
+452,H04323,Acute dacryocystitis of bilateral lacrimal passages,雙側淚道急性淚囊炎
+453,H04329,Acute dacryocystitis of unspecified lacrimal passage,未特定淚道之急性淚囊炎
+454,H0433,Acute lacrimal canaliculitis,急性淚小管炎
+455,H04331,Acute lacrimal canaliculitis of right lacrimal passage,右側淚道急性淚小管炎
+456,H04332,Acute lacrimal canaliculitis of left lacrimal passage,左側淚道急性淚小管炎
+457,H04333,Acute lacrimal canaliculitis of bilateral lacrimal passages,雙側淚道急性淚小管炎
+458,H04339,Acute lacrimal canaliculitis of unspecified lacrimal passage,未特定淚道之急性淚小管炎
+459,H044,Chronic inflammation of lacrimal passages,慢性淚道發炎
+460,H0441,Chronic dacryocystitis,慢性淚囊炎
+461,H04411,Chronic dacryocystitis of right lacrimal passage,右側淚道慢性淚囊炎
+462,H04412,Chronic dacryocystitis of left lacrimal passage,左側淚道慢性淚囊炎
+463,H04413,Chronic dacryocystitis of bilateral lacrimal passages,雙側淚道慢性淚囊炎
+464,H04419,Chronic dacryocystitis of unspecified lacrimal passage,未特定淚道之慢性淚囊炎
+465,H0442,Chronic lacrimal canaliculitis,慢性淚小管炎
+466,H04421,Chronic lacrimal canaliculitis of right lacrimal passage,右側淚道慢性淚小管炎
+467,H04422,Chronic lacrimal canaliculitis of left lacrimal passage,左側淚道慢性淚小管炎
+468,H04423,Chronic lacrimal canaliculitis of bilateral lacrimal passages,雙側淚道慢性淚小管炎
+469,H04429,Chronic lacrimal canaliculitis of unspecified lacrimal passage,未特定淚道之慢性淚小管炎
+470,H0443,Chronic lacrimal mucocele,慢性淚黏液囊腫
+471,H04431,Chronic lacrimal mucocele of right lacrimal passage,右側慢性淚道黏液囊腫
+472,H04432,Chronic lacrimal mucocele of left lacrimal passage,左側慢性淚道黏液囊腫
+473,H04433,Chronic lacrimal mucocele of bilateral lacrimal passages,雙側慢性淚道黏液囊腫
+474,H04439,Chronic lacrimal mucocele of unspecified lacrimal passage,未特定淚道之慢性淚道黏液囊腫
+475,H045,Stenosis and insufficiency of lacrimal passages,淚道狹窄及功能不足
+476,H0451,Dacryolith,淚石症
+477,H04511,Dacryolith of right lacrimal passage,右側淚道淚石症
+478,H04512,Dacryolith of left lacrimal passage,左側淚道淚石症
+479,H04513,Dacryolith of bilateral lacrimal passages,雙側淚道淚石症
+480,H04519,Dacryolith of unspecified lacrimal passage,未特定側性之淚道淚石症
+481,H0452,Eversion of lacrimal punctum,淚點外翻
+482,H04521,Eversion of right lacrimal punctum,右側淚點外翻
+483,H04522,Eversion of left lacrimal punctum,左側淚點外翻
+484,H04523,Eversion of bilateral lacrimal punctum,雙側淚點外翻
+485,H04529,Eversion of unspecified lacrimal punctum,未特定側性之淚點外翻
+486,H0453,Neonatal obstruction of nasolacrimal duct,新生兒鼻淚管阻塞
+487,H04531,Neonatal obstruction of right nasolacrimal duct,新生兒右側鼻淚管阻塞
+488,H04532,Neonatal obstruction of left nasolacrimal duct,新生兒左側鼻淚管阻塞
+489,H04533,Neonatal obstruction of bilateral nasolacrimal duct,新生兒雙側鼻淚管阻塞
+490,H04539,Neonatal obstruction of unspecified nasolacrimal duct,未特定側性之新生兒鼻淚管阻塞
+491,H0454,Stenosis of lacrimal canaliculi,淚小管狹窄
+492,H04541,Stenosis of right lacrimal canaliculi,右側淚小管狹窄
+493,H04542,Stenosis of left lacrimal canaliculi,左側淚小管狹窄
+494,H04543,Stenosis of bilateral lacrimal canaliculi,雙側淚小管狹窄
+495,H04549,Stenosis of unspecified lacrimal canaliculi,未特定側性之淚小管狹窄
+496,H0455,Acquired stenosis of nasolacrimal duct,後天性鼻淚管狹窄
+497,H04551,Acquired stenosis of right nasolacrimal duct,後天性右側鼻淚管狹窄
+498,H04552,Acquired stenosis of left nasolacrimal duct,後天性左側鼻淚管狹窄
+499,H04553,Acquired stenosis of bilateral nasolacrimal duct,後天性雙側鼻淚管狹窄
+500,H04559,Acquired stenosis of unspecified nasolacrimal duct,後天性未特定側性之鼻淚管狹窄
+501,H0456,Stenosis of lacrimal punctum,淚點狹窄
+502,H04561,Stenosis of right lacrimal punctum,右側淚點狹窄
+503,H04562,Stenosis of left lacrimal punctum,左側淚點狹窄
+504,H04563,Stenosis of bilateral lacrimal punctum,雙側淚點狹窄
+505,H04569,Stenosis of unspecified lacrimal punctum,未特定側性之淚點狹窄
+506,H0457,Stenosis of lacrimal sac,淚囊狹窄
+507,H04571,Stenosis of right lacrimal sac,右側淚囊狹窄
+508,H04572,Stenosis of left lacrimal sac,左側淚囊狹窄
+509,H04573,Stenosis of bilateral lacrimal sac,雙側淚囊狹窄
+510,H04579,Stenosis of unspecified lacrimal sac,未特定側性之淚囊狹窄
+511,H046,Other changes of lacrimal passages,淚道之其他變化
+512,H0461,Lacrimal fistula,淚道簍管
+513,H04611,Lacrimal fistula right lacrimal passage,右側淚道簍管
+514,H04612,Lacrimal fistula left lacrimal passage,左側淚道簍管
+515,H04613,Lacrimal fistula bilateral lacrimal passages,雙側淚道簍管
+516,H04619,Lacrimal fistula unspecified lacrimal passage,未特定側性之淚道簍管
+517,H0469,Other changes of lacrimal passages,淚道之其他變化
+518,H048,Other disorders of lacrimal system,淚道系統之其他疾患
+519,H0481,Granuloma of lacrimal passage,淚道肉芽腫
+520,H04811,Granuloma of right lacrimal passage,右側淚道肉芽腫
+521,H04812,Granuloma of left lacrimal passage,左側淚道肉芽腫
+522,H04813,Granuloma of bilateral lacrimal passages,雙側淚道肉芽腫
+523,H04819,Granuloma of unspecified lacrimal passage,未特定側性之淚道肉芽腫
+524,H0489,Other disorders of lacrimal system,淚器系之其他疾患
+525,H049,"Disorder of lacrimal system, unspecified",淚器系疾患，未特定
+526,H05,Disorders of orbit,眼窩疾患
+527,H050,Acute inflammation of orbit,眼窩急性發炎
+528,H0500,Unspecified acute inflammation of orbit,眼窩急性炎症
+529,H0501,Cellulitis of orbit,眼窩蜂窩組織炎
+530,H05011,Cellulitis of right orbit,右側眼窩蜂窩組織炎
+531,H05012,Cellulitis of left orbit,左側眼窩蜂窩組織炎
+532,H05013,Cellulitis of bilateral orbits,雙側眼窩蜂窩組織炎
+533,H05019,Cellulitis of unspecified orbit,未特定側性之眼窩蜂窩組織炎
+534,H0502,Osteomyelitis of orbit,眼窩骨髓炎
+535,H05021,Osteomyelitis of right orbit,右側眼窩骨髓炎
+536,H05022,Osteomyelitis of left orbit,左側眼窩骨髓炎
+537,H05023,Osteomyelitis of bilateral orbits,雙側眼窩骨髓炎
+538,H05029,Osteomyelitis of unspecified orbit,未特定側性之眼窩骨髓炎
+539,H0503,Periostitis of orbit,眼窩骨膜炎
+540,H05031,Periostitis of right orbit,右側眼窩骨膜炎
+541,H05032,Periostitis of left orbit,左側眼窩骨膜炎
+542,H05033,Periostitis of bilateral orbits,雙側眼窩骨膜炎
+543,H05039,Periostitis of unspecified orbit,未特定側性之眼窩骨膜炎
+544,H0504,Tenonitis of orbit,眼窩筋膜炎
+545,H05041,Tenonitis of right orbit,右側眼窩筋膜炎
+546,H05042,Tenonitis of left orbit,左側眼窩筋膜炎
+547,H05043,Tenonitis of bilateral orbits,雙側眼窩筋膜炎
+548,H05049,Tenonitis of unspecified orbit,未特定側性之眼窩筋膜炎
+549,H051,Chronic inflammatory disorders of orbit,眼窩之慢性發炎性疾患
+550,H0510,Unspecified chronic inflammatory disorders of orbit,眼窩慢性炎症
+551,H0511,Granuloma of orbit,眼窩肉芽腫
+552,H05111,Granuloma of right orbit,右側眼窩肉芽腫
+553,H05112,Granuloma of left orbit,左側眼窩肉芽腫
+554,H05113,Granuloma of bilateral orbits,雙側眼窩肉芽腫
+555,H05119,Granuloma of unspecified orbit,未特定側性之眼窩肉芽腫
+556,H0512,Orbital myositis,眼窩眼肌炎
+557,H05121,"Orbital myositis, right orbit",右側眼窩眼肌炎
+558,H05122,"Orbital myositis, left orbit",左側眼窩眼肌炎
+559,H05123,"Orbital myositis, bilateral",雙側眼窩眼肌炎
+560,H05129,"Orbital myositis, unspecified orbit",未特定側性之眼窩眼肌炎
+561,H052,Exophthalmic conditions,眼球突出性病況
+562,H0520,Unspecified exophthalmos,眼球突出
+563,H0521,Displacement (lateral) of globe,眼球側異位
+564,H05211,"Displacement (lateral) of globe, right eye",右側眼球側異位
+565,H05212,"Displacement (lateral) of globe, left eye",左側眼球側異位
+566,H05213,"Displacement (lateral) of globe, bilateral",雙側眼球側異位
+567,H05219,"Displacement (lateral) of globe, unspecified eye",未特定側性之眼球側異位
+568,H0522,Edema of orbit,眼窩水腫
+569,H05221,Edema of right orbit,右側眼窩水腫
+570,H05222,Edema of left orbit,左側眼窩水腫
+571,H05223,Edema of bilateral orbit,雙側眼窩水腫
+572,H05229,Edema of unspecified orbit,未特定側性之眼窩水腫
+573,H0523,Hemorrhage of orbit,眼窩出血
+574,H05231,Hemorrhage of right orbit,右側眼窩出血
+575,H05232,Hemorrhage of left orbit,左側眼窩出血
+576,H05233,Hemorrhage of bilateral orbit,雙側眼窩出血
+577,H05239,Hemorrhage of unspecified orbit,未特定側性之眼窩出血
+578,H0524,Constant exophthalmos,恒常性眼球突出
+579,H05241,"Constant exophthalmos, right eye",右側眼恒常性眼球突出
+580,H05242,"Constant exophthalmos, left eye",左側眼恒常性眼球突出
+581,H05243,"Constant exophthalmos, bilateral",雙側眼恒常性眼球突出
+582,H05249,"Constant exophthalmos, unspecified eye",未特定側性之恒常性眼球突出
+583,H0525,Intermittent exophthalmos,間歇性眼球突出
+584,H05251,"Intermittent exophthalmos, right eye",右側眼間歇性眼球突出
+585,H05252,"Intermittent exophthalmos, left eye",左側眼間歇性眼球突出
+586,H05253,"Intermittent exophthalmos, bilateral",雙側眼間歇性眼球突出
+587,H05259,"Intermittent exophthalmos, unspecified eye",未特定側性之間歇性眼球突出
+588,H0526,Pulsating exophthalmos,搏動性眼球突出
+589,H05261,"Pulsating exophthalmos, right eye",右側眼搏動性眼球突出
+590,H05262,"Pulsating exophthalmos, left eye",左側眼搏動性眼球突出
+591,H05263,"Pulsating exophthalmos, bilateral",雙側眼搏動性眼球突出
+592,H05269,"Pulsating exophthalmos, unspecified eye",未特定側性之搏動性眼球突出
+593,H053,Deformity of orbit,眼窩畸形
+594,H0530,Unspecified deformity of orbit,眼窩畸形
+595,H0531,Atrophy of orbit,眼窩萎縮
+596,H05311,Atrophy of right orbit,右側眼窩萎縮
+597,H05312,Atrophy of left orbit,左側眼窩萎縮
+598,H05313,Atrophy of bilateral orbit,雙側眼窩萎縮
+599,H05319,Atrophy of unspecified orbit,未特定側性之眼窩萎縮
+600,H0532,Deformity of orbit due to bone disease,骨疾病造成之眼窩畸形
+601,H05321,Deformity of right orbit due to bone disease,骨疾病造成之右側眼窩畸形
+602,H05322,Deformity of left orbit due to bone disease,骨疾病造成之左側眼窩畸形
+603,H05323,Deformity of bilateral orbits due to bone disease,因骨疾病造成的雙側眼窩畸形
+604,H05329,Deformity of unspecified orbit due to bone disease,未特定側性之骨疾病造成的眼窩畸形
+605,H0533,Deformity of orbit due to trauma or surgery,外傷或手術造成之眼窩畸形
+606,H05331,Deformity of right orbit due to trauma or surgery,外傷或手術造成之右側眼窩畸形
+607,H05332,Deformity of left orbit due to trauma or surgery,外傷或手術造成之左側眼窩畸形
+608,H05333,Deformity of bilateral orbits due to trauma or surgery,外傷或手術造成之雙側眼窩畸形
+609,H05339,Deformity of unspecified orbit due to trauma or surgery,未特定側性之外傷或手術造成的眼窩畸形
+610,H0534,Enlargement of orbit,眼窩擴大
+611,H05341,Enlargement of right orbit,右側眼窩擴大
+612,H05342,Enlargement of left orbit,左側眼窩擴大
+613,H05343,Enlargement of bilateral orbits,雙側眼窩擴大
+614,H05349,Enlargement of unspecified orbit,未特定側性之眼窩擴大
+615,H0535,Exostosis of orbit,眼窩外生骨疣
+616,H05351,Exostosis of right orbit,右側眼窩外生骨疣
+617,H05352,Exostosis of left orbit,左側眼窩外生骨疣
+618,H05353,Exostosis of bilateral orbits,雙側眼窩外生骨疣
+619,H05359,Exostosis of unspecified orbit,未特定側性之眼窩外生骨疣
+620,H054,Enophthalmos,眼球凹陷
+621,H0540,Unspecified enophthalmos,眼球凹陷
+622,H05401,"Unspecified enophthalmos, right eye",右側眼未特定之眼球凹陷
+623,H05402,"Unspecified enophthalmos, left eye",左側眼未特定之眼球凹陷
+624,H05403,"Unspecified enophthalmos, bilateral",雙側眼未特定之眼球凹陷
+625,H05409,"Unspecified enophthalmos, unspecified eye",未特定側性之不明原因眼球凹陷
+626,H0541,Enophthalmos due to atrophy of orbital tissue,眼窩組織萎縮造成之眼球凹陷
+627,H05411,"Enophthalmos due to atrophy of orbital tissue, right eye",右側眼窩組織萎縮造成之眼球凹陷
+628,H05412,"Enophthalmos due to atrophy of orbital tissue, left eye",左側眼窩組織萎縮造成之眼球凹陷
+629,H05413,"Enophthalmos due to atrophy of orbital tissue, bilateral",雙側眼窩組織萎縮造成之眼球凹陷
+630,H05419,"Enophthalmos due to atrophy of orbital tissue, unspecified eye",未特定側性之眼窩組織萎縮造成的眼球凹陷
+631,H0542,Enophthalmos due to trauma or surgery,眼外傷或手術造成之眼球凹陷
+632,H05421,"Enophthalmos due to trauma or surgery, right eye",右側眼外傷或手術造成之眼球凹陷
+633,H05422,"Enophthalmos due to trauma or surgery, left eye",左側眼外傷或手術造成之眼球凹陷
+634,H05423,"Enophthalmos due to trauma or surgery, bilateral",雙側眼外傷或手術造成之眼球凹陷
+635,H05429,"Enophthalmos due to trauma or surgery, unspecified eye",未特定側性之外傷或手術造成的眼球凹陷
+636,H055,Retained (old) foreign body following penetrating wound of orbit,眼窩穿入性創傷後異物（陳舊性）滯留
+637,H0550,Retained (old) foreign body following penetrating wound of unspecified orbit,未特定側性之眼窩穿入性創傷後異物（陳舊性）滯留
+638,H0551,Retained (old) foreign body following penetrating wound of right orbit,右側眼窩穿入性創傷後之異物（陳舊性）滯留
+639,H0552,Retained (old) foreign body following penetrating wound of left orbit,左側眼窩穿入性創傷後之異物（陳舊性）滯留
+640,H0553,Retained (old) foreign body following penetrating wound of bilateral orbits,雙側眼窩穿入性創傷後之異物（陳舊性）滯留
+641,H058,Other disorders of orbit,眼窩之其他疾患
+642,H0581,Cyst of orbit,眼窩囊腫
+643,H05811,Cyst of right orbit,右側眼窩囊腫
+644,H05812,Cyst of left orbit,左側眼窩囊腫
+645,H05813,Cyst of bilateral orbits,雙側眼窩囊腫
+646,H05819,Cyst of unspecified orbit,未特定側性之眼窩囊腫
+647,H0582,Myopathy of extraocular muscles,眼外肌病變
+648,H05821,"Myopathy of extraocular muscles, right orbit",右側眼外肌病變
+649,H05822,"Myopathy of extraocular muscles, left orbit",左側眼外肌病變
+650,H05823,"Myopathy of extraocular muscles, bilateral",雙側眼外肌病變
+651,H05829,"Myopathy of extraocular muscles, unspecified orbit",未特定側性之眼外肌病變
+652,H0589,Other disorders of orbit,眼窩之其它疾患
+653,H059,Unspecified disorder of orbit,眼窩疾患
+654,H10,Conjunctivitis,結膜炎
+655,H100,Mucopurulent conjuunctivitis,黏液膿性結膜炎
+656,H1001,Acute follicular conjunctivitis,急性濾泡性結膜炎
+657,H10011,"Acute follicular conjunctivitis, right eye",右側眼急性濾泡性結膜炎
+658,H10012,"Acute follicular conjunctivitis, left eye",左側眼急性濾泡性結膜炎
+659,H10013,"Acute follicular conjunctivitis, bilateral",雙側眼急性濾泡性結膜炎
+660,H10019,"Acute follicular conjunctivitis, unspecified eye",未特定側性之急性濾泡性結膜炎
+661,H1002,Other mucopurulent conjunctivitis,其他黏液膿性結膜炎
+662,H10021,"Other mucopurulent conjunctivitis, right eye",右側眼其他黏液膿性結膜炎
+663,H10022,"Other mucopurulent conjunctivitis, left eye",左側眼其他黏液膿性結膜炎
+664,H10023,"Other mucopurulent conjunctivitis, bilateral",雙側眼其他黏液膿性結膜炎
+665,H10029,"Other mucopurulent conjunctivitis, unspecified eye",未特定側性之其他黏液膿性結膜炎
+666,H101,Acute atopic conjunctivitis,急性過敏性結膜炎
+667,H1010,"Acute atopic conjunctivitis, unspecified eye",未特定側性之急性過敏性結膜炎
+668,H1011,"Acute atopic conjunctivitis, right eye",右側眼急性過敏性結膜炎
+669,H1012,"Acute atopic conjunctivitis, left eye",左側眼急性過敏性結膜炎
+670,H1013,"Acute atopic conjunctivitis, bilateral",雙側眼急性過敏性結膜炎
+671,H102,Other acute conjunctivitis,其他急性結膜炎
+672,H1021,Acute toxic conjunctivitis,急性毒性結膜炎
+673,H10211,"Acute toxic conjunctivitis, right eye",右側眼急性毒性結膜炎
+674,H10212,"Acute toxic conjunctivitis, left eye",左側眼急性毒性結膜炎
+675,H10213,"Acute toxic conjunctivitis, bilateral",雙側眼急性毒性結膜炎
+676,H10219,"Acute toxic conjunctivitis, unspecified eye",未特定側性之急性毒性結膜炎
+677,H1022,Pseudomembranous conjunctivitis,偽膜性結膜炎
+678,H10221,"Pseudomembranous conjunctivitis, right eye",右側眼偽膜性結膜炎
+679,H10222,"Pseudomembranous conjunctivitis, left eye",左側眼偽膜性結膜炎
+680,H10223,"Pseudomembranous conjunctivitis, bilateral",雙側眼偽膜性結膜炎
+681,H10229,"Pseudomembranous conjunctivitis, unspecified eye",未特定側性之偽膜性結膜炎
+682,H1023,"Serous conjunctivitis, except viral",除病毒外之漿液性結膜炎
+683,H10231,"Serous conjunctivitis, except viral, right eye",右側眼除病毒外的漿液性結膜炎
+684,H10232,"Serous conjunctivitis, except viral, left eye",左側眼除病毒外的漿液性結膜炎
+685,H10233,"Serous conjunctivitis, except viral, bilateral",雙側眼除病毒外的漿液性結膜炎
+686,H10239,"Serous conjunctivitis, except viral, unspecified eye",未特定側性之除病毒外的漿液性結膜炎
+687,H103,Unspecified acute conjunctivitis,急性結膜炎
+688,H1030,"Unspecified acute conjunctivitis, unspecified eye",未特定側性之急性結膜炎
+689,H1031,"Unspecified acute conjunctivitis, right eye",右側眼急性結膜炎
+690,H1032,"Unspecified acute conjunctivitis, left eye",左側眼急性結膜炎
+691,H1033,"Unspecified acute conjunctivitis, bilateral",雙側眼急性結膜炎
+692,H104,Chronic conjunctivitis,慢性結膜炎
+693,H1040,Unspecified chronic conjunctivitis,慢性結膜炎
+694,H10401,"Unspecified chronic conjunctivitis, right eye",右側眼慢性結膜炎
+695,H10402,"Unspecified chronic conjunctivitis, left eye",左側眼慢性結膜炎
+696,H10403,"Unspecified chronic conjunctivitis, bilateral",雙側眼慢性結膜炎
+697,H10409,"Unspecified chronic conjunctivitis, unspecified eye",未特定側性之慢性結膜炎
+698,H1041,Chronic giant papillary conjunctivitis,慢性巨大乳頭狀結膜炎
+699,H10411,"Chronic giant papillary conjunctivitis, right eye",右側眼慢性巨大乳頭狀結膜炎
+700,H10412,"Chronic giant papillary conjunctivitis, left eye",左側眼慢性巨大乳頭狀結膜炎
+701,H10413,"Chronic giant papillary conjunctivitis, bilateral",雙側眼慢性巨大乳頭狀結膜炎
+702,H10419,"Chronic giant papillary conjunctivitis, unspecified eye",未特定側性之慢性巨大乳頭狀結膜炎
+703,H1042,Simple chronic conjunctivitis,單純慢性結膜炎
+704,H10421,"Simple chronic conjunctivitis, right eye",右側眼單純慢性結膜炎
+705,H10422,"Simple chronic conjunctivitis, left eye",左側眼單純慢性結膜炎
+706,H10423,"Simple chronic conjunctivitis, bilateral",雙側眼單純慢性結膜炎
+707,H10429,"Simple chronic conjunctivitis, unspecified eye",未特定側性之單純慢性結膜炎
+708,H1043,Chronic follicular conjunctivitis,慢性濾泡性結膜炎
+709,H10431,"Chronic follicular conjunctivitis, right eye",右側眼慢性濾泡性結膜炎
+710,H10432,"Chronic follicular conjunctivitis, left eye",左側眼慢性濾泡性結膜炎
+711,H10433,"Chronic follicular conjunctivitis, bilateral",雙側眼慢性濾泡性結膜炎
+712,H10439,"Chronic follicular conjunctivitis, unspecified eye",未特定側性之慢性濾泡性結膜炎
+713,H1044,Vernal conjunctivitis,春季型結膜炎
+714,H1045,Other chronic allergic conjunctivitis,其他慢性過敏性結膜炎
+715,H105,Blepharoconjunctivitis,眼瞼結膜炎
+716,H1050,Unspecified blepharoconjunctivitis,眼瞼結膜炎
+717,H10501,"Unspecified blepharoconjunctivitis, right eye",右側眼瞼結膜炎
+718,H10502,"Unspecified blepharoconjunctivitis, left eye",左側眼瞼結膜炎
+719,H10503,"Unspecified blepharoconjunctivitis, bilateral",雙側眼瞼結膜炎
+720,H10509,"Unspecified blepharoconjunctivitis, unspecified eye",未特定側性之眼瞼結膜炎
+721,H1051,Ligneous conjunctivitis,木樣性結膜炎
+722,H10511,"Ligneous conjunctivitis, right eye",右側眼木樣性結膜炎
+723,H10512,"Ligneous conjunctivitis, left eye",左側眼木樣性結膜炎
+724,H10513,"Ligneous conjunctivitis, bilateral",雙側眼木樣性結膜炎
+725,H10519,"Ligneous conjunctivitis, unspecified eye",未特定側性之木樣性結膜炎
+726,H1052,Angular blepharoconjunctivitis,角眥眼瞼結膜炎
+727,H10521,"Angular blepharoconjunctivitis, right eye",右側眼角眥眼瞼結膜炎
+728,H10522,"Angular blepharoconjunctivitis, left eye",左側眼角眥眼瞼結膜炎
+729,H10523,"Angular blepharoconjunctivitis, bilateral",雙側眼角眥眼瞼結膜炎
+730,H10529,"Angular blepharoconjunctivitis, unspecified eye",未特定側性之角眥眼瞼結膜炎
+731,H1053,Contact blepharoconjunctivitis,接觸性眼瞼結膜炎
+732,H10531,"Contact blepharoconjunctivitis, right eye",右側眼接觸性眼瞼結膜炎
+733,H10532,"Contact blepharoconjunctivitis, left eye",左側眼接觸性眼瞼結膜炎
+734,H10533,"Contact blepharoconjunctivitis, bilateral",雙側眼接觸性眼瞼結膜炎
+735,H10539,"Contact blepharoconjunctivitis, unspecified eye",未特定側性之接觸性眼瞼結膜炎
+736,H108,Other conjunctivitis,其他結膜炎
+737,H1081,Pingueculitis,瞼裂斑炎
+738,H10811,"Pingueculitis, right eye",右側眼瞼裂斑炎
+739,H10812,"Pingueculitis, left eye",左側眼瞼裂斑炎
+740,H10813,"Pingueculitis, bilateral",雙側眼瞼裂斑炎
+741,H10819,"Pingueculitis, unspecified eye",未特定側性之瞼裂斑炎
+742,H1089,Other conjunctivitis,其它結膜炎
+743,H109,Unspecified conjunctivitis,結膜炎
+744,H11,Other disorders of conjunctiva,結膜之其他疾患
+745,H110,Pterygium of eye,眼翼狀贅肉
+746,H1100,Unspecified pterygium of eye,眼翼狀贅肉
+747,H11001,Unspecified pterygium of right eye,右側眼翼狀贅肉
+748,H11002,Unspecified pterygium of left eye,左側眼翼狀贅肉
+749,H11003,"Unspecified pterygium of eye, bilateral",雙側眼翼狀贅肉
+750,H11009,Unspecified pterygium of unspecified eye,未特定側性之翼狀贅肉
+751,H1101,Amyloid pterygium,眼澱粉樣翼狀贅肉
+752,H11011,Amyloid pterygium of right eye,右側眼澱粉樣翼狀贅肉
+753,H11012,Amyloid pterygium of left eye,左側眼澱粉樣翼狀贅肉
+754,H11013,"Amyloid pterygium of eye, bilateral",雙側眼澱粉樣翼狀贅肉
+755,H11019,Amyloid pterygium of unspecified eye,未特定側性之澱粉樣翼狀贅肉
+756,H1102,Central pterygium of eye,眼中央翼狀贅肉
+757,H11021,Central pterygium of right eye,右側眼中央翼狀贅肉
+758,H11022,Central pterygium of left eye,左側眼中央翼狀贅肉
+759,H11023,"Central pterygium of eye, bilateral",雙側眼中央翼狀贅肉
+760,H11029,Central pterygium of unspecified eye,未特定側性之中央翼狀贅肉
+761,H1103,Double pterygium of eye,眼雙側翼狀贅肉
+762,H11031,Double pterygium of right eye,右側眼雙側翼狀贅肉
+763,H11032,Double pterygium of left eye,左側眼雙側翼狀贅肉
+764,H11033,"Double pterygium of eye, bilateral",雙側眼雙側翼狀贅肉
+765,H11039,Double pterygium of unspecified eye,未特定側性之雙側翼狀贅肉
+766,H1104,"Peripheral pterygium of eye, stationary",眼周邊翼狀贅肉，穩定性
+767,H11041,"Peripheral pterygium, stationary, right eye",右側眼周邊翼狀贅肉，穩定性
+768,H11042,"Peripheral pterygium, stationary, left eye",左側眼周邊翼狀贅肉，穩定性
+769,H11043,"Peripheral pterygium, stationary, bilateral",雙側眼周邊翼狀贅肉，穩定性
+770,H11049,"Peripheral pterygium, stationary, unspecified eye",未特定側性之周邊翼狀贅肉，穩定性
+771,H1105,"Peripheral pterygium of eye, progressive",眼周邊翼狀贅肉，進行性
+772,H11051,"Peripheral pterygium, progressive, right eye",右側眼周邊翼狀贅肉，進行性
+773,H11052,"Peripheral pterygium, progressive, left eye",左側眼周邊翼狀贅肉，進行性
+774,H11053,"Peripheral pterygium, progressive, bilateral",雙側眼周邊翼狀贅肉，進行性
+775,H11059,"Peripheral pterygium, progressive, unspecified eye",未特定側性之周邊翼狀贅肉，進行性
+776,H1106,Recurrent pterygium  of eye,眼復發性翼狀贅肉
+777,H11061,Recurrent pterygium of right eye,右側眼復發性翼狀贅肉
+778,H11062,Recurrent pterygium of left eye,左側眼復發性翼狀贅肉
+779,H11063,"Recurrent pterygium of eye, bilateral",雙側眼復發性翼狀贅肉
+780,H11069,Recurrent pterygium of unspecified eye,未特定側性之復發性翼狀贅肉
+781,H111,Conjunctival degenerations and deposits,眼瞼退化及沈澱物
+782,H1110,Unspecified conjunctival degenerations,結膜變性
+783,H1111,Conjunctival deposits,結膜沈澱物
+784,H11111,"Conjunctival deposits, right eye",右側眼結膜沈澱物
+785,H11112,"Conjunctival deposits, left eye",左側眼結膜沈澱物
+786,H11113,"Conjunctival deposits, bilateral",雙側眼結膜沈澱物
+787,H11119,"Conjunctival deposits, unspecified eye",未特定側性之結膜沈澱物
+788,H1112,Conjunctival concretions,結膜結石
+789,H11121,"Conjunctival concretions, right eye",右側眼結膜結石
+790,H11122,"Conjunctival concretions, left eye",左側眼結膜結石
+791,H11123,"Conjunctival concretions, bilateral",雙側眼結膜結石
+792,H11129,"Conjunctival concretions, unspecified eye",未特定側性之結膜結石
+793,H1113,Conjunctival pigmentations,結膜色素沈著
+794,H11131,"Conjunctival pigmentations, right eye",右側眼結膜色素沈著
+795,H11132,"Conjunctival pigmentations, left eye",左側眼結膜色素沈著
+796,H11133,"Conjunctival pigmentations, bilateral",雙側眼結膜色素沈著
+797,H11139,"Conjunctival pigmentations, unspecified eye",未特定側性之結膜色素沈著
+798,H1114,Conjunctival xerosis NOS,結膜乾燥症
+799,H11141,"Conjunctival xerosis NOS, right eye",右側眼結膜乾燥症
+800,H11142,"Conjunctival xerosis NOS, left eye",左側眼結膜乾燥症
+801,H11143,"Conjunctival xerosis NOS, bilateral",雙側眼結膜乾燥症
+802,H11149,"Conjunctival xerosis NOS, unspecified eye",未特定側性之結膜乾燥症
+803,H1115,Pinguecula,眼瞼裂斑
+804,H11151,"Pinguecula, right eye",右側眼瞼裂斑
+805,H11152,"Pinguecula, left eye",左側眼瞼裂斑
+806,H11153,"Pinguecula, bilateral",雙側眼瞼裂斑
+807,H11159,"Pinguecula, unspecified eye",未特定側性之瞼裂斑
+808,H112,Conjunctival scars,結膜結痂
+809,H1121,Conjunctival adhesions and strands (localized),結膜局部沾黏
+810,H11211,"Conjunctival adhesions and strands (localized), right eye",右側眼結膜局部沾黏
+811,H11212,"Conjunctival adhesions and strands (localized), left eye",左側眼結膜局部沾黏
+812,H11213,"Conjunctival adhesions and strands (localized), bilateral",雙側眼結膜局部沾黏
+813,H11219,"Conjunctival adhesions and strands (localized), unspecified eye",未特定側性之結膜局部沾黏
+814,H1122,Conjunctival granuloma,結膜肉芽腫
+815,H11221,"Conjunctival granuloma, right eye",右側眼結膜肉芽腫
+816,H11222,"Conjunctival granuloma, left eye",左側眼結膜肉芽腫
+817,H11223,"Conjunctival granuloma, bilateral",雙側眼結膜肉芽腫
+818,H11229,"Conjunctival granuloma, unspecified",側性之結膜肉芽腫，未特定
+819,H1123,Symblepharon,眼瞼眼球沾黏
+820,H11231,"Symblepharon, right eye",右側眼瞼眼球沾黏
+821,H11232,"Symblepharon, left eye",左側眼瞼眼球沾黏
+822,H11233,"Symblepharon, bilateral",雙側眼瞼眼球沾黏
+823,H11239,"Symblepharon, unspecified eye",未特定側性之眼瞼眼球沾黏
+824,H1124,Scarring of conjunctiva,結膜結痂
+825,H11241,"Scarring of conjunctiva, right eye",右側眼結膜結痂
+826,H11242,"Scarring of conjunctiva, left eye",左側眼結膜結痂
+827,H11243,"Scarring of conjunctiva, bilateral",雙側眼結膜結痂
+828,H11249,"Scarring of conjunctiva, unspecified eye",未特定側性之結膜結痂
+829,H113,Conjunctival hemorrhage,結膜出血
+830,H1130,"Conjunctival hemorrhage, unspecified eye",未特定側性之結膜出血
+831,H1131,"Conjunctival hemorrhage, right eye",右側眼結膜出血
+832,H1132,"Conjunctival hemorrhage, left eye",左側眼結膜出血
+833,H1133,"Conjunctival hemorrhage, bilateral",雙側眼結膜出血
+834,H114,Other conjunctival vascular disorders and cysts,其他結膜血管疾患及囊腫
+835,H1141,Vascular abnormalities of conjunctiva,結膜血管異常
+836,H11411,"Vascular abnormalities of conjunctiva, right eye",右側眼結膜血管異常
+837,H11412,"Vascular abnormalities of conjunctiva, left eye",左側眼結膜血管異常
+838,H11413,"Vascular abnormalities of conjunctiva, bilateral",雙側眼結膜血管異常
+839,H11419,"Vascular abnormalities of conjunctiva, unspecified eye",未特定側性之結膜血管異常
+840,H1142,Conjunctival edema,結膜水腫
+841,H11421,"Conjunctival edema, right eye",右側眼結膜水腫
+842,H11422,"Conjunctival edema, left eye",左側眼結膜水腫
+843,H11423,"Conjunctival edema, bilateral",雙側眼結膜水腫
+844,H11429,"Conjunctival edema, unspecified eye",未特定側性之結膜水腫
+845,H1143,Conjunctival hyperemia,結膜充血
+846,H11431,"Conjunctival hyperemia, right eye",右側眼結膜充血
+847,H11432,"Conjunctival hyperemia, left eye",左側眼結膜充血
+848,H11433,"Conjunctival hyperemia, bilateral",雙側眼結膜充血
+849,H11439,"Conjunctival hyperemia, unspecified eye",未特定側性之結膜充血
+850,H1144,Conjunctival cysts,結膜囊腫
+851,H11441,"Conjunctival cysts, right eye",右側眼結膜囊腫
+852,H11442,"Conjunctival cysts, left eye",左側眼結膜囊腫
+853,H11443,"Conjunctival cysts, bilateral",雙側眼結膜囊腫
+854,H11449,"Conjunctival cysts, unspecified eye",未特定側性之結膜囊腫
+855,H118,Other specified disorders of conjunctiva,結膜其他特定疾患
+856,H1181,Pseudopterygium of conjunctiva,結膜假性翼狀贅肉
+857,H11811,"Pseudopterygium of conjunctiva, right eye",右側眼結膜假性翼狀贅肉
+858,H11812,"Pseudopterygium of conjunctiva, left eye",左側眼結膜假性翼狀贅肉
+859,H11813,"Pseudopterygium of conjunctiva, bilateral",雙側眼結膜假性翼狀贅肉
+860,H11819,"Pseudopterygium of conjunctiva, unspecified eye",未特定側性之結膜假性翼狀贅肉
+861,H1182,Conjunctivochalasis,結膜鬆弛
+862,H11821,"Conjunctivochalasis, right eye",右側眼結膜鬆弛
+863,H11822,"Conjunctivochalasis, left eye",左側眼結膜鬆弛
+864,H11823,"Conjunctivochalasis, bilateral",雙側眼結膜鬆弛
+865,H11829,"Conjunctivochalasis, unspecified eye",未特定側性之結膜鬆弛
+866,H1189,Other specified disorders of conjunctiva,結膜之其他特定疾患
+867,H119,Unspecified disorder of conjunctiva,結膜疾患
+868,H15,Disorders of sclera,鞏膜疾患
+869,H150,Scleritis,鞏膜炎
+870,H1500,Unspecified scleritis,鞏膜炎
+871,H15001,"Unspecified scleritis, right eye",右側眼鞏膜炎
+872,H15002,"Unspecified scleritis, left eye",左側眼鞏膜炎
+873,H15003,"Unspecified scleritis, bilateral",雙側眼鞏膜炎
+874,H15009,"Unspecified scleritis, unspecified eye",未特定側性之鞏膜炎
+875,H1501,Anterior scleritis,前鞏膜炎
+876,H15011,"Anterior scleritis, right eye",右側眼前鞏膜炎
+877,H15012,"Anterior scleritis, left eye",左側眼前鞏膜炎
+878,H15013,"Anterior scleritis, bilateral",雙側眼前鞏膜炎
+879,H15019,"Anterior scleritis, unspecified eye",未特定側性之前鞏膜炎
+880,H1502,Brawny scleritis,Brawny氏鞏膜炎
+881,H15021,"Brawny scleritis, right eye",右側眼Brawny氏鞏膜炎
+882,H15022,"Brawny scleritis, left eye",左側眼Brawny氏鞏膜炎
+883,H15023,"Brawny scleritis, bilateral",雙側眼Brawny氏鞏膜炎
+884,H15029,"Brawny scleritis, unspecified eye",未特定側性之Brawny氏鞏膜炎
+885,H1503,Posterior scleritis,後鞏膜炎
+886,H15031,"Posterior scleritis, right eye",右側眼後鞏膜炎
+887,H15032,"Posterior scleritis, left eye",左側眼後鞏膜炎
+888,H15033,"Posterior scleritis, bilateral",雙側眼後鞏膜炎
+889,H15039,"Posterior scleritis, unspecified eye",未特定側性之後鞏膜炎
+890,H1504,Scleritis with corneal involvement,侵及角膜之鞏膜炎
+891,H15041,"Scleritis with corneal involvement, right eye",右側眼侵及角膜之鞏膜炎
+892,H15042,"Scleritis with corneal involvement, left eye",左側眼侵及角膜之鞏膜炎
+893,H15043,"Scleritis with corneal involvement, bilateral",雙側眼侵及角膜之鞏膜炎
+894,H15049,"Scleritis with corneal involvement, unspecified eye",未特定側性之侵及角膜的鞏膜炎
+895,H1505,Scleromalacia perforans,穿孔性鞏膜軟化
+896,H15051,"Scleromalacia perforans, right eye",右側眼穿孔性鞏膜軟化
+897,H15052,"Scleromalacia perforans, left eye",左側眼穿孔性鞏膜軟化
+898,H15053,"Scleromalacia perforans, bilateral",雙側眼穿孔性鞏膜軟化
+899,H15059,"Scleromalacia perforans, unspecified eye",未特定側性之穿孔性鞏膜軟化
+900,H1509,Other scleritis,其他鞏膜炎
+901,H15091,"Other scleritis, right eye",右側眼其他鞏膜炎
+902,H15092,"Other scleritis, left eye",左側眼其他鞏膜炎
+903,H15093,"Other scleritis, bilateral",雙側眼其他鞏膜炎
+904,H15099,"Other scleritis, unspecified eye",未特定側性之其他鞏膜炎
+905,H151,Episcleritis,上鞏膜炎
+906,H1510,Unspecified episcleritis,上鞏膜炎
+907,H15101,"Unspecified episcleritis, right eye",右側眼上鞏膜炎
+908,H15102,"Unspecified episcleritis, left eye",左側眼上鞏膜炎
+909,H15103,"Unspecified episcleritis, bilateral",雙側眼上鞏膜炎
+910,H15109,"Unspecified episcleritis, unspecified eye",未特定側性之上鞏膜炎
+911,H1511,Episcleritis periodica fugax,眼周期發作性上鞏膜炎
+912,H15111,"Episcleritis periodica fugax, right eye",右側眼周期發作性上鞏膜炎
+913,H15112,"Episcleritis periodica fugax, left eye",左側眼周期發作性上鞏膜炎
+914,H15113,"Episcleritis periodica fugax, bilateral",雙側眼周期發作性上鞏膜炎
+915,H15119,"Episcleritis periodica fugax, unspecified eye",未特定側性之周期發作性上鞏膜炎
+916,H1512,Nodular episcleritis,眼結節性上鞏膜炎
+917,H15121,"Nodular episcleritis, right eye",右側眼結節性上鞏膜炎
+918,H15122,"Nodular episcleritis, left eye",左側眼結節性上鞏膜炎
+919,H15123,"Nodular episcleritis, bilateral",雙側眼結節性上鞏膜炎
+920,H15129,"Nodular episcleritis, unspecified eye",未特定側性之結節性上鞏膜炎
+921,H158,Other disorders of sclera,其他鞏膜疾患
+922,H1581,Equatorial staphyloma,赤道葡萄腫
+923,H15811,"Equatorial staphyloma, right eye",右側眼赤道葡萄腫
+924,H15812,"Equatorial staphyloma, left eye",左側眼赤道葡萄腫
+925,H15813,"Equatorial staphyloma, bilateral",雙側眼赤道葡萄腫
+926,H15819,"Equatorial staphyloma, unspecified eye",未特定側性之赤道葡萄腫
+927,H1582,Localized anterior staphyloma,局部前葡萄腫
+928,H15821,"Localized anterior staphyloma, right eye",右側眼局部前葡萄腫
+929,H15822,"Localized anterior staphyloma, left eye",左側眼局部前葡萄腫
+930,H15823,"Localized anterior staphyloma, bilateral",雙側眼局部前葡萄腫
+931,H15829,"Localized anterior staphyloma, unspecified eye",未特定側性之局部前葡萄腫
+932,H1583,Staphyloma posticum,後部葡萄腫
+933,H15831,"Staphyloma posticum, right eye",右側眼後部葡萄腫
+934,H15832,"Staphyloma posticum, left eye",左側眼後部葡萄腫
+935,H15833,"Staphyloma posticum, bilateral",雙側眼後部葡萄腫
+936,H15839,"Staphyloma posticum, unspecified eye",未特定側性之後部葡萄腫
+937,H1584,Scleral ectasia,鞏膜擴張
+938,H15841,"Scleral ectasia, right eye",右側眼鞏膜擴張
+939,H15842,"Scleral ectasia, left eye",左側眼鞏膜擴張
+940,H15843,"Scleral ectasia, bilateral",雙側眼鞏膜擴張
+941,H15849,"Scleral ectasia, unspecified eye",未特定側性之鞏膜擴張
+942,H1585,Ring staphyloma,環狀葡萄腫
+943,H15851,"Ring staphyloma, right eye",右側眼環狀葡萄腫
+944,H15852,"Ring staphyloma, left eye",左側眼環狀葡萄腫
+945,H15853,"Ring staphyloma, bilateral",雙側眼環狀葡萄腫
+946,H15859,"Ring staphyloma, unspecified eye",未特定側性之環狀葡萄腫
+947,H1589,Other disorders of sclera,其他鞏膜疾患
+948,H159,Unspecified disorder of sclera,鞏膜疾患
+949,H16,Keratitis,角膜炎
+950,H160,Corneal ulcer,角膜潰瘍
+951,H1600,Unspecified corneal ulcer,角膜潰瘍
+952,H16001,"Unspecified corneal ulcer, right eye",右側眼角膜潰瘍
+953,H16002,"Unspecified corneal ulcer, left eye",左側眼角膜潰瘍
+954,H16003,"Unspecified corneal ulcer, bilateral",雙側眼角膜潰瘍
+955,H16009,"Unspecified corneal ulcer, unspecified eye",未特定側性之角膜潰瘍
+956,H1601,Central corneal ulcer,中央角膜潰瘍
+957,H16011,"Central corneal ulcer, right eye",右側眼中央角膜潰瘍
+958,H16012,"Central corneal ulcer, left eye",左側眼中央角膜潰瘍
+959,H16013,"Central corneal ulcer, bilateral",雙側眼中央角膜潰瘍
+960,H16019,"Central corneal ulcer, unspecified eye",未特定側性之中央角膜潰瘍
+961,H1602,Ring corneal ulcer,環狀角膜潰瘍
+962,H16021,"Ring corneal ulcer, right eye",右側眼環狀角膜潰瘍
+963,H16022,"Ring corneal ulcer, left eye",左側眼環狀角膜潰瘍
+964,H16023,"Ring corneal ulcer, bilateral",雙側眼環狀角膜潰瘍
+965,H16029,"Ring corneal ulcer, unspecified eye",未特定側性之環狀角膜潰瘍
+966,H1603,Corneal ulcer with hypopyon,前房蓄膿性角膜潰瘍
+967,H16031,"Corneal ulcer with hypopyon, right eye",右側眼前房蓄膿性角膜潰瘍
+968,H16032,"Corneal ulcer with hypopyon, left eye",左側眼前房蓄膿性角膜潰瘍
+969,H16033,"Corneal ulcer with hypopyon, bilateral",雙側眼前房蓄膿性角膜潰瘍
+970,H16039,"Corneal ulcer with hypopyon, unspecified eye",未特定側性之前房蓄膿性角膜潰瘍
+971,H1604,Marginal corneal ulcer,邊緣性角膜潰瘍
+972,H16041,"Marginal corneal ulcer, right eye",右側眼邊緣性角膜潰瘍
+973,H16042,"Marginal corneal ulcer, left eye",左側眼邊緣性角膜潰瘍
+974,H16043,"Marginal corneal ulcer, bilateral",雙側眼邊緣性角膜潰瘍
+975,H16049,"Marginal corneal ulcer, unspecified eye",未特定側性之邊緣性角膜潰瘍
+976,H1605,Mooren's corneal ulcer,Mooren氏角膜潰瘍
+977,H16051,"Mooren's corneal ulcer, right eye",右側眼Mooren氏角膜潰瘍
+978,H16052,"Mooren's corneal ulcer, left eye",左側眼Mooren氏角膜潰瘍
+979,H16053,"Mooren's corneal ulcer, bilateral",雙側眼Mooren氏角膜潰瘍
+980,H16059,"Mooren's corneal ulcer, unspecified eye",未特定側性之Mooren氏角膜潰瘍
+981,H1606,Mycotic corneal ulcer,黴菌性角膜潰瘍
+982,H16061,"Mycotic corneal ulcer, right eye",右側眼黴菌性角膜潰瘍
+983,H16062,"Mycotic corneal ulcer, left eye",左側眼黴菌性角膜潰瘍
+984,H16063,"Mycotic corneal ulcer, bilateral",雙側眼黴菌性角膜潰瘍
+985,H16069,"Mycotic corneal ulcer, unspecified eye",未特定側性之黴菌性角膜潰瘍
+986,H1607,Perforated corneal ulcer,穿孔性角膜潰瘍
+987,H16071,"Perforated corneal ulcer, right eye",右側眼穿孔性角膜潰瘍
+988,H16072,"Perforated corneal ulcer, left eye",左側眼穿孔性角膜潰瘍
+989,H16073,"Perforated corneal ulcer, bilateral",雙側眼穿孔性角膜潰瘍
+990,H16079,"Perforated corneal ulcer, unspecified eye",未特定側性之穿孔性角膜潰瘍
+991,H161,Other and unspecified superficial keratitis without conjunctivitis,其他及未特定表層角膜炎未併有結膜炎
+992,H1610,Unspecified superficial keratitis,表層角膜炎
+993,H16101,"Unspecified superficial keratitis, right eye",右側眼表層角膜炎
+994,H16102,"Unspecified superficial keratitis, left eye",左側眼表層角膜炎
+995,H16103,"Unspecified superficial keratitis, bilateral",雙側眼表層角膜炎
+996,H16109,"Unspecified superficial keratitis, unspecified eye",未特定側性之表層角膜炎
+997,H1611,Macular keratitis,斑狀角膜炎
+998,H16111,"Macular keratitis, right eye",右側眼斑狀角膜炎
+999,H16112,"Macular keratitis, left eye",左側眼斑狀角膜炎
+1000,H16113,"Macular keratitis, bilateral",雙側眼斑狀角膜炎
+1001,H16119,"Macular keratitis, unspecified eye",未特定側性之斑狀角膜炎
+1002,H1612,Filamentary keratitis,絲狀性角膜炎
+1003,H16121,"Filamentary keratitis, right eye",右側眼絲狀性角膜炎
+1004,H16122,"Filamentary keratitis, left eye",左側眼絲狀性角膜炎
+1005,H16123,"Filamentary keratitis, bilateral",雙側眼絲狀性角膜炎
+1006,H16129,"Filamentary keratitis, unspecified eye",未特定側性之絲狀性角膜炎
+1007,H1613,Photokeratitis,光照性角膜炎
+1008,H16131,"Photokeratitis, right eye",右側眼光照性角膜炎
+1009,H16132,"Photokeratitis, left eye",左側眼光照性角膜炎
+1010,H16133,"Photokeratitis, bilateral",雙側眼光照性角膜炎
+1011,H16139,"Photokeratitis, unspecified eye",未特定側性之光照性角膜炎
+1012,H1614,Punctate keratitis,點狀角膜炎
+1013,H16141,"Punctate keratitis, right eye",右側眼點狀角膜炎
+1014,H16142,"Punctate keratitis, left eye",左側眼點狀角膜炎
+1015,H16143,"Punctate keratitis, bilateral",雙側眼點狀角膜炎
+1016,H16149,"Punctate keratitis, unspecified eye",未特定側性之點狀角膜炎
+1017,H162,keratoconjunctivitis,角膜結膜炎
+1018,H1620,Unspecified keratoconjunctivitis,角膜結膜炎
+1019,H16201,"Unspecified keratoconjunctivitis, right eye",右側眼角膜結膜炎
+1020,H16202,"Unspecified keratoconjunctivitis, left eye",左側眼角膜結膜炎
+1021,H16203,"Unspecified keratoconjunctivitis, bilateral",雙側眼角膜結膜炎
+1022,H16209,"Unspecified keratoconjunctivitis, unspecified eye",未特定側性之角膜結膜炎
+1023,H1621,Exposure keratoconjunctivitis,曝露性角膜結膜炎
+1024,H16211,"Exposure keratoconjunctivitis, right eye",右側眼曝露性角膜結膜炎
+1025,H16212,"Exposure keratoconjunctivitis, left eye",左側眼曝露性角膜結膜炎
+1026,H16213,"Exposure keratoconjunctivitis, bilateral",雙側眼曝露性角膜結膜炎
+1027,H16219,"Exposure keratoconjunctivitis, unspecified eye",未特定側性之曝露性角膜結膜炎
+1028,H1622,"Keratoconjunctivitis sicca, not specified as Sjögren's",乾性角膜結膜炎，未特定為Sjoren氏徵候群
+1029,H16221,"Keratoconjunctivitis sicca, not specified as Sjogren's, right eye",右側眼乾性角膜結膜炎，未特定為Sjoren氏徵候群
+1030,H16222,"Keratoconjunctivitis sicca, not specified as Sjogren's, left eye",左側眼乾性角膜結膜炎，未特定為Sjoren氏徵候群
+1031,H16223,"Keratoconjunctivitis sicca, not specified as Sjogren's, bilateral",雙側眼乾性角膜結膜炎，未特定為Sjoren氏徵候群
+1032,H16229,"Keratoconjunctivitis sicca, not specified as Sjogren's, unspecified eye",未特定側性之乾性角膜結膜炎，未特定為Sjoren氏徵候群
+1033,H1623,Neurotrophic keratoconjunctivitis,神經失養性角膜結膜炎
+1034,H16231,"Neurotrophic keratoconjunctivitis, right eye",右側眼神經失養性角膜結膜炎
+1035,H16232,"Neurotrophic keratoconjunctivitis, left eye",左側眼神經失養性角膜結膜炎
+1036,H16233,"Neurotrophic keratoconjunctivitis, bilateral",雙側眼神經失養性角膜結膜炎
+1037,H16239,"Neurotrophic keratoconjunctivitis, unspecified eye",未特定側性之神經失養性角膜結膜炎
+1038,H1624,Ophthalmia nodosa,結節性眼炎
+1039,H16241,"Ophthalmia nodosa, right eye",右側眼結節性眼炎
+1040,H16242,"Ophthalmia nodosa, left eye",左側眼結節性眼炎
+1041,H16243,"Ophthalmia nodosa, bilateral",雙側眼結節性眼炎
+1042,H16249,"Ophthalmia nodosa, unspecified eye",未特定側性之結節性眼炎
+1043,H1625,Phlyctenular keratoconjunctivitis,小水皰性角膜結膜炎
+1044,H16251,"Phlyctenular keratoconjunctivitis, right eye",右側眼小水皰性角膜結膜炎
+1045,H16252,"Phlyctenular keratoconjunctivitis, left eye",左側眼小水皰性角膜結膜炎
+1046,H16253,"Phlyctenular keratoconjunctivitis, bilateral",雙側眼小水皰性角膜結膜炎
+1047,H16259,"Phlyctenular keratoconjunctivitis, unspecified eye",未特定側性之小水皰性角膜結膜炎
+1048,H1626,"Vernal keratoconjunctivitis, with limbar and corneal involvement",侵及角膜輪部及角膜之春季型結膜炎
+1049,H16261,"Vernal keratoconjunctivitis, with limbar and corneal involvement, right eye",右側眼侵及角膜輪部及角膜之春季型結膜炎
+1050,H16262,"Vernal keratoconjunctivitis, with limbar and corneal involvement, left eye",左側眼侵及角膜輪部及角膜之春季型結膜炎
+1051,H16263,"Vernal keratoconjunctivitis, with limbar and corneal involvement, bilateral",雙側眼侵及角膜輪部及角膜之春季型結膜炎
+1052,H16269,"Vernal keratoconjunctivitis, with limbar and corneal involvement, unspecified eye",未特定側性之侵及角膜輪部及角膜之春季型結膜炎
+1053,H1629,Other keratoconjunctivitis,其它角膜結膜炎
+1054,H16291,"Other keratoconjunctivitis, right eye",右側眼其它角膜結膜炎
+1055,H16292,"Other keratoconjunctivitis, left eye",左側眼其它角膜結膜炎
+1056,H16293,"Other keratoconjunctivitis, bilateral",雙側眼其它角膜結膜炎
+1057,H16299,"Other keratoconjunctivitis, unspecified eye",未特定側性之其它角膜結膜炎
+1058,H163,Interstitial and deep keratitis,間質性及深層角膜炎
+1059,H1630,Unspecified interstitial keratitis,間質性角膜炎
+1060,H16301,"Unspecified interstitial keratitis, right eye",右側眼間質性角膜炎
+1061,H16302,"Unspecified interstitial keratitis, left eye",左側眼間質性角膜炎
+1062,H16303,"Unspecified interstitial keratitis, bilateral",雙側眼間質性角膜炎
+1063,H16309,"Unspecified interstitial keratitis, unspecified eye",未特定側性之間質性角膜炎
+1064,H1631,Corneal abscess,角膜膿瘍
+1065,H16311,"Corneal abscess, right eye",右側眼角膜膿瘍
+1066,H16312,"Corneal abscess, left eye",左側眼角膜膿瘍
+1067,H16313,"Corneal abscess, bilateral",雙側眼角膜膿瘍
+1068,H16319,"Corneal abscess, unspecified eye",未特定側性之角膜膿瘍
+1069,H1632,Diffuse interstitial keratitis,濔漫性間質性角膜炎
+1070,H16321,"Diffuse interstitial keratitis, right eye",右側眼濔漫性間質性角膜炎
+1071,H16322,"Diffuse interstitial keratitis, left eye",左側眼濔漫性間質性角膜炎
+1072,H16323,"Diffuse interstitial keratitis, bilateral",雙側眼濔漫性間質性角膜炎
+1073,H16329,"Diffuse interstitial keratitis, unspecified eye",未特定側性之濔漫性間質性角膜炎
+1074,H1633,Sclerosing keratitis,硬化性角膜炎
+1075,H16331,"Sclerosing keratitis, right eye",右側眼硬化性角膜炎
+1076,H16332,"Sclerosing keratitis, left eye",左側眼硬化性角膜炎
+1077,H16333,"Sclerosing keratitis, bilateral",雙側眼硬化性角膜炎
+1078,H16339,"Sclerosing keratitis, unspecified eye",未特定側性之硬化性角膜炎
+1079,H1639,Other interstitial and deep keratitis,其他間質性及深層角膜炎
+1080,H16391,"Other interstitial and deep keratitis, right eye",右側眼其他間質性及深層角膜炎
+1081,H16392,"Other interstitial and deep keratitis, left eye",左側眼其他間質性及深層角膜炎
+1082,H16393,"Other interstitial and deep keratitis, bilateral",雙側眼其他間質性及深層角膜炎
+1083,H16399,"Other interstitial and deep keratitis, unspecified eye",未特定側性之其他間質性及深層角膜炎
+1084,H164,Corneal neovascularization,角膜新生血管形成
+1085,H1640,"Unspecified corneal neovascularization,",角膜新生血管
+1086,H16401,"Unspecified corneal neovascularization, right eye",右側眼角膜新生血管
+1087,H16402,"Unspecified corneal neovascularization, left eye",左側眼角膜新生血管
+1088,H16403,"Unspecified corneal neovascularization, bilateral",雙側眼角膜新生血管
+1089,H16409,"Unspecified corneal neovascularization, unspecified eye",未特定側性之角膜新生血管
+1090,H1641,Ghost vessels (corneal),(角膜的)血管影
+1091,H16411,"Ghost vessels (corneal), right eye",右側眼(角膜的)血管影
+1092,H16412,"Ghost vessels (corneal), left eye",左側眼(角膜的)血管影
+1093,H16413,"Ghost vessels (corneal), bilateral",雙側眼(角膜的)血管影
+1094,H16419,"Ghost vessels (corneal), unspecified eye",未特定側性之(角膜的)血管影
+1095,H1642,Pannus (corneal),角膜血管翳
+1096,H16421,"Pannus (corneal), right eye",右側眼角膜血管翳
+1097,H16422,"Pannus (corneal), left eye",左側眼角膜血管翳
+1098,H16423,"Pannus (corneal), bilateral",雙側眼角膜血管翳
+1099,H16429,"Pannus (corneal), unspecified eye",未特定側性之角膜血管翳
+1100,H1643,Localized vascularization of cornea,角膜局部血管增生
+1101,H16431,"Localized vascularization of cornea, right eye",右側眼角膜局部新生血管形成
+1102,H16432,"Localized vascularization of cornea, left eye",左側眼角膜局部新生血管形成
+1103,H16433,"Localized vascularization of cornea, bilateral",雙側眼角膜局部新生血管形成
+1104,H16439,"Localized vascularization of cornea, unspecified eye",未特定側性之角膜局部新生血管形成
+1105,H1644,Deep vascularization of cornea,角膜深層血管增生
+1106,H16441,"Deep vascularization of cornea, right eye",右側眼角膜深層新生血管形成
+1107,H16442,"Deep vascularization of cornea, left eye",左側眼角膜深層新生血管形成
+1108,H16443,"Deep vascularization of cornea, bilateral",雙側眼角膜深層新生血管形成
+1109,H16449,"Deep vascularization of cornea, unspecified eye",未特定側性之角膜深層新生血管形成
+1110,H168,Other keratitis,其他形態之角膜炎
+1111,H169,Unspecified keratitis,角膜炎
+1112,H17,Corneal scars and opacities,角膜瘢痕和混濁
+1113,H170,Adherent leukoma,黏連性角膜白斑
+1114,H1700,"Adherent leukoma, unspecified eye",未特定側性之黏連性角膜白斑
+1115,H1701,"Adherent leukoma, right eye",右側眼黏連性角膜白斑
+1116,H1702,"Adherent leukoma, left eye",左側眼黏連性角膜白斑
+1117,H1703,"Adherent leukoma, bilateral",雙側眼黏連性角膜白斑
+1118,H171,Central corneal opacity,中心性角膜混濁
+1119,H1710,"Central corneal opacity, unspecified eye",未特定側性之中心性角膜混濁
+1120,H1711,"Central corneal opacity, right eye",右側眼中心性角膜混濁
+1121,H1712,"Central corneal opacity, left eye",左側眼中心性角膜混濁
+1122,H1713,"Central corneal opacity, bilateral",雙側眼中心性角膜混濁
+1123,H178,Other corneal scars and opacities,其他角膜瘢痕和混濁
+1124,H1781,Minor opacity of cornea,角膜輕微混濁
+1125,H17811,"Minor opacity of cornea, right eye",右側眼角膜輕微混濁
+1126,H17812,"Minor opacity of cornea, left eye",左側眼角膜輕微混濁
+1127,H17813,"Minor opacity of cornea, bilateral",雙側眼角膜輕微混濁
+1128,H17819,"Minor opacity of cornea, unspecified eye",未特定側性之角膜輕微混濁
+1129,H1782,Peripheral opacity of cornea,週邊性角膜混濁
+1130,H17821,"Peripheral opacity of cornea, right eye",右側眼週邊性角膜混濁
+1131,H17822,"Peripheral opacity of cornea, left eye",左側眼週邊性角膜混濁
+1132,H17823,"Peripheral opacity of cornea, bilateral",雙側眼週邊性角膜混濁
+1133,H17829,"Peripheral opacity of cornea, unspecified eye",週邊性角膜混濁
+1134,H1789,Other corneal scars and opacities,其它角膜瘢痕和混濁
+1135,H179,Unspecified corneal scar and opacity,角膜瘢痕和混濁
+1136,H18,Other disorders of cornea,角膜其他疾患
+1137,H180,Corneal pigmentations and deposits,角膜色素沈著及沉澱物
+1138,H1800,Unspecified corneal deposit,角膜沈澱物
+1139,H18001,"Unspecified corneal deposit, right eye",右側眼角膜沈澱物
+1140,H18002,"Unspecified corneal deposit, left eye",左側眼角膜沈澱物
+1141,H18003,"Unspecified corneal deposit, bilateral",雙側眼角膜沈澱物
+1142,H18009,"Unspecified corneal deposit, unspecified eye",未特定側性之角膜沈澱物
+1143,H1801,Anterior corneal pigmentations,角膜前部色素沈著
+1144,H18011,"Anterior corneal pigmentations, right eye",右側眼角膜前部色素沈著
+1145,H18012,"Anterior corneal pigmentations, left eye",左側眼角膜前部色素沈著
+1146,H18013,"Anterior corneal pigmentations, bilateral",雙側眼角膜前部色素沈著
+1147,H18019,"Anterior corneal pigmentations, unspecified eye",未特定側性之角膜前部色素沈著
+1148,H1802,Argentous corneal deposits,角膜銀沈澱物
+1149,H18021,"Argentous corneal deposits, right eye",右側眼角膜銀沈澱物
+1150,H18022,"Argentous corneal deposits, left eye",左側眼角膜銀沈澱物
+1151,H18023,"Argentous corneal deposits, bilateral",雙側眼角膜銀沈澱物
+1152,H18029,"Argentous corneal deposits, unspecified eye",未特定側性之角膜銀沈澱物
+1153,H1803,Corneal deposits in metabolic disorders,與新陳代謝疾患有關之角膜沈澱物
+1154,H18031,"Corneal deposits in metabolic disorders, right eye",與新陳代謝疾患有關之其他角膜沈澱物，右側眼
+1155,H18032,"Corneal deposits in metabolic disorders, left eye",與新陳代謝疾患有關之其他角膜沈澱物，左側眼
+1156,H18033,"Corneal deposits in metabolic disorders, bilateral",與新陳代謝疾患有關之其他角膜沈澱物，雙側眼
+1157,H18039,"Corneal deposits in metabolic disorders, unspecified eye",與新陳代謝疾患有關之其他角膜沈澱物，未特定側性
+1158,H1804,Kayser-Fleischer ring,Kayser-Fleischer氏環
+1159,H18041,"Kayser-Fleischer ring, right eye",右側眼Kayser-Fleischer氏環
+1160,H18042,"Kayser-Fleischer ring, left eye",左側眼Kayser-Fleischer氏環
+1161,H18043,"Kayser-Fleischer ring, bilateral",雙側眼Kayser-Fleischer氏環
+1162,H18049,"Kayser-Fleischer ring, unspecified eye",未特定側性之Kayser-Fleischer氏環
+1163,H1805,Posterior corneal pigmentations,角膜後部色素沈著
+1164,H18051,"Posterior corneal pigmentations, right eye",右側眼角膜後部色素沈著
+1165,H18052,"Posterior corneal pigmentations, left eye",左側眼角膜後部色素沈著
+1166,H18053,"Posterior corneal pigmentations, bilateral",雙側眼角膜後部色素沈著
+1167,H18059,"Posterior corneal pigmentations, unspecified eye",未特定側性之角膜後部色素沈著
+1168,H1806,Stromal corneal pigmentations,角膜基質色素沈著
+1169,H18061,"Stromal corneal pigmentations, right eye",右側眼角膜基質色素沈著
+1170,H18062,"Stromal corneal pigmentations, left eye",左側眼角膜基質色素沈著
+1171,H18063,"Stromal corneal pigmentations, bilateral",雙側眼角膜基質色素沈著
+1172,H18069,"Stromal corneal pigmentations, unspecified eye",未特定側性之角膜基質色素沈著
+1173,H181,Bullous keratopathy,水泡狀角膜病變
+1174,H1810,"Bullous keratopathy, unspecified eye",未特定側性之水泡狀角膜病變
+1175,H1811,"Bullous keratopathy, right eye",右側眼水泡狀角膜病變
+1176,H1812,"Bullous keratopathy, left eye",左側眼水泡狀角膜病變
+1177,H1813,"Bullous keratopathy, bilateral",雙側眼水泡狀角膜病變
+1178,H182,Other and unspecified corneal edema,其他及未特定之角膜水腫
+1179,H1820,Unspecified corneal edema,角膜水腫
+1180,H1821,Corneal edema secondary to contact lens,因配帶隱形眼鏡造成之角膜水腫
+1181,H18211,"Corneal edema secondary to contact lens, right eye",右側眼因配帶隱形眼鏡造成之角膜水腫
+1182,H18212,"Corneal edema secondary to contact lens, left eye",左側眼因配帶隱形眼鏡造成之角膜水腫
+1183,H18213,"Corneal edema secondary to contact lens, bilateral",雙側眼因配帶隱形眼鏡造成之角膜水腫
+1184,H18219,"Corneal edema secondary to contact lens, unspecified eye",未特定側性之因配帶隱形眼鏡造成之角膜水腫
+1185,H1822,Idiopathic corneal edema,原發性角膜水腫
+1186,H18221,"Idiopathic corneal edema, right eye",右側眼原發性角膜水腫
+1187,H18222,"Idiopathic corneal edema, left eye",左側眼原發性角膜水腫
+1188,H18223,"Idiopathic corneal edema, bilateral",雙側眼原發性角膜水腫
+1189,H18229,"Idiopathic corneal edema, unspecified eye",未特定側性之原發性角膜水腫
+1190,H1823,Secondary corneal edema,續發性角膜水腫
+1191,H18231,"Secondary corneal edema, right eye",右側眼續發性角膜水腫
+1192,H18232,"Secondary corneal edema, left eye",左側眼續發性角膜水腫
+1193,H18233,"Secondary corneal edema, bilateral",雙側眼續發性角膜水腫
+1194,H18239,"Secondary corneal edema, unspecified eye",未特定側性之續發性角膜水腫
+1195,H183,Changes of corneal membranes,角膜層變化
+1196,H1830,Unspecified corneal membrane change,角膜層之變化
+1197,H1831,Folds and rupture in Bowman's membrane,Bowman層皺褶及破裂
+1198,H18311,"Folds and rupture in Bowman's membrane, right eye",右側眼Bowman層皺褶及破裂
+1199,H18312,"Folds and rupture in Bowman's membrane, left eye",左側眼Bowman層皺褶及破裂
+1200,H18313,"Folds and rupture in Bowman's membrane, bilateral",雙側眼Bowman層皺褶及破裂
+1201,H18319,"Folds and rupture in Bowman's membrane, unspecified eye",未特定側性之Bowman層皺褶及破裂
+1202,H1832,Folds in Descemet's membrane,Descenet層皺褶
+1203,H18321,"Folds in Descemet's membrane, right eye",右側眼Descenet層皺褶
+1204,H18322,"Folds in Descemet's membrane, left eye",左側眼Descenet層皺褶
+1205,H18323,"Folds in Descemet's membrane, bilateral",雙側眼Descenet層皺褶
+1206,H18329,"Folds in Descemet's membrane, unspecified eye",未特定側性之Descenet層皺褶
+1207,H1833,Rupture in Descemet's membrane,Descemet層破裂
+1208,H18331,"Rupture in Descemet's membrane, right eye",右側眼Descemet層破裂
+1209,H18332,"Rupture in Descemet's membrane, left eye",左側眼Descemet層破裂
+1210,H18333,"Rupture in Descemet's membrane, bilateral",雙側眼Descemet層破裂
+1211,H18339,"Rupture in Descemet's membrane, unspecified eye",未特定側性之Descemet層破裂
+1212,H184,Corneal degeneration,角膜退化
+1213,H1840,Unspecified corneal degeneration,角膜退化
+1214,H1841,Arcus senilis,老年環
+1215,H18411,"Arcus senilis, right eye",右側眼老年環
+1216,H18412,"Arcus senilis, left eye",左側眼老年環
+1217,H18413,"Arcus senilis, bilateral",雙側眼老年環
+1218,H18419,"Arcus senilis, unspecified eye",未特定側性之老年環
+1219,H1842,Band keratopathy,帶狀角膜病變
+1220,H18421,"Band keratopathy, right eye",右側眼帶狀角膜病變
+1221,H18422,"Band keratopathy, left eye",左側眼帶狀角膜病變
+1222,H18423,"Band keratopathy, bilateral",雙側眼帶狀角膜病變
+1223,H18429,"Band keratopathy, unspecified eye",未特定側性之帶狀角膜病變
+1224,H1843,Other calcerous corneal degeneration,角膜其他鈣變性退化
+1225,H1844,Keratomalacia,角膜軟化症
+1226,H18441,"Keratomalacia, right eye",右側眼角膜軟化症
+1227,H18442,"Keratomalacia, left eye",左側眼角膜軟化症
+1228,H18443,"Keratomalacia, bilateral",雙側眼角膜軟化症
+1229,H18449,"Keratomalacia, unspecified eye",未特定側性之角膜軟化症
+1230,H1845,Nodular corneal degeneration,角膜結節性退化
+1231,H18451,"Nodular corneal degeneration, right eye",右側眼角膜結節性退化
+1232,H18452,"Nodular corneal degeneration, left eye",左側眼角膜結節性退化
+1233,H18453,"Nodular corneal degeneration, bilateral",雙側眼角膜結節性退化
+1234,H18459,"Nodular corneal degeneration, unspecified eye",未特定側性之角膜結節性退化
+1235,H1846,Peripheral corneal degeneration,周邊角膜退化
+1236,H18461,"Peripheral corneal degeneration, right eye",右側眼周邊角膜退化
+1237,H18462,"Peripheral corneal degeneration, left eye",左側眼周邊角膜退化
+1238,H18463,"Peripheral corneal degeneration, bilateral",雙側眼周邊角膜退化
+1239,H18469,"Peripheral corneal degeneration, unspecified eye",未特定側性之周邊角膜退化
+1240,H1849,Other corneal degeneration,其他角膜退化
+1241,H185,Herreditary corneal dystrophies,遺傳性角膜失養症
+1242,H1850,Unspecified hereditary corneal dystrophies,遺傳性角膜失養症
+1243,H1851,Endothelial corneal dystrophy,角膜內皮失養症
+1244,H1852,Epithelial (juvenile) corneal dystrophy,少年型角膜上皮失養症
+1245,H1853,Granular corneal dystrophy,角膜顆粒狀失養症
+1246,H1854,Lattice corneal dystrophy,角膜格子狀失養症
+1247,H1855,Macular corneal dystrophy,角膜斑狀失養症
+1248,H1859,Other hereditary corneal dystrophies,其他遺傳性角膜失養症
+1249,H186,Keratoconus,圓錐狀角膜
+1250,H1860,"Keratoconus, unspecified",圓錐狀角膜
+1251,H18601,"Keratoconus, unspecified, right eye",右側眼圓錐狀角膜
+1252,H18602,"Keratoconus, unspecified, left eye",左側眼圓錐狀角膜
+1253,H18603,"Keratoconus, unspecified, bilateral",雙側眼圓錐狀角膜
+1254,H18609,"Keratoconus, unspecified, unspecified eye",未特定側性之圓錐狀角膜
+1255,H1861,"Keratoconus, stable",圓錐狀角膜，穩定狀況
+1256,H18611,"Keratoconus, stable, right eye",右側眼圓錐狀角膜，穩定狀況
+1257,H18612,"Keratoconus, stable, left eye",左側眼圓錐狀角膜，穩定狀況
+1258,H18613,"Keratoconus, stable, bilateral",雙側眼圓錐狀角膜，穩定狀況
+1259,H18619,"Keratoconus, stable, unspecified eye",未特定側性之圓錐狀角膜，穩定狀況
+1260,H1862,"Keratoconus, unstable",圓錐狀角膜，不穩定狀況
+1261,H18621,"Keratoconus, unstable, right eye",右側眼圓錐狀角膜，不穩定狀況
+1262,H18622,"Keratoconus, unstable, left eye",左側眼圓錐狀角膜，不穩定狀況
+1263,H18623,"Keratoconus, unstable, bilateral",雙側眼圓錐狀角膜，不穩定狀況
+1264,H18629,"Keratoconus, unstable, unspecified eye",未特定側性之圓錐狀角膜，不穩定狀況
+1265,H187,Other and unspecified corneal deformities,其他及未特定之角膜畸形
+1266,H1870,Unspecified corneal deformity,角膜畸形
+1267,H1871,Corneal staphyloma,角膜膨出
+1268,H18711,"Corneal ectasia, right eye",右側眼角膜膨出
+1269,H18712,"Corneal ectasia, left eye",左側眼角膜膨出
+1270,H18713,"Corneal ectasia, bilateral",雙側眼角膜膨出
+1271,H18719,"Corneal ectasia, unspecified eye",未特定側性之角膜膨出
+1272,H1872,Corneal staphyloma,角膜葡萄腫
+1273,H18721,"Corneal staphyloma, right eye",右側眼角膜葡萄腫
+1274,H18722,"Corneal staphyloma, left eye",左側眼角膜葡萄腫
+1275,H18723,"Corneal staphyloma, bilateral",雙側眼角膜葡萄腫
+1276,H18729,"Corneal staphyloma, unspecified eye",未特定側性之角膜葡萄腫
+1277,H1873,Descemetocele,後彈性層膨出
+1278,H18731,"Descemetocele, right eye",右側眼後彈性層膨出
+1279,H18732,"Descemetocele, left eye",左側眼後彈性層膨出
+1280,H18733,"Descemetocele, bilateral",雙側眼後彈性層膨出
+1281,H18739,"Descemetocele, unspecified eye",未特定側性之後彈性層膨出
+1282,H1879,Other corneal deformities,其它角膜畸形
+1283,H18791,"Other corneal deformities, right eye",右側眼之其它角膜畸形
+1284,H18792,"Other corneal deformities, left eye",左側眼之其它角膜畸形
+1285,H18793,"Other corneal deformities, bilateral",雙側眼之其它角膜畸形
+1286,H18799,"Other corneal deformities, unspecified eye",未特定側性之其它角膜畸形
+1287,H188,Other specified disorders of cornea,其他特定之角膜疾患
+1288,H1881,Anesthesia and hypoesthesia of cornea,角膜麻木及感覺遲鈍
+1289,H18811,"Anesthesia and hypoesthesia of cornea, right eye",右側眼角膜麻木及感覺遲鈍
+1290,H18812,"Anesthesia and hypoesthesia of cornea, left eye",左側眼角膜麻木及感覺遲鈍
+1291,H18813,"Anesthesia and hypoesthesia of cornea, bilateral",雙側眼角膜麻木及感覺遲鈍
+1292,H18819,"Anesthesia and hypoesthesia of cornea, unspecified eye",未特定側性之角膜麻木及感覺遲鈍
+1293,H1882,Corneal disorder due to contact lens,因配帶隱形眼鏡造成之角膜疾患
+1294,H18821,"Corneal disorder due to contact lens, right eye",右側眼因配帶隱形眼鏡造成之角膜疾患
+1295,H18822,"Corneal disorder due to contact lens, left eye",左側眼因配帶隱形眼鏡造成之角膜疾患
+1296,H18823,"Corneal disorder due to contact lens, bilateral",雙側眼因配帶隱形眼鏡造成之角膜疾患
+1297,H18829,"Corneal disorder due to contact lens, unspecified eye",未特定側性之因配帶隱形眼鏡造成之角膜疾患
+1298,H1883,Recurrent erosion of cornea,復發性角膜靡爛
+1299,H18831,"Recurrent erosion of cornea, right eye",右側眼復發性角膜靡爛
+1300,H18832,"Recurrent erosion of cornea, left eye",左側眼復發性角膜靡爛
+1301,H18833,"Recurrent erosion of cornea, bilateral",雙側眼復發性角膜靡爛
+1302,H18839,"Recurrent erosion of cornea, unspecified eye",未特定側性之復發性角膜靡爛
+1303,H1889,Other specified disorders of cornea,其他特定角膜疾患
+1304,H18891,"Other specified disorders of cornea, right eye",右側眼之其他特定角膜疾患
+1305,H18892,"Other specified disorders of cornea, left eye",左側眼之其他特定角膜疾患
+1306,H18893,"Other specified disorders of cornea, bilateral",雙側眼之其他特定角膜疾患
+1307,H18899,"Other specified disorders of cornea, unspecified eye",未特定側性之其他特定角膜疾患
+1308,H189,Unspecified disorder of cornea,角膜疾患
+1309,H20,Iridocyclitis,虹膜睫狀體炎
+1310,H200,Acute and subacute iridocyclitis,急性及亞急性虹膜睫狀體炎
+1311,H2000,Unspecified acute and subacute iridocyclitis,急性及亞急性虹膜睫狀體炎
+1312,H2001,Primary iridocyclitis,原發性虹膜睫狀體炎
+1313,H20011,"Primary iridocyclitis, right eye",右側眼原發性虹膜睫狀體炎
+1314,H20012,"Primary iridocyclitis, left eye",左側眼原發性虹膜睫狀體炎
+1315,H20013,"Primary iridocyclitis, bilateral",雙側眼原發性虹膜睫狀體炎
+1316,H20019,"Primary iridocyclitis, unspecified eye",未特定側性之原發性虹膜睫狀體炎
+1317,H2002,Recurrent acute iridocyclitits,復發性急性虹膜睫狀體炎
+1318,H20021,"Recurrent acute iridocyclitits, right eye",右側眼復發性急性虹膜睫狀體炎
+1319,H20022,"Recurrent acute iridocyclitits, left eye",左側眼復發性急性虹膜睫狀體炎
+1320,H20023,"Recurrent acute iridocyclitits, bilateral",雙側眼復發性急性虹膜睫狀體炎
+1321,H20029,"Recurrent acute iridocyclitits, unspecified eye",未特定側性之復發性急性虹膜睫狀體炎
+1322,H2003,Secondary infectious iridocyclitis,續發性感染性虹膜睫狀體炎
+1323,H20031,"Secondary infectious iridocyclitis, right eye",右側眼續發性感染性虹膜睫狀體炎
+1324,H20032,"Secondary infectious iridocyclitis, left eye",左側眼續發性感染性虹膜睫狀體炎
+1325,H20033,"Secondary infectious iridocyclitis, bilateral",雙側眼續發性感染性虹膜睫狀體炎
+1326,H20039,"Secondary infectious iridocyclitis, unspecified eye",未特定側性之續發性感染性虹膜睫狀體炎
+1327,H2004,Secondary noninfectious iridocyclitis,續發性非感染性虹膜睫狀體炎
+1328,H20041,"Secondary noninfectious iridocyclitis, right eye",右側眼續發性非感染性虹膜睫狀體炎
+1329,H20042,"Secondary noninfectious iridocyclitis, left eye",左側眼續發性非感染性虹膜睫狀體炎
+1330,H20043,"Secondary noninfectious iridocyclitis, bilateral",雙側眼續發性非感染性虹膜睫狀體炎
+1331,H20049,"Secondary noninfectious iridocyclitis, unspecified eye",未特定側性之續發性非感染性虹膜睫狀體炎
+1332,H2005,Hypopyon,前房蓄膿
+1333,H20051,"Hypopyon, right eye",右側眼前房蓄膿
+1334,H20052,"Hypopyon, left eye",左側眼前房蓄膿
+1335,H20053,"Hypopyon, bilateral",雙側眼前房蓄膿
+1336,H20059,"Hypopyon, unspecified eye",未特定側性之前房蓄膿
+1337,H201,Chronic iridocyclitis,慢性虹膜睫狀體炎
+1338,H2010,"Chronic iridocyclitis, unspecified eye",未特定側性之慢性虹膜睫狀體炎
+1339,H2011,"Chronic iridocyclitis, right eye",右側眼慢性虹膜睫狀體炎
+1340,H2012,"Chronic iridocyclitis, left eye",左側眼慢性虹膜睫狀體炎
+1341,H2013,"Chronic iridocyclitis, bilateral",雙側眼慢性虹膜睫狀體炎
+1342,H202,Lens-induced iridocyclitis,水晶體導致之虹膜睫狀體炎
+1343,H2020,"Lens-induced iridocyclitis, unspecified eye",未特定側性之水晶體導致之虹膜睫狀體炎
+1344,H2021,"Lens-induced iridocyclitis, right eye",右側眼水晶體導致之虹膜睫狀體炎
+1345,H2022,"Lens-induced iridocyclitis, left eye",左側眼水晶體導致之虹膜睫狀體炎
+1346,H2023,"Lens-induced iridocyclitis, bilateral",雙側眼水晶體導致之虹膜睫狀體炎
+1347,H208,Otther iridocyclitis,其他虹膜睫狀體炎
+1348,H2081,Fuchs' heterochromic cyclitis,Fuchs氏虹膜異色性睫狀體炎
+1349,H20811,"Fuchs' heterochromic cyclitis, right eye",右側眼Fuchs氏虹膜異色性睫狀體炎
+1350,H20812,"Fuchs' heterochromic cyclitis, left eye",左側眼Fuchs氏虹膜異色性睫狀體炎
+1351,H20813,"Fuchs' heterochromic cyclitis, bilateral",雙側眼Fuchs氏虹膜異色性睫狀體炎
+1352,H20819,"Fuchs' heterochromic cyclitis, unspecified eye",未特定側性之Fuchs氏虹膜異色性睫狀體炎
+1353,H2082,Vogt-Koyanagi syndrome,Vogt-Koyanag氏徵候群
+1354,H20821,"Vogt-Koyanagi syndrome, right eye",右側眼Vogt-Koyanag氏徵候群
+1355,H20822,"Vogt-Koyanagi syndrome, left eye",左側眼Vogt-Koyanag氏徵候群
+1356,H20823,"Vogt-Koyanagi syndrome, bilateral",雙側眼Vogt-Koyanag氏徵候群
+1357,H20829,"Vogt-Koyanagi syndrome, unspecified eye",未特定側性之Vogt-Koyanag氏徵候群
+1358,H209,Unspecified iridocyclitis,虹膜睫狀體炎
+1359,H21,Other disorders of iris and ciliary body,虹膜和睫狀體之其他疾患
+1360,H210,Hyphema,前房出血
+1361,H2100,"Hyphema, unspecified eye",未特定側性之前房出血
+1362,H2101,"Hyphema, right eye",右側眼前房出血
+1363,H2102,"Hyphema, left eye",左側眼前房出血
+1364,H2103,"Hyphema, bilateral",雙側眼前房出血
+1365,H211,Other vascular disorders of iris and ciliary body,虹膜和睫狀體之其他血管性疾患
+1366,H211x,Other vascular disorders of iris and ciliary body,虹膜和睫狀體之其他血管性疾患
+1367,H211x1,"Other vascular disorders of iris and ciliary body, right eye",右側眼其它虹膜和睫狀體之血管性疾患
+1368,H211x2,"Other vascular disorders of iris and ciliary body, left eye",左側眼其它虹膜和睫狀體之血管性疾患
+1369,H211x3,"Other vascular disorders of iris and ciliary body, bilateral",雙側眼其它虹膜和睫狀體之血管性疾患
+1370,H211x9,"Other vascular disorders of iris and ciliary body, unspecified eye",未特定側性之其它虹膜和睫狀體的血管性疾患
+1371,H212,Degeneration of iris and ciliary body,虹膜和睫狀體之退化
+1372,H2121,Degeneration of chamber angle,前房隅角退化
+1373,H21211,"Degeneration of chamber angle, right eye",右側眼前房隅角退化
+1374,H21212,"Degeneration of chamber angle, left eye",左側眼前房隅角退化
+1375,H21213,"Degeneration of chamber angle, bilateral",雙側眼前房隅角退化
+1376,H21219,"Degeneration of chamber angle, unspecified eye",未特定側性之前房隅角退化
+1377,H2122,Degeneration of ciliary body,睫狀體退化
+1378,H21221,"Degeneration of ciliary body, right eye",右側眼睫狀體退化
+1379,H21222,"Degeneration of ciliary body, left eye",左側眼睫狀體退化
+1380,H21223,"Degeneration of ciliary body, bilateral",雙側眼睫狀體退化
+1381,H21229,"Degeneration of ciliary body, unspecified eye",未特定側性之睫狀體退化
+1382,H2123,Degeneration of iris (pigmentary),虹膜(色素性)退化
+1383,H21231,"Degeneration of iris (pigmentary), right eye",右側眼色素性虹膜退化
+1384,H21232,"Degeneration of iris (pigmentary), left eye",左側眼色素性虹膜退化
+1385,H21233,"Degeneration of iris (pigmentary), bilateral",雙側眼色素性虹膜退化
+1386,H21239,"Degeneration of iris (pigmentary), unspecified eye",未特定側性之色素性虹膜退化
+1387,H2124,Degeneration of pupillary margin,瞳孔邊緣退化
+1388,H21241,"Degeneration of pupillary margin, right eye",右側眼瞳孔邊緣退化
+1389,H21242,"Degeneration of pupillary margin, left eye",左側眼瞳孔邊緣退化
+1390,H21243,"Degeneration of pupillary margin, bilateral",雙側眼瞳孔邊緣退化
+1391,H21249,"Degeneration of pupillary margin, unspecified eye",未特定側性之瞳孔邊緣退化
+1392,H2125,Iridoschisis,虹膜層裂
+1393,H21251,"Iridoschisis, right eye",右側眼虹膜層裂
+1394,H21252,"Iridoschisis, left eye",左側眼虹膜層裂
+1395,H21253,"Iridoschisis, bilateral",雙側眼虹膜層裂
+1396,H21259,"Iridoschisis, unspecified eye",未特定側性之虹膜層裂
+1397,H2126,Iris atrophy (essential) (progressive),虹膜萎縮(本態性)(進行性)
+1398,H21261,"Iris atrophy (essential) (progressive), right eye",右側眼本態性或進行性虹膜萎縮
+1399,H21262,"Iris atrophy (essential) (progressive), left eye",左側眼本態性或進行性虹膜萎縮
+1400,H21263,"Iris atrophy (essential) (progressive), bilateral",雙側眼本態性或進行性虹膜萎縮
+1401,H21269,"Iris atrophy (essential) (progressive), unspecified eye",未特定側性之本態性或進行性虹膜萎縮
+1402,H2127,Miotic pupillary cyst,縮瞳性瞳孔囊腫
+1403,H21271,"Miotic pupillary cyst, right eye",右側眼縮瞳性瞳孔囊腫
+1404,H21272,"Miotic pupillary cyst, left eye",左側眼縮瞳性瞳孔囊腫
+1405,H21273,"Miotic pupillary cyst, bilateral",雙側眼縮瞳性瞳孔囊腫
+1406,H21279,"Miotic pupillary cyst, unspecified eye",未特定側性之縮瞳性瞳孔囊腫
+1407,H2129,Other iris atrophy,其他虹膜萎縮
+1408,H213,"Cyst of iris, cillary body and anterior chamber",虹膜、睫狀體及前房囊腫
+1409,H2130,"Idiopathic cysts of iris, ciliary body or anterior chamber",虹膜，睫狀體或前房原發性囊腫
+1410,H21301,"Idiopathic cysts of iris, ciliary body or anterior chamber, right eye",右眼虹膜，睫狀體或前房原發性囊腫
+1411,H21302,"Idiopathic cysts of iris, ciliary body or anterior chamber, left eye",左眼虹膜，睫狀體或前房原發性囊腫
+1412,H21303,"Idiopathic cysts of iris, ciliary body or anterior chamber, bilateral",雙側虹膜，睫狀體或前房原發性囊腫
+1413,H21309,"Idiopathic cysts of iris, ciliary body or anterior chamber, unspecified eye",未特定側性虹膜，睫狀體或前房原發性囊腫
+1414,H2131,Exudative cysts of iris or anterior chamber,虹膜或前房滲出性囊腫
+1415,H21311,"Exudative cysts of iris or anterior chamber, right eye",右眼虹膜或前房滲出性囊腫
+1416,H21312,"Exudative cysts of iris or anterior chamber, left eye",左眼虹膜或前房滲出性囊腫
+1417,H21313,"Exudative cysts of iris or anterior chamber, bilateral",雙側虹膜或前房滲出性囊腫
+1418,H21319,"Exudative cysts of iris or anterior chamber, unspecified eye",未特定側性虹膜或前房滲出性囊腫
+1419,H2132,"Implantation cysts of iris, ciliary body or anterior chamber",虹膜，睫狀體或前房植入性囊腫
+1420,H21321,"Implantation cysts of iris, ciliary body or anterior chamber, right eye",右眼虹膜，睫狀體或前房植入性囊腫
+1421,H21322,"Implantation cysts of iris, ciliary body or anterior chamber, left eye",左眼虹膜，睫狀體或前房植入性囊腫
+1422,H21323,"Implantation cysts of iris, ciliary body or anterior chamber, bilateral",雙側虹膜，睫狀體或前房植入性囊腫
+1423,H21329,"Implantation cysts of iris, ciliary body or anterior chamber, unspecified eye",未特定側性虹膜，睫狀體或前房植入性囊腫
+1424,H2133,"Parasitic cyst of iris, ciliary body or anterior chamber",虹膜、睫狀體或前房寄生蟲性囊腫
+1425,H21331,"Parasitic cyst of iris, ciliary body or anterior chamber, right eye",右眼寄生蟲性虹膜、睫狀體或前房囊腫
+1426,H21332,"Parasitic cyst of iris, ciliary body or anterior chamber, left eye",左眼寄生蟲性虹膜、睫狀體或前房囊腫
+1427,H21333,"Parasitic cyst of iris, ciliary body or anterior chamber, bilateral",雙側寄生蟲性虹膜、睫狀體或前房囊腫
+1428,H21339,"Parasitic cyst of iris, ciliary body or anterior chamber, unspecified eye",未特定側性寄生蟲性虹膜、睫狀體或前房囊腫
+1429,H2134,Primary cyst of pars plana,睫狀體扁平部原發性囊腫
+1430,H21341,"Primary cyst of pars plana, right eye",右眼睫狀體扁平部原發性囊腫
+1431,H21342,"Primary cyst of pars plana, left eye",左眼睫狀體扁平部原發性囊腫
+1432,H21343,"Primary cyst of pars plana, bilateral",雙側睫狀體扁平部原發性囊腫
+1433,H21349,"Primary cyst of pars plana, unspecified eye",未特定側性睫狀體扁平部原發性囊腫
+1434,H2135,Exudative cyst of pars plana,睫狀體扁平部滲出性囊腫
+1435,H21351,"Exudative cyst of pars plana, right eye",右眼睫狀體扁平部滲出性囊腫
+1436,H21352,"Exudative cyst of pars plana, left eye",左眼睫狀體扁平部滲出性囊腫
+1437,H21353,"Exudative cyst of pars plana, bilateral",雙側睫狀體扁平部滲出性囊腫
+1438,H21359,"Exudative cyst of pars plana, unspecified eye",未特定側性睫狀體扁平部滲出性囊腫
+1439,H214,Pupillary membranes,瞳孔膜
+1440,H2140,"Pupillary membranes, unspecified eye",未特定側性瞳孔膜
+1441,H2141,"Pupillary membranes, right eye",右眼瞳孔膜
+1442,H2142,"Pupillary membranes, left eye",左眼瞳孔膜
+1443,H2143,"Pupillary membranes, bilateral",雙側瞳孔膜
+1444,H215,Other and unspecified adhesions and disruprions of iris and ciliary body,虹膜及睫狀體其他及未特定黏連及破裂
+1445,H2150,Unspecified adhesions of iris,虹膜黏連
+1446,H21501,"Unspecified adhesions of iris, right eye",右眼虹膜黏連
+1447,H21502,"Unspecified adhesions of iris, left eye",左眼虹膜黏連
+1448,H21503,"Unspecified adhesions of iris, bilateral",雙側虹膜黏連
+1449,H21509,"Unspecified adhesions of iris and ciliary body, unspecified eye",未特定側性虹膜及睫狀體黏連
+1450,H2151,Anterior synechiae (iris),虹膜前黏連
+1451,H21511,"Anterior synechiae (iris), right eye",右眼虹膜前黏連
+1452,H21512,"Anterior synechiae (iris), left eye",左眼虹膜前黏連
+1453,H21513,"Anterior synechiae (iris), bilateral",雙側虹膜前黏連
+1454,H21519,"Anterior synechiae (iris), unspecified eye",未特定側性虹膜前黏連
+1455,H2152,Goniosynechiae,隅角虹膜黏連
+1456,H21521,"Goniosynechiae, right eye",右眼隅角虹膜黏連
+1457,H21522,"Goniosynechiae, left eye",左眼隅角虹膜黏連
+1458,H21523,"Goniosynechiae, bilateral",雙側隅角虹膜黏連
+1459,H21529,"Goniosynechiae, unspecified eye",未特定側性隅角虹膜黏連
+1460,H2153,Iridodialysis,虹膜分離
+1461,H21531,"Iridodialysis, right eye",右眼虹膜分離
+1462,H21532,"Iridodialysis, left eye",左眼虹膜分離
+1463,H21533,"Iridodialysis, bilateral",雙側虹膜分離
+1464,H21539,"Iridodialysis, unspecified eye",未特定側性虹膜分離
+1465,H2154,Posterior synechiae (iris),虹膜後黏連
+1466,H21541,"Posterior synechiae (iris), right eye",右眼虹膜後黏連
+1467,H21542,"Posterior synechiae (iris), left eye",左眼虹膜後黏連
+1468,H21543,"Posterior synechiae (iris), bilateral",雙側虹膜後黏連
+1469,H21549,"Posterior synechiae (iris), unspecified eye",未特定側性虹膜後黏連
+1470,H2155,Recession of chamber angle,前房隅角退縮
+1471,H21551,"Recession of chamber angle, right eye",右眼前房隅角退縮
+1472,H21552,"Recession of chamber angle, left eye",左眼前房隅角退縮
+1473,H21553,"Recession of chamber angle, bilateral",雙側前房隅角退縮
+1474,H21559,"Recession of chamber angle, unspecified eye",未特定側性前房隅角退縮
+1475,H2156,Pupillary abnormalities,瞳孔異常
+1476,H21561,"Pupillary abnormality, right eye",右眼瞳孔異常
+1477,H21562,"Pupillary abnormality, left eye",左眼瞳孔異常
+1478,H21563,"Pupillary abnormality, bilateral",雙側瞳孔異常
+1479,H21569,"Pupillary abnormality, unspecified eye",未特定側性瞳孔異常
+1480,H218,Other specified disorders of iris and ciliary body,虹膜及睫狀體之其他特定疾患
+1481,H2181,Floppy iris syndrome,跳動虹膜症候群
+1482,H2182,Plateau iris syndrome (post-iridectomy) (postprocedural),高原型虹膜症候群(虹膜切除後)(術後)
+1483,H2189,Other specified disorders of iris and ciliary body,虹膜及睫狀體之其他特定疾患
+1484,H219,Unspecified disorder of iris and ciliary body,虹膜及睫狀體疾患
+1485,H22,Disorders of iris and ciliary body in diseases classified elsewhere,歸類於他處疾病所致之虹膜及睫狀體疾患
+1486,H25,Age-related cataract,老年性白內障
+1487,H250,Age-related incipient cataract,初期老年性白內障
+1488,H2501,Cortical age-related cataract,皮質老年性白內障
+1489,H25011,"Cortical age-related cataract, right eye",右眼皮質老年性白內障
+1490,H25012,"Cortical age-related cataract, left eye",左眼皮質老年性白內障
+1491,H25013,"Cortical age-related cataract, bilateral",雙側皮質老年性白內障
+1492,H25019,"Cortical age-related cataract, unspecified eye",未特定側性皮質老年性白內障
+1493,H2503,Anterior subcapsular polar age-related cataract,前囊下極性老年性白內障
+1494,H25031,"Anterior subcapsular polar age-related cataract, right eye",右眼前囊下極性老年性白內障
+1495,H25032,"Anterior subcapsular polar age-related cataract, left eye",左眼前囊下極性老年性白內障
+1496,H25033,"Anterior subcapsular polar age-related cataract, bilateral",雙側前囊下極性老年性白內障
+1497,H25039,"Anterior subcapsular polar age-related cataract, unspecified eye",未特定側性前囊下極性老年性白內障
+1498,H2504,Posterior subcapsular polar age-related cataract,後囊下極性老年性白內障
+1499,H25041,"Posterior subcapsular polar age-related cataract, right eye",右眼後囊下極性老年性白內障
+1500,H25042,"Posterior subcapsular polar age-related cataract, left eye",左眼後囊下極性老年性白內障
+1501,H25043,"Posterior subcapsular polar age-related cataract, bilateral",雙側後囊下極性老年性白內障
+1502,H25049,"Posterior subcapsular polar age-related cataract, unspecified eye",未特定側性後囊下極性老年性白內障
+1503,H2509,Other age-related incipient cataract,其他初期老年性白內障
+1504,H25091,"Other age-related incipient cataract, right eye",右眼初期老年性白內障
+1505,H25092,"Other age-related incipient cataract, left eye",左眼初期老年性白內障
+1506,H25093,"Other age-related incipient cataract, bilateral",雙側初期老年性白內障
+1507,H25099,"Other age-related incipient cataract, unspecified eye",未特定側性初期老年性白內障
+1508,H251,Age-related nuclear cataract,核性老年性白內障
+1509,H2510,"Age-related nuclear cataract, unspecified eye",未特定側性核性老年性白內障
+1510,H2511,"Age-related nuclear cataract, right eye",右眼核性老年性白內障
+1511,H2512,"Age-related nuclear cataract, left eye",左眼核性老年性白內障
+1512,H2513,"Age-related nuclear cataract, bilateral",雙側核性老年性白內障
+1513,H252,"Age-related cataract, morgagnian type",老年性過熟期白內障
+1514,H2520,"Age-related cataract, morgagnian type, unspecified eye","未特定側性老年性過熟期白內障, morgagnian type"
+1515,H2521,"Age-related cataract, morgagnian type, right eye","右眼老年性過熟期白內障, morgagnian type"
+1516,H2522,"Age-related cataract, morgagnian type, left eye","左眼老年性過熟期白內障, morgagnian type"
+1517,H2523,"Age-related cataract, morgagnian type, bilateral","雙側老年性過熟期白內障, morgagnian type"
+1518,H258,Other age-related cataract,其他老年性白內障
+1519,H2581,Combined forms of age-related cataract,混合型之老年性白內障
+1520,H25811,"Combined forms of age-related cataract, right eye",右眼混合型之老年性白內障
+1521,H25812,"Combined forms of age-related cataract, left eye",左眼混合型之老年性白內障
+1522,H25813,"Combined forms of age-related cataract, bilateral",雙側混合型之老年性白內障
+1523,H25819,"Combined forms of age-related cataract, unspecified eye",未特定側性混合型之老年性白內障
+1524,H2589,Other age-related cataract,其他老年性白內障
+1525,H259,Unspecified age-related cataract,老年性白內障
+1526,H26,Other cataract,其他白內障
+1527,H260,Infantile and juvenile cataract,嬰兒及幼年型白內障
+1528,H2600,Unspecified infantile and juvenile cataract,嬰兒及幼年型白內障
+1529,H26001,"Unspecified infantile and juvenile cataract, right eye",右眼嬰兒、幼年及老年前期白內障
+1530,H26002,"Unspecified infantile and juvenile cataract, left eye",左眼嬰兒、幼年及老年前期白內障
+1531,H26003,"Unspecified infantile and juvenile cataract, bilateral",雙側嬰兒、幼年及老年前期白內障
+1532,H26009,"Unspecified infantile and juvenile cataract, unspecified eye",未特定側性嬰兒、幼年及老年前期白內障
+1533,H2601,"Infantile and juvenile cortical, lamellar, or zonular cataract",嬰兒、幼年皮質，層狀或板層狀白內障
+1534,H26011,"Infantile and juvenile cortical, lamellar, or zonular cataract, right eye",右眼嬰兒、幼年皮質，層狀或板層狀白內障
+1535,H26012,"Infantile and juvenile cortical, lamellar, or zonular cataract, left eye",左眼嬰兒、幼年皮質，層狀或板層狀白內障
+1536,H26013,"Infantile and juvenile cortical, lamellar, or zonular cataract, bilateral",雙側嬰兒、幼年皮質，層狀或板層狀白內障
+1537,H26019,"Infantile and juvenile cortical, lamellar, or zonular cataract, unspecified eye",未特定側性嬰兒、幼年皮質，層狀或板層狀白內障
+1538,H2603,Infantile and juvenile nuclear cataract,嬰兒、幼年核性白內障
+1539,H26031,"Infantile and juvenile nuclear cataract, right eye",右眼嬰兒、幼年核性白內障
+1540,H26032,"Infantile and juvenile nuclear cataract, left eye",左眼嬰兒、幼年核性白內障
+1541,H26033,"Infantile and juvenile nuclear cataract, bilateral",雙側嬰兒、幼年核性白內障
+1542,H26039,"Infantile and juvenile nuclear cataract, unspecified eye",未特定側性嬰兒、幼年核性白內障
+1543,H2604,Anterior subcapsular polar infantile and juvenile cataract,嬰兒、幼年前囊下極性白內障
+1544,H26041,"Anterior subcapsular polar infantile and juvenile cataract, right eye",右眼嬰兒、幼年前囊下極性白內障
+1545,H26042,"Anterior subcapsular polar infantile and juvenile cataract, left eye",左眼嬰兒、幼年前囊下極性白內障
+1546,H26043,"Anterior subcapsular polar infantile and juvenile cataract, bilateral",雙側嬰兒、幼年前囊下極性白內障
+1547,H26049,"Anterior subcapsular polar infantile and juvenile cataract, unspecified eye",未特定側性嬰兒、幼年前囊下極性白內障
+1548,H2605,Posterior subcapsular polar infantile and juvenile cataract,嬰兒、幼年後囊下極性白內障
+1549,H26051,"Posterior subcapsular polar infantile and juvenile cataract, right eye",右眼嬰兒、幼年後囊下極性白內障
+1550,H26052,"Posterior subcapsular polar infantile and juvenile cataract, left eye",左眼嬰兒、幼年後囊下極性白內障
+1551,H26053,"Posterior subcapsular polar infantile and juvenile cataract, bilateral",雙側嬰兒、幼年後囊下極性白內障
+1552,H26059,"Posterior subcapsular polar infantile and juvenile cataract, unspecified eye",未特定側性嬰兒、幼年後囊下極性白內障
+1553,H2606,Combined forms of infantile and juvenile cataract,嬰兒、幼年混合型白內障
+1554,H26061,"Combined forms of infantile and juvenile cataract, right eye",右眼嬰兒、幼年混合型之非老年性白內障
+1555,H26062,"Combined forms of infantile and juvenile cataract, left eye",左眼嬰兒、幼年混合型之非老年性白內障
+1556,H26063,"Combined forms of infantile and juvenile cataract, bilateral",雙側嬰兒、幼年混合型之非老年性白內障
+1557,H26069,"Combined forms of infantile and juvenile cataract, unspecified eye",未特定側性嬰兒、幼年混合型之非老年性白內障
+1558,H2609,Other infantile and juvenile cataract,其他嬰兒、幼年白內障
+1559,H261,Traumatic cataract,外傷性白內障
+1560,H2610,Unspecified traumatic cataract,外傷性白內障
+1561,H26101,"Unspecified traumatic cataract, right eye",右眼外傷性白內障
+1562,H26102,"Unspecified traumatic cataract, left eye",左眼外傷性白內障
+1563,H26103,"Unspecified traumatic cataract, bilateral",雙側外傷性白內障
+1564,H26109,"Unspecified traumatic cataract, unspecified eye",未特定側性外傷性白內障
+1565,H2611,Localized traumatic opacities,局部外傷性水晶體混濁
+1566,H26111,"Localized traumatic opacities, right eye",右眼局部外傷性水晶體混濁
+1567,H26112,"Localized traumatic opacities, left eye",左眼局部外傷性水晶體混濁
+1568,H26113,"Localized traumatic opacities, bilateral",雙側局部外傷性水晶體混濁
+1569,H26119,"Localized traumatic opacities, unspecified eye",未特定側性局部外傷性水晶體混濁
+1570,H2612,Partially resolved traumatic cataract,部份吸收之外傷性白內障
+1571,H26121,"Partially resolved traumatic cataract, right eye",右眼部份吸收之外傷性白內障
+1572,H26122,"Partially resolved traumatic cataract, left eye",左眼部份吸收之外傷性白內障
+1573,H26123,"Partially resolved traumatic cataract, bilateral",雙側部份吸收之外傷性白內障
+1574,H26129,"Partially resolved traumatic cataract, unspecified eye",未特定側性部份吸收之外傷性白內障
+1575,H2613,Total traumatic cataract,完全外傷性白內障
+1576,H26131,"Total traumatic cataract, right eye",右眼完全外傷性白內障
+1577,H26132,"Total traumatic cataract, left eye",左眼完全外傷性白內障
+1578,H26133,"Total traumatic cataract, bilateral",雙側完全外傷性白內障
+1579,H26139,"Total traumatic cataract, unspecified eye",未特定側性完全外傷性白內障
+1580,H262,Complicated cataract,併發性白內障
+1581,H2620,Unspecified complicated cataract,併發性白內障
+1582,H2621,Cataract with neovascularization,伴有新生血管之白內障
+1583,H26211,"Cataract with neovascularization, right eye",右眼伴有新生血管之白內障
+1584,H26212,"Cataract with neovascularization, left eye",左眼伴有新生血管之白內障
+1585,H26213,"Cataract with neovascularization, bilateral",雙側伴有新生血管之白內障
+1586,H26219,"Cataract with neovascularization, unspecified eye",未特定側性伴有新生血管之白內障
+1587,H2622,Cataract secondary to ocular disorders (degenerative) (inflammatory),眼球疾患之續發性白內障(退化性)(發炎性)
+1588,H26221,"Cataract secondary to ocular disorders (degenerative) (inflammatory), right eye",右眼眼球疾患之續發性白內障(退化性)(發炎性)
+1589,H26222,"Cataract secondary to ocular disorders (degenerative) (inflammatory), left eye",左眼眼球疾患之續發性白內障(退化性)(發炎性)
+1590,H26223,"Cataract secondary to ocular disorders (degenerative) (inflammatory), bilateral",雙側眼球疾患之續發性白內障(退化性)(發炎性)
+1591,H26229,"Cataract secondary to ocular disorders (degenerative) (inflammatory), unspecified eye",未特定側性眼球疾患之續發性白內障(退化性)(發炎性)
+1592,H2623,Glaucomatous flecks (subcapsular),青光眼性斑點（囊下的）
+1593,H26231,"Glaucomatous flecks (subcapsular), right eye",右眼青光眼性斑點（囊下的）
+1594,H26232,"Glaucomatous flecks (subcapsular), left eye",左眼青光眼性斑點（囊下的）
+1595,H26233,"Glaucomatous flecks (subcapsular), bilateral",雙側青光眼性斑點（囊下的）
+1596,H26239,"Glaucomatous flecks (subcapsular), unspecified eye",未特定側性青光眼性斑點（囊下的）
+1597,H263,Drug-induced cataract,藥物導致之白內障
+1598,H2630,"Drug-induced cataract, unspecified eye",未特定側性藥物導致之白內障
+1599,H2631,"Drug-induced cataract, right eye",右眼藥物導致之白內障
+1600,H2632,"Drug-induced cataract, left eye",左眼藥物導致之白內障
+1601,H2633,"Drug-induced cataract, bilateral",雙側藥物導致之白內障
+1602,H264,Secondary cataract,續發性白內障
+1603,H2640,Unspecified secondary cataract,續發性白內障
+1604,H2641,Soemmering's ring,Soemmering氏環白內障
+1605,H26411,"Soemmering's ring, right eye",右眼Soemmering氏環白內障
+1606,H26412,"Soemmering's ring, left eye",左眼Soemmering氏環白內障
+1607,H26413,"Soemmering's ring, bilateral",雙側Soemmering氏環白內障
+1608,H26419,"Soemmering's ring, unspecified eye",未特定側性Soemmering氏環白內障
+1609,H2649,Other secondary cataract,其他續發性白內障
+1610,H26491,"Other secondary cataract, right eye",右眼其他續發性白內障
+1611,H26492,"Other secondary cataract, left eye",左眼其他續發性白內障
+1612,H26493,"Other secondary cataract, bilateral",雙側其他續發性白內障
+1613,H26499,"Other secondary cataract, unspecified eye",未特定側性其他續發性白內障
+1614,H268,Other specified cataract,其他特定白內障
+1615,H269,Unspecified cataract,白內障
+1616,H27,Other disorders of lens,其他水晶體疾患
+1617,H270,Aphakia,無水晶體症
+1618,H2700,"Aphakia, unspecified eye",未特定側性無水晶體症
+1619,H2701,"Aphakia, right eye",右眼無水晶體症
+1620,H2702,"Aphakia, left eye",左眼無水晶體症
+1621,H2703,"Aphakia, bilateral",雙側無水晶體症
+1622,H271,Dislocation of lens,水晶體脫位
+1623,H2710,Unspecified dislocation of lens,水晶體脫位
+1624,H2711,Subluxation of lens,水晶體半脫位
+1625,H27111,"Subluxation of lens, right eye",右眼水晶體半脫位
+1626,H27112,"Subluxation of lens, left eye",左眼水晶體半脫位
+1627,H27113,"Subluxation of lens, bilateral",雙側水晶體半脫位
+1628,H27119,"Subluxation of lens, unspecified eye",未特定側性水晶體半脫位
+1629,H2712,Anterior dislocation of lens,水晶體前脫位
+1630,H27121,"Anterior dislocation of lens, right eye",右眼水晶體前脫位
+1631,H27122,"Anterior dislocation of lens, left eye",左眼水晶體前脫位
+1632,H27123,"Anterior dislocation of lens, bilateral",雙側水晶體前脫位
+1633,H27129,"Anterior dislocation of lens, unspecified eye",未特定側性水晶體前脫位
+1634,H2713,Posterior dislocation of lens,水晶體後脫位
+1635,H27131,"Posterior dislocation of lens, right eye",右眼水晶體後脫位
+1636,H27132,"Posterior dislocation of lens, left eye",左眼水晶體後脫位
+1637,H27133,"Posterior dislocation of lens, bilateral",雙側水晶體後脫位
+1638,H27139,"Posterior dislocation of lens, unspecified eye",未特定側性水晶體後脫位
+1639,H278,Other specified disorders of lens,其他特定水晶體疾患
+1640,H279,Unspecified disorder of lens,水晶體疾患
+1641,H28,Cataract in diseases classified elsewhere,歸類於他處疾病所致之白內障
+1642,H30,Chorioretinal inflammation,脈絡膜視網膜發炎
+1643,H300,Focal chorioretinal inflammation,局限性脈絡膜視網膜發炎
+1644,H3000,Unspecified focal chorioretinal inflammation,局限性脈絡膜視網膜發炎
+1645,H30001,"Unspecified focal chorioretinal inflammation, right eye",右眼局限性脈絡膜視網膜發炎
+1646,H30002,"Unspecified focal chorioretinal inflammation, left eye",左眼局限性脈絡膜視網膜發炎
+1647,H30003,"Unspecified focal chorioretinal inflammation, bilateral",雙側局限性脈絡膜視網膜發炎
+1648,H30009,"Unspecified focal chorioretinal inflammation, unspecified eye",未特定側性局限性脈絡膜視網膜發炎
+1649,H3001,"Focal chorioretinal inflammation, juxtapapillary",乳頭周圍之局限性脈絡膜視網膜發炎
+1650,H30011,"Focal chorioretinal inflammation, juxtapapillary, right eye",右眼乳頭周圍之局限性脈絡膜視網膜發炎
+1651,H30012,"Focal chorioretinal inflammation, juxtapapillary, left eye",左眼乳頭周圍之局限性脈絡膜視網膜發炎
+1652,H30013,"Focal chorioretinal inflammation, juxtapapillary, bilateral",雙側乳頭周圍之局限性脈絡膜視網膜發炎
+1653,H30019,"Focal chorioretinal inflammation, juxtapapillary, unspecified eye",未特定側性乳頭周圍之局限性脈絡膜視網膜發炎
+1654,H3002,Focal chorioretinal inflammation of posterior pole,後極部之局限性脈絡膜視網膜發炎
+1655,H30021,"Focal chorioretinal inflammation of posterior pole, right eye",右眼後極部之局限性脈絡膜視網膜發炎
+1656,H30022,"Focal chorioretinal inflammation of posterior pole, left eye",左眼後極部之局限性脈絡膜視網膜發炎
+1657,H30023,"Focal chorioretinal inflammation of posterior pole, bilateral",雙側後極部之局限性脈絡膜視網膜發炎
+1658,H30029,"Focal chorioretinal inflammation of posterior pole, unspecified eye",未特定側性後極部之局限性脈絡膜視網膜發炎
+1659,H3003,"Focal chorioretinal inflammation, peripheral",網膜周圍之局限性脈絡膜視網膜發炎
+1660,H30031,"Focal chorioretinal inflammation, peripheral, right eye",右眼網膜周圍之局限性脈絡膜視網膜發炎
+1661,H30032,"Focal chorioretinal inflammation, peripheral, left eye",左眼網膜周圍之局限性脈絡膜視網膜發炎
+1662,H30033,"Focal chorioretinal inflammation, peripheral, bilateral",雙側網膜周圍之局限性脈絡膜視網膜發炎
+1663,H30039,"Focal chorioretinal inflammation, peripheral, unspecified eye",未特定側性網膜周圍之局限性脈絡膜視網膜發炎
+1664,H3004,"Focal chorioretinal inflammation, macular or paramacular",黃斑或黃斑旁之局限性脈絡膜視網膜發炎
+1665,H30041,"Focal chorioretinal inflammation, macular or paramacular, right eye",右眼黃斑或黃斑旁之局限性脈絡膜視網膜發炎
+1666,H30042,"Focal chorioretinal inflammation, macular or paramacular, left eye",左眼黃斑或黃斑旁之局限性脈絡膜視網膜發炎
+1667,H30043,"Focal chorioretinal inflammation, macular or paramacular, bilateral",雙側黃斑或黃斑旁之局限性脈絡膜視網膜發炎
+1668,H30049,"Focal chorioretinal inflammation, macular or paramacular, unspecified eye",未特定側性黃斑或黃斑旁之局限性脈絡膜視網膜發炎
+1669,H301,Disseminated chorioretinal inflammation,瀰漫性脈絡視網膜發炎
+1670,H3010,Unspecified disseminated chorioretinal inflammation,瀰漫性脈絡視網膜發炎
+1671,H30101,"Unspecified disseminated chorioretinal inflammation, right eye",右眼瀰漫性脈絡視網膜發炎症
+1672,H30102,"Unspecified disseminated chorioretinal inflammation, left eye",左眼瀰漫性脈絡視網膜發炎症
+1673,H30103,"Unspecified disseminated chorioretinal inflammation, bilateral",雙側瀰漫性脈絡視網膜發炎症
+1674,H30109,"Unspecified disseminated chorioretinal inflammation, unspecified eye",未特定側性瀰漫性脈絡膜視網膜炎
+1675,H3011,Disseminated chorioretinal inflammation of posterior pole,後極部瀰漫性脈絡視網膜發炎
+1676,H30111,"Disseminated chorioretinal inflammation of posterior pole, right eye",右眼後極部瀰漫性脈絡視網膜發炎症
+1677,H30112,"Disseminated chorioretinal inflammation of posterior pole, left eye",左眼後極部瀰漫性脈絡視網膜發炎症
+1678,H30113,"Disseminated chorioretinal inflammation of posterior pole, bilateral",雙側後極部瀰漫性脈絡視網膜發炎症
+1679,H30119,"Disseminated chorioretinal inflammation of posterior pole, unspecified eye",未特定側性後極部瀰漫性脈絡膜炎及脈絡膜視網膜炎
+1680,H3012,"Disseminated chorioretinal inflammation, peripheral",周圍之瀰漫性脈絡膜視網膜發炎
+1681,H30121,"Disseminated chorioretinal inflammation, peripheral right eye",右眼周圍之瀰漫性脈絡膜視網膜發炎
+1682,H30122,"Disseminated chorioretinal inflammation, peripheral, left eye",左眼周圍之瀰漫性脈絡膜視網膜發炎
+1683,H30123,"Disseminated chorioretinal inflammation, peripheral, bilateral",雙側周圍之瀰漫性脈絡膜視網膜發炎
+1684,H30129,"Disseminated chorioretinal inflammation, peripheral, unspecified eye",未特定側性周圍之瀰漫性脈絡膜視網膜發炎
+1685,H3013,"Disseminated chorioretinal inflammation, generalized",普遍的瀰漫性脈絡膜視網膜發炎
+1686,H30131,"Disseminated chorioretinal inflammation, generalized, right eye",右眼普遍的瀰漫性脈絡膜視網膜發炎
+1687,H30132,"Disseminated chorioretinal inflammation, generalized, left eye",左眼普遍的瀰漫性脈絡膜視網膜發炎
+1688,H30133,"Disseminated chorioretinal inflammation, generalized, bilateral",雙側普遍的瀰漫性脈絡膜視網膜發炎
+1689,H30139,"Disseminated chorioretinal inflammation, generalized, unspecified eye",未特定側性普遍的瀰漫性脈絡膜視網膜發炎
+1690,H3014,Acute posterior multifocal placoid pigment epitheliopathy,急性後極多發性盾狀色素上皮病變
+1691,H30141,"Acute posterior multifocal placoid pigment epitheliopathy, right eye",右眼急性後極多發性盾狀色素上皮病變
+1692,H30142,"Acute posterior multifocal placoid pigment epitheliopathy, left eye",左眼急性後極多發性盾狀色素上皮病變
+1693,H30143,"Acute posterior multifocal placoid pigment epitheliopathy, bilateral",雙側急性後極多發性盾狀色素上皮病變
+1694,H30149,"Acute posterior multifocal placoid pigment epitheliopathy, unspecified eye",急性後極多發性盾狀色素上皮病變
+1695,H302,Posterior cyclitis,睫狀體扁平部炎
+1696,H3020,"Posterior cyclitis, unspecified eye",未特定側性睫狀體扁平部炎
+1697,H3021,"Posterior cyclitis, right eye",右眼睫狀體扁平部炎
+1698,H3022,"Posterior cyclitis, left eye",左眼睫狀體扁平部炎
+1699,H3023,"Posterior cyclitis, bilateral",雙側睫狀體扁平部炎
+1700,H308,Other chorioretinal inflammations,其他脈絡膜視網膜發炎
+1701,H3081,Harada's disease,原田氏病
+1702,H30811,"Harada's disease, right eye",右眼原田氏病
+1703,H30812,"Harada's disease, left eye",左眼原田氏病
+1704,H30813,"Harada's disease, bilateral",雙側原田氏病
+1705,H30819,"Harada's disease, unspecified eye",未特定側性原田氏病
+1706,H3089,Other chorioretinal inflammations,其他脈絡膜視網膜發炎
+1707,H30891,"Other chorioretinal inflammations, right eye",右眼其他脈絡膜視網膜發炎
+1708,H30892,"Other chorioretinal inflammations, left eye",左眼其他脈絡膜視網膜發炎
+1709,H30893,"Other chorioretinal inflammations, bilateral",雙側其他脈絡膜視網膜發炎
+1710,H30899,"Other chorioretinal inflammations, unspecified eye",未明性側性其他脈絡膜視網膜發炎
+1711,H309,Unspecified chorioretinal inflammation,脈絡膜視網膜發炎
+1712,H3090,"Unspecified chorioretinal inflammation, unspecified eye",未特定側性脈絡膜視網膜發炎
+1713,H3091,"Unspecified chorioretinal inflammation, right eye",右眼脈絡膜視網膜發炎
+1714,H3092,"Unspecified chorioretinal inflammation, left eye",左眼脈絡膜視網膜發炎
+1715,H3093,"Unspecified chorioretinal inflammation, bilateral",雙側脈絡膜視網膜發炎
+1716,H31,Other disorders of choroid,其他脈絡膜疾患
+1717,H310,Chorioretinal scars,脈絡膜視網膜疤痕
+1718,H3100,Unspecified chorioretinal scars,脈絡膜視網膜疤痕
+1719,H31001,"Unspecified chorioretinal scars, right eye",右眼脈絡膜視網膜疤痕
+1720,H31002,"Unspecified chorioretinal scars, left eye",左眼脈絡膜視網膜疤痕
+1721,H31003,"Unspecified chorioretinal scars, bilateral",雙側脈絡膜視網膜疤痕
+1722,H31009,"Unspecified chorioretinal scars, unspecified eye",未特定側性脈絡膜視網膜疤痕
+1723,H3101,Macula scars of posterior pole (postinflammatory) (post-traumatic),後極部黃斑疤痕(發炎後)(創傷後)
+1724,H31011,"Macula scars of posterior pole (postinflammatory) (post-traumatic), right eye",右眼後極部黃斑疤痕(發炎後)(創傷後)
+1725,H31012,"Macula scars of posterior pole (postinflammatory) (post-traumatic), left eye",左眼後極部黃斑疤痕(發炎後)(創傷後)
+1726,H31013,"Macula scars of posterior pole (postinflammatory) (post-traumatic), bilateral",雙側後極部黃斑疤痕(發炎後)(創傷後)
+1727,H31019,"Macula scars of posterior pole (postinflammatory) (post-traumatic), unspecified eye",未特定側性後極部黃斑疤痕(發炎後)(創傷後)
+1728,H3102,Solar retinopathy,陽光視網膜病變
+1729,H31021,"Solar retinopathy, right eye",右眼陽光視網膜病變
+1730,H31022,"Solar retinopathy, left eye",左眼陽光視網膜病變
+1731,H31023,"Solar retinopathy, bilateral",雙側陽光視網膜病變
+1732,H31029,"Solar retinopathy, unspecified eye",未特定側性陽光視網膜病變
+1733,H3109,Other chorioretinal scars,其他脈絡膜視網膜疤痕
+1734,H31091,"Other chorioretinal scars, right eye",右眼其他脈絡膜視網膜疤痕
+1735,H31092,"Other chorioretinal scars, left eye",左眼其他脈絡膜視網膜疤痕
+1736,H31093,"Other chorioretinal scars, bilateral",雙側其他脈絡膜視網膜疤痕
+1737,H31099,"Other chorioretinal scars, unspecified eye",未特定側性其他脈絡膜視網膜疤痕
+1738,H311,Choroidal degeneration,脈絡膜退化
+1739,H3110,Unspecified choroidal degeneration,脈絡膜退化
+1740,H31101,"Choroidal degeneration, unspecified, right eye",右眼脈絡膜退化
+1741,H31102,"Choroidal degeneration, unspecified, left eye",左眼脈絡膜退化
+1742,H31103,"Choroidal degeneration, unspecified, bilateral",雙側脈絡膜退化
+1743,H31109,"Choroidal degeneration, unspecified, unspecified eye",未特定側性脈絡膜退化
+1744,H3111,Age-related choroidal atrophy,老年性脈絡膜萎縮
+1745,H31111,"Age-related choroidal atrophy, right eye",右眼老年性脈絡膜萎縮
+1746,H31112,"Age-related choroidal atrophy, left eye",左眼老年性脈絡膜萎縮
+1747,H31113,"Age-related choroidal atrophy, bilateral",雙側老年性脈絡膜萎縮
+1748,H31119,"Age-related choroidal atrophy, unspecified eye",未特定側性老年性脈絡膜萎縮
+1749,H3112,Diffuse secondary atrophy of choroid,瀰漫性續發性脈絡膜萎縮
+1750,H31121,"Diffuse secondary atrophy of choroid, right eye",右眼瀰漫性續發性脈絡膜萎縮
+1751,H31122,"Diffuse secondary atrophy of choroid, left eye",左眼瀰漫性續發性脈絡膜萎縮
+1752,H31123,"Diffuse secondary atrophy of choroid, bilateral",雙側瀰漫性續發性脈絡膜萎縮
+1753,H31129,"Diffuse secondary atrophy of choroid, unspecified eye",未特定側性瀰漫性續發性脈絡膜萎縮
+1754,H312,Hereditary choroidal dystrophy,遺傳性脈絡膜失養症
+1755,H3120,"Hereditary choroidal dystrophy, unspecified",遺傳性脈絡膜失養症，未特定
+1756,H3121,Choroideremia,脈絡膜缺失症
+1757,H3122,Choroidal dystrophy (central areolar) (generalized) (peripapillary),脈絡膜失養症(中心暈狀性)(廣泛性)(視乳頭周圍性)
+1758,H3123,"Gyrate atrophy, choroid",脈絡膜環狀萎縮
+1759,H3129,Other hereditary choroidal dystrophy,其他遺傳性脈絡膜失養症
+1760,H313,Choroidal hemorrhage and rupture,脈絡膜出血及破裂
+1761,H3130,Unspecified choroidal hemorrhage,脈絡膜出血
+1762,H31301,"Unspecified choroidal hemorrhage, right eye",右眼脈絡膜出血
+1763,H31302,"Unspecified choroidal hemorrhage, left eye",左眼脈絡膜出血
+1764,H31303,"Unspecified choroidal hemorrhage, bilateral",雙側脈絡膜出血
+1765,H31309,"Unspecified choroidal hemorrhage, unspecified eye",未特定側性脈絡膜出血
+1766,H3131,Expulsive choroidal hemorrhage,排出性脈絡膜出血
+1767,H31311,"Expulsive choroidal hemorrhage, right eye",右眼排出性脈絡膜出血
+1768,H31312,"Expulsive choroidal hemorrhage, left eye",左眼排出性脈絡膜出血
+1769,H31313,"Expulsive choroidal hemorrhage, bilateral",雙側排出性脈絡膜出血
+1770,H31319,"Expulsive choroidal hemorrhage, unspecified eye",未特定側性排出性脈絡膜出血
+1771,H3132,Choroidal rupture,脈絡膜破裂
+1772,H31321,"Choroidal rupture, right eye",右眼脈絡膜破裂
+1773,H31322,"Choroidal rupture, left eye",左眼脈絡膜破裂
+1774,H31323,"Choroidal rupture, bilateral",雙側脈絡膜破裂
+1775,H31329,"Choroidal rupture, unspecified eye",未特定側性脈絡膜破裂
+1776,H314,Choroidal detachment,脈絡膜剝離
+1777,H3140,Unspecified choroidal detachment,脈絡膜剝離
+1778,H31401,"Unspecified choroidal detachment, right eye",右眼脈絡膜剝離
+1779,H31402,"Unspecified choroidal detachment, left eye",左眼脈絡膜剝離
+1780,H31403,"Unspecified choroidal detachment, bilateral",雙側脈絡膜剝離
+1781,H31409,"Unspecified choroidal detachment, unspecified eye",未特定側性脈絡膜剝離
+1782,H3141,Hemorrhagic choroidal detachment,出血性脈絡膜剝離
+1783,H31411,"Hemorrhagic choroidal detachment, right eye",右眼出血性脈絡膜剝離
+1784,H31412,"Hemorrhagic choroidal detachment, left eye",左眼出血性脈絡膜剝離
+1785,H31413,"Hemorrhagic choroidal detachment, bilateral",雙側出血性脈絡膜剝離
+1786,H31419,"Hemorrhagic choroidal detachment, unspecified eye",未特定側性出血性脈絡膜剝離
+1787,H3142,Serous choroidal detachment,漿液性脈絡膜剝離
+1788,H31421,"Serous choroidal detachment, right eye",右眼漿液性脈絡膜剝離
+1789,H31422,"Serous choroidal detachment, left eye",左眼漿液性脈絡膜剝離
+1790,H31423,"Serous choroidal detachment, bilateral",雙側漿液性脈絡膜剝離
+1791,H31429,"Serous choroidal detachment, unspecified eye",未特定側性漿液性脈絡膜剝離
+1792,H318,Other specified disorders of choroid,脈絡膜之其他特定疾患
+1793,H319,Unspecified disorder of choroid,脈絡膜疾患
+1794,H32,Chorioretinal disorders in diseases classified elsewhere,歸類於他處疾病所致之脈絡膜視網膜疾患
+1795,H33,Retinal detachments and breaks,視網膜退化及裂孔
+1796,H330,Retinal detachment with retinal break,視網膜剝離伴有視網膜裂孔
+1797,H3300,Unspecified retinal detachment with retinal break,視網膜剝離伴有視網膜裂孔
+1798,H33001,"Unspecified retinal detachment with retinal break, right eye",右眼視網膜剝離併視網膜裂孔
+1799,H33002,"Unspecified retinal detachment with retinal break, left eye",左眼視網膜剝離併視網膜裂孔
+1800,H33003,"Unspecified retinal detachment with retinal break, bilateral",雙側視網膜剝離併視網膜裂孔
+1801,H33009,"Unspecified retinal detachment with retinal break, unspecified eye",未特定側性視網膜剝離併視網膜裂孔
+1802,H3301,Retinal detachment with single break,視網膜剝離伴有單一裂孔
+1803,H33011,"Retinal detachment with single break, right eye",右眼視網膜剝離伴有單一裂孔
+1804,H33012,"Retinal detachment with single break, left eye",左眼視網膜剝離伴有單一裂孔
+1805,H33013,"Retinal detachment with single break, bilateral",雙側視網膜剝離伴有單一裂孔
+1806,H33019,"Retinal detachment with single break, unspecified eye",未特定側性視網膜剝離伴有單一裂孔
+1807,H3302,Retinal detachment with multiple breaks,視網膜剝離伴有多數裂孔
+1808,H33021,"Retinal detachment with multiple breaks, right eye",右眼視網膜剝離伴有多數裂孔
+1809,H33022,"Retinal detachment with multiple breaks, left eye",左眼視網膜剝離伴有多數裂孔
+1810,H33023,"Retinal detachment with multiple breaks, bilateral",雙側視網膜剝離伴有多數裂孔
+1811,H33029,"Retinal detachment with multiple breaks, unspecified eye",未特定側性視網膜剝離伴有多數裂孔
+1812,H3303,Retinal detachment with giant retinal tear,雙側視網膜剝離伴有巨大視網膜裂孔
+1813,H33031,"Retinal detachment with giant retinal tear, right eye",右眼視網膜剝離伴有巨大視網膜裂孔
+1814,H33032,"Retinal detachment with giant retinal tear, left eye",左眼視網膜剝離伴有巨大視網膜裂孔
+1815,H33033,"Retinal detachment with giant retinal tear, bilateral",雙側視網膜剝離伴有巨大視網膜裂孔
+1816,H33039,"Retinal detachment with giant retinal tear, unspecified eye",未特定側性視網膜剝離伴有巨大視網膜裂孔
+1817,H3304,Retinal detachment with retinal dialysis,視網膜剝離伴有視網膜鋸齒緣分離
+1818,H33041,"Retinal detachment with retinal dialysis, right eye",右眼視網膜剝離伴有視網膜鋸齒緣分離
+1819,H33042,"Retinal detachment with retinal dialysis, left eye",左眼視網膜剝離伴有視網膜鋸齒緣分離
+1820,H33043,"Retinal detachment with retinal dialysis, bilateral",雙側視網膜剝離伴有視網膜鋸齒緣分離
+1821,H33049,"Retinal detachment with retinal dialysis, unspecified eye",未特定側性視網膜剝離伴有視網膜鋸齒緣分離
+1822,H3305,Total retinal detachment,全部視網膜剝離
+1823,H33051,"Total retinal detachment, right eye",右眼全部視網膜剝離
+1824,H33052,"Total retinal detachment, left eye",左眼全部視網膜剝離
+1825,H33053,"Total retinal detachment, bilateral",雙側全部視網膜剝離
+1826,H33059,"Total retinal detachment, unspecified eye",未特定側性全部視網膜剝離
+1827,H331,Retinoschisis and retinal cysts,視網膜層分裂及視網膜囊腫
+1828,H3310,Unspecified retinoschisis,視網膜層分裂
+1829,H33101,"Unspecified retinoschisis, right eye",右眼視網膜層分裂
+1830,H33102,"Unspecified retinoschisis, left eye",左眼視網膜層分裂
+1831,H33103,"Unspecified retinoschisis, bilateral",雙側視網膜層分裂
+1832,H33109,"Unspecified retinoschisis, unspecified eye",未特定側性視網膜層分裂
+1833,H3311,Cyst of ora serrata,視網膜鋸齒緣囊腫
+1834,H33111,"Cyst of ora serrata, right eye",右眼視網膜鋸齒緣囊腫
+1835,H33112,"Cyst of ora serrata, left eye",左眼視網膜鋸齒緣囊腫
+1836,H33113,"Cyst of ora serrata, bilateral",雙側視網膜鋸齒緣囊腫
+1837,H33119,"Cyst of ora serrata, unspecified eye",未特定側性視網膜鋸齒緣囊腫
+1838,H3312,Parasitic cyst of retina,視網膜寄生性囊腫
+1839,H33121,"Parasitic cyst of retina, right eye",右眼視網膜寄生性囊腫
+1840,H33122,"Parasitic cyst of retina, left eye",左眼視網膜寄生性囊腫
+1841,H33123,"Parasitic cyst of retina, bilateral",雙側視網膜寄生性囊腫
+1842,H33129,"Parasitic cyst of retina, unspecified eye",未特定側性視網膜寄生性囊腫
+1843,H3319,Other retinoschisis and retinal cysts,其他視網膜層分裂及視網膜囊腫
+1844,H33191,"Other retinoschisis and retinal cysts, right eye",右眼其他視網膜層分裂及視網膜囊腫
+1845,H33192,"Other retinoschisis and retinal cysts, left eye",左眼其他視網膜層分裂及視網膜囊腫
+1846,H33193,"Other retinoschisis and retinal cysts, bilateral",雙側其他視網膜層分裂及視網膜囊腫
+1847,H33199,"Other retinoschisis and retinal cysts, unspecified eye",未特定側性其他視網膜層分裂及視網膜囊腫
+1848,H332,Serous retinal detachment,漿液性視網膜剝離
+1849,H3320,"Serous retinal detachment, unspecified eye",未特定側性漿液性視網膜剝離
+1850,H3321,"Serous retinal detachment, right eye",右眼漿液性視網膜剝離
+1851,H3322,"Serous retinal detachment, left eye",左眼漿液性視網膜剝離
+1852,H3323,"Serous retinal detachment, bilateral",雙側漿液性視網膜剝離
+1853,H333,Retinal breaks without detachment,視網膜裂孔未伴有剝離
+1854,H3330,Unspecified retinal break,視網膜裂孔
+1855,H33301,"Unspecified retinal break, right eye",右眼視網膜裂孔
+1856,H33302,"Unspecified retinal break, left eye",左眼視網膜裂孔
+1857,H33303,"Unspecified retinal break, bilateral",雙側視網膜裂孔
+1858,H33309,"Unspecified retinal break, unspecified eye",未特定側性視網膜裂隙
+1859,H3331,Horseshoe tear of retina without detachment,網膜馬蹄型撕裂未伴有剝離
+1860,H33311,"Horseshoe tear of retina without detachment, right eye",右眼網膜馬蹄型撕裂，未伴有剝離
+1861,H33312,"Horseshoe tear of retina without detachment, left eye",左眼網膜馬蹄型裂孔，未伴有剝離
+1862,H33313,"Horseshoe tear of retina without detachment, bilateral",雙側網膜馬蹄型裂孔，未伴有剝離
+1863,H33319,"Horseshoe tear of retina without detachment, unspecified eye",未特定側性網膜馬蹄型裂孔，未伴有剝離
+1864,H3332,Round hole of retina without detachment,網膜圓型裂孔未伴有剝離
+1865,H33321,"Round hole, right eye",右眼網膜圓型裂孔
+1866,H33322,"Round hole, left eye",左眼網膜圓型裂孔
+1867,H33323,"Round hole, bilateral",雙側網膜圓型裂孔
+1868,H33329,"Round hole, unspecified eye",未特定側性網膜圓型裂孔
+1869,H3333,Multiple defects of retina without detachment,網膜多處缺損未伴有剝離
+1870,H33331,"Multiple defects of retina without detachment, right eye",右眼網膜多處缺損未伴有剝離
+1871,H33332,"Multiple defects of retina without detachment, left eye",左眼網膜多處缺損未伴有剝離
+1872,H33333,"Multiple defects of retina without detachment, bilateral",雙側網膜多處缺損未伴有剝離
+1873,H33339,"Multiple defects of retina without detachment, unspecified eye",未特定側性網膜多處缺損未伴有剝離
+1874,H334,Traction detachment of retina,牽引性視網膜剝離
+1875,H3340,"Traction detachment of retina, unspecified eye",未特定側性牽引性視網膜剝離
+1876,H3341,"Traction detachment of retina, right eye",右眼牽引性視網膜剝離
+1877,H3342,"Traction detachment of retina, left eye",左眼牽引性視網膜剝離
+1878,H3343,"Traction detachment of retina, bilateral",雙側牽引性視網膜剝離
+1879,H338,Other retinal detachments,其他視網膜剝離
+1880,H34,Retinal vascular occlusions,視網膜血管阻塞
+1881,H340,Transient retinal artery occlusion,短暫性視網膜動脈阻塞
+1882,H3400,"Transient retinal artery occlusion, unspecified eye",未特定側性短暫性視網膜動脈阻塞
+1883,H3401,"Transient retinal artery occlusion, right eye",右眼短暫性視網膜動脈阻塞
+1884,H3402,"Transient retinal artery occlusion, left eye",左眼短暫性視網膜動脈阻塞
+1885,H3403,"Transient retinal artery occlusion, bilateral",雙側短暫性視網膜動脈阻塞
+1886,H341,Central retinal artery occlusion,中心視網膜動脈阻塞
+1887,H3410,"Central retinal artery occlusion, unspecified eye",未特定側性中心視網膜動脈阻塞
+1888,H3411,"Central retinal artery occlusion, right eye",右眼中心視網膜動脈阻塞
+1889,H3412,"Central retinal artery occlusion, left eye",左眼中心視網膜動脈阻塞
+1890,H3413,"Central retinal artery occlusion, bilateral",雙側中心視網膜動脈阻塞
+1891,H342,Other retinal artery occlusions,其他視網膜動脈枝阻塞
+1892,H3421,Partial retinal artery occlusion,部份視網膜動脈阻塞
+1893,H34211,"Partial retinal artery occlusion, right eye",右眼部份視網膜動脈阻塞
+1894,H34212,"Partial retinal artery occlusion, left eye",左眼部份視網膜動脈阻塞
+1895,H34213,"Partial retinal artery occlusion, bilateral",雙側部份視網膜動脈阻塞
+1896,H34219,"Partial retinal artery occlusion, unspecified eye",未特定側性部份視網膜動脈阻塞
+1897,H3423,Retinal artery branch occlusion,視網膜動脈枝阻塞
+1898,H34231,"Retinal artery branch occlusion, right eye",右眼視網膜動脈枝阻塞
+1899,H34232,"Retinal artery branch occlusion, left eye",左眼視網膜動脈枝阻塞
+1900,H34233,"Retinal artery branch occlusion, bilateral",雙側視網膜動脈枝阻塞
+1901,H34239,"Retinal artery branch occlusion, unspecified eye",未特定側性視網膜動脈枝阻塞
+1902,H348,Other retinal vascular occlusion,其他視網膜血管阻塞
+1903,H3481,Central retinal vein occlusion,中心視網膜靜脈阻塞
+1904,H34811,"Central retinal vein occlusion, right eye",右眼中心視網膜靜脈阻塞
+1905,H34812,"Central retinal vein occlusion, left eye",左眼中心視網膜靜脈阻塞
+1906,H34813,"Central retinal vein occlusion, bilateral",雙側中心視網膜靜脈阻塞
+1907,H34819,"Central retinal vein occlusion, unspecified eye",未特定側性中心視網膜靜脈阻塞
+1908,H3482,Venous engorgement,視網膜靜脈鼓張
+1909,H34821,"Venous engorgement, right eye",右眼視網膜靜脈鼓張
+1910,H34822,"Venous engorgement, left eye",左眼視網膜靜脈鼓張
+1911,H34823,"Venous engorgement, bilateral",雙側視網膜靜脈鼓張
+1912,H34829,"Venous engorgement, unspecified eye",未特定側性視網膜靜脈鼓張
+1913,H3483,Tributary (branch) retinal vein occlusion,視網膜靜脈支流（分枝）阻塞
+1914,H34831,"Tributary (branch) retinal vein occlusion, right eye",右眼視網膜靜脈支流（分枝）阻塞
+1915,H34832,"Tributary (branch) retinal vein occlusion, left eye",左眼視網膜靜脈支流（分枝）阻塞
+1916,H34833,"Tributary (branch) retinal vein occlusion, bilateral",雙側視網膜靜脈支流（分枝）阻塞
+1917,H34839,"Tributary (branch) retinal vein occlusion, unspecified eye",未特定側性視網膜靜脈支流（分枝）阻塞
+1918,H349,Unspecified retinal vascular occlusion,視網膜血管阻塞
+1919,H35,Other retinal disorders,視網膜其他疾患
+1920,H350,Background retinopathy and retinal vascular changes,背景性視網膜病變及視網膜血管變化
+1921,H3500,Unspecified background retinopathy,背景性視網膜病變
+1922,H3501,Changes in retinal vascular appearance,視網膜血管型態之變化
+1923,H35011,"Changes in retinal vascular appearance, right eye",右眼視網膜血管型態之變化
+1924,H35012,"Changes in retinal vascular appearance, left eye",左眼視網膜血管型態之變化
+1925,H35013,"Changes in retinal vascular appearance, bilateral",雙側視網膜血管型態之變化
+1926,H35019,"Changes in retinal vascular appearance, unspecified eye",未特定側性視網膜血管型態之變化
+1927,H3502,Exudative retinopathy,滲出性視網膜病變
+1928,H35021,"Exudative retinopathy, right eye",右眼滲出性視網膜病變
+1929,H35022,"Exudative retinopathy, left eye",左眼滲出性視網膜病變
+1930,H35023,"Exudative retinopathy, bilateral",雙側滲出性視網膜病變
+1931,H35029,"Exudative retinopathy, unspecified eye",未特定側性滲出性視網膜病變
+1932,H3503,Hypertensive retinopathy,高血壓性視網膜病變
+1933,H35031,"Hypertensive retinopathy, right eye",右眼高血壓性視網膜病變
+1934,H35032,"Hypertensive retinopathy, left eye",左眼高血壓性視網膜病變
+1935,H35033,"Hypertensive retinopathy, bilateral",雙側高血壓性視網膜病變
+1936,H35039,"Hypertensive retinopathy, unspecified eye",未特定側性高血壓性視網膜病變
+1937,H3504,Retinal micro-aneurysms NOS,視網膜微動脈瘤NOS
+1938,H35041,"Retinal micro-aneurysms NOS, right eye",右眼視網膜微動脈瘤NOS
+1939,H35042,"Retinal micro-aneurysms NOS, left eye",左眼視網膜微動脈瘤NOS
+1940,H35043,"Retinal micro-aneurysms NOS, bilateral",雙側視網膜微動脈瘤NOS
+1941,H35049,"Retinal micro-aneurysms NOS, unspecified eye",未特定側性視網膜微動脈瘤NOS
+1942,H3505,Retinal neovascularization NOS,視網膜血管新生NOS
+1943,H35051,"Retinal neovascularization NOS, right eye",右眼視網膜血管新生NOS
+1944,H35052,"Retinal neovascularization NOS, left eye",左眼視網膜血管新生NOS
+1945,H35053,"Retinal neovascularization NOS, bilateral",雙側視網膜血管新生NOS
+1946,H35059,"Retinal neovascularization NOS, unspecified eye",未特定側性視網膜血管新生NOS
+1947,H3506,Retinal vasculitis,視網膜血管炎
+1948,H35061,"Retinal vasculitis, right eye",右眼視網膜血管炎
+1949,H35062,"Retinal vasculitis, left eye",左眼視網膜血管炎
+1950,H35063,"Retinal vasculitis, bilateral",雙側視網膜血管炎
+1951,H35069,"Retinal vasculitis, unspecified eye",未特定側性視網膜血管炎
+1952,H3507,Retinal telangiectasis,視網膜末稍血管擴張
+1953,H35071,"Retinal telangiectasis, right eye",右眼視網膜末稍血管擴張
+1954,H35072,"Retinal telangiectasis, left eye",左眼視網膜末稍血管擴張
+1955,H35073,"Retinal telangiectasis, bilateral",雙側視網膜末稍血管擴張
+1956,H35079,"Retinal telangiectasis, unspecified eye",未特定側性視網膜毛細血管擴張
+1957,H3509,Other intraretinal microvascular abnormalities,其他視網膜內微血管異常
+1958,H351,Retinopathy of prematurity,早產性視網膜病變
+1959,H3510,"Retinopathy of prematurity, unspecified",早產性視網膜病變
+1960,H35101,"Retinopathy of prematurity, unspecified, right eye",右眼早產性視網膜病變
+1961,H35102,"Retinopathy of prematurity, unspecified, left eye",左眼早產性視網膜病變
+1962,H35103,"Retinopathy of prematurity, unspecified, bilateral",雙側早產性視網膜病變
+1963,H35109,"Retinopathy of prematurity, unspecified, unspecified eye",未特定側性早產性視網膜病變
+1964,H3511,"Retinopathy of prematurity, stage 0","早產性視網膜病變,期別0"
+1965,H35111,"Retinopathy of prematurity, stage 0, right eye","右眼早產性視網膜病變,期別0"
+1966,H35112,"Retinopathy of prematurity, stage 0, left eye","左眼早產性視網膜病變,期別0"
+1967,H35113,"Retinopathy of prematurity, stage 0, bilateral","雙側早產性視網膜病變,期別0"
+1968,H35119,"Retinopathy of prematurity, stage 0, unspecified eye","未特定側性早產性視網膜病變,期別0"
+1969,H3512,"Retinopathy of prematurity, stage 1","早產性視網膜病變,期別1"
+1970,H35121,"Retinopathy of prematurity, stage 1, right eye","右眼早產性視網膜病變,期別1"
+1971,H35122,"Retinopathy of prematurity, stage 1, left eye","左眼早產性視網膜病變,期別1"
+1972,H35123,"Retinopathy of prematurity, stage 1, bilateral","雙側早產性視網膜病變,期別1"
+1973,H35129,"Retinopathy of prematurity, stage 1, unspecified eye","未特定側性早產性視網膜病變,期別1"
+1974,H3513,"Retinopathy of prematurity, stage 2","早產性視網膜病變,期別2"
+1975,H35131,"Retinopathy of prematurity, stage 2, right eye","右眼早產性視網膜病變,期別2"
+1976,H35132,"Retinopathy of prematurity, stage 2, left eye","左眼早產性視網膜病變,期別2"
+1977,H35133,"Retinopathy of prematurity, stage 2, bilateral","雙側早產性視網膜病變,期別2"
+1978,H35139,"Retinopathy of prematurity, stage 2, unspecified eye","未特定側性早產性視網膜病變,期別2"
+1979,H3514,"Retinopathy of prematurity, stage 3","早產性視網膜病變,期別3"
+1980,H35141,"Retinopathy of prematurity, stage 3, right eye","右眼早產性視網膜病變,期別3"
+1981,H35142,"Retinopathy of prematurity, stage 3, left eye","左眼早產性視網膜病變,期別3"
+1982,H35143,"Retinopathy of prematurity, stage 3, bilateral","雙側早產性視網膜病變,期別3"
+1983,H35149,"Retinopathy of prematurity, stage 3, unspecified eye","未特定側性早產性視網膜病變,期別3"
+1984,H3515,"Retinopathy of prematurity, stage 4","早產性視網膜病變,期別4"
+1985,H35151,"Retinopathy of prematurity, stage 4, right eye","右眼早產性視網膜病變,期別4"
+1986,H35152,"Retinopathy of prematurity, stage 4, left eye","左眼早產性視網膜病變,期別4"
+1987,H35153,"Retinopathy of prematurity, stage 4, bilateral","雙側早產性視網膜病變,期別4"
+1988,H35159,"Retinopathy of prematurity, stage 4, unspecified eye","未特定側性早產性視網膜病變,期別4"
+1989,H3516,"Retinopathy of prematurity, stage 5","早產性視網膜病變,期別5"
+1990,H35161,"Retinopathy of prematurity, stage 5, right eye","右眼早產性視網膜病變,期別5"
+1991,H35162,"Retinopathy of prematurity, stage 5, left eye","左眼早產性視網膜病變,期別5"
+1992,H35163,"Retinopathy of prematurity, stage 5, bilateral","雙側早產性視網膜病變,期別5"
+1993,H35169,"Retinopathy of prematurity, stage 5, unspecified eye","未特定側性早產性視網膜病變,期別5"
+1994,H3517,Retrolental fibroplasia,晶體後纖維增殖
+1995,H35171,"Retrolental fibroplasia, right eye",右眼晶體後纖維增殖
+1996,H35172,"Retrolental fibroplasia, left eye",左眼晶體後纖維增殖
+1997,H35173,"Retrolental fibroplasia, bilateral",雙側晶體後纖維增殖
+1998,H35179,"Retrolental fibroplasia, unspecified eye",未特定側性晶體後纖維增殖
+1999,H352,Other non-diabetic proliferative retinopathy,其他非糖尿病增殖性視網膜病變
+2000,H3520,"Other non-diabetic proliferative retinopathy, unspecified eye",右眼其他非糖尿病增殖性視網膜病變
+2001,H3521,"Other non-diabetic proliferative retinopathy, right eye",左眼其他非糖尿病增殖性視網膜病變
+2002,H3522,"Other non-diabetic proliferative retinopathy, left eye",雙側其他非糖尿病增殖性視網膜病變
+2003,H3523,"Other non-diabetic proliferative retinopathy, bilateral",未特定側性其他非糖尿病增殖性視網膜病變
+2004,H353,Degeneration of macula and posterior pole,黃斑部退化及後側破洞
+2005,H3530,Unspecified macular degeneration (age-related),黃斑部退化（老年期）
+2006,H3531,Nonexudative age-related macular degeneration,老年性非滲出性黃斑退化
+2007,H3532,Exudative age-related macular degeneration,老年性滲出性黃斑退化
+2008,H3533,Angioid streaks of macula,黃斑部血管樣紋
+2009,H3534,"Macular cyst, hole, or pseudohole",黃斑部囊腫，破洞或假性破洞
+2010,H35341,"Macular cyst, hole, or pseudohole, right eye",右眼黃斑部囊腫，破洞或假性破洞
+2011,H35342,"Macular cyst, hole, or pseudohole, left eye",左眼黃斑部囊腫，破洞或假性破洞
+2012,H35343,"Macular cyst, hole, or pseudohole, bilateral",雙側黃斑部囊腫，破洞或假性破洞
+2013,H35349,"Macular cyst, hole, or pseudohole, unspecified eye",未特定側性黃斑部囊腫，破洞或假性破洞
+2014,H3535,Cystoid macular degeneration,黃斑部囊狀退化
+2015,H35351,"Cystoid macular degeneration, right eye",右眼黃斑部囊狀退化
+2016,H35352,"Cystoid macular degeneration, left eye",左眼黃斑部囊狀退化
+2017,H35353,"Cystoid macular degeneration, bilateral",雙側黃斑部囊狀退化
+2018,H35359,"Cystoid macular degeneration, unspecified eye",未特定側性黃斑部囊狀退化
+2019,H3536,Drusen (degenerative) of macula,黃斑部疣（退化）
+2020,H35361,"Drusen (degenerative) of macula, right eye",右眼黃斑部疣（退化）
+2021,H35362,"Drusen (degenerative) of macula, left eye",左眼黃斑部疣（退化）
+2022,H35363,"Drusen (degenerative) of macula, bilateral",雙側黃斑部疣（退化）
+2023,H35369,"Drusen (degenerative) of macula, unspecified eye",未特定側性黃斑部疣（退化）
+2024,H3537,Puckering of macula,黃斑部皺褶
+2025,H35371,"Puckering of macula, right eye",右眼黃斑部皺褶
+2026,H35372,"Puckering of macula, left eye",左眼黃斑部皺褶
+2027,H35373,"Puckering of macula, bilateral",雙側黃斑部皺褶
+2028,H35379,"Puckering of macula, unspecified eye",未特定側性黃斑部皺褶
+2029,H3538,Toxic maculopathy,中毒性黃斑病變
+2030,H35381,"Toxic maculopathy, right eye",右眼中毒性黃斑病變
+2031,H35382,"Toxic maculopathy, left eye",左眼中毒性黃斑病變
+2032,H35383,"Toxic maculopathy, bilateral",雙側中毒性黃斑病變
+2033,H35389,"Toxic maculopathy, unspecified eye",未特定側性中毒性黃斑病變
+2034,H354,Peripheral retinal degeneration,周邊視網膜退化
+2035,H3540,Unspecified peripheral retinal degeneration,周邊視網膜退化
+2036,H3541,Lattice degeneration of retina,視網膜格子狀退化
+2037,H35411,"Lattice degeneration of retina, right eye",右眼視網膜格子狀退化
+2038,H35412,"Lattice degeneration of retina, left eye",左眼視網膜格子狀退化
+2039,H35413,"Lattice degeneration of retina, bilateral",雙側視網膜格子狀退化
+2040,H35419,"Lattice degeneration of retina, unspecified eye",未特定側性視網膜格子狀退化
+2041,H3542,Microcystoid degeneration of retina,視網膜小囊狀退化
+2042,H35421,"Microcystoid degeneration of retina, right eye",右眼視網膜小囊狀退化
+2043,H35422,"Microcystoid degeneration of retina, left eye",左眼視網膜小囊狀退化
+2044,H35423,"Microcystoid degeneration of retina, bilateral",雙側視網膜小囊狀退化
+2045,H35429,"Microcystoid degeneration of retina, unspecified eye",未特定側性視網膜小囊狀退化
+2046,H3543,Paving stone degeneration of retina,視網膜鋪路石狀退化
+2047,H35431,"Paving stone degeneration of retina, right eye",右眼視網膜鋪路石狀退化
+2048,H35432,"Paving stone degeneration of retina, left eye",左眼視網膜鋪路石狀退化
+2049,H35433,"Paving stone degeneration of retina, bilateral",雙側視網膜鋪路石狀退化
+2050,H35439,"Paving stone degeneration of retina, unspecified eye",未特定側性視網膜鋪路石狀退化
+2051,H3544,Age-related reticular degeneration of retina,視網膜老年性網狀退化
+2052,H35441,"Age-related reticular degeneration of retina, right eye",右眼視網膜老年性網狀退化
+2053,H35442,"Age-related reticular degeneration of retina, left eye",左眼視網膜老年性網狀退化
+2054,H35443,"Age-related reticular degeneration of retina, bilateral",雙側視網膜老年性網狀退化
+2055,H35449,"Age-related reticular degeneration of retina, unspecified eye",未特定側性視網膜老年性網狀退化
+2056,H3545,Secondary pigmentary degeneration,續發性色素性退化
+2057,H35451,"Secondary pigmentary degeneration, right eye",右眼續發性色素性退化
+2058,H35452,"Secondary pigmentary degeneration, left eye",左眼續發性色素性退化
+2059,H35453,"Secondary pigmentary degeneration, bilateral",雙側續發性色素性退化
+2060,H35459,"Secondary pigmentary degeneration, unspecified eye",未特定側性續發性色素性退化
+2061,H3546,Secondary vitreoretinal degeneration,續發性玻璃體網膜退化
+2062,H35461,"Secondary vitreoretinal degeneration, right eye",右眼續發性玻璃體網膜退化
+2063,H35462,"Secondary vitreoretinal degeneration, left eye",左眼續發性玻璃體網膜退化
+2064,H35463,"Secondary vitreoretinal degeneration, bilateral",雙側續發性玻璃體網膜退化
+2065,H35469,"Secondary vitreoretinal degeneration, unspecified eye",未特定側性續發性玻璃體網膜退化
+2066,H355,Hereditary retinal dystrophy,遺傳性視網膜失養症
+2067,H3550,Unspecified hereditary retinal dystrophy,遺傳性視網膜失養症
+2068,H3551,Vitreoretinal dystrophy,玻璃體視網膜失養症
+2069,H3552,Pigmentary retinal dystrophy,色素性視網膜失養症
+2070,H3553,Other dystrophies primarily involving the sensory retina,其他涉及感覺網膜之視網膜失養症
+2071,H3554,Dystrophies primarily involving the retinal pigment epithelium,涉及網膜色素上皮之失養症
+2072,H356,Retinal hemorrhage,視網膜出血
+2073,H3560,"Retinal hemorrhage, unspecified eye",未特定側性視網膜出血
+2074,H3561,"Retinal hemorrhage, right eye",右眼視網膜出血
+2075,H3562,"Retinal hemorrhage, left eye",左眼視網膜出血
+2076,H3563,"Retinal hemorrhage, bilateral",雙側視網膜出血
+2077,H357,Separation of retinal layers,視網膜層分離
+2078,H3570,Unspecified separation of retinal layers,視網膜層分離
+2079,H3571,Central serous chorioretinopathy,中心漿液性脈絡視網膜病變
+2080,H35711,"Central serous chorioretinopathy, right eye",右眼中心漿液性脈絡視網膜病變
+2081,H35712,"Central serous chorioretinopathy, left eye",左眼中心漿液性脈絡視網膜病變
+2082,H35713,"Central serous chorioretinopathy, bilateral",雙側中心漿液性脈絡視網膜病變
+2083,H35719,"Central serous chorioretinopathy, unspecified eye",未特定側性中心漿液性脈絡視網膜病變
+2084,H3572,Serous detachment of retinal pigment epithelium,視網膜色素上皮層漿液性剝離
+2085,H35721,"Serous detachment of retinal pigment epithelium, right eye",右眼視網膜色素上皮層漿液性剝離
+2086,H35722,"Serous detachment of retinal pigment epithelium, left eye",左眼視網膜色素上皮層漿液性剝離
+2087,H35723,"Serous detachment of retinal pigment epithelium, bilateral",雙側視網膜色素上皮層漿液性剝離
+2088,H35729,"Serous detachment of retinal pigment epithelium, unspecified eye",未特定側性視網膜色素上皮層漿液性剝離
+2089,H3573,Hemorrhagic detachment of retinal pigment epithelium,視網膜色素上皮層出血性剝離
+2090,H35731,"Hemorrhagic detachment of retinal pigment epithelium, right eye",右眼視網膜色素上皮層出血性剝離
+2091,H35732,"Hemorrhagic detachment of retinal pigment epithelium, left eye",左眼視網膜色素上皮層出血性剝離
+2092,H35733,"Hemorrhagic detachment of retinal pigment epithelium, bilateral",雙側視網膜色素上皮層出血性剝離
+2093,H35739,"Hemorrhagic detachment of retinal pigment epithelium, unspecified eye",未特定側性視網膜色素上皮層出血性剝離
+2094,H358,Other specified retinal disorders,其他特定之視網膜疾患
+2095,H3581,Retinal edema,視網膜水腫
+2096,H3582,Retinal ischemia,視網膜缺血
+2097,H3589,Other specified retinal disorders,其他特定視網膜疾患
+2098,H359,Unspecified retinal disorder,視網膜疾患
+2099,H36,Retinal disorders in diseases classified elsewhere,歸類於他處疾病所致之視網膜疾患
+2100,H40,Glaucoma,青光眼
+2101,H400,Glaucoma suspect,疑似青光眼
+2102,H401,Open-angle glaucoma,隅角青光眼
+2103,H4010,Unspecified open-angle glaucoma,隅角開放性青光眼
+2104,H4011,Primary open-angle glaucoma,原發性隅角開放性青光眼
+2105,H4012,Low-tension glaucoma,低眼壓性青光眼
+2106,H40121,"Low-tension glaucoma, right eye",右眼低眼壓性青光眼
+2107,H40122,"Low-tension glaucoma, left eye",左眼低眼壓性青光眼
+2108,H40123,"Low-tension glaucoma, bilateral",雙側低眼壓性青光眼
+2109,H40129,"Low-tension glaucoma, unspecified eye",未特定側性低眼壓性青光眼
+2110,H4013,Pigmentary glaucoma,色素性青光眼
+2111,H40131,"Pigmentary glaucoma, right eye",右眼色素性青光眼
+2112,H40132,"Pigmentary glaucoma, left eye",左眼色素性青光眼
+2113,H40133,"Pigmentary glaucoma, bilateral",雙側色素性青光眼
+2114,H40139,"Pigmentary glaucoma, unspecified eye",未特定側性色素性青光眼
+2115,H4014,Capsular glaucoma with pseudoexfoliation of lens,囊膜性伴有水晶體偽性剝落青光眼
+2116,H40141,"Capsular glaucoma with pseudoexfoliation of lens, right eye",右眼囊膜性伴有水晶體偽性剝落青光眼
+2117,H40142,"Capsular glaucoma with pseudoexfoliation of lens, left eye",左眼囊膜性伴有水晶體偽性剝落青光眼
+2118,H40143,"Capsular glaucoma with pseudoexfoliation of lens, bilateral",雙側囊膜性伴有水晶體偽性剝落青光眼
+2119,H40149,"Capsular glaucoma with pseudoexfoliation of lens, unspecified eye",未特定側性囊膜性伴有水晶體偽性剝落青光眼
+2120,H4015,Residual stage of open-angle glaucoma,隅角青光眼殘餘期
+2121,H40151,"Residual stage of open-angle glaucoma, right eye",右眼隅角開放性青光眼殘餘期
+2122,H40152,"Residual stage of open-angle glaucoma, left eye",左眼隅角開放性青光眼殘餘期
+2123,H40153,"Residual stage of open-angle glaucoma, bilateral",雙側隅角開放性青光眼殘餘期
+2124,H40159,"Residual stage of open-angle glaucoma, unspecified eye",未特定側性隅角開放性青光眼殘餘期
+2125,H402,Primary angle-closure  glaucoma,原發性隅角青光眼
+2126,H4020,Unspecified primary angle-closure glaucoma,原發性隅角閉鎖性青光眼
+2127,H4021,Acute angle-closure glaucoma,急性隅角青光眼
+2128,H40211,"Acute angle-closure glaucoma, right eye",右眼急性隅角閉鎖性青光眼
+2129,H40212,"Acute angle-closure glaucoma, left eye",左眼急性隅角閉鎖性青光眼
+2130,H40213,"Acute angle-closure glaucoma, bilateral",雙側急性隅角閉鎖性青光眼
+2131,H40219,"Acute angle-closure glaucoma, unspecified eye",未特定側性急性隅角閉鎖性青光眼
+2132,H4022,Chronic angle-closure glaucoma,慢性隅角青光眼
+2133,H40221,"Chronic angle-closure glaucoma, right eye",右眼慢性隅角閉鎖性青光眼
+2134,H40222,"Chronic angle-closure glaucoma, left eye",左眼慢性隅角閉鎖性青光眼
+2135,H40223,"Chronic angle-closure glaucoma, bilateral",雙側慢性隅角閉鎖性青光眼
+2136,H40229,"Chronic angle-closure glaucoma, unspecified eye",未特定側性慢性隅角閉鎖性青光眼
+2137,H4023,Intermittent angle-closure glaucoma,間歇性隅角青光眼
+2138,H40231,"Intermittent angle-closure glaucoma, right eye",右眼間歇性隅角閉鎖性青光眼
+2139,H40232,"Intermittent angle-closure glaucoma, left eye",左眼間歇性隅角閉鎖性青光眼
+2140,H40233,"Intermittent angle-closure glaucoma, bilateral",雙側間歇性隅角閉鎖性青光眼
+2141,H40239,"Intermittent angle-closure glaucoma, unspecified eye",未特定側性間歇性隅角閉鎖性青光眼
+2142,H4024,Residual stage of angle-closure glaucoma,隅角青光眼殘餘期
+2143,H40241,"Residual stage of angle-closure glaucoma, right eye",右眼隅角閉鎖性青光眼殘餘期
+2144,H40242,"Residual stage of angle-closure glaucoma, let eye",左眼隅角閉鎖性青光眼殘餘期
+2145,H40243,"Residual stage of angle-closure glaucoma, bilateral",雙側隅角閉鎖性青光眼殘餘期
+2146,H40249,"Residual stage of angle-closure glaucoma, unspecified eye",未特定側性隅角閉鎖性青光眼殘餘期
+2147,H403,Glaucoma secondary to eye trauma,續發於眼創傷之青光眼
+2148,H4030,"Glaucoma secondary to eye trauma, unspecified eye",未特定側性續發於眼創傷之青光眼
+2149,H4031,"Glaucoma secondary to eye trauma, right eye",右眼續發於眼創傷之青光眼
+2150,H4032,"Glaucoma secondary to eye trauma, left eye",左眼續發於眼部創傷之青光眼
+2151,H4033,"Glaucoma secondary to eye trauma, bilateral",雙側續發於眼創傷之青光眼
+2152,H404,Glaucoma secondaty to eye inflammation,續發於眼發炎之青光眼
+2153,H4040,"Glaucoma secondary to eye inflammation, unspecified eye",未特定側性續發於眼發炎之青光眼
+2154,H4041,"Glaucoma secondary to eye inflammation, right eye",右眼續發於眼發炎之青光眼
+2155,H4042,"Glaucoma secondary to eye inflammation, left eye",左眼續發於眼發炎之青光眼
+2156,H4043,"Glaucoma secondary to eye inflammation, bilateral",雙側續發於眼發炎之青光眼
+2157,H405,Glaucoma secondary to other eye disorders,續發於其他眼疾患之青光眼
+2158,H4050,"Glaucoma secondary to other eye disorders, unspecified eye",未特定側性續發於其他眼疾患之青光眼
+2159,H4051,"Glaucoma secondary to other eye disorders, right eye",右眼續發於其他眼疾患之青光眼
+2160,H4052,"Glaucoma secondary to other eye disorders, left eye",左眼續發於其他眼疾患之青光眼
+2161,H4053,"Glaucoma secondary to other eye disorders, bilateral",雙側續發於其他眼疾患之青光眼
+2162,H406,Glaucoma secondaty ro drugs,續發於藥物之青光眼
+2163,H4060,"Glaucoma secondary to drugs, unspecified eye",未特定側性續發於藥物之青光眼
+2164,H4061,"Glaucoma secondary to drugs, right eye",右眼續發於藥物之青光眼
+2165,H4062,"Glaucoma secondary to drugs, left eye",左眼續發於藥物之青光眼
+2166,H4063,"Glaucoma secondary to drugs, bilateral",雙側續發於藥物之青光眼
+2167,H408,Other glaucoma,其他青光眼
+2168,H4081,Glaucoma with increased episcleral venous pressure,伴有上鞏膜靜脈壓上升之青光眼
+2169,H40811,"Glaucoma with increased episcleral venous pressure, right eye",右眼伴有上鞏膜靜脈壓上升之青光眼
+2170,H40812,"Glaucoma with increased episcleral venous pressure, left eye",左眼伴有上鞏膜靜脈壓上升之青光眼
+2171,H40813,"Glaucoma with increased episcleral venous pressure, bilateral",雙側伴有上鞏膜靜脈壓上升之青光眼
+2172,H40819,"Glaucoma with increased episcleral venous pressure, unspecified eye",未特定側性伴有上鞏膜靜脈壓上升之青光眼
+2173,H4082,Hypersecretion glaucoma,房水分泌過多性青光眼
+2174,H40821,"Hypersecretion glaucoma, right eye",右眼房水分泌過多性青光眼
+2175,H40822,"Hypersecretion glaucoma, left eye",左眼房水分泌過多性青光眼
+2176,H40823,"Hypersecretion glaucoma, bilateral",雙側房水分泌過多性青光眼
+2177,H40829,"Hypersecretion glaucoma, unspecified eye",未特定側性房水分泌過多性青光眼
+2178,H4083,Aqueous misdirection,房水方向誤導
+2179,H40831,"Aqueous misdirection, right eye",右眼房水方向誤導
+2180,H40832,"Aqueous misdirection, left eye",左眼房水方向誤導
+2181,H40833,"Aqueous misdirection, bilateral",雙側房水方向誤導
+2182,H40839,"Aqueous misdirection, unspecified eye",未特定側性右眼房水方向誤導
+2183,H4089,Other specified glaucoma,其他特定青光眼
+2184,H409,Unspecified glaucoma,青光眼
+2185,H42,Glaucoma in diseases classified elsewhere,歸類於他處疾病所致之青光眼
+2186,H43,Disorders of vitreous body,玻璃體疾患
+2187,H430,Vitreous prolapse,玻璃體脫垂
+2188,H4300,"Vitreous prolapse, unspecified eye",未特定側性玻璃體脫垂
+2189,H4301,"Vitreous prolapse, right eye",右眼玻璃體脫垂
+2190,H4302,"Vitreous prolapse, left eye",左眼玻璃體脫垂
+2191,H4303,"Vitreous prolapse, bilateral",雙側玻璃體脫垂
+2192,H431,Vitreous hemorrhage,玻璃體出血
+2193,H4310,"Vitreous hemorrhage, unspecified eye",未特定側性玻璃體出血
+2194,H4311,"Vitreous hemorrhage, right eye",右眼玻璃體出血
+2195,H4312,"Vitreous hemorrhage, left eye",左眼玻璃體出血
+2196,H4313,"Vitreous hemorrhage, bilateral",雙側玻璃體出血
+2197,H432,Crystalline deposits in vitreous body,玻璃體結晶沈澱
+2198,H4320,"Crystalline deposits in vitreous body, unspecified eye",未特定側性玻璃體結晶沈澱
+2199,H4321,"Crystalline deposits in vitreous body, right eye",右眼玻璃體結晶沈澱
+2200,H4322,"Crystalline deposits in vitreous body, left eye",左眼玻璃體結晶沈澱
+2201,H4323,"Crystalline deposits in vitreous body, bilateral",雙側玻璃體結晶沈澱
+2202,H433,Other vitreous opacities,其他玻璃體混濁
+2203,H4331,Vitreous membranes and strands,膜狀玻璃體及束狀玻璃體
+2204,H43311,"Vitreous membranes and strands, right eye",右眼膜狀玻璃體及束狀玻璃體
+2205,H43312,"Vitreous membranes and strands, left eye",左眼膜狀玻璃體及束狀玻璃體
+2206,H43313,"Vitreous membranes and strands, bilateral",雙側膜狀玻璃體及束狀玻璃體
+2207,H43319,"Vitreous membranes and strands, unspecified eye",未特定側性膜狀玻璃體及束狀玻璃體
+2208,H4339,Other vitreous opacities,其他玻璃體混濁
+2209,H43391,"Other vitreous opacities, right eye",右眼其他玻璃體混濁
+2210,H43392,"Other vitreous opacities, left eye",左眼其他玻璃體混濁
+2211,H43393,"Other vitreous opacities, bilateral",雙側其他玻璃體混濁
+2212,H43399,"Other vitreous opacities, unspecified eye",未特定側性其他玻璃體混濁
+2213,H438,Other disorders of vitreous body,玻璃體其他疾患
+2214,H4381,Vitreous degeneration,玻璃體退化
+2215,H43811,"Vitreous degeneration, right eye",右眼玻璃體退化
+2216,H43812,"Vitreous degeneration, left eye",左眼玻璃體退化
+2217,H43813,"Vitreous degeneration, bilateral",雙側玻璃體退化
+2218,H43819,"Vitreous degeneration, unspecified eye",未特定側性玻璃體退化
+2219,H4389,Other disorders of vitreous body,其他玻璃體疾患
+2220,H439,Unspecified disorder of vitreous body,玻璃體疾患
+2221,H44,Disorders of globe,眼球疾患
+2222,H440,Purulent endophthalmitis,化膿性眼內炎
+2223,H4400,Unspecified purulent endophthalmitis,化膿性眼內炎
+2224,H44001,"Unspecified purulent endophthalmitis, right eye",右眼化膿性眼內炎
+2225,H44002,"Unspecified purulent endophthalmitis, left eye",左眼化膿性眼內炎
+2226,H44003,"Unspecified purulent endophthalmitis, bilateral",雙側化膿性眼內炎
+2227,H44009,"Unspecified purulent endophthalmitis, unspecified eye",未特定側性化膿性眼內炎
+2228,H4401,Panophthalmitis (acute),全眼炎
+2229,H44011,"Panophthalmitis (acute), right eye",右眼全眼炎
+2230,H44012,"Panophthalmitis (acute), left eye",左眼全眼炎
+2231,H44013,"Panophthalmitis (acute), bilateral",雙側全眼炎
+2232,H44019,"Panophthalmitis (acute), unspecified eye",未特定側性全眼炎
+2233,H4402,Vitreous abscess (chronic),玻璃體膿瘍(慢性)
+2234,H44021,"Vitreous abscess (chronic), right eye",右眼玻璃體膿瘍(慢性)
+2235,H44022,"Vitreous abscess (chronic), left eye",左眼玻璃體膿瘍(慢性)
+2236,H44023,"Vitreous abscess (chronic), bilateral",雙側玻璃體膿瘍(慢性)
+2237,H44029,"Vitreous abscess (chronic), unspecified eye",未特定側性玻璃體膿瘍(慢性)
+2238,H441,Other endophthalmitis,其他眼內炎
+2239,H4411,Panuveitis,全葡萄膜炎
+2240,H44111,"Panuveitis, right eye",右眼全葡萄膜炎
+2241,H44112,"Panuveitis, left eye",左眼全葡萄膜炎
+2242,H44113,"Panuveitis, bilateral",雙側全葡萄膜炎
+2243,H44119,"Panuveitis, unspecified eye",未特定側性全葡萄膜炎
+2244,H4412,Parasitic endophthalmitis NOS,寄生物性眼內炎
+2245,H44121,"Parasitic endophthalmitis NOS, right eye",右眼寄生物性眼內炎
+2246,H44122,"Parasitic endophthalmitis NOS, left eye",左眼寄生物性眼內炎
+2247,H44123,"Parasitic endophthalmitis NOS, bilateral",雙側寄生物性眼內炎
+2248,H44129,"Parasitic endophthalmitis NOS, unspecified eye",未特定側性寄生物性眼內炎
+2249,H4413,Sympathetic uveitis,交感性葡萄膜炎
+2250,H44131,"Sympathetic uveitis, right eye",右眼交感性葡萄膜炎
+2251,H44132,"Sympathetic uveitis, left eye",左眼交感性葡萄膜炎
+2252,H44133,"Sympathetic uveitis, bilateral",雙側交感性葡萄膜炎
+2253,H44139,"Sympathetic uveitis, unspecified eye",未特定側性交感性葡萄膜炎
+2254,H4419,Other endophthalmitis,其他眼內炎
+2255,H442,Degenerative myopia,退化性近視
+2256,H4420,"Degenerative myopia, unspecified eye",未特定側性退化性近視
+2257,H4421,"Degenerative myopia, right eye",右眼退化性近視
+2258,H4422,"Degenerative myopia, left eye",左眼退化性近視
+2259,H4423,"Degenerative myopia, bilateral",雙側退化性近視
+2260,H443,Other and unspecified degenerative disorders of globe,眼球其他及未特定退化性疾患
+2261,H4430,Unspecified degenerative disorder of globe,眼球退化疾患
+2262,H4431,Chalcosis,黃銅(屑)沈著症
+2263,H44311,"Chalcosis, right eye",右眼黃銅(屑)沈著症
+2264,H44312,"Chalcosis, left eye",左眼黃銅(屑)沈著症
+2265,H44313,"Chalcosis, bilateral",雙側黃銅(屑)沈著症
+2266,H44319,"Chalcosis, unspecified eye",未特定側性黃銅(屑)沈著症
+2267,H4432,Siderosis of eye,眼睛鐵質沈著症
+2268,H44321,"Siderosis of eye, right eye",右眼眼睛鐵質沈著症
+2269,H44322,"Siderosis of eye, left eye",左眼眼睛鐵質沈著症
+2270,H44323,"Siderosis of eye, bilateral",雙側眼睛鐵質沈著症
+2271,H44329,"Siderosis of eye, unspecified eye",未特定側性眼睛鐵質沈著症
+2272,H4439,Other degenerative disorders of globe,其他眼球退化性疾患
+2273,H44391,"Other degenerative disorders of globe, right eye",右眼其他眼球退化性疾患
+2274,H44392,"Other degenerative disorders of globe, left eye",左眼其他眼球退化性疾患
+2275,H44393,"Other degenerative disorders of globe, bilateral",雙側其他眼球退化性疾患
+2276,H44399,"Other degenerative disorders of globe, unspecified eye",未特定側性其他眼球退化性疾患
+2277,H444,Hypotony of eye,低眼壓症
+2278,H4440,Unspecified hypotony of eye,低眼壓症
+2279,H4441,Flat anterior chamber hypotony of eye,扁平性眼前房低眼壓症
+2280,H44411,Flat anterior chamber hypotony of right eye,右眼扁平性眼前房低眼壓症
+2281,H44412,Flat anterior chamber hypotony of left eye,左眼扁平性眼前房低眼壓症
+2282,H44413,"Flat anterior chamber hypotony of eye, bilateral",雙側扁平性眼前房低眼壓症
+2283,H44419,Flat anterior chamber hypotony of unspecified eye,未特定側性扁平性眼前房低眼壓症
+2284,H4442,Hypotony of eye due to ocular fistula,眼瘻管所致之低眼壓症
+2285,H44421,Hypotony of right eye due to ocular fistula,右眼眼瘻管所致之低眼壓症
+2286,H44422,Hypotony of left eye due to ocular fistula,左眼眼瘻管所致之低眼壓症
+2287,H44423,"Hypotony of eye due to ocular fistula, bilateral",雙側眼瘻管所致之低眼壓症
+2288,H44429,Hypotony of unspecified eye due to ocular fistula,未特定側性眼瘻管所致之低眼壓症
+2289,H4443,Hypotony of eye due to other ocular disorders,其他眼疾所致之低眼壓症
+2290,H44431,"Hypotony of eye due to other ocular disorders, right eye",右眼其他眼疾所致之低眼壓症
+2291,H44432,"Hypotony of eye due to other ocular disorders, left eye",左眼其他眼疾所致之低眼壓症
+2292,H44433,"Hypotony of eye due to other ocular disorders, bilateral",雙側其他眼疾所致之低眼壓症
+2293,H44439,"Hypotony of eye due to other ocular disorders, unspecified eye",未特定側性其他眼疾所致之低眼壓症
+2294,H4444,Primary hypotony of eye,原發性低眼壓症
+2295,H44441,Primary hypotony of right eye,右眼原發性低眼壓症
+2296,H44442,Primary hypotony of left eye,左眼原發性低眼壓症
+2297,H44443,"Primary hypotony of eye, bilateral",雙側原發性低眼壓症
+2298,H44449,Primary hypotony of unspecified eye,未特定側性原發性低眼壓症
+2299,H445,Degenerated conditions of globe,眼球退化性病況
+2300,H4450,Unspecified degenerated conditions of globe,眼球退化
+2301,H4451,Absolute glaucoma,絕對性青光眼
+2302,H44511,"Absolute glaucoma, right eye",右眼絕對性青光眼
+2303,H44512,"Absolute glaucoma, left eye",左眼絕對性青光眼
+2304,H44513,"Absolute glaucoma, bilateral",雙側絕對性青光眼
+2305,H44519,"Absolute glaucoma, unspecified eye",未特定側性絕對性青光眼
+2306,H4452,Atrophy of globe,眼球萎縮
+2307,H44521,"Atrophy of globe, right eye",右眼眼球萎縮
+2308,H44522,"Atrophy of globe, left eye",左眼眼球萎縮
+2309,H44523,"Atrophy of globe, bilateral",雙側眼球萎縮
+2310,H44529,"Atrophy of globe, unspecified eye",未特定側性眼球萎縮青光眼
+2311,H4453,Leucocoria,白色瞳孔
+2312,H44531,"Leucocoria, right eye",右眼白色瞳孔
+2313,H44532,"Leucocoria, left eye",左眼白色瞳孔
+2314,H44533,"Leucocoria, bilateral",雙側白色瞳孔
+2315,H44539,"Leucocoria, unspecified eye",未特定側性白色瞳孔
+2316,H446,"Retained (old) intraocular foreign body, magnetic",眼球內磁性異物存留（陳舊性）
+2317,H4460,"Unspecified retained (old) intraocular foreign body, magnetic",眼球內磁性異物存留（陳舊性）
+2318,H44601,"Unspecified retained (old) intraocular foreign body, magnetic, right eye",右眼眼球內磁性異物存留（陳舊性）
+2319,H44602,"Unspecified retained (old) intraocular foreign body, magnetic, left eye",左眼眼球內磁性異物存留（陳舊性）
+2320,H44603,"Unspecified retained (old) intraocular foreign body, magnetic, bilateral",雙側眼球內磁性異物存留（陳舊性）
+2321,H44609,"Unspecified retained (old) intraocular foreign body, magnetic, unspecified eye",未特定側性眼球內磁性異物存留（陳舊性）
+2322,H4461,Retained (old) magnetic foreign body in anterior chamber,前房內磁性異物存留（陳舊性）
+2323,H44611,"Retained (old) magnetic foreign body in anterior chamber, right eye",右眼前房內磁性異物存留（陳舊性）
+2324,H44612,"Retained (old) magnetic foreign body in anterior chamber, left eye",左眼前房內磁性異物存留（陳舊性）
+2325,H44613,"Retained (old) magnetic foreign body in anterior chamber, bilateral",雙側前房內磁性異物存留（陳舊性）
+2326,H44619,"Retained (old) magnetic foreign body in anterior chamber, unspecified eye",未特定側性前房內磁性異物存留（陳舊性）
+2327,H4462,Retained (old) magnetic foreign body in iris or ciliary body,虹膜或睫狀體內磁性異物存留（陳舊性）
+2328,H44621,"Retained (old) magnetic foreign body in iris or ciliary body, right eye",右眼虹膜或睫狀體內磁性異物存留（陳舊性）
+2329,H44622,"Retained (old) magnetic foreign body in iris or ciliary body, left eye",左眼虹膜或睫狀體內磁性異物存留（陳舊性）
+2330,H44623,"Retained (old) magnetic foreign body in iris or ciliary body, bilateral",雙側虹膜或睫狀體內磁性異物存留（陳舊性）
+2331,H44629,"Retained (old) magnetic foreign body in iris or ciliary body, unspecified eye",未特定側性虹膜或睫狀體內磁性異物存留（陳舊性）
+2332,H4463,Retained (old) magnetic foreign body in lens,水晶體內磁性異物存留（陳舊性）
+2333,H44631,"Retained (old) magnetic foreign body in lens, right eye",右眼水晶體內磁性異物存留（陳舊性）
+2334,H44632,"Retained (old) magnetic foreign body in lens, left eye",左眼水晶體內磁性異物存留（陳舊性）
+2335,H44633,"Retained (old) magnetic foreign body in lens, bilateral",雙側水晶體內磁性異物存留（陳舊性）
+2336,H44639,"Retained (old) magnetic foreign body in lens, unspecified eye",未特定側性水晶體內磁性異物存留（陳舊性）
+2337,H4464,Retained (old) magnetic foreign body in posterior wall of globe,眼球後壁內磁性異物存留（陳舊性）
+2338,H44641,"Retained (old) magnetic foreign body in posterior wall of globe, right eye",右眼眼球後壁內磁性異物存留（陳舊性）
+2339,H44642,"Retained (old) magnetic foreign body in posterior wall of globe, left eye",左眼眼球後壁內磁性異物存留（陳舊性）
+2340,H44643,"Retained (old) magnetic foreign body in posterior wall of globe, bilateral",雙側眼球後壁內磁性異物存留（陳舊性）
+2341,H44649,"Retained (old) magnetic foreign body in posterior wall of globe, unspecified eye",未特定側性眼球後壁內磁性異物存留（陳舊性）
+2342,H4465,Retained (old) magnetic foreign body in vitreous body,玻璃體內磁性異物存留（陳舊性）
+2343,H44651,"Retained (old) magnetic foreign body in vitreous body, right eye",右眼玻璃體內磁性異物存留（陳舊性）
+2344,H44652,"Retained (old) magnetic foreign body in vitreous body, left eye",左眼玻璃體內磁性異物存留（陳舊性）
+2345,H44653,"Retained (old) magnetic foreign body in vitreous body, bilateral",雙側玻璃體內磁性異物存留（陳舊性）
+2346,H44659,"Retained (old) magnetic foreign body in vitreous body, unspecified eye",未特定側性玻璃體內磁性異物存留（陳舊性）
+2347,H4469,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites",眼球內其他部位或多處磁性異物存留（陳舊性）
+2348,H44691,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites, right eye",右眼眼球內其他部位或多處磁性異物存留（陳舊性）
+2349,H44692,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites, left eye",左眼眼球內其他部位或多處磁性異物存留（陳舊性）
+2350,H44693,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites, bilateral",雙側眼球內其他部位或多處磁性異物存留（陳舊性）
+2351,H44699,"Retained (old) intraocular foreign body, magnetic, in other or multiple sites, unspecified eye",未特定側性眼球內其他部位或多處磁性異物存留（陳舊性）
+2352,H447,"Retained (old) intraocular foreign body, nonmagnetic",眼球內非磁性異物存留（陳舊性）
+2353,H4470,"Unspecified retained (old) intraocular foreign body, nonmagnetic",眼球內非磁性異物存留（陳舊性）
+2354,H44701,"Unspecified retained (old) intraocular foreign body, nonmagnetic, right eye",右眼眼球內非磁性異物存留（陳舊性）
+2355,H44702,"Unspecified retained (old) intraocular foreign body, nonmagnetic, left eye",左眼眼球內非磁性異物存留（陳舊性）
+2356,H44703,"Unspecified retained (old) intraocular foreign body, nonmagnetic, bilateral",雙側眼球內非磁性異物存留（陳舊性）
+2357,H44709,"Unspecified retained (old) intraocular foreign body, nonmagnetic, unspecified eye",未特定側性眼球內非磁性異物存留（陳舊性）
+2358,H4471,Retained (nonmagnetic) (old) foreign body in anterior chamber,前房內非磁性異物存留（陳舊性）
+2359,H44711,"Retained (nonmagnetic) (old) foreign body in anterior chamber, right eye",右眼前房內非磁性異物存留（陳舊性）
+2360,H44712,"Retained (nonmagnetic) (old) foreign body in anterior chamber, left eye",左眼前房內非磁性異物存留（陳舊性）
+2361,H44713,"Retained (nonmagnetic) (old) foreign body in anterior chamber, bilateral",雙側前房內非磁性異物存留（陳舊性）
+2362,H44719,"Retained (nonmagnetic) (old) foreign body in anterior chamber, unspecified eye",未特定側性前房內非磁性異物存留（陳舊性）
+2363,H4472,Retained (nonmagnetic) (old) foreign body in iris or ciliary body,虹膜或睫狀體內非磁性異物存留（陳舊性）
+2364,H44721,"Retained (nonmagnetic) (old) foreign body in iris or ciliary body, right eye",右眼虹膜或睫狀體內非磁性異物存留（陳舊性）
+2365,H44722,"Retained (nonmagnetic) (old) foreign body in iris or ciliary body, left eye",左眼虹膜或睫狀體內非磁性異物存留（陳舊性）
+2366,H44723,"Retained (nonmagnetic) (old) foreign body in iris or ciliary body, bilateral",雙側虹膜或睫狀體內非磁性異物存留（陳舊性）
+2367,H44729,"Retained (nonmagnetic) (old) foreign body in iris or ciliary body, unspecified eye",未特定側性虹膜或睫狀體內非磁性異物存留（陳舊性）
+2368,H4473,Retained (nonmagnetic) (old) foreign body in lens,水晶體內非磁性異物存留（陳舊性）
+2369,H44731,"Retained (nonmagnetic) (old) foreign body in lens, right eye",右眼水晶體內非磁性異物存留（陳舊性）
+2370,H44732,"Retained (nonmagnetic) (old) foreign body in lens, left eye",左眼水晶體內非磁性異物存留（陳舊性）
+2371,H44733,"Retained (nonmagnetic) (old) foreign body in lens, bilateral",雙側水晶體內非磁性異物存留（陳舊性）
+2372,H44739,"Retained (nonmagnetic) (old) foreign body in lens, unspecified eye",未特定側性水晶體內非磁性異物存留（陳舊性）
+2373,H4474,Retained (nonmagnetic) (old) foreign body in posterior wall of globe,眼球後壁內非磁性異物存留（陳舊性）
+2374,H44741,"Retained (nonmagnetic) (old) foreign body in posterior wall of globe, right eye",右眼眼球後壁內非磁性異物存留（陳舊性）
+2375,H44742,"Retained (nonmagnetic) (old) foreign body in posterior wall of globe, left eye",左眼眼球後壁內非磁性異物存留（陳舊性）
+2376,H44743,"Retained (nonmagnetic) (old) foreign body in posterior wall of globe, bilateral",雙側眼球後壁內非磁性異物存留（陳舊性）
+2377,H44749,"Retained (nonmagnetic) (old) foreign body in posterior wall of globe, unspecified eye",未特定側性眼球後壁內非磁性異物存留（陳舊性）
+2378,H4475,Retained (nonmagnetic) (old) foreign body in vitreous body,玻璃體內非磁性異物存留（陳舊性）
+2379,H44751,"Retained (nonmagnetic) (old) foreign body in vitreous body, right eye",右眼玻璃體內非磁性異物存留（陳舊性）
+2380,H44752,"Retained (nonmagnetic) (old) foreign body in vitreous body, left eye",左眼玻璃體內非磁性異物存留（陳舊性）
+2381,H44753,"Retained (nonmagnetic) (old) foreign body in vitreous body, bilateral",雙側玻璃體內非磁性異物存留（陳舊性）
+2382,H44759,"Retained (nonmagnetic) (old) foreign body in vitreous body, unspecified eye",未特定側性玻璃體內非磁性異物存留（陳舊性）
+2383,H4479,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites",眼球內其他部位或多處非磁性異物存留（陳舊性）
+2384,H44791,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, right eye",右眼眼球內其他部位或多處非磁性異物存留（陳舊性）
+2385,H44792,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, left eye",左眼眼球內其他部位或多處非磁性異物存留（陳舊性）
+2386,H44793,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, bilateral",雙側眼球內其他部位或多處非磁性異物存留（陳舊性）
+2387,H44799,"Retained (old) intraocular foreign body, nonmagnetic, in other or multiple sites, unspecified eye",未特定側性眼球內其他部位或多處非磁性異物存留（陳舊性）
+2388,H448,Other disorders of globe,眼球其他疾患
+2389,H4481,Hemophthalmos,眼球積血
+2390,H44811,"Hemophthalmos, right eye",右眼眼球積血
+2391,H44812,"Hemophthalmos, left eye",左眼眼球積血
+2392,H44813,"Hemophthalmos, bilateral",雙側眼球積血
+2393,H44819,"Hemophthalmos, unspecified eye",未特定側性眼球積血
+2394,H4482,Luxation of globe,眼球脫位
+2395,H44821,"Luxation of globe, right eye",右眼眼球脫位
+2396,H44822,"Luxation of globe, left eye",左眼眼球脫位
+2397,H44823,"Luxation of globe, bilateral",雙側眼球脫位
+2398,H44829,"Luxation of globe, unspecified eye",未特定側性眼球脫位
+2399,H4489,Other disorders of globe,其他眼球疾患
+2400,H449,Unspecified disorder of globe,眼球疾患
+2401,H46,Optic neuritis,眼球神經炎
+2402,H460,Optic papillitis,視乳頭炎
+2403,H4600,"Optic papillitis, unspecified eye",未特定側性視乳頭炎
+2404,H4601,"Optic papillitis, right eye",右眼視乳頭炎
+2405,H4602,"Optic papillitis, left eye",左眼視乳頭炎
+2406,H4603,"Optic papillitis, bilateral",雙側視乳頭炎
+2407,H461,Retrobulbar neuritis,眼球後神經炎
+2408,H4610,"Retrobulbar neuritis, unspecified eye",未特定側性眼球後神經炎
+2409,H4611,"Retrobulbar neuritis, right eye",右眼眼球後神經炎
+2410,H4612,"Retrobulbar neuritis, left eye",左眼眼球後神經炎
+2411,H4613,"Retrobulbar neuritis, bilateral",雙側眼球後神經炎
+2412,H462,Nutritional optic neuropathy,營養性視神經病變
+2413,H463,Toxic optic neuropathy,毒性視神經病變
+2414,H468,Other optic neuritis,其他視神經炎
+2415,H469,Unspecified optic neuritis,視神經炎
+2416,H47,Other disorders of optic [2nd] nerve and visual pathways,視(第2)神經及視路之其他疾患
+2417,H470,"Disorders of optic nerve, not elsewhere classified",視神經發育不良，他處未歸類者
+2418,H4701,Ischemic optic neuropathy,缺血性視神經病變
+2419,H47011,"Ischemic optic neuropathy, right eye",右眼缺血性視神經病變
+2420,H47012,"Ischemic optic neuropathy, left eye",左眼缺血性視神經病變
+2421,H47013,"Ischemic optic neuropathy, bilateral",雙側缺血性視神經病變
+2422,H47019,"Ischemic optic neuropathy, unspecified eye",未特定側性缺血性視神經病變
+2423,H4702,Hemorrhage in optic nerve sheath,視神經鞘出血
+2424,H47021,"Hemorrhage in optic nerve sheath, right eye",右眼視神經鞘出血
+2425,H47022,"Hemorrhage in optic nerve sheath, left eye",左眼視神經鞘出血
+2426,H47023,"Hemorrhage in optic nerve sheath, bilateral",雙側視神經鞘出血
+2427,H47029,"Hemorrhage in optic nerve sheath, unspecified eye",未特定側性視神經鞘出血
+2428,H4703,Optic nerve hypoplasia,視神經發育不良
+2429,H47031,"Optic nerve hypoplasia, right eye",右眼視神經發育不良
+2430,H47032,"Optic nerve hypoplasia, left eye",左眼視神經發育不良
+2431,H47033,"Optic nerve hypoplasia, bilateral",雙側視神經發育不良
+2432,H47039,"Optic nerve hypoplasia, unspecified eye",未特定側性視神經發育不良
+2433,H4709,"Other disorders of optic nerve, not elsewhere classified",視神經之其他疾患，他處未歸類者
+2434,H47091,"Other disorders of optic nerve, not elsewhere classified, right eye",右眼視神經之其他疾患，他處未歸類者
+2435,H47092,"Other disorders of optic nerve, not elsewhere classified, left eye",左眼視神經之其他疾患，他處未歸類者
+2436,H47093,"Other disorders of optic nerve, not elsewhere classified, bilateral",雙側視神經之其他疾患，他處未歸類者
+2437,H47099,"Other disorders of optic nerve, not elsewhere classified, unspecified eye",未特定側性視神經之其他疾患，他處未歸類者
+2438,H471,Papilledema,視神經乳頭水腫
+2439,H4710,Unspecified papilledema,視神經乳頭水腫
+2440,H4711,Papilledema associated with increased intracranial pressure,顱內壓升高視神經乳頭水腫
+2441,H4712,Papilledema associated with decreased ocular pressure,眼內壓下降視神經乳頭水腫
+2442,H4713,Papilledema associated with retinal disorder,與視網膜疾患有關之視神經乳頭水腫
+2443,H4714,Foster-Kennedy syndrome,Foster-Kennedy氏徵候群
+2444,H47141,"Foster-Kennedy syndrome, right eye",右眼Foster-Kennedy氏徵候群
+2445,H47142,"Foster-Kennedy syndrome, left eye",左眼Foster-Kennedy氏徵候群
+2446,H47143,"Foster-Kennedy syndrome, bilateral",雙側Foster-Kennedy氏徵候群
+2447,H47149,"Foster-Kennedy syndrome, unspecified eye",未特定側性Foster-Kennedy氏徵候群
+2448,H472,Optic atiophy,視神經萎縮
+2449,H4720,Unspecified optic atrophy,視神經萎縮
+2450,H4721,Primary optic atrophy,原發性視神經萎縮
+2451,H47211,"Primary optic atrophy, right eye",右眼原發性視神經萎縮
+2452,H47212,"Primary optic atrophy, left eye",左眼原發性視神經萎縮
+2453,H47213,"Primary optic atrophy, bilateral",雙側原發性視神經萎縮
+2454,H47219,"Primary optic atrophy, unspecified eye",未特定側性原發性視神經萎縮
+2455,H4722,Hereditary optic atrophy,遺傳性視神經萎縮
+2456,H4723,Glaucomatous optic atrophy,青光眼性視神經萎縮
+2457,H47231,"Glaucomatous optic atrophy, right eye",右眼青光眼性視神經盤萎縮
+2458,H47232,"Glaucomatous optic atrophy, left eye",左眼青光眼性視神經盤萎縮
+2459,H47233,"Glaucomatous optic atrophy, bilateral",雙側青光眼性視神經盤萎縮
+2460,H47239,"Glaucomatous optic atrophy, unspecified eye",未特定側性青光眼性視神經盤萎縮
+2461,H4729,Other optic atrophy,其他視神經萎縮
+2462,H47291,"Other optic atrophy, right eye",右眼其他視神經萎縮
+2463,H47292,"Other optic atrophy, left eye",左眼其他視神經萎縮
+2464,H47293,"Other optic atrophy, bilateral",雙側其他視神經萎縮
+2465,H47299,"Other optic atrophy, unspecified eye",未特定側性其他視神經萎縮
+2466,H473,Other disorders of optic disc,神經盤其他疾患
+2467,H4731,Coloboma of optic disc,視神經盤缺損
+2468,H47311,"Coloboma of optic disc, right eye",右眼視神經盤缺損
+2469,H47312,"Coloboma of optic disc, left eye",左眼視神經盤缺損
+2470,H47313,"Coloboma of optic disc, bilateral",雙側視神經盤缺損
+2471,H47319,"Coloboma of optic disc, unspecified eye",未特定側性視神經盤缺損
+2472,H4732,Drusen of optic disc,視神經盤疣
+2473,H47321,"Drusen of optic disc, right eye",右眼視神經盤疣
+2474,H47322,"Drusen of optic disc, left eye",左眼視神經盤疣
+2475,H47323,"Drusen of optic disc, bilateral",雙側視神經盤疣
+2476,H47329,"Drusen of optic disc, unspecified eye",未特定側性視神經盤疣
+2477,H4733,Pseudopapilledema of optic disc,假性視神經乳頭水腫
+2478,H47331,"Pseudopapilledema of optic disc, right eye",右眼假性視神經乳頭水腫
+2479,H47332,"Pseudopapilledema of optic disc, left eye",左眼假性視神經乳頭水腫
+2480,H47333,"Pseudopapilledema of optic disc, bilateral",雙側假性視神經乳頭水腫
+2481,H47339,"Pseudopapilledema of optic disc, unspecified eye",未特定側性假性視神經乳頭水腫
+2482,H4739,Other disorders of optic disc,視神經盤其他疾患
+2483,H47391,"Other disorders of optic disc, right eye",右眼神經盤其他疾患
+2484,H47392,"Other disorders of optic disc, left eye",左眼神經盤其他疾患
+2485,H47393,"Other disorders of optic disc, bilateral",雙側神經盤其他疾患
+2486,H47399,"Other disorders of optic disc, unspecified eye",未特定側性神經盤其他疾患
+2487,H474,Disorders of optic chiasm,視交叉疾患
+2488,H4741,Disorders of optic chiasm in (due to) inflammatory disorders,與發炎性疾患有關之視交叉疾患
+2489,H4742,Disorders of optic chiasm in (due to) neoplasm,與其他腫瘤有關之視交叉疾患
+2490,H4743,Disorders of optic chiasm in (due to) vascular disorders,與血管疾患有關之視交叉疾患
+2491,H4749,Disorders of optic chiasm in (due to) other disorders,與其他疾患有關之視交叉疾患
+2492,H475,Disorders of other visual pathways,其他視路疾患
+2493,H4751,Disorders of visual pathways in (due to) inflammatory disorders,與發炎性疾患有關之視路疾患
+2494,H47511,"Disorders of visual pathways in (due to) inflammatory disorders, right side",右側與發炎性疾患有關之視路疾患
+2495,H47512,"Disorders of visual pathways in (due to) inflammatory disorders, left side",左側與發炎性疾患有關之視路疾患
+2496,H47519,"Disorders of visual pathways in (due to) inflammatory disorders, unspecified side",未特定側性與發炎性疾患有關之視路疾患
+2497,H4752,Disorders of visual pathways in (due to) neoplasm,與腫瘤有關之視路疾患
+2498,H47521,"Disorders of visual pathways in (due to) neoplasm, right side",右側與腫瘤有關之視路疾患
+2499,H47522,"Disorders of visual pathways in (due to) neoplasm, left side",左側與腫瘤有關之視路疾患
+2500,H47529,"Disorders of visual pathways in (due to) neoplasm, unspecified side",未特定側性與腫瘤有關之視路疾患
+2501,H4753,Disorders of visual pathways in (due to) vascular disorders,與血管疾患有關之視路疾患
+2502,H47531,"Disorders of visual pathways in (due to) vascular disorders, right side",右側與血管疾患有關之視路疾患
+2503,H47532,"Disorders of visual pathways in (due to) vascular disorders, left side",左側與血管疾患有關之視路疾患
+2504,H47539,"Disorders of visual pathways in (due to) vascular disorders, unspecified side",未特定側性與血管疾患有關之視路疾患
+2505,H476,Disorders of visual cortex,視皮質疾患
+2506,H4761,Cortical blindness,皮質性失明
+2507,H47611,"Cortical blindness, right side of brain",右側腦皮質性失明
+2508,H47612,"Cortical blindness, left side of brain",左側腦皮質性失明
+2509,H47619,"Cortical blindness, unspecified side of brain",未特定側性皮質性失明
+2510,H4762,Disorders of visual cortex in (due to) inflammatory disorders,與發炎性疾患有關之視皮質疾患
+2511,H47621,"Disorders of visual cortex in (due to) inflammatory disorders, right side of brain",右側腦與發炎性疾患有關之視皮質疾患
+2512,H47622,"Disorders of visual cortex in (due to) inflammatory disorders, left side of brain",左側腦與發炎性疾患有關之視皮質疾患
+2513,H47629,"Disorders of visual cortex in (due to) inflammatory disorders, unspecified side of brain",未特定側性與發炎性疾患有關之視皮質疾患
+2514,H4763,Disorders of visual cortex in (due to) neoplasm,與腫瘤有關之視皮質疾患
+2515,H47631,"Disorders of visual cortex in (due to) neoplasm, right side of brain",右側腦與腫瘤有關之視皮質疾患
+2516,H47632,"Disorders of visual cortex in (due to) neoplasm, left side of brain",左側腦與腫瘤有關之視皮質疾患
+2517,H47639,"Disorders of visual cortex in (due to) neoplasm, unspecified side of brain",未特定側性與腫瘤有關之視皮質疾患
+2518,H4764,Disorders of visual cortex in (due to) vascular disorders,與血管疾患有關之視皮質疾患
+2519,H47641,"Disorders of visual cortex in (due to) vascular disorders, right side of brain",右側腦與血管疾患有關之視皮質疾患
+2520,H47642,"Disorders of visual cortex in (due to) vascular disorders, left side of brain",左側腦與血管疾患有關之視皮質疾患
+2521,H47649,"Disorders of visual cortex in (due to) vascular disorders, unspecified side of brain",未特定側性與血管疾患有關之視皮質疾患
+2522,H479,Unspecified disorder of visual pathways,視路之疾患
+2523,H49,Paralytic strabismus,麻痺性斜視
+2524,H490,Third [oculomotor] nerve palsy,第三對腦神經(動眼)麻痺
+2525,H4900,"Third [oculomotor] nerve palsy, unspecified eye",未特定側性第三對腦神經(動眼)麻痺
+2526,H4901,"Third [oculomotor] nerve palsy, right eye",右眼第三對腦神經(動眼)麻痺
+2527,H4902,"Third [oculomotor] nerve palsy, left eye",左眼第三對腦神經(動眼)麻痺
+2528,H4903,"Third [oculomotor] nerve palsy, bilateral",雙側第三對腦神經(動眼)麻痺
+2529,H491,Fourth [trochlear] nerve palsy,第四對腦神經(滑車)麻痺
+2530,H4910,"Fourth [trochlear] nerve palsy, unspecified eye",未特定側性第四對腦神經(滑車)麻痺
+2531,H4911,"Fourth [trochlear] nerve palsy, right eye",右眼第四對腦神經(滑車)麻痺
+2532,H4912,"Fourth [trochlear] nerve palsy, left eye",左眼第四對腦神經(滑車)麻痺
+2533,H4913,"Fourth [trochlear] nerve palsy, bilateral",雙側第四對腦神經(滑車)麻痺
+2534,H492,Sixth [abducent] nerve palsy,第六對腦神經(外展)麻痺
+2535,H4920,"Sixth [abducent] nerve palsy, unspecified eye",未特定側性第六對腦神經(外展)麻痺
+2536,H4921,"Sixth [abducent] nerve palsy, right eye",右眼第六對腦神經(外展)麻痺
+2537,H4922,"Sixth [abducent] nerve palsy, left eye",左眼第六對腦神經(外展)麻痺
+2538,H4923,"Sixth [abducent] nerve palsy, bilateral",雙側第六對腦神經(外展)麻痺
+2539,H493,Total (external) ophthalmoplegia,全部(外部)眼肌麻痺
+2540,H4930,"Total (external) ophthalmoplegia, unspecified eye",未特定側性全部(外部)眼肌麻痺
+2541,H4931,"Total (external) ophthalmoplegia, right eye",右眼全部(外部)眼肌麻痺
+2542,H4932,"Total (external) ophthalmoplegia, left eye",左眼全部(外部)眼肌麻痺
+2543,H4933,"Total (external) ophthalmoplegia, bilateral",雙側全部(外部)眼肌麻痺
+2544,H494,Progressive external ophthalmoplegia,進行性外眼肌麻痺
+2545,H4940,"Progressive external ophthalmoplegia, unspecified eye",未特定側性進行性外眼肌麻痺
+2546,H4941,"Progressive external ophthalmoplegia, right eye",右眼進行性外眼肌麻痺
+2547,H4942,"Progressive external ophthalmoplegia, left eye",左眼進行性外眼肌麻痺
+2548,H4943,"Progressive external ophthalmoplegia, bilateral",雙側進行性外眼肌麻痺
+2549,H498,Other paralytic strabismus,其他麻痺性斜視
+2550,H4981,Kearns-Sayre syndrome,柯恩-莎蕊氏症候群
+2551,H49811,"Kearns-Sayre syndrome, right eye",右眼柯恩-莎蕊氏症候群
+2552,H49812,"Kearns-Sayre syndrome, left eye",左眼柯恩-莎蕊氏症候群
+2553,H49813,"Kearns-Sayre syndrome, bilateral",雙側柯恩-莎蕊氏症候群
+2554,H49819,"Kearns-Sayre syndrome, unspecified eye",未特定側性柯恩-莎蕊氏症候群
+2555,H4988,Other paralytic strabismus,其他麻痺性斜視
+2556,H49881,"Other paralytic strabismus, right eye",右眼其他麻痺性斜視
+2557,H49882,"Other paralytic strabismus, left eye",左眼其他麻痺性斜視
+2558,H49883,"Other paralytic strabismus, bilateral",雙側其他麻痺性斜視
+2559,H49889,"Other paralytic strabismus, unspecified eye",未特定側性其他麻痺性斜視
+2560,H499,Unspecified paralytic strabismus,麻痺性斜視
+2561,H50,Other strabismus,其他斜視
+2562,H500,Esotropia,內斜視
+2563,H5000,Unspecified esotropia,內斜視
+2564,H5001,Monocular esotropia,單眼內斜視
+2565,H50011,"Monocular esotropia, right eye",右眼單眼內斜視
+2566,H50012,"Monocular esotropia, left eye",左眼單眼內斜視
+2567,H5002,Monocular esotropia with A pattern,A型單眼內斜視
+2568,H50021,"Monocular esotropia with A pattern, right eye",右眼A型單眼內斜視
+2569,H50022,"Monocular esotropia with A pattern, left eye",左眼A型單眼內斜視
+2570,H5003,Monocular esotropia with V pattern,V型單眼內斜視
+2571,H50031,"Monocular esotropia with V pattern, right eye",右眼V型單眼內斜視
+2572,H50032,"Monocular esotropia with V pattern, left eye",左眼V型單眼內斜視
+2573,H5004,Monocular esotropia with other noncomitancies,伴有其他非共動性之單眼內斜視
+2574,H50041,"Monocular esotropia with other noncomitancies, right eye",右眼伴有其他非共動性之單眼內斜視
+2575,H50042,"Monocular esotropia with other noncomitancies, left eye",左眼伴有其他非共動性之單眼內斜視
+2576,H5005,Alternating esotropia,交替性內斜視
+2577,H5006,Alternating esotropia with A pattern,A型之交替性內斜視
+2578,H5007,Alternating esotropia with V pattern,V型之交替性內斜視
+2579,H5008,Alternating esotropia with other noncomitancies,其他非共動性之交替性內斜視
+2580,H501,Exotropia,外斜視
+2581,H5010,Unspecified exotropia,外斜視
+2582,H5011,Monocular exotropia,單眼外斜視
+2583,H50111,"Monocular exotropia, right eye",右眼單眼外斜視
+2584,H50112,"Monocular exotropia, left eye",左眼單眼外斜視
+2585,H5012,Monocular exotropia with A pattern,A型單眼外斜視
+2586,H50121,"Monocular exotropia with A pattern, right eye",右眼A型單眼外斜視
+2587,H50122,"Monocular exotropia with A pattern, left eye",左眼A型單眼外斜視
+2588,H5013,Monocular exotropia with V pattern,V型單眼外斜視
+2589,H50131,"Monocular exotropia with V pattern, right eye",右眼V型單眼外斜視
+2590,H50132,"Monocular exotropia with V pattern, left eye",左眼V型單眼外斜視
+2591,H5014,Monocular exotropia with other noncomitancies,其他非共動性之單眼外斜視
+2592,H50141,"Monocular exotropia with other noncomitancies, right eye",右眼其他非共動性之單眼外斜視
+2593,H50142,"Monocular exotropia with other noncomitancies, left eye",左眼其他非共動性之單眼外斜視
+2594,H5015,Alternating exotropia,交替性外斜視
+2595,H5016,Alternating exotropia with A pattern,A型之交替性外斜視
+2596,H5017,Alternating exotropia with V pattern,V型之交替性外斜視
+2597,H5018,Alternating exotropia with other noncomitancies,其他非共動性之交替性外斜視
+2598,H502,Vertical strabismus,垂直性上斜視
+2599,H5021,"Vertical strabismus, right eye",右眼垂直性上斜視
+2600,H5022,"Vertical strabismus, left eye",左眼垂直性上斜視
+2601,H503,Intermittent heterotropia,間歇性外斜視
+2602,H5030,Unspecified intermittent heterotropia,間歇性斜視
+2603,H5031,Intermittent monocular esotropia,單眼間歇性內斜視
+2604,H50311,"Intermittent monocular esotropia, right eye",右眼單眼間歇性內斜視
+2605,H50312,"Intermittent monocular esotropia, left eye",左眼單眼間歇性內斜視
+2606,H5032,Intermittent alternating esotropia,交替性間歇性內斜視
+2607,H5033,Intermittent monocular exotropia,單眼間歇性外斜視
+2608,H50331,"Intermittent monocular exotropia, right eye",右眼單眼間歇性外斜視
+2609,H50332,"Intermittent monocular exotropia, left eye",左眼單眼間歇性外斜視
+2610,H5034,Intermittent alternating exotropia,交替性間歇性外斜視
+2611,H504,Other and unspecified heterotropia,其他及未特定之隱斜視
+2612,H5040,Unspecified heterotropia,斜視
+2613,H5041,Cyclotropia,旋轉性斜視
+2614,H50411,"Cyclotropia, right eye",右眼旋轉性斜視
+2615,H50412,"Cyclotropia, left eye",左眼旋轉性斜視
+2616,H5042,Monofixation syndrome,單一固視性徵候群
+2617,H5043,Accommodative component in esotropia,內斜視之調節因素
+2618,H505,Heterophoria,交替性隱斜視
+2619,H5050,Unspecified heterophoria,隱斜視
+2620,H5051,Esophoria,內隱斜視
+2621,H5052,Exophoria,外隱斜視
+2622,H5053,Vertical heterophoria,垂直性隱斜視
+2623,H5054,Cyclophoria,旋轉性隱斜視
+2624,H5055,Alternating heterophoria,交替性隱斜視
+2625,H506,Mechanical strabismus,機械性斜視
+2626,H5060,"Mechanical strabismus, unspecified",機械性斜視，未特定
+2627,H5061,Brown's sheath syndrome,Brown氏鞘徵候群
+2628,H50611,"Brown's sheath syndrome, right eye",右眼Brown氏鞘徵候群
+2629,H50612,"Brown's sheath syndrome, left eye",左眼Brown氏鞘徵候群
+2630,H5069,Other mechanical strabismus,其他機械性斜視
+2631,H508,Other specified strabismus,其他特定之斜視
+2632,H5081,Duane's syndrome,Duane氏徵候群
+2633,H50811,"Duane's syndrome, right eye",右眼Duane氏徵候群
+2634,H50812,"Duane's syndrome, left eye",左眼Duane氏徵候群
+2635,H5089,Other specified strabismus,其他特定斜視
+2636,H509,Unspecified strabismus,斜視
+2637,H51,Other disorders of binocular movement,其他雙眼運動疾患
+2638,H510,Palsy (spasm) of conjugate gaze,共軛性凝視麻痺(痙攣)
+2639,H511,Convergence insufficiency and excess,內聚機能不足及機能過剩
+2640,H5111,Convergence insufficiency,內聚機能不足
+2641,H5112,Convergence excess,內聚機能過剩
+2642,H512,Internuclear ophthalmoplegia,核層間眼肌麻痺
+2643,H5120,"Internuclear ophthalmoplegia, unspecified eye",未特定側性核層間眼肌麻痺
+2644,H5121,"Internuclear ophthalmoplegia, right eye",右眼核層間眼肌麻痺
+2645,H5122,"Internuclear ophthalmoplegia, left eye",左眼核層間眼肌麻痺
+2646,H5123,"Internuclear ophthalmoplegia, bilateral",雙側核層間眼肌麻痺
+2647,H518,Other specified disorders of binocular movement,其他特定雙眼運動疾患
+2648,H519,Unspecified disorder of binocular movement,雙眼運動疾患
+2649,H52,Disorders of refraction and accommodation,屈光及調節作用疾患
+2650,H520,Hypermetropia,遠視
+2651,H5200,"Hypermetropia, unspecified eye",未特定側性遠視
+2652,H5201,"Hypermetropia, right eye",右眼遠視
+2653,H5202,"Hypermetropia, left eye",左眼遠視
+2654,H5203,"Hypermetropia, bilateral",雙側遠視
+2655,H521,Myopia,近視
+2656,H5210,"Myopia, unspecified eye",未特定側性近視
+2657,H5211,"Myopia, right eye",右眼近視
+2658,H5212,"Myopia, left eye",左眼近視
+2659,H5213,"Myopia, bilateral",雙側近視
+2660,H522,Astigmatism,散光
+2661,H5220,Unspecified astigmatism,散光
+2662,H52201,"Unspecified astigmatism, right eye",右眼散光
+2663,H52202,"Unspecified astigmatism, left eye",左眼散光
+2664,H52203,"Unspecified astigmatism, bilateral",雙側散光
+2665,H52209,"Unspecified astigmatism, unspecified eye",未特定側性散光
+2666,H5221,Irregular astigmatism,不規則性散光
+2667,H52211,"Irregular astigmatism, right eye",右眼不規則性散光
+2668,H52212,"Irregular astigmatism, left eye",左眼不規則性散光
+2669,H52213,"Irregular astigmatism, bilateral",雙側不規則性散光
+2670,H52219,"Irregular astigmatism, unspecified eye",未特定側性不規則性散光
+2671,H5222,Regular astigmatism,規則性散光
+2672,H52221,"Regular astigmatism, right eye",右眼規則性散光
+2673,H52222,"Regular astigmatism, left eye",左眼規則性散光
+2674,H52223,"Regular astigmatism, bilateral",雙側規則性散光
+2675,H52229,"Regular astigmatism, unspecified eye",未特定側性規則性散光
+2676,H523,Anisometropia and aniseikonia,兩眼不等視及影像不等
+2677,H5231,Anisometropia,兩眼不等視
+2678,H5232,Aniseikonia,兩眼影像不等
+2679,H524,Presbyopia,老花眼
+2680,H525,Disorders of accommodation,調節作用疾患
+2681,H5251,Internal ophthalmoplegia (complete) (total),內眼肌麻痺(完全)(全部)
+2682,H52511,"Internal ophthalmoplegia (complete) (total), right eye",右眼內眼肌麻痺(完全)(全部)
+2683,H52512,"Internal ophthalmoplegia (complete) (total), left eye",左眼內眼肌麻痺(完全)(全部)
+2684,H52513,"Internal ophthalmoplegia (complete) (total), bilateral",雙側內眼肌麻痺(完全)(全部)
+2685,H52519,"Internal ophthalmoplegia (complete) (total), unspecified eye",未特定側性內眼肌麻痺(完全)(全部)
+2686,H5252,Paresis of accommodation,調節作用麻痺
+2687,H52521,"Paresis of accommodation, right eye",右眼調節作用麻痺
+2688,H52522,"Paresis of accommodation, left eye",左眼調節作用麻痺
+2689,H52523,"Paresis of accommodation, bilateral",雙側調節作用麻痺
+2690,H52529,"Paresis of accommodation, unspecified eye",未特定側性調節作用麻痺
+2691,H5253,Spasm of accommodation,調節作用痙攣
+2692,H52531,"Spasm of accommodation, right eye",右眼調節作用痙攣
+2693,H52532,"Spasm of accommodation, left eye",左眼調節作用痙攣
+2694,H52533,"Spasm of accommodation, bilateral",雙側調節作用痙攣
+2695,H52539,"Spasm of accommodation, unspecified eye",未特定側性調節作用痙攣
+2696,H526,Other disorders of refraction,其他屈光疾患
+2697,H527,Unspecified disorder of refraction,屈光疾患
+2698,H53,Visual disturbances,視覺障礙
+2699,H530,Amblyopia ex anopsia,弱視及廢用性弱視
+2700,H5300,Unspecified amblyopia,弱視
+2701,H53001,"Unspecified amblyopia, right eye",右眼弱視
+2702,H53002,"Unspecified amblyopia, left eye",左眼弱視
+2703,H53003,"Unspecified amblyopia, bilateral",雙側弱視
+2704,H53009,"Unspecified amblyopia, unspecified eye",未特定側性弱視
+2705,H5301,Deprivation amblyopia,剝奪性弱視
+2706,H53011,"Deprivation amblyopia, right eye",右眼剝奪性弱視
+2707,H53012,"Deprivation amblyopia, left eye",左眼剝奪性弱視
+2708,H53013,"Deprivation amblyopia, bilateral",雙側剝奪性弱視
+2709,H53019,"Deprivation amblyopia, unspecified eye",未特定側性剝奪性弱視
+2710,H5302,Refractive amblyopia,屈光性弱視
+2711,H53021,"Refractive amblyopia, right eye",右眼屈光性弱視
+2712,H53022,"Refractive amblyopia, left eye",左眼屈光性弱視
+2713,H53023,"Refractive amblyopia, bilateral",雙側屈光性弱視
+2714,H53029,"Refractive amblyopia, unspecified eye",未特定側性屈光性弱視
+2715,H5303,Strabismic amblyopia,斜視性弱視
+2716,H53031,"Strabismic amblyopia, right eye",右眼斜視性弱視
+2717,H53032,"Strabismic amblyopia, left eye",左眼斜視性弱視
+2718,H53033,"Strabismic amblyopia, bilateral",雙側斜視性弱視
+2719,H53039,"Strabismic amblyopia, unspecified eye",未特定側性斜視性弱視
+2720,H531,Subjective visual disturbances,自覺性視覺障礙
+2721,H5310,Unspecified subjective visual disturbances,自覺性視覺障礙
+2722,H5311,Day blindness,晝盲症
+2723,H5312,Transient visual loss,短暫性視覺喪失
+2724,H53121,"Transient visual loss, right eye",右眼短暫性視覺喪失
+2725,H53122,"Transient visual loss, left eye",左眼短暫性視覺喪失
+2726,H53123,"Transient visual loss, bilateral",雙側短暫性視覺喪失
+2727,H53129,"Transient visual loss, unspecified eye",未特定側性短暫性視覺喪失
+2728,H5313,Sudden visual loss,突發性視覺喪失
+2729,H53131,"Sudden visual loss, right eye",右眼突發性視覺喪失
+2730,H53132,"Sudden visual loss, left eye",左眼突發性視覺喪失
+2731,H53133,"Sudden visual loss, bilateral",雙側視覺不適
+2732,H53139,"Sudden visual loss, unspecified eye",未特定側性突發性視覺喪失
+2733,H5314,Visual discomfort,視覺不適
+2734,H53141,"Visual discomfort, right eye",右眼視覺不適
+2735,H53142,"Visual discomfort, left eye",左眼視覺不適
+2736,H53143,"Visual discomfort, bilateral",雙側視覺不適
+2737,H53149,"Visual discomfort, unspecified",視覺不適，未特定
+2738,H5315,Visual distortions of shape and size,對形狀及大小之視覺變形
+2739,H5316,Psychophysical visual disturbances,心因性視覺障礙
+2740,H5319,Other subjective visual disturbances,其他自覺性視覺障礙
+2741,H532,Diplopia,複視
+2742,H533,Other and unspecified disorders of binocular vision,兩眼其他及未特定視機能疾患
+2743,H5330,Unspecified disorder of binocular vision,兩眼視機能疾患
+2744,H5331,Abnormal retinal correspondence,視網膜調合異常
+2745,H5332,Fusion with defective stereopsis,伴有立體感缺損之視覺融像
+2746,H5333,Simultaneous visual perception without fusion,無視像湊合之同時性視覺
+2747,H5334,Suppression of binocular vision,兩眼視機能壓抑
+2748,H534,Visual field defects,視野缺損
+2749,H5340,Unspecified visual field defects,視野缺損
+2750,H5341,Scotoma involving central area,中心區盲點
+2751,H53411,"Scotoma involving central area, right eye",右眼中心區盲點
+2752,H53412,"Scotoma involving central area, left eye",左眼中心區盲點
+2753,H53413,"Scotoma involving central area, bilateral",雙側中心區盲點
+2754,H53419,"Scotoma involving central area, unspecified eye",未特定側性中心區盲點
+2755,H5342,Scotoma of blind spot area,盲點區盲點
+2756,H53421,"Scotoma of blind spot area, right eye",右眼盲點區盲點
+2757,H53422,"Scotoma of blind spot area, left eye",左眼盲點區盲點
+2758,H53423,"Scotoma of blind spot area, bilateral",雙側盲點區盲點
+2759,H53429,"Scotoma of blind spot area, unspecified eye",未特定側性盲點區盲點
+2760,H5343,Sector or arcuate defects,扇形或弧形缺損
+2761,H53431,"Sector or arcuate defects, right eye",右眼扇形或弧形缺損
+2762,H53432,"Sector or arcuate defects, left eye",左眼扇形或弧形缺損
+2763,H53433,"Sector or arcuate defects, bilateral",雙側扇形或弧形缺損
+2764,H53439,"Sector or arcuate defects, unspecified eye",未特定側性扇形或弧形缺損
+2765,H5345,Other localized visual field defect,其他局部視野缺損
+2766,H53451,"Other localized visual field defect, right eye",右眼其他局部視野缺損
+2767,H53452,"Other localized visual field defect, left eye",左眼其他局部視野缺損
+2768,H53453,"Other localized visual field defect, bilateral",雙側其他局部視野缺損
+2769,H53459,"Other localized visual field defect, unspecified eye",未特定側性其他局部視野缺損
+2770,H5346,Homonymous bilateral field defects,同側雙邊視野缺損
+2771,H53461,"Homonymous bilateral field defects, right side",右側同側雙邊視野缺損
+2772,H53462,"Homonymous bilateral field defects, left side",左側同側雙邊視野缺損
+2773,H53469,"Homonymous bilateral field defects, unspecified side",未特定側性同側雙邊視野缺損
+2774,H5347,Heteronymous bilateral field defects,異側雙邊視野缺損
+2775,H5348,Generalized contraction of visual field,全面性視野收縮
+2776,H53481,"Generalized contraction of visual field, right eye",右眼全面性視野收縮
+2777,H53482,"Generalized contraction of visual field, left eye",左眼全面性視野收縮
+2778,H53483,"Generalized contraction of visual field, bilateral",雙側全面性視野收縮
+2779,H53489,"Generalized contraction of visual field, unspecified eye",未特定側性全面性視野收縮
+2780,H535,Color vision deficiencies,色覺不足
+2781,H5350,Unspecified color vision deficiencies,色覺不足
+2782,H5351,Achromatopsia,色盲
+2783,H5352,Acquired color vision deficiency,後天性色覺不足
+2784,H5353,Deuteranomaly,綠色盲
+2785,H5354,Protanomaly,紅色盲
+2786,H5355,Tritanomaly,黃藍色盲
+2787,H5359,Other color vision deficiencies,其他色覺不足
+2788,H536,Night blindness,夜盲
+2789,H5360,Unspecified night blindness,夜盲
+2790,H5361,Abnormal dark adaptation curve,暗適應曲線異常
+2791,H5362,Acquired night blindness,後天性夜盲
+2792,H5363,Congenital night blindness,先天性夜盲
+2793,H5369,Other night blindness,其他夜盲
+2794,H537,Vision sensitivity deficiencies,視敏感度缺損
+2795,H5371,Glare sensitivity,眩光敏感度
+2796,H5372,Impaired contrast sensitivity,受損對比敏感度
+2797,H538,Other visual disturbances,其他特定之視覺障礙
+2798,H539,Unspecified visual disturbance,視覺障礙
+2799,H54,Blindness and low vision,失明及低視力
+2800,H540,"Blindness, both eyes",雙眼失明
+2801,H541,"Blindness, one eye, low vision other eye",一眼失明，另一眼低視力
+2802,H5410,"Blindness, one eye, low vision other eye, unspecified eyes","未特定側性,一眼失明,另一眼低視力"
+2803,H5411,"Blindness, right eye, low vision left eye","右眼失明,左眼低視力"
+2804,H5412,"Blindness, left eye, low vision right eye","左眼失明,右眼低視力"
+2805,H542,"Low vision, both eyes",雙眼低視力
+2806,H543,"Unqualified visual loss, both eyes",雙眼視力完全喪失
+2807,H544,"Blindness, one eye",一眼失明
+2808,H5440,"Blindness, one eye, unspecified eye","未特定側性,一眼失明"
+2809,H5441,"Blindness, right eye, normal vision left eye","右眼失明,左眼正常視力"
+2810,H5442,"Blindness, left eye, normal vision right eye","左眼失明,右眼正常視力"
+2811,H545,"Low vision, one eye",一眼低視力
+2812,H5450,"Low vision, one eye, unspecified eye","未特定側性,一眼低視力"
+2813,H5451,"Low vision, right eye, normal vision left eye","右眼低視力,左眼正常視力"
+2814,H5452,"Low vision, left eye, normal vision right eye","左眼低視力,右眼正常視力"
+2815,H546,"Unqualified visual loss, one eye",一眼視力完全喪失
+2816,H5460,"Unqualified visual loss, one eye, unspecified",一眼視力完全喪失，未特定
+2817,H5461,"Unqualified visual loss, right eye, normal vision left eye","右眼視力完全喪失,左眼正常視力"
+2818,H5462,"Unqualified visual loss, left eye, normal vision right eye","左眼視力完全喪失,右眼正常視力"
+2819,H547,Unspecified visual loss,視力喪失
+2820,H548,"Legal blindness, as defined in USA",法定失明，依美國所定義
+2821,H55,Nystagmus and other irregular eye movements,眼球震顫及不規則眼球運動
+2822,H550,Nystagmus,眼球震顫
+2823,H5500,Unspecified nystagmus,眼球震顫
+2824,H5501,Congenital nystagmus,先天性之眼球震顫
+2825,H5502,Latent nystagmus,潛伏性眼球震顫
+2826,H5503,Visual deprivation nystagmus,視覺剝奪性眼球震顫
+2827,H5504,Dissociated nystagmus,分離性眼球震顫
+2828,H5509,Other forms of nystagmus,其他型態之眼球震顫
+2829,H558,Other irregular eye movements,不規則眼球運動
+2830,H5581,Saccadic eye movements,快速眼球運動
+2831,H5589,Other irregular eye movements,其他不規則眼球運動
+2832,H57,Other disorders of eye and adnexa,眼睛及附屬器官其他疾患
+2833,H570,Anomalies of pupillary function,瞳孔機能異常
+2834,H5700,Unspecified anomaly of pupillary function,瞳孔機能異常
+2835,H5701,"Argyll Robertson pupil, atypical",Argyll Robertson氏瞳孔，非典型
+2836,H5702,Anisocoria,瞳孔大小不等
+2837,H5703,Miosis,瞳孔縮小
+2838,H5704,Mydriasis,瞳孔放大
+2839,H5705,Tonic pupil,強直性瞳孔
+2840,H57051,"Tonic pupil, right eye",右眼強直性瞳孔
+2841,H57052,"Tonic pupil, left eye",左眼強直性瞳孔
+2842,H57053,"Tonic pupil, bilateral",雙側強直性瞳孔
+2843,H57059,"Tonic pupil, unspecified eye",未特定側性強直性瞳孔
+2844,H5709,Other anomalies of pupillary function,其他瞳孔機能異常
+2845,H571,Ocular pain,眼睛疼痛
+2846,H5710,"Ocular pain, unspecified eye",未特定側性眼睛疼痛
+2847,H5711,"Ocular pain, right eye",右眼眼睛疼痛
+2848,H5712,"Ocular pain, left eye",左眼眼睛疼痛
+2849,H5713,"Ocular pain, bilateral",雙側眼睛疼痛
+2850,H578,Other specified disorders of eye and adnexa,眼睛及附屬器官的其他特定之疾患
+2851,H579,Unspecified disorder of eye and adnexa,眼睛及附屬器官疾患
+2852,H59,"Intraoperative and postprocedural complications and disorders of eye and adnexa, not elsewhere classified",眼睛及附屬器官處置中及處置後併發症及疾患，他處未歸類者
+2853,H590,Disorders of the eye following cataract surgery,白內障手術後眼部疾患
+2854,H5901,Keratopathy (bullous aphakic) following cataract surgery,白內障手術後角膜病變(水泡狀無晶體)
+2855,H59011,"Keratopathy (bullous aphakic) following cataract surgery, right eye",右眼白內障手術後角膜病變(水泡狀無晶體)
+2856,H59012,"Keratopathy (bullous aphakic) following cataract surgery, left eye",左眼白內障手術後角膜病變(水泡狀無晶體)
+2857,H59013,"Keratopathy (bullous aphakic) following cataract surgery, bilateral",雙側白內障手術後角膜病變(水泡狀無晶體)
+2858,H59019,"Keratopathy (bullous aphakic) following cataract surgery, unspecified eye",未特定側性白內障手術後角膜病變(水泡狀無晶體)
+2859,H5902,Cataract (lens) fragments in eye following cataract surgery,白內障手術後(晶體)碎片存留眼中
+2860,H59021,"Cataract (lens) fragments in eye following cataract surgery, right eye",右眼白內障手術後(晶體)碎片存留眼中
+2861,H59022,"Cataract (lens) fragments in eye following cataract surgery, left eye",左眼白內障手術後(晶體)碎片存留眼中
+2862,H59023,"Cataract (lens) fragments in eye following cataract surgery, bilateral",雙側白內障手術後(晶體)碎片存留眼中
+2863,H59029,"Cataract (lens) fragments in eye following cataract surgery, unspecified eye",未特定側性白內障手術後(晶體)碎片存留眼中
+2864,H5903,Cystoid macular edema following cataract surgery,白內障手術後黃斑囊樣水腫
+2865,H59031,"Cystoid macular edema following cataract surgery, right eye",右眼白內障手術後黃斑囊樣水腫
+2866,H59032,"Cystoid macular edema following cataract surgery, left eye",左眼白內障手術後黃斑囊樣水腫
+2867,H59033,"Cystoid macular edema following cataract surgery, bilateral",雙側白內障手術後黃斑囊樣水腫
+2868,H59039,"Cystoid macular edema following cataract surgery, unspecified eye",未特定側性白內障手術後黃斑囊樣水腫
+2869,H5909,Other disorders of the eye following cataract surgery,白內障手術後其他疾患
+2870,H59091,Other disorders of the right eye following cataract surgery,右眼白內障手術後其他疾患
+2871,H59092,Other disorders of the left eye following cataract surgery,左眼白內障手術後其他疾患
+2872,H59093,"Other disorders of the eye following cataract surgery, bilateral",雙側白內障手術後其他疾患
+2873,H59099,Other disorders of unspecified eye following cataract surgery,未特定側性白內障手術後其他疾患
+2874,H591,Intraoperative hemorrhage and hematoma of eye and adnexa complicating a procedure,眼部及其附屬器官併發於處置中之出血及血腫
+2875,H5911,Intraoperative hemorrhage and hematoma of eye and adnexa complicating an ophthalmic procedure,眼部及其附屬器官併發於眼部處置中之出血及血腫
+2876,H59111,Intraoperative hemorrhage and hematoma of right eye and adnexa complicating an ophthalmic procedure,右眼及附屬器官併發於眼部醫療處置中之出血及血腫
+2877,H59112,Intraoperative hemorrhage and hematoma of left eye and adnexa complicating an ophthalmic procedure,左眼及附屬器官併發於眼部醫療處置中之出血及血腫
+2878,H59113,"Intraoperative hemorrhage and hematoma of eye and adnexa complicating an ophthalmic procedure, bilateral",雙側眼及附屬器官併發於眼部醫療處置中之出血及血腫
+2879,H59119,Intraoperative hemorrhage and hematoma of unspecified eye and adnexa complicating an ophthalmic procedure,未特定側性眼及附屬器官併發於眼部醫療處置中之出血及血腫
+2880,H5912,Intraoperative hemorrhage and hematoma of eye and adnexa complicating other procedure,眼部及其附屬器官併發於其他處置中之出血及血腫
+2881,H59121,Intraoperative hemorrhage and hematoma of right eye and adnexa complicating other procedure,右眼及附屬器官併發於其他醫療處置中之出血及血腫
+2882,H59122,Intraoperative hemorrhage and hematoma of left eye and adnexa complicating other procedure,左眼及附屬器官併發於其他醫療處置中之出血及血腫
+2883,H59123,"Intraoperative hemorrhage and hematoma of eye and adnexa complicating other procedure, bilateral",雙側眼及附屬器官併發於其他醫療處置中之出血及血腫
+2884,H59129,Intraoperative hemorrhage and hematoma of unspecified eye and adnexa complicating other procedure,未特定側性眼及附屬器官併發於其他醫療處置中之出血及血腫
+2885,H592,Accidental puncture and laceration of eye and adnexa during a procedure,眼部及其附屬器官之醫療處置中意外刺穿及裂傷
+2886,H5921,Accidental puncture and laceration of eye and adnexa during an ophthalmic procedure,眼部及其附屬器官之眼部處置中意外刺穿及裂傷
+2887,H59211,Accidental puncture and laceration of right eye and adnexa during an ophthalmic procedure,右眼及附屬器官眼部醫療處置中意外刺穿及裂傷
+2888,H59212,Accidental puncture and laceration of left eye and adnexa during an ophthalmic procedure,左眼及附屬器官眼部醫療處置中意外刺穿及裂傷
+2889,H59213,"Accidental puncture and laceration of eye and adnexa during an ophthalmic procedure, bilateral",雙側眼及附屬器官眼部醫療處置中意外刺穿及裂傷
+2890,H59219,Accidental puncture and laceration of unspecified eye and adnexa during an ophthalmic procedure,未特定側性眼及附屬器官眼部醫療處置中意外刺穿及裂傷
+2891,H5922,Accidental puncture and laceration of eye and adnexa during other procedure,眼部及其附屬器官之其他處置中意外刺穿及裂傷
+2892,H59221,Accidental puncture and laceration of right eye and adnexa during other procedure,右眼及附屬器官其他醫療處置中意外刺穿及裂傷
+2893,H59222,Accidental puncture and laceration of left eye and adnexa during other procedure,左眼及附屬器官其他醫療處置中意外刺穿及裂傷
+2894,H59223,"Accidental puncture and laceration of eye and adnexa during other procedure, bilateral",雙側眼及附屬器官其他醫療處置中意外刺穿及裂傷
+2895,H59229,Accidental puncture and laceration of unspecified eye and adnexa during other procedure,未特定側性眼及附屬器官其他醫療處置中意外刺穿及裂傷
+2896,H593,Postprocedural hemorrhage and hematoma of eye and adnexa following a procedure,眼部及其附屬器官處置後出血及血腫
+2897,H5931,Postprocedural hemorrhage and hematoma of eye and adnexa following an ophthalmic procedure,眼部及其附屬器官之眼部處置後出血及血腫
+2898,H59311,Postprocedural hemorrhage and hematoma of right eye and adnexa following an ophthalmic procedure,右眼及附屬器官眼部醫療處置後出血及血腫
+2899,H59312,Postprocedural hemorrhage and hematoma of left eye and adnexa following an ophthalmic procedure,左眼及附屬器官眼部醫療處置後出血及血腫
+2900,H59313,"Postprocedural hemorrhage and hematoma of eye and adnexa following an ophthalmic procedure, bilateral",雙側眼及附屬器官眼部醫療處置後出血及血腫
+2901,H59319,Postprocedural hemorrhage and hematoma of unspecified eye and adnexa following an ophthalmic procedure,未特定側性眼及附屬器官眼部醫療處置後出血及血腫
+2902,H5932,Postprocedural hemorrhage and hematoma of eye and adnexa following other procedure,眼部及其附屬器官之其他處置後出血及血腫
+2903,H59321,Postprocedural hemorrhage and hematoma of right eye and adnexa following other procedure,右眼及附屬器官其他醫療處置後出血及血腫
+2904,H59322,Postprocedural hemorrhage and hematoma of left eye and adnexa following other procedure,左眼及附屬器官其他醫療處置後出血及血腫
+2905,H59323,"Postprocedural hemorrhage and hematoma of eye and adnexa following other procedure, bilateral",雙側眼及附屬器官其他醫療處置後出血及血腫
+2906,H59329,Postprocedural hemorrhage and hematoma of unspecified eye and adnexa following other procedure,未特定側性眼及附屬器官其他醫療處置後出血及血腫
+2907,H594,Inflammation (infection) of postprocedural bleb Postprocedural blebitis,發炎(感炎)之處置後水泡
+2908,H5940,"Inflammation (infection) of postprocedural bleb, unspecified",發炎(感炎)之醫療處置後水泡，未特定
+2909,H5941,"Inflammation (infection) of postprocedural bleb, stage 1","發炎(感炎)之醫療處置後水泡,期別1"
+2910,H5942,"Inflammation (infection) of postprocedural bleb, stage 2","發炎(感炎)之醫療處置後水泡,期別2"
+2911,H5943,"Inflammation (infection) of postprocedural bleb, stage 3","發炎(感炎)之醫療處置後水泡,期別3"
+2912,H598,"Other intraoperative and postprocedural complications and disorders of eye and adnexa, not elsewhere classified",眼部及其附屬器官之其他處置中及處置後併發症及疾患，他處未歸類者
+2913,H5981,Chorioretinal scars after surgery for detachment,視網膜剝離術後脈絡膜視網膜疤痕
+2914,H59811,"Chorioretinal scars after surgery for detachment, right eye",右眼視網膜剝離術後脈絡膜視網膜疤痕
+2915,H59812,"Chorioretinal scars after surgery for detachment, left eye",左眼視網膜剝離術後脈絡膜視網膜疤痕
+2916,H59813,"Chorioretinal scars after surgery for detachment, bilateral",雙側視網膜剝離術後脈絡膜視網膜疤痕
+2917,H59819,"Chorioretinal scars after surgery for detachment, unspecified eye",未特定側性視網膜剝離術後脈絡膜視網膜疤痕
+2918,H5988,"Other intraoperative complications of eye and adnexa, not elsewhere classified",眼及附屬器官併發於其他醫療處置中，他處未歸類者
+2919,H5989,"Other postprocedural complications and disorders of eye and adnexa, not elsewhere classified",眼及附屬器官併發於其他醫療處置後，他處未歸類者

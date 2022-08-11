@@ -1,0 +1,495 @@
+,code,en_name,ch_name
+0,P00,Newborn (suspected to be) affected by maternal conditions that may be unrelated to present  pregnancy,(懷疑)受母體病況影響之新生兒，此病況可能與本次妊娠無關
+1,P000,Newborn (suspected to be) affected by maternal hypertensive disorders,(懷疑)受母體高血壓性疾患影響之新生兒
+2,P001,Newborn (suspected to be) affected by maternal renal and urinary tract diseases,(懷疑)受母體腎臟及泌尿道疾病影響之新生兒
+3,P002,Newborn (suspected to be) affected by maternal infectious and parasitic diseases,(懷疑)受母體感染及寄生蟲疾病影響之新生兒
+4,P003,Newborn (suspected to be) affected by other maternal circulatory and respiratory diseases,(懷疑)受其他母體循環及呼吸性疾病影響之新生兒
+5,P004,Newborn (suspected to be) affected by maternal nutritional disorders,(懷疑)受母體營養失調影響之新生兒
+6,P005,Newborn (suspected to be) affected by maternal injury,(懷疑)受母體損傷影響之新生兒
+7,P006,Newborn (suspected to be) affected by surgical procedure on mother,(懷疑)受母體外科手術處置影響之新生兒
+8,P007,"Newborn (suspected to be) affected by other medical procedures on mother, not elsewhere classified",(懷疑)受母體其他醫療處置影響之新生兒，他處未歸類者
+9,P008,Newborn (suspected to be) affected by other maternal conditions,(懷疑)其他母體病況影響之新生兒
+10,P0081,Newborn (suspected to be) affected by periodontal disease in mother,(懷疑)受母體牙周疾病影響之新生兒
+11,P0089,Newborn (suspected to be) affected by other maternal conditions,(懷疑)其他母體病況影響之新生兒
+12,P009,Newborn (suspected to be) affected by unspecified maternal condition,(懷疑)受母體非特定病況影響之新生兒
+13,P01,Newborn (suspected to be) affected by maternal complications of pregnancy,(懷疑)受母體懷孕併發症所影響之新生兒
+14,P010,Newborn (suspected to be) affected by incompetent cervix,(懷疑)受子宮頸機能不全影響之新生兒
+15,P011,Newborn (suspected to be) affected by premature rupture of membranes,(懷疑)受早期破水影響之新生兒
+16,P012,Newborn (suspected to be) affected by oligohydramnios,(懷疑)受羊水過少症影響之新生兒
+17,P013,Newborn (suspected to be) affected by polyhydramnios,(懷疑)受羊水過多症影響之新生兒
+18,P014,Newborn (suspected to be) affected by ectopic pregnancy,(懷疑)受子宮外孕影響之新生兒
+19,P015,Newborn (suspected to be) affected by multiple pregnancy,(懷疑)受多胎性懷孕影響之新生兒
+20,P016,Newborn (suspected to be) affected by maternal death,"字尾加上"",未特定"""
+21,P017,Newborn (suspected to be) affected by malpresentation before labor,(懷疑)受分娩前胎位不正影響之新生兒
+22,P018,Newborn (suspected to be) affected by other maternal complications of pregnancy,(懷疑)受其他母體懷孕併發症影響之新生兒
+23,P019,"Newborn (suspected to be) affected by maternal complication of pregnancy, unspecified",(懷疑)受母體懷孕併發症所影響之新生兒，未特定
+24,P02,"Newborn (suspected to be) affected by complications of placenta, cord and membranes",(懷疑)受胎盤、臍帶及胎膜併發症影響之新生兒
+25,P020,Newborn (suspected to be) affected by placenta previa,(懷疑)受前置胎盤影響之新生兒
+26,P021,Newborn (suspected to be) affected by other forms of placental separation and hemorrhage,(懷疑)受胎盤剝離及出血影響之新生兒
+27,P022,Newborn (suspected to be) affected by other and unspecified morphological and functional abnormalities of placenta,(懷疑)受其他和未特定型態及功能異常之胎盤影響之新生兒
+28,P0220,Newborn (suspected to be) affected by unspecified morphological and functional abnormalities of placenta,(懷疑)受型態及功能異常之胎盤影響之新生兒
+29,P0229,Newborn (suspected to be) affected by other morphological and functional abnormalities of placenta,(懷疑)受其他型態及功能異常胎盤影響之新生兒
+30,P023,Newborn (suspected to be) affected by placental transfusion syndromes,(懷疑)受胎盤輸血症候群影響之新生兒
+31,P024,Newborn (suspected to be) affected by prolapsed cord,(懷疑)受臍帶脫出影響之新生兒
+32,P025,Newborn (suspected to be) affected by other compression of umbilical cord,(懷疑)受臍帶其他壓迫影響之新生兒
+33,P026,Newborn (suspected to be) affected by other and unspecified conditions of  umbilical cord,(懷疑)受臍帶其他和未特定病況影響之新生兒
+34,P0260,Newborn (suspected to be) affected by unspecified conditions of umbilical cord,(懷疑)受臍帶病況影響之新生兒
+35,P0269,Newborn (suspected to be) affected by other conditions of umbilical cord,(懷疑)受臍帶其他病況影響之新生兒
+36,P027,Newborn (suspected to be) affected by chorioamnionitis,(懷疑)受絨毛膜羊膜炎影響之新生兒
+37,P028,Newborn (suspected to be) affected by other abnormalities of membranes,(懷疑)受胎膜其他異常之新生兒
+38,P029,"Newborn (suspected to be) affected by abnormality of membranes, unspecified",(懷疑)受胎膜異常影響之新生兒，未特定
+39,P03,Newborn (suspected to be) affected by other compressions of labor and delivery,(懷疑)分娩及生產壓迫影響之新生兒
+40,P030,Newborn (suspected to be) affected by breech delivery and extraction,(懷疑)受臀位生產及牽引影響之新生兒
+41,P031,"Newborn (suspected to be) affected by other malpresentation, malposition and disproportion during labor and delivery",(懷疑)受分娩及生產時其他先露異常，胎位不正及不成比例影響之新生兒
+42,P032,Newborn (suspected to be) affected by forceps delivery,(懷疑)受產鉗生產影響之新生兒
+43,P033,Newborn (suspected to be) affected by delivery by vacuum extractor [ventouse],(懷疑)受真空吸引[吸杯]生產影響之新生兒
+44,P034,Newborn (suspected to be) affected by Cesarean delivery,(懷疑)受剖腹生產影響之新生兒
+45,P035,Newborn (suspected to be) affected by precipitate delivery,(懷疑)受急產影響之新生兒
+46,P036,Newborn (suspected to be) affected by abnormal uterine contractions,(懷疑)受子宮收縮異常影響之新生兒
+47,P038,Newborn (suspected to be) affected by other specified complications of labor and delivery,(懷疑)分娩及生產其他特定併發症影響之新生兒
+48,P0381,Newborn (suspected to be) affected by abnormality in fetal (intrauterine) heart rate or rhythm,(懷疑)胎兒(子宮內)心跳或心律異常影響之新生兒
+49,P03810,Newborn (suspected to be) affected by abnormality in fetal (intrauterine) heart rate or rhythm before the onset of labor,(懷疑)受分娩前胎兒(子宮內)心跳或心律異常影響之新生兒
+50,P03811,Newborn (suspected to be) affected by abnormality in fetal (intrauterine) heart rate or rhythm during labor,(懷疑)受分娩時胎兒(子宮內)心跳或心律異常影響之新生兒
+51,P03819,"Newborn (suspected to be) affected by abnormality in fetal (intrauterine) heart rate or rhythm, unspecified as to time of onset",(懷疑)受未特定發生時間胎兒(子宮內)心跳或心律異常影響之新生兒
+52,P0382,Meconium passage during delivery,生產時胎便排出
+53,P0389,Newborn (suspected to be) affected by other specified complications of labor and delivery,(懷疑)分娩及生產其他特定併發症影響之新生兒
+54,P039,"Newborn (suspected to be) affected by complication of labor and delivery, unspecified",(懷疑)分娩及生產併發症影響之新生兒，未特定
+55,P04,Newborn (suspected to be) affected by noxious substances transmitted via placenta or breask milk,(懷疑)受經由胎盤或母乳傳播毒害之新生兒
+56,P040,"Newborn (suspected to be) affected by maternal anesthesia and analgesia in pregnancy, labor and delivery",(懷疑)受妊娠、分娩及生產母體麻醉及止痛影響之新生兒
+57,P041,Newborn (suspected to be) affected by other maternal medication,(懷疑)受其他母體用藥影響之新生兒
+58,P042,Newborn (suspected to be) affected by maternal use of tobacco,(懷疑)受母體使用菸草影響之新生兒
+59,P043,Newborn (suspected to be) affected by maternal use of alcohol,(懷疑)受母體使用酒精影響之新生兒
+60,P044,Newborn (suspected to be) affected by maternal use of drugs of addiction,(懷疑)受母體使用成癮性藥物影響之新生兒
+61,P0441,Newborn (suspected to be) affected by maternal use of cocaine,(懷疑)受母體使用古柯鹼影響之新生兒
+62,P0449,Newborn (suspected to be) affected by maternal use of other drugs of addiction,(懷疑)受母體使用其他成癮性藥物影響之新生兒
+63,P045,Newborn (suspected to be) affected by maternal use of nutritional chemical substances,(懷疑)受母體使用營養性、化學性物質影響之新生兒
+64,P046,Newborn (suspected to be) affected by maternal exposure to environmental chemical substances,(懷疑)受母體暴露於環境中化學性物質影響之新生兒
+65,P048,Newborn (suspected to be) affected by other maternal noxious substances,(懷疑)受其他母體有害物質影響之新生兒
+66,P049,"Newborn (suspected to be) affected by maternal noxious substance, unspecified",(懷疑)受母體有害物質影響之新生兒，未特定
+67,P05,Disorders of newborn related to slow fetal growth and fetal malnutrition,胎兒生長緩慢及胎兒營養不良有關的新生兒疾患
+68,P050,Newborn light for gestational age,體重不足之新生兒
+69,P0500,"Newborn light for gestational age, unspecified weight","字尾加上"",未特定體重"""
+70,P0501,"Newborn light for gestational age, less than 500 grams",體重不足之新生兒，體重低於500克
+71,P0502,"Newborn light for gestational age, 500-749 grams",體重不足之新生兒，體重介於500-749克
+72,P0503,"Newborn light for gestational age, 750-999 grams",體重不足之新生兒，體重介於750-999克
+73,P0504,"Newborn light for gestational age, 1000-1249 grams",體重不足之新生兒，體重介於1000-1249克
+74,P0505,"Newborn light for gestational age, 1250-1499 grams",體重不足之新生兒，體重介於1250-1499克
+75,P0506,"Newborn light for gestational age, 1500-1749 grams",體重不足之新生兒，體重介於1500-1749克
+76,P0507,"Newborn light for gestational age, 1750-1999 grams",體重不足之新生兒，體重介於1750-1999克
+77,P0508,"Newborn light for gestational age, 2000-2499 grams",體重不足之新生兒，體重介於2000-2499克
+78,P051,Newborn small for gestational age,相對懷孕週數體重過輕之新生兒
+79,P0510,"Newborn small for gestational age, unspecified weight","字尾加上"",未特定體重"""
+80,P0511,"Newborn small for gestational age, less than 500 grams",相對懷孕週數體重過輕之新生兒，體重低於500克
+81,P0512,"Newborn small for gestational age, 500-749 grams",相對懷孕週數體重過輕之新生兒，體重介於500-749克
+82,P0513,"Newborn small for gestational age, 750-999 grams",相對懷孕週數體重過輕之新生兒，體重介於750-999克
+83,P0514,"Newborn small for gestational age, 1000-1249 grams",相對懷孕週數體重過輕之新生兒，體重介於1000-1249克
+84,P0515,"Newborn small for gestational age, 1250-1499 grams",相對懷孕週數體重過輕之新生兒，體重介於1250-1499克
+85,P0516,"Newborn small for gestational age, 1500-1749 grams",相對懷孕週數體重過輕之新生兒，體重介於1500-1749克
+86,P0517,"Newborn small for gestational age, 1750-1999 grams",相對懷孕週數體重過輕之新生兒，體重介於1750-1999克
+87,P0518,"Newborn small for gestational age, 2000-2499 grams",相對懷孕週數體重過輕之新生兒，體重介於2000-2499克
+88,P052,Newborn affected by fetal (intrauterine) malnutrition not light or small for gestational age,受胎兒(子宮內)營養不良，非體重不足或身體過小影響之新生兒
+89,P059,"Newborn affected by slow intrauterine growth, unspecified","字尾加上"",未特定體重""，未特定"
+90,P07,"Disorders of newborn related to short gestation and low birth weight, not elsewhere classified",妊娠週數不足及低出生體重有關的新生兒疾患，他處未歸類者
+91,P070,Extremely low birth weight newborn,極低出生體重之新生兒
+92,P0700,"Extremely low birth weight newborn, unspecified weight","字尾加上"",未特定體重"""
+93,P0701,"Extremely low birth weight newborn, less than 500 grams",極低出生體重之新生兒，體重低於500克
+94,P0702,"Extremely low birth weight newborn, 500-749 grams",極低出生體重之新生兒，體重介於500-749克
+95,P0703,"Extremely low birth weight newborn, 750-999 grams",極低出生體重之新生兒，體重介於750-999克
+96,P071,Other low birth weight newborn,其他低出生體重之新生兒
+97,P0710,"Other low birth weight newborn, unspecified weight","字尾加上"",未特定體重"""
+98,P0714,"Other low birth weight newborn, 1000-1249 grams",其他低出生體重之新生兒，體重介於1000-1249克
+99,P0715,"Other low birth weight newborn, 1250-1499 grams",其他低出生體重之新生兒，體重介於1250-1499克
+100,P0716,"Other low birth weight newborn, 1500-1749 grams",其他低出生體重之新生兒，體重介於1500-1749克
+101,P0717,"Other low birth weight newborn, 1750-1999 grams",其他低出生體重之新生兒，體重介於1750-1999克
+102,P0718,"Other low birth weight newborn, 2000-2499 grams",其他低出生體重之新生兒，體重介於2000-2499克
+103,P072,Extreme immaturity of newborn,極度未成熟新生兒
+104,P0720,"Extreme immaturity of newborn, unspecified weeks",週數未特定之極度未成熟新生兒
+105,P0721,"Extreme immaturity of newborn, less than 24 completed weeks",小於24週之極度未成熟新生兒
+106,P0722,"Extreme immaturity of newborn, 24-26 completed weeks",週數介於24-26週之極度未成熟新生兒
+107,P0723,"Extreme immaturity of newborn, 27 completed weeks",週數滿27週之極度未成熟新生兒
+108,P073,Other preterm newborn,其他早產兒
+109,P0730,"Other preterm newborn, unspecified weeks",其他未特定週數之其他早產兒
+110,P0731,"Other preterm newborn, 28-31 completed weeks",其他早產兒，週數介於28-31週
+111,P0732,"Other preterm newborn, 32-36 completed weeks",其他早產兒，週數介於32-36週
+112,P08,Disorders of newborn related to long gestation and high birth weight,孕程過期及出生體重過重有關的新生兒疾患
+113,P080,Exceptionally large newborn baby,超大新生兒
+114,P081,Other heavy for gestational age newborn,其他體重過重兒
+115,P082,"Late newborn, not heavy for gestational age",過月產兒，體重未過重者
+116,P0821,Post-term newborn,過月產兒
+117,P0822,Prolonged gestation of newborn,孕程過期之新生兒
+118,P09,Abnormal findings on neonatal screening,新生兒篩選之異常發現
+119,P10,Intracranial laceration and hemorrhage due to birth injury,生產傷害所致之顱內裂傷及出血
+120,P100,Subdural hemorrhage due to birth injury,生產傷害所致之硬腦膜下出血
+121,P101,Cerebral hemorrhage due to birth injury,生產傷害所致之腦出血
+122,P102,Intraventricular hemorrhage due to birth injury,生產傷害所致之腦室內出血
+123,P103,Subarachnoid hemorrhage due to birth injury,生產傷害所致之蜘蛛膜下出血
+124,P104,Tentorial tear due to birth injury,生產傷害所致之腦幕撕裂傷
+125,P108,Other intracranial lacerations and hemorrhages due to birth injury,生產傷害所致之其他顱內裂傷及出血
+126,P109,Unspecified intracranial laceration and hemorrhage due to birth injury,生產傷害所致未特定之顱內裂傷及出血
+127,P11,Other birth injuries to central nervous system,其他生產造成之中樞神經系統傷害
+128,P110,Cerebral edema due to birth injury,生產傷害所致之腦水腫
+129,P111,Other specified brain damage due to birth injury,生產傷害所致之其他特定腦損傷
+130,P112,Unspecified brain damage due to birth injury,生產傷害所致之腦損傷
+131,P113,Birth injury to facial nerve,生產造成之顏面神經傷害
+132,P114,Birth injury to other cranial nerves,生產造成之其他腦神經傷害
+133,P115,Birth injury to spine and spinal cord,生產造成之脊椎及脊髓傷害
+134,P119,"Birth injury to central nervous system, unspecified",生產造成之中樞神經系統傷害，未特定
+135,P12,Birth injury to scalp,生產造成之頭皮傷害
+136,P120,Cephalhematoma due to birth injury,生產傷害所致之頭血腫
+137,P121,Chignon (from vacuum extraction) due to birth injury,(受真空吸引)生產傷害所致之?
+138,P122,Epicranial subaponeurotic hemorrhage due to birth injury,生產傷害所致之顱骨外腱膜下出血
+139,P123,Bruising of scalp due to birth injury,生產傷害所致之頭皮瘀傷
+140,P124,Injury of scalp of newborn due to monitoring equipment,新生兒受監測性設備所致之頭皮傷害
+141,P128,Other birth injuries to scalp,其他生產造成之頭皮傷害
+142,P1281,Caput succedaneum,產瘤
+143,P1289,Other birth injuries to scalp,"生產造成之頭皮傷害,未特定"
+144,P129,"Birth injury to scalp, unspecified",生產造成之頭皮傷害，未特定
+145,P13,Birth injury to skeleton,生產造成之骨骼傷害
+146,P130,Fracture of skull due to birth injury,生產傷害所致之顱骨骨折
+147,P131,Other birth injuries to skull,其他生產造成之顱骨傷害
+148,P132,Birth injury to femur,生產造成之股骨傷害
+149,P133,Birth injury to other long bones,生產造成之其他長骨傷害
+150,P134,Fracture of clavicle due to birth injury,生產傷害所致之鎖骨骨折
+151,P138,Birth injuries to other parts of skeleton,生產造成之骨骼其他部位傷害
+152,P139,"Birth injury to skeleton, unspecified",生產造成之骨骼傷害，未特定
+153,P14,Birth injury to peripheral nervous system,生產造成之周邊神經系統傷害
+154,P140,Erb's paralysis due to birth injury,生產傷害所致之Erb氏麻痺
+155,P141,Klumpke's paralysis due to birth injury,生產傷害所致之Klumpke氏麻痺
+156,P142,Phrenic nerve paralysis due to birth injury,生產傷害所致之膈神經麻痺
+157,P143,Other brachial plexus birth injuries,其他臂神經叢之生產傷害
+158,P148,Birth injuries to other parts of peripheral nervous system,生產造成之周邊神經系統其他部位傷害
+159,P149,"Birth injury to peripheral nervous system, unspecified",生產造成之周邊神經系統傷害，未特定
+160,P15,Other birth injuries,其他生產傷害
+161,P150,Birth injury to liver,生產造成之肝傷害
+162,P151,Birth injury to spleen,生產造成之脾傷害
+163,P152,Sternomastoid injury due to birth injury,生產傷害所致之胸骨乳突傷害
+164,P153,Birth injury to eye,生產造成之眼傷害
+165,P154,Birth injury to face,生產造成之顏面傷害
+166,P155,Birth injury to external genitalia,生產造成之外生殖器傷害
+167,P156,Subcutaneous fat necrosis due to birth injury,生產傷害所致之皮下脂肪壞死
+168,P158,Other specified birth injuries,其他特定之生產傷害
+169,P159,"Birth injury, unspecified",生產傷害，未特定
+170,P19,Metabolic acidemia in newborn,新生兒代謝性酸血症
+171,P190,Metabolic acidemia in newborn first noted before onset of labor,分娩前之新生兒代謝性酸血症
+172,P191,Metabolic acidemia in newborn first noted during labor,分娩時之新生兒代謝性酸血症
+173,P192,Metabolic acidemia noted at birth,出生時之代謝性酸血症
+174,P199,"Metabolic acidemia, unspecified",代謝性酸血症，未特定
+175,P22,Respiratory distress of newborn,新生兒呼吸窘迫
+176,P220,Respiratory distress syndrome of newborn,新生兒呼吸窘迫症候群
+177,P221,Transient tachypnea of newborn,新生兒暫時性呼吸急促
+178,P228,Other respiratory distress of newborn,新生兒其他呼吸窘迫
+179,P229,"Respiratory distress of newborn, unspecified",新生兒呼吸窘迫，未特定
+180,P23,Congenital pneumonia,先天性肺炎
+181,P230,Congenital pneumonia due to viral agent,病毒原所致之先天性肺炎
+182,P231,Congenital pneumonia due to Chlamydia,披衣菌所致之先天性肺炎
+183,P232,Congenital pneumonia due to staphylococcus,葡萄球菌所致之先天性肺炎
+184,P233,"Congenital pneumonia due to streptococcus, group B",B群鏈球菌所致之先天性肺炎
+185,P234,Congenital pneumonia due to Escherichia coli,大腸桿菌所致之先天性肺炎
+186,P235,Congenital pneumonia due to Pseudomonas,綠膿桿菌所致之先天性肺炎
+187,P236,Congenital pneumonia due to other bacterial agents,其他細菌所致之先天性肺炎
+188,P238,Congenital pneumonia due to other organisms,其他病原體所致之先天性肺炎
+189,P239,"Congenital pneumonia, unspecified",先天性肺炎，未特定
+190,P24,Neonatal aspiration,新生兒吸入
+191,P240,Meconium aspiration,胎便吸入
+192,P2400,Meconium aspiration without respiratory symptoms,胎便吸入未伴有呼吸症狀
+193,P2401,Meconium aspiration with respiratory symptoms,胎便吸入伴有呼吸症狀
+194,P241,Neonatal aspiration of (clear) amniotic fluid and mucus,新生兒吸入(清澈)羊水及黏液
+195,P2410,Neonatal aspiration of (clear) amniotic fluid and mucus without respiratory symptoms,新生兒吸入(清澈)羊水及黏液未伴有呼吸症狀
+196,P2411,Neonatal aspiration of (clear) amniotic fluid and mucus with respiratory symptoms,新生兒吸入羊水(清澈)及黏液伴有呼吸症狀
+197,P242,Neonatal aspiration of blood,新生兒吸入血液
+198,P2420,Neonatal aspiration of blood without respiratory symptoms,新生兒吸入血液未伴有呼吸症狀
+199,P2421,Neonatal aspiration of blood with respiratory symptoms,新生兒吸入血液伴有呼吸症狀
+200,P243,Neonatal aspiration of milk and regurgitated food,新生兒吸入牛奶及逆流的食物
+201,P2430,Neonatal aspiration of milk and regurgitated food without respiratory symptoms,新生兒吸入牛奶及逆流的食物未伴有呼吸症狀
+202,P2431,Neonatal aspiration of milk and regurgitated food with respiratory symptoms,新生兒吸入牛奶及逆流的食物伴有呼吸症狀
+203,P248,Other neonatal aspiration,其他新生兒吸入
+204,P2480,Other neonatal aspiration without respiratory symptoms,其他新生兒吸入未伴有呼吸症狀
+205,P2481,Other neonatal aspiration with respiratory symptoms,其他新生兒吸入伴有呼吸症狀
+206,P249,"Neonatal aspiration, unspecified",新生兒吸入症，未特定
+207,P25,Interstitial emphysema and related conditions originating in the perinatal period,周產期有關之間質性肺氣腫病況
+208,P250,Interstitial emphysema originating in the perinatal period,周產期之間質性肺氣腫
+209,P251,Pneumothorax originating in the perinatal period,周產期之氣胸
+210,P252,Pneumomediastinum originating in the perinatal period,周產期之縱隔腔積氣
+211,P253,Pneumopericardium originating in the perinatal period,周產期之心包膜積氣
+212,P258,Other conditions related to interstitial emphysema originating in the perinatal period,周產期有關間質性肺氣腫之其他病況
+213,P26,Pulmonary hemorrhage originating in the perinatal period,周產期之肺出血
+214,P260,Tracheobronchial hemorrhage originating in the perinatal period,周產期之氣管支氣管出血
+215,P261,Massive pulmonary hemorrhage originating in the perinatal period,周產期之大量肺出血
+216,P268,Other pulmonary hemorrhages originating in the perinatal period,周產期之其他肺出血
+217,P269,Unspecified pulmonary hemorrhage originating in the perinatal period,未特定周產期之肺出血
+218,P27,Chronic respiratory disease originating in the perinatal period,周產期之慢性呼吸性疾病
+219,P270,Wilson-Mikity syndrome,Wilson-Mikity症候群
+220,P271,Bronchopulmonary dysplasia originating in the perinatal period,周產期之支氣管肺發育不良
+221,P278,Other chronic respiratory diseases originating in the perinatal period,周產期之其他慢性呼吸性疾病
+222,P279,Unspecified chronic respiratory disease originating in the perinatal period,周產期之慢性呼吸性疾病
+223,P28,Other respiratory conditions originating in the perinatal,周產期之其他呼吸性病況
+224,P280,Primary atelectasis of newborn,新生兒原發性肺擴張不全
+225,P281,Other and unspecified atelectasis of newborn,其他和未特定新生兒肺膨張不全
+226,P2810,Unspecified atelectasis of newborn,新生兒肺膨張不全
+227,P2811,Resorption atelectasis without respiratory distress syndrome,吸收性肺膨張不全未伴有呼吸窘迫症候群
+228,P2819,Other atelectasis of newborn,新生兒其他肺擴張不全
+229,P282,Cyanotic attacks of newborn,新生兒發紺發作
+230,P283,Primary sleep apnea of newborn,新生兒原發性睡眠呼吸暫停
+231,P284,Other apnea of newborn,新生兒其他呼吸暫停
+232,P285,Respiratory failure of newborn,新生兒呼吸衰竭
+233,P288,Other specified respiratory conditions of newborn,新生兒其他特定的呼吸病況
+234,P2881,Respiratory arrest of newborn,新生兒呼吸停止
+235,P2889,Other specified respiratory conditions of newborn,新生兒其他特定的呼吸病況
+236,P289,"Respiratory condition of newborn, unspecified",新生兒呼吸病況，未特定
+237,P29,Cardiovascular disorder originating in the perinatal period,周產期的心臟血管疾患
+238,P290,Neonatal cardiac failure,新生兒心臟衰竭
+239,P291,Neonatal cardiac dysrhythmia,新生兒心律不整
+240,P2911,Neonatal tachycardia,新生兒心搏過速
+241,P2912,Neonatal bradycardia,新生兒心搏過慢
+242,P292,Neonatal hypertension,新生兒高血壓
+243,P293,Persistent fetal circulation,持續性胎兒循環
+244,P294,Transient myocardial ischemia in newborn,新生兒暫時性心肌缺血
+245,P298,Other cardiovascular disorders originating in the perinatal period,周產期的其他心臟血管疾患
+246,P2981,Cardiac arrest of newborn,新生兒心跳停止
+247,P2989,Other cardiovascular disorders originating in the perinatal period,周產期的其他心臟血管疾患
+248,P299,"Cardiovascular disorder originating in the perinatal period, unspecified",周產期的心臟血管疾患，未特定
+249,P35,Congenital viral disease,先天性病毒性疾病
+250,P350,Congenital rubella syndrome,先天性德國麻疹症候群
+251,P351,Congenital cytomegalovirus infection,先天性巨細胞病毒感染
+252,P352,Congenital herpesviral [herpes simplex] infection,先天性疱疹病毒性[單純性疱疹]感染
+253,P353,Congenital viral hepatitis,先天性病毒性肝炎
+254,P358,Other congenital viral diseases,其他先天性病毒性疾病
+255,P359,"Congenital viral disease, unspecified",先天性病毒性疾病，未特定
+256,P36,Bacterial sepsis of newborn,新生兒細菌性敗血症
+257,P360,"Sepsis of newborn due to streptococcus, group B",B群鏈球菌所致之新生兒敗血症
+258,P361,Sepsis of newborn due to other and unspecified streptococci,其他和未特定鏈球菌所致之新生兒敗血症
+259,P3610,Sepsis of newborn due to unspecified streptococci,鏈球菌所致之新生兒敗血症
+260,P3619,Sepsis of newborn due to other streptococci,其他鏈球菌所致之新生兒敗血症
+261,P362,Sepsis of newborn due to Staphylococcus aureus,金黃色葡萄球菌所致之新生兒敗血症
+262,P363,Sepsis of newborn due to other and unspecified streptococci,其他和未特定鏈球菌所致之新生兒敗血症
+263,P3630,Sepsis of newborn due to unspecified staphylococci,葡萄球菌所致之新生兒敗血症
+264,P3639,Sepsis of newborn due to other staphylococci,其他葡萄球菌所致之新生兒敗血症
+265,P364,Sepsis of newborn due to Escherichia coli,大腸桿菌所致之新生兒敗血症
+266,P365,Sepsis of newborn due to anaerobes,厭氧菌所致之新生兒敗血症
+267,P368,Other bacterial sepsis of newborn,新生兒其他細菌性敗血症
+268,P369,"Bacterial sepsis of newborn, unspecified",新生兒細菌性敗血症，未特定
+269,P37,Other congenital infectious and parasitic diseases,其他先天性感染症及寄生蟲疾病
+270,P370,Congenital tuberculosis,先天性結核病
+271,P371,Congenital toxoplasmosis,先天性弓蟲病
+272,P372,Neonatal (disseminated) listeriosis,新生兒(散播性)李司特菌病
+273,P373,Congenital falciparum malaria,先天性惡性瘧
+274,P374,Other congenital malaria,其他先天性瘧疾
+275,P375,Neonatal candidiasis,新生兒念珠菌病
+276,P378,Other specified congenital infectious and parasitic diseases,其他特定的先天性感染症及寄生蟲疾病
+277,P379,"Congenital infectious or parasitic disease, unspecified",先天性感染症及寄生蟲疾病，未特定
+278,P38,Omphalitis of newborn,新生兒臍帶炎
+279,P381,Omphalitis with mild hemorrhage,新生兒臍帶炎伴有輕度出血
+280,P389,Omphalitis without hemorrhage,新生兒臍帶炎未伴有出血
+281,P39,Other infections specific to the perinatal period,其他特發於周產期之感染
+282,P390,Neonatal infective mastitis,新生兒感染性乳房炎
+283,P391,Neonatal conjunctivitis and dacryocystitis,新生兒結膜炎及淚囊炎
+284,P392,"Intra-amniotic infection affecting newborn, not elsewhere classified",受羊膜腔內感染之新生兒，他處未歸類者
+285,P393,Neonatal urinary tract infection,新生兒泌尿道感染
+286,P394,Neonatal skin infection,新生兒皮膚感染
+287,P398,Other specified infections specific to the perinatal period,特發於周產期之其他特定感染
+288,P399,"Infection specific to the perinatal period, unspecified",特發於周產期之感染，未特定
+289,P50,Newborn affected by intrauterine (fetal) blood loss,受胎兒失血影響之新生兒
+290,P500,Newborn affected by intrauterine (fetal) blood loss from vasa previa,受前置血管所致之子宮內(胎兒)失血影響之新生兒
+291,P501,Newborn affected by intrauterine (fetal) blood loss from ruptured cord,受臍帶破裂所致之子宮內(胎兒)失血影響之新生兒
+292,P502,Newborn affected by intrauterine (fetal) blood loss from placenta,受胎盤所致之子宮內(胎兒)失血影響之新生兒
+293,P503,Newborn affected by hemorrhage into co-twin,受另一位雙胞胎出血流入影響之新生兒
+294,P504,Newborn affected by hemorrhage into maternal circulation,受流入母體血液循環的出血影響之新生兒
+295,P505,Newborn affected by intrauterine (fetal) blood loss from cut end of co-twin's cord,受另一位雙胞胎臍帶斷端失血影響之新生兒
+296,P508,Newborn affected by other intrauterine (fetal) blood loss,受其他胎兒失血影響之新生兒
+297,P509,"Newborn affected by intrauterine (fetal) blood loss, unspecified",受胎兒失血影響之新生兒，未特定
+298,P51,Umbiliacl hemorrhage of newborn,新生兒臍帶出血
+299,P510,Massive umbilical hemorrhage of newborn,新生兒臍帶大量出血
+300,P518,Other umbilical hemorrhages of newborn,新生兒其他臍帶出血
+301,P519,"Umbilical hemorrhage of newborn, unspecified",新生兒臍帶出血，未特定
+302,P52,Intraventricular nontraumatic hemorrhage of newborn,新生兒非創傷性腦室內出血
+303,P520,"Intraventricular (nontraumatic) hemorrhage, grade 1, of newborn",新生兒(非創傷性)腦室內出血，Ⅰ級
+304,P521,"Intraventricular (nontraumatic) hemorrhage, grade 2, of newborn",新生兒(非創傷性)腦室內出血，Ⅱ級
+305,P522,"Intraventricular (nontraumatic) hemorrhage, grade 3 and grade 4, of newborn",新生兒(非創傷性)腦室內出血，Ⅲ或Ⅳ級
+306,P5221,"Intraventricular (nontraumatic) hemorrhage, grade 3, of newborn",新生兒(非創傷性)腦室內出血，Ⅲ級
+307,P5222,"Intraventricular (nontraumatic) hemorrhage, grade 4, of newborn",新生兒(非創傷性)腦室內出血，Ⅳ級
+308,P523,Unspecified intraventricular (nontraumatic) hemorrhage of newborn,新生兒(非創傷性)腦室內出血
+309,P524,Intracerebral (nontraumatic) hemorrhage of newborn,新生兒(非創傷性)腦內出血
+310,P525,Subarachnoid (nontraumatic) hemorrhage of newborn,新生兒(非創傷性)蜘蛛膜下出血
+311,P526,Cerebellar (nontraumatic) and posterior fossa hemorrhage of newborn,新生兒(非創傷性)小腦及後腦窩出血
+312,P528,Other intracranial (nontraumatic) hemorrhages and newborn,新生兒其他(非創傷性)顱內出血
+313,P529,"Intracranial (nontraumatic) hemorrhage of newborn, unspecified",新生兒(非創傷性)顱內出血，未特定
+314,P53,Hemorrhagic disease of newborn,新生兒出血性疾病
+315,P54,Other neonatal hemorrhages,其他新生兒出血
+316,P540,Neonatal hematemesis,新生兒吐血
+317,P541,Neonatal melena,新生兒黑便
+318,P542,Neonatal rectal hemorrhage,新生兒直腸出血
+319,P543,Other neonatal gastrointestinal hemorrhage,其他新生兒胃腸出血
+320,P544,Neonatal adrenal hemorrhage,新生兒腎上腺出血
+321,P545,Neonatal cutaneous hemorrhage,新生兒皮膚出血
+322,P546,Neonatal vaginal hemorrhage,新生兒陰道出血
+323,P548,Other specified neonatal hemorrhages,其他特定的新生兒出血
+324,P549,"Neonatal hemorrhage, unspecified",新生兒出血，未特定
+325,P55,Hemolytic disease of newborn,新生兒溶血性疾病
+326,P550,Rh isoimmunization of newborn,新生兒Rh因子同種免疫
+327,P551,ABO isoimmunization of newborn,新生兒ABO血型同種免疫
+328,P558,Other hemolytic diseases of newborn,新生兒其他溶血性疾病
+329,P559,"Hemolytic disease of newborn, unspecified",新生兒溶血性疾病，未特定
+330,P56,Hydrops fetalis due to hemolytic disease,溶血性疾病所致之胎兒水腫
+331,P560,Hydrops fetalis due to isoimmunization,同種免疫所致之胎兒水腫
+332,P569,Hydrops fetalis due to other and unspecified hemolytic disease,其他和未特定溶血性疾病所致之胎兒水腫
+333,P5690,Hydrops fetalis due to unspecified hemolytic disease,溶血性疾病所致之胎兒水腫
+334,P5699,Hydrops fetalis due to other hemolytic disease,其他溶血性疾病所致之胎兒水腫
+335,P57,Kernicterus,核黃疸
+336,P570,Kernicterus due to isoimmunization,同種免疫所致之核黃疸
+337,P578,Other specified kernicterus,其他特定之核黃疸
+338,P579,"Kernicterus, unspecified",核黃疸，未特定
+339,P58,Neonatal jaundice due to other excessive hemolysis,其他過量溶血所致之新生兒黃疸
+340,P580,Neonatal jaundice due to bruising,瘀傷所致之新生兒黃疸
+341,P581,Neonatal jaundice due to bleeding,出血所致之新生兒黃疸
+342,P582,Neonatal jaundice due to infection,感染所致之新生兒黃疸
+343,P583,Neonatal jaundice due to polycythemia,紅血球過多症所致之新生兒黃疸
+344,P584,Neonatal jaundice due to drugs or toxins transmitted from mother or given to newborn,母體傳給新生兒的藥物或毒素所致之或藥物或毒素所致之新生兒黃疸
+345,P5841,Neonatal jaundice due to drugs or toxins transmitted from mother,母體傳給新生兒的藥物或毒素所致之新生兒黃疸
+346,P5842,Neonatal jaundice due to drugs or toxins given to newborn,藥物或毒素所致之新生兒黃疸
+347,P585,Neonatal jaundice due to swallowed maternal blood,吞入母體血液所致之新生兒黃疸
+348,P588,Neonatal jaundice due to other specified excessive hemolysis,其他特定過量溶血所致之新生兒黃疸
+349,P589,"Neonatal jaundice due to excessive hemolysis, unspecified",過量溶血所致之新生兒黃疸，未特定
+350,P59,Neonatal jaundice form other and unspecifieed causes,其他和未特定原因所致之新生兒黃疸
+351,P590,Neonatal jaundice associated with preterm delivery,與不足月生產有關之新生兒黃疸
+352,P591,Inspissated bile syndrome,膽汁濃縮症候群
+353,P592,Neonatal jaundice form other and unspecifieed hepatocellular damage,其他和未特定肝細胞損害所致之新生兒黃疸
+354,P5920,Neonatal jaundice from unspecified hepatocellular damage,肝細胞損害所致之新生兒黃疸
+355,P5929,Neonatal jaundice from other hepatocellular damage,其他肝細胞損害所致之新生兒黃疸
+356,P593,Neonatal jaundice from breast milk inhibitor,母乳抑制劑所致之新生兒黃疸
+357,P598,Neonatal jaundice from other specified causes,其他特定原因所致之新生兒黃疸
+358,P599,"Neonatal jaundice, unspecified",新生兒黃疸，未特定
+359,P60,Disseminated intravascular coagulation of newborn,新生兒散播性血管內凝血
+360,P61,Other perinatal hematological disorders,其他周產期血液疾患
+361,P610,Transient neonatal thrombocytopenia,短暫性新生兒血小板減少症
+362,P611,Polycythemia neonatorum,新生兒紅血球增生
+363,P612,Anemia of prematurity,早產兒貧血
+364,P613,Congenital anemia from fetal blood loss,胎兒失血所致之先天性貧血
+365,P614,"Other congenital anemias, not elsewhere classified",其他先天性貧血，他處未歸類者
+366,P615,Transient neonatal neutropenia,暫時性新生兒中性白血球過少症
+367,P616,Other transient neonatal disorders of coagulation,其他暫時性新生兒凝血疾患
+368,P618,Other specified perinatal hematological disorders,其他特定之周產期血液疾患
+369,P619,"Perinatal hematological disorder, unspecified",周產期血液疾患，未特定
+370,P70,Transitory disorders of carbohydrate metabolism specific to newborn,特發於新生兒之暫時性碳水化合物代謝疾患
+371,P700,Syndrome of infant of mother with gestational diabetes,母體妊娠型糖尿病的嬰兒症候群
+372,P701,Syndrome of infant of a diabetic mother,糖尿病母親所生嬰兒徵候群
+373,P702,Neonatal diabetes mellitus,新生兒糖尿病
+374,P703,Iatrogenic neonatal hypoglycemia,醫源性新生兒低血糖症
+375,P704,Other neonatal hypoglycemia,其他新生兒低血糖症
+376,P708,Other transitory disorders of carbohydrate metabolism of newborn,新生兒其他暫時性碳水化合物代謝疾患
+377,P709,"Transitory disorder of carbohydrate metabolism of newborn, unspecified",新生兒暫時性碳水化合物代謝疾患，未特定
+378,P71,Transitory neonatal disorders of calcium and magnesium metabolism,新生兒暫時性鈣及鎂代謝疾患
+379,P710,Cow's milk hypocalcemia in newborn,新生兒餵食牛奶所致之低血鈣症
+380,P711,Other neonatal hypocalcemia,其他新生兒低血鈣症
+381,P712,Neonatal hypomagnesemia,新生兒低血鎂症
+382,P713,Neonatal tetany without calcium or magnesium deficiency,新生兒強直性痙攣未伴有鈣或鎂缺乏
+383,P714,Transitory neonatal hypoparathyroidism,新生兒暫時性副甲狀腺功能不足症
+384,P718,Other transitory neonatal disorders of calcium and magnesium metabolism,新生兒其他暫時性鈣及鎂代謝疾患
+385,P719,"Transitory neonatal disorder of calcium and magnesium metabolism, unspecified",新生兒暫時性鈣及鎂代謝疾患，未特定
+386,P72,Other transitory neonatal endocrine disorders,其他新生兒暫時性內分泌疾患
+387,P720,"Neonatal goiter, not elsewhere classified",新生兒甲狀腺腫，他處未歸類者
+388,P721,Transitory neonatal hyperthyroidism,新生兒暫時性甲狀腺功能亢進症
+389,P722,"Other transitory neonatal disorders of thyroid function, not elsewhere classified",新生兒其他暫時性甲狀腺功能疾患，他處未歸類者
+390,P728,Other specified transitory neonatal endocrine disorders,新生兒其他特定的暫時性內分泌疾患
+391,P729,"Transitory neonatal endocrine disorder, unspecified",新生兒暫時性內分泌疾患，未特定
+392,P74,Other transitory neonatal electrolyte and metabolic disturbances,其他新生兒暫時性代謝障礙
+393,P740,Late metabolic acidosis of newborn,新生兒後期代謝性酸毒症
+394,P741,Dehydration of newborn,新生兒脫水
+395,P742,Disturbances of sodium balance of newborn,新生兒鈉離子平衡失調
+396,P743,Disturbances of potassium balance of newborn,新生兒鉀離子平衡失調
+397,P744,Other transitory electrolyte disturbances of newborn,新生兒其他暫時性電解質失調
+398,P745,Transitory tyrosinemia of newborn,新生兒暫時性酥胺酸血症
+399,P746,Transitory hyperammonemia of newborn,新生兒暫時性胺基酸過高血症
+400,P748,Other transitory metabolic disturbances of newborn,新生兒其他暫時性代謝障礙
+401,P749,"Transitory metabolic disturbance of newborn, unspecified",新生兒暫時性代謝障礙，未特定
+402,P76,Other intestinal obstruction of newborn,其他新生兒腸阻塞
+403,P760,Meconium plug syndrome,胎便堵塞症候群
+404,P761,Transitory ileus of newborn,新生兒暫時性腸阻塞
+405,P762,Intestinal obstruction due to inspissated milk,濃縮乳汁所致之腸阻塞
+406,P768,Other specified intestinal obstruction of newborn,其他特定的新生兒腸阻塞
+407,P769,"Intestinal obstruction of newborn, unspecified",新生兒腸阻塞，未特定
+408,P77,Necrotizing enterocolitis of newborn,新生兒壞死性腸炎
+409,P771,Stage 1 necrotizing enterocolitis in newborn,新生兒壞死性腸炎，第Ⅰ期
+410,P772,Stage 2 necrotizing enterocolitis in newborn,新生兒壞死性腸炎，第Ⅱ期
+411,P773,Stage 3 necrotizing enterocolitis in newborn,新生兒壞死性腸炎，第Ⅲ期
+412,P779,"Necrotizing enterocolitis in newborn, unspecified",新生兒壞死性腸炎，未特定
+413,P78,Other perinatal digestive system disorders,其他周產期消化系統疾患
+414,P780,Perinatal intestinal perforation,周產期腸穿孔
+415,P781,Other neonatal peritonitis,其他新生兒腹膜炎
+416,P782,Neonatal hematemesis and melena due to swallowed maternal blood,吞入母體血液所致之新生兒吐血及黑便
+417,P783,Noninfective neonatal diarrhea,非感染性新生兒腹瀉
+418,P788,Other specified perinatal digestive system disorders,其他特定的周產期消化系統疾患
+419,P7881,Congenital cirrhosis (of liver),先天性(肝)硬化
+420,P7882,Peptic ulcer of newborn,新生兒消化性潰瘍
+421,P7883,Newborn esophageal reflux,新生兒食道回流
+422,P7889,Other specified perinatal digestive system disorders,其他特定的周產期消化系統疾患
+423,P789,"Perinatal digestive system disorder, unspecified",周產期消化系統疾患，未特定
+424,P80,Hypothermia of newborn,新生兒低體溫症
+425,P800,Cold injury syndrome,冷傷害症候群
+426,P808,Other hypothermia of newborn,其他新生兒低體溫症
+427,P809,"Hypothermia of newborn, unspecified",新生兒低體溫症，未特定
+428,P81,Other disturbances of temperature regulation of newborn,新生兒其他體溫調節障礙
+429,P810,Environmental hyperthermia of newborn,新生兒環境性高體溫症
+430,P818,Other specified disturbances of temperature regulation of newborn,其他特定的新生兒體溫調節障礙
+431,P819,"Disturbance of temperature regulation of newborn, unspecified",新生兒體溫調節障礙，未特定
+432,P83,Other conditions of integument specific to newborn,特發於新生兒其他體表病況
+433,P830,Sclerema neonatorum,新生兒硬皮症
+434,P831,Neonatal erythema toxicum,新生兒毒性紅斑
+435,P832,Hydrops fetalis not due to hemolytic disease,非溶血性疾病所致之胎兒水腫
+436,P833,Other and unspecified edema specific to newborn,特發於新生兒之其他和未特定水腫
+437,P8330,Unspecified edema specific to newborn,特發於新生兒之非特定水腫
+438,P8339,Other edema specific to newborn,特發於新生兒其他水腫
+439,P834,Breast engorgement of newborn,新生兒乳房腫脹
+440,P835,Congenital hydrocele,先天性陰囊水腫
+441,P836,Umbilical polyp of newborn,新生兒臍息肉
+442,P838,Other specified conditions integument specific to newborn,特發於新生兒其他特定的體表病況
+443,P839,"Condition of the integument specific to newborn, unspecified",特發於新生兒的體表病況，未特定
+444,P84,Other problems with newborn,新生兒其他問題
+445,P90,Convulsions of newborn,新生兒痙攣
+446,P91,Other disturbances of cerebral status of newborn,其他新生兒腦狀態障礙
+447,P910,Neonatal cerebral ischemia,新生兒腦缺血
+448,P911,Acquired periventricular cysts of newborn,後天性新生兒腦室周圍囊腫
+449,P912,Neonatal cerebral leukomalacia,新生兒腦白質軟化症
+450,P913,Neonatal cerebral irritability,新生兒大腦激躁
+451,P914,Neonatal cerebral depression,新生兒大腦抑制
+452,P915,Neonatal coma,新生兒昏迷
+453,P916,Hypoxic ischemic encephalopathy (HIE),缺氧缺血性腦病變[HIE]
+454,P9160,"Hypoxic ischemic encephalopathy [HIE], unspecified",缺氧缺血性腦病變[HIE]，未特定
+455,P9161,Mild hypoxic ischemic encephalopathy [HIE],輕度缺氧缺血性腦病變[HIE]
+456,P9162,Moderate hypoxic ischemic encephalopathy [HIE],中度缺氧缺血性腦病變[HIE]
+457,P9163,Severe hypoxic ischemic encephalopathy [HIE],重度缺氧缺血性腦病變[HIE]
+458,P918,Other specified disturbances of cerebral status of newborn,其他特定的新生兒腦狀態障礙
+459,P919,"Disturbance of cerebral status of newborn, unspecified",新生兒腦狀態障礙，未特定
+460,P92,Feeding problem of newborn,新生兒餵食問題
+461,P920,Vomiting of newborn,新生兒嘔吐
+462,P9201,Bilious vomiting of newborn,新生兒膽汁性嘔吐
+463,P9209,Other vomiting of newborn,新生兒其他嘔吐
+464,P921,Regurgitation and rumination of newborn,新生兒食物逆流及反芻
+465,P922,Slow feeding of newborn,新生兒餵食過慢
+466,P923,Underfeeding of newborn,新生兒餵食不足
+467,P924,Overfeeding of newborn,新生兒餵食過量
+468,P925,Neonatal difficulty in feeding at breast,新生兒母乳餵食困難
+469,P926,Failure to thrive in newborn,新生兒生長遲滯
+470,P928,Other feeding problems of newborn,新生兒其他餵食問題
+471,P929,"Feeding problem of newborn, unspecified",新生兒餵食問題，未特定
+472,P93,Reactions and intoxications due to drugs adminiserred to newborn,新生兒用藥所致之反應及中毒
+473,P930,Grey baby syndrome,灰嬰症候群
+474,P938,Other reactions and intoxications due to drugs administered to newborn,新生兒用藥所致之其他反應及中毒
+475,P94,Disorders of muscle tone of newborn,新生兒肌肉張力疾患
+476,P940,Transient neonatal myasthenia gravis,新生兒短暫性重症肌無力
+477,P941,Congenital hypertonia,先天性肌肉張力過大
+478,P942,Congenital hypotonia,先天性肌肉張力低下
+479,P948,Other disorders of muscle tone of newborn,其他新生兒肌肉張力疾患
+480,P949,"Disorder of muscle tone of newborn, unspecified",新生兒肌肉張力疾患，未特定
+481,P95,Stillbirth,死產
+482,P96,Other conditions originating in the perinatal period,源於周產期的其他病況
+483,P960,Congenital renal failure,先天性腎衰竭
+484,P961,Neonatal withdrawal symptoms from maternal use of drugs of addiction,母體使用成癮藥物所致之新生兒戒斷症候群
+485,P962,Withdrawal symptoms from therapeutic use of drugs in newborn,新生兒使用治療性藥物的戒斷症狀
+486,P963,Wide cranial sutures of newborn,新生兒顱骨骨縫過寬
+487,P965,Complication to newborn due to (fetal) intrauterine procedure,新生兒因(胎兒)子宮內醫療處置所致之併發症
+488,P968,Other specified conditions originating in the perinatal period,源於周產期的其他特定病況
+489,P9681,Exposure to (parental) (environmental) tobacco smoke in the perinatal period,周產期暴露於(父母親)(環境)吸菸
+490,P9682,Delayed separation of umbilical cord,臍帶延遲性分離
+491,P9683,Meconium staining,胎便染色
+492,P9689,Other specified conditions originating in the perinatal period,源於周產期的其他特定病況
+493,P969,"Condition originating in the perinatal period, unspecified",源於周產期的病況，未特定

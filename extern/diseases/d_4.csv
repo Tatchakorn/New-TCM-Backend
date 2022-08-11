@@ -1,0 +1,924 @@
+,code,en_name,ch_name
+0,F01,Vascular dementia,血管性失智症
+1,F015,Vascular dementia,血管性失智症
+2,F0150,Vascular dementia without behavioral disturbance,血管性失智症，無行為障礙
+3,F0151,Vascular dementia with behavioral disturbance,血管性失智症，伴有行為障礙
+4,F02,Dementia in other diseases classified elsewhere,歸類於他處其他疾病所致之失智症
+5,F028,Dementia in other diseases classified elsewhere,歸類於他處其他疾病所致之失智症
+6,F0280,"Dementia in other diseases classified elsewhere, without behavioral disturbance",歸類於他處其他疾病所致之失智症，無行為障礙
+7,F0281,"Dementia in other diseases classified elsewhere, with behavioral disturbance",歸類於他處其他疾病所致之失智症，伴有行為障礙
+8,F03,Unspecified dementia,未特定之失智症
+9,F04,Amnestic disorder due to known physiological condition,生理狀況所致之失憶疾患
+10,F05,Delirium due to known physiological condition,生理狀況所致之譫妄
+11,F06,Other mental disorders due to known physiological condition,生理狀況所致之其他精神疾患
+12,F060,Psychotic disorder with hallucinations due to known physiological condition,生理狀況所致伴有幻覺之精神疾患
+13,F061,Catatonic disorder due to known physiological condition,生理狀況所致之緊張症
+14,F062,Psychotic disorder with delusions due to known physiological condition,生理狀況所致伴有妄想之精神疾患
+15,F063,Mood disorder due to known physiological condition,生理狀況所致之情感疾患
+16,F0630,"Mood disorder due to known physiological condition, unspecified",生理狀況所致之情感疾患，未特定
+17,F0631,Mood disorder due to known physiological condition with depressive features,生理狀況所致伴有憂鬱特徵之情感疾患
+18,F0632,Mood disorder due to known physiological condition with major depressive-like episode,生理狀況所致伴有類似重鬱發作之情感疾患
+19,F0633,Mood disorder due to known physiological condition with manic features,生理狀況所致伴有躁症特徵之情感疾患
+20,F0634,Mood disorder due to known physiological condition with mixed features,生理狀況所致伴有混合特徵之情感疾患
+21,F064,Anxiety disorder due to known physiological condition,生理狀況所致之焦慮疾患
+22,F068,Other specified mental disorders due to known physiological condition,生理狀況所致之其他特定精神疾患
+23,F069,Unspecified mental disorder due to known physiological condition,生理狀況所致之精神疾患
+24,F07,Personality and behavioral disorders due to known physiological condition,生理狀況所致之人格與行為疾患
+25,F070,Personality change due to known physiological condition,生理狀況所致之人格變化
+26,F078,Other personality and behavioral disorders due to known physiological condition,生理狀況所致之其他人格與行為疾患
+27,F0781,Postconcussional syndrome,腦震盪後症候群
+28,F0789,Other personality and behavioral disorders due to known physiological condition,生理狀況所致之其他人格與行為疾患
+29,F079,Unspecified personality and behavioral disorder due to known physiological condition,生理狀況所致之人格及行為疾患
+30,F09,Unspecified mental disorder due to known physiological condition,不明生理狀況所致之未特定精神疾患
+31,F10,Alcohol related disorders,酒精相關疾患
+32,F101,Alcohol abuse,酒精濫用
+33,F1010,"Alcohol abuse, uncomplicated",酒精濫用，無併發症
+34,F1012,Alcohol abuse with intoxication,酒精濫用，伴有中毒
+35,F10120,"Alcohol abuse with intoxication, uncomplicated",酒精濫用，伴有中毒，無併發症
+36,F10121,Alcohol abuse with intoxication delirium,酒精濫用，伴有中毒譫妄
+37,F10129,"Alcohol abuse with intoxication, unspecified",酒精濫用，伴有未分類中毒，未特定
+38,F1014,Alcohol abuse with alcohol-induced mood disorder,酒精濫用，伴有酒精導致之情感疾患
+39,F1015,Alcohol abuse with alcohol-induced psychotic disorder,酒精濫用，伴有酒精導致之精神疾患
+40,F10150,Alcohol abuse with alcohol-induced psychotic disorder with delusions,酒精濫用，伴有酒精導致之妄想型精神疾患
+41,F10151,Alcohol abuse with alcohol-induced psychotic disorder with hallucinations,酒精濫用，伴有酒精導致之幻覺型精神疾患
+42,F10159,"Alcohol abuse with alcohol-induced psychotic disorder, unspecified",酒精濫用，伴有酒精導致之未分類精神疾患，未特定
+43,F1018,Alcohol abuse with other alcohol-induced disorders,酒精濫用，伴有酒精導致之其他疾患
+44,F10180,Alcohol abuse with alcohol-induced anxiety disorder,酒精濫用，伴有酒精導致之焦慮疾患
+45,F10181,Alcohol abuse with alcohol-induced sexual dysfunction,酒精濫用，伴有酒精導致之性功能障礙
+46,F10182,Alcohol abuse with alcohol-induced sleep disorder,酒精濫用，伴有酒精導致之睡眠疾患
+47,F10188,Alcohol abuse with other alcohol-induced disorder,酒精濫用，伴有酒精導致之其他疾患
+48,F1019,Alcohol abuse with unspecified alcohol-induced disorder,酒精濫用，伴有酒精導致之未特定疾患
+49,F102,Alcohol dependence,酒精依賴
+50,F1020,"Alcohol dependence, uncomplicated",酒精依賴，無併發症
+51,F1021,"Alcohol dependence, in remission",酒精依賴，緩解中
+52,F1022,Alcohol dependence with intoxication,酒精依賴，伴有中毒
+53,F10220,"Alcohol dependence with intoxication, uncomplicated",酒精依賴，伴有中毒，無併發症
+54,F10221,Alcohol dependence with intoxication delirium,酒精依賴，伴有中毒譫妄
+55,F10229,"Alcohol dependence with intoxication, unspecified",酒精依賴，伴有未分類中毒，未特定
+56,F1023,Alcohol dependence with withdrawel,酒精依賴，伴有戒斷
+57,F10230,"Alcohol dependence with withdrawal, uncomplicated",酒精依賴，伴有戒斷，無併發症
+58,F10231,Alcohol dependence with withdrawal delirium,酒精依賴，伴有戒斷譫妄
+59,F10232,Alcohol dependence with withdrawal with perceptual disturbance,酒精依賴，伴有知覺障礙戒斷
+60,F10239,"Alcohol dependence with withdrawal, unspecified",酒精依賴，伴有未分類戒斷，未特定
+61,F1024,Alcohol dependence with alcohol-induced mood disorder,酒精依賴，伴有酒精導致之情感疾患
+62,F1025,Alcohol dependence with alcohol-induced psychotic disorder,酒精依賴，伴有酒精導致之精神疾患
+63,F10250,Alcohol dependence with alcohol-induced psychotic disorder with delusions,酒精依賴，伴有酒精導致之妄想型精神疾患
+64,F10251,Alcohol dependence with alcohol-induced psychotic disorder with hallucinations,酒精依賴，伴有酒精導致之幻覺型精神疾患
+65,F10259,"Alcohol dependence with alcohol-induced psychotic disorder, unspecified",酒精依賴，伴有酒精導致之未分類精神疾患，未特定
+66,F1026,Alcohol dependence with alcohol-induced persisting amnestic disorder,酒精依賴，伴有酒精導致之持續失憶疾患
+67,F1027,Alcohol dependence with alcohol-induced persisting dementia,酒精依賴，伴有酒精導致之持續失智症
+68,F1028,Alcohol dependence with other alcohol-induced disorders,酒精依賴，伴有酒精導致之其他疾患
+69,F10280,Alcohol dependence with alcohol-induced anxiety disorder,酒精依賴，伴有酒精導致之焦慮疾患
+70,F10281,Alcohol dependence with alcohol-induced sexual dysfunction,酒精依賴，伴有酒精導致之性功能障礙
+71,F10282,Alcohol dependence with alcohol-induced sleep disorder,酒精依賴，伴有酒精導致之睡眠疾患
+72,F10288,Alcohol dependence with other alcohol-induced disorder,酒精依賴，伴有酒精導致之其他疾患
+73,F1029,Alcohol dependence with unspecified alcohol-induced disorder,酒精依賴，伴有酒精導致之未特定疾患
+74,F109,"Alcohol use, unspecified",酒精使用，未特定
+75,F1092,"Alcohol use, unspecified with intoxication",酒精使用，未特定，伴有中毒
+76,F10920,"Alcohol use, unspecified with intoxication, uncomplicated",酒精使用，未特定，伴有中毒，無併發症
+77,F10921,"Alcohol use, unspecified with intoxication delirium",酒精使用，未特定，伴有中毒譫妄
+78,F10929,"Alcohol use, unspecified with intoxication, unspecified",酒精使用，未分類，伴有未分類中毒，未特定
+79,F1094,"Alcohol use, unspecified with alcohol-induced mood disorder",酒精使用，未特定，伴有酒精導致之情感疾患
+80,F1095,"Alcohol use, unspecified with alcohol-induced psychotic disorder",酒精使用，未特定，伴有酒精導致之精神疾患
+81,F10950,"Alcohol use, unspecified with alcohol-induced psychotic disorder with delusions",酒精使用，未特定，伴有酒精導致之妄想型精神疾患
+82,F10951,"Alcohol use, unspecified with alcohol-induced psychotic disorder with hallucinations",酒精使用，未特定，伴有酒精導致之幻覺型精神疾患
+83,F10959,"Alcohol use, unspecified with alcohol-induced psychotic disorder, unspecified",酒精使用，未分類，伴有酒精導致之未分類精神疾患，未特定
+84,F1096,"Alcohol use, unspecified with alcohol-induced persisting amnestic disorder",酒精使用，未特定，伴有酒精導致之失憶疾患
+85,F1097,"Alcohol use, unspecified with alcohol-induced persisting dementia",酒精使用，未特定，伴有酒精導致之持續失智症
+86,F1098,"Alcohol use, unspecified with other alcohol-induced disorders",酒精使用，未特定，伴有酒精導致之其他疾患
+87,F10980,"Alcohol use, unspecified with alcohol-induced anxiety disorder",酒精使用，未特定，伴有酒精導致之焦慮疾患
+88,F10981,"Alcohol use, unspecified with alcohol-induced sexual dysfunction",酒精使用，未特定，伴有酒精導致之性功能障礙
+89,F10982,"Alcohol use, unspecified with alcohol-induced sleep disorder",酒精使用，未特定，伴有酒精導致之睡眠疾患
+90,F10988,"Alcohol use, unspecified with other alcohol-induced disorder",酒精使用，未特定，伴有酒精導致之其他疾患
+91,F1099,"Alcohol use, unspecified with unspecified alcohol-induced disorder",酒精使用，未特定，伴有酒精導致之未特定疾患
+92,F11,Opioid related disorders,鴉片類藥物相關疾患
+93,F111,Opioid abuse,鴉片類藥物濫用
+94,F1110,"Opioid abuse, uncomplicated",鴉片類藥物濫用，無併發症
+95,F1112,Opioid abuse with intoxication,鴉片類藥物濫用，伴有中毒
+96,F11120,"Opioid abuse with intoxication, uncomplicated",鴉片類藥物濫用，伴有中毒，無併發症
+97,F11121,Opioid abuse with intoxication delirium,鴉片類藥物濫用，伴有中毒譫妄
+98,F11122,Opioid abuse with intoxication with perceptual disturbance,鴉片類藥物濫用，伴有知覺障礙中毒
+99,F11129,"Opioid abuse with intoxication, unspecified",鴉片類藥物濫用，伴有未分類中毒，未特定
+100,F1114,Opioid abuse with opioid-induced mood disorder,鴉片類藥物濫用，伴有鴉片類藥物導致之情感疾患
+101,F1115,Opioid abuse with opioid-induced psychotic disorder,鴉片類藥物濫用，伴有鴉片類藥物導致之精神疾患
+102,F11150,Opioid abuse with opioid-induced psychotic disorder with delusions,鴉片類藥物濫用，伴有鴉片類藥物導致之妄想型精神疾患
+103,F11151,Opioid abuse with opioid-induced psychotic disorder with hallucinations,鴉片類藥物濫用，伴有鴉片類藥物導致之幻覺型精神疾患
+104,F11159,"Opioid abuse with opioid-induced psychotic disorder, unspecified",鴉片類藥物濫用，伴有鴉片類藥物導致之未分類精神疾患，未特定
+105,F1118,Opioid abuse with other opioid-induced disorder,鴉片類藥物濫用，伴有鴉片類藥物導致之其他疾患
+106,F11181,Opioid abuse with opioid-induced sexual dysfunction,鴉片類藥物濫用，伴有鴉片類藥物導致之性功能障礙
+107,F11182,Opioid abuse with opioid-induced sleep disorder,鴉片類藥物濫用，伴有鴉片類藥物導致之睡眠疾患
+108,F11188,Opioid abuse with other opioid-induced disorder,鴉片類藥物濫用，伴有鴉片類藥物導致之其他疾患
+109,F1119,Opioid abuse with unspecified opioid-induced disorder,鴉片類藥物濫用，伴有鴉片類藥物導致之未特定疾患
+110,F112,Opioid dependence,鴉片類藥物依賴
+111,F1120,"Opioid dependence, uncomplicated",鴉片類藥物依賴，無併發症
+112,F1121,"Opioid dependence, in remission",鴉片類藥物依賴，緩解中
+113,F1122,Opioid dependence with intoxication,鴉片類藥物依賴，伴有中毒
+114,F11220,"Opioid dependence with intoxication, uncomplicated",鴉片類藥物依賴，伴有中毒，無併發症
+115,F11221,Opioid dependence with intoxication delirium,鴉片類藥物依賴，伴有中毒譫妄
+116,F11222,Opioid dependence with intoxication with perceptual disturbance,鴉片類藥物依賴，伴有知覺障礙中毒
+117,F11229,"Opioid dependence with intoxication, unspecified",鴉片類藥物依賴，伴有未分類中毒，未特定
+118,F1123,Opioid dependence with withdrawal,鴉片類藥物依賴，伴有戒斷
+119,F1124,Opioid dependence with opioid-induced mood disorder,鴉片類藥物依賴，伴有鴉片類藥物導致之情感疾患
+120,F1125,Opioid dependence with opioid-induced psychotic disorder,鴉片類藥物依賴，伴有鴉片類藥物導致之精神疾患
+121,F11250,Opioid dependence with opioid-induced psychotic disorder with delusions,鴉片類藥物依賴，伴有鴉片類藥物導致之妄想型精神疾患
+122,F11251,Opioid dependence with opioid-induced psychotic disorder with hallucinations,鴉片類藥物依賴，伴有鴉片類藥物導致之幻覺型精神疾患
+123,F11259,"Opioid dependence with opioid-induced psychotic disorder, unspecified",鴉片類藥物依賴，伴有鴉片類藥物導致之未分類精神疾患，未特定
+124,F1128,Opioid dependence with other opioid-induced disorder,鴉片類藥物依賴，伴有鴉片類藥物導致之其他疾患
+125,F11281,Opioid dependence with opioid-induced sexual dysfunction,鴉片類藥物依賴，伴有鴉片類藥物導致之性功能障礙
+126,F11282,Opioid dependence with opioid-induced sleep disorder,鴉片類藥物依賴，伴有鴉片類藥物導致之睡眠疾患
+127,F11288,Opioid dependence with other opioid-induced disorder,鴉片類藥物依賴，伴有鴉片類藥物導致之其他疾患
+128,F1129,Opioid dependence with unspecified opioid-induced disorder,鴉片類藥物依賴，伴有鴉片類藥物導致之未特定疾患
+129,F119,"Opioid use, unspecified",鴉片類藥物使用，未特定
+130,F1190,"Opioid use, unspecified, uncomplicated",鴉片類藥物使用，未特定，無併發症
+131,F1192,"Opioid use, unspecified with intoxication",鴉片類藥物使用，未特定，伴有中毒
+132,F11920,"Opioid use, unspecified with intoxication, uncomplicated",鴉片類藥物使用，未特定，伴有中毒，無併發症
+133,F11921,"Opioid use, unspecified with intoxication delirium",鴉片類藥物使用，未特定，伴有中毒譫妄
+134,F11922,"Opioid use, unspecified with intoxication with perceptual disturbance",鴉片類藥物使用，未特定，伴有知覺障礙中毒
+135,F11929,"Opioid use, unspecified with intoxication, unspecified",鴉片類藥物使用，未分類，伴有未分類中毒，未特定
+136,F1193,"Opioid use, unspecified with withdrawal",鴉片類藥物使用，未特定，伴有戒斷
+137,F1194,"Opioid use, unspecified with opioid-induced mood disorder",鴉片類藥物使用，未特定，伴有鴉片類藥物導致之情感疾患
+138,F1195,"Opioid use, unspecified with opioid-induced psychotic disorder",鴉片類藥物使用，未特定，伴有鴉片類藥物導致之精神疾患
+139,F11950,"Opioid use, unspecified with opioid-induced psychotic disorder with delusions",鴉片類藥物使用，未特定，伴有鴉片類藥物導致之妄想型精神疾患
+140,F11951,"Opioid use, unspecified with opioid-induced psychotic disorder with hallucinations",鴉片類藥物使用，未特定，伴有鴉片類藥物導致之幻覺型精神疾患
+141,F11959,"Opioid use, unspecified with opioid-induced psychotic disorder, unspecified",鴉片類藥物使用，未分類，伴有鴉片類藥物導致之未分類精神疾患，未特定
+142,F1198,"Opioid use, unspecified with other specified opioid-induced disorder",鴉片類藥物使用，未特定，伴有其他特定鴉片類藥物導致之疾患
+143,F11981,"Opioid use, unspecified with opioid-induced sexual dysfunction",鴉片類藥物使用，未特定，伴有鴉片類藥物導致之性功能障礙
+144,F11982,"Opioid use, unspecified with opioid-induced sleep disorder",鴉片類藥物使用，未特定，伴有鴉片類藥物導致之睡眠疾患
+145,F11988,"Opioid use, unspecified with other opioid-induced disorder",鴉片類藥物使用，未特定，伴有鴉片類藥物導致之其他疾患
+146,F1199,"Opioid use, unspecified with unspecified opioid-induced disorder",鴉片類藥物使用，未特定，伴有鴉片類藥物導致之未特定疾患
+147,F12,Cannabis related disorders,大麻濫用相關疾患
+148,F121,Cannabis abuse,大麻濫用
+149,F1210,"Cannabis abuse, uncomplicated",大麻濫用，無併發症
+150,F1212,Cannabis abuse with intoxication,大麻濫用，伴有中毒
+151,F12120,"Cannabis abuse with intoxication, uncomplicated",大麻濫用，伴有中毒，無併發症
+152,F12121,Cannabis abuse with intoxication delirium,大麻濫用，伴有中毒譫妄
+153,F12122,Cannabis abuse with intoxication with perceptual disturbance,大麻濫用，伴有知覺障礙中毒
+154,F12129,"Cannabis abuse with intoxication, unspecified",大麻濫用，伴有未分類中毒，未特定
+155,F1215,Cannabis abuse with psychotic disorder,大麻濫用，伴有大麻引發精神疾患
+156,F12150,Cannabis abuse with psychotic disorder with delusions,大麻濫用，伴有大麻引發妄想型精神疾患
+157,F12151,Cannabis abuse with psychotic disorder with hallucinations,大麻濫用，伴有大麻引發幻覺型精神疾患
+158,F12159,"Cannabis abuse with psychotic disorder, unspecified",大麻濫用，伴有大麻引發未分類精神疾患，未特定
+159,F1218,Cannabis abuse with other cannabis-induced disorder,大麻濫用，伴有其他大麻導致之疾患
+160,F12180,Cannabis abuse with cannabis-induced anxiety disorder,大麻濫用，伴有大麻導致之焦慮疾患
+161,F12188,Cannabis abuse with other cannabis-induced disorder,大麻濫用，伴有大麻導致之其他疾患
+162,F1219,Cannabis abuse with unspecified cannabis-induced disorder,大麻濫用，伴有大麻導致之未特定疾患
+163,F122,Cannabis dependence,大麻依賴
+164,F1220,"Cannabis dependence, uncomplicated",大麻依賴，無併發症
+165,F1221,"Cannabis dependence, in remission",大麻依賴，緩解中
+166,F1222,Cannabis dependence with intoxication,大麻依賴，伴有中毒
+167,F12220,"Cannabis dependence with intoxication, uncomplicated",大麻依賴，伴有中毒，無併發症
+168,F12221,Cannabis dependence with intoxication delirium,大麻依賴，伴有中毒譫妄
+169,F12222,Cannabis dependence with intoxication with perceptual disturbance,大麻依賴，伴有知覺障礙中毒
+170,F12229,"Cannabis dependence with intoxication, unspecified",大麻依賴，伴有未分類中毒，未特定
+171,F1225,Cannabis dependence with psychotic disorder,大麻依賴，伴有大麻引發精神疾患
+172,F12250,Cannabis dependence with psychotic disorder with delusions,大麻依賴，伴有大麻引發妄想型精神疾患
+173,F12251,Cannabis dependence with psychotic disorder with hallucinations,大麻依賴，伴有大麻引發幻覺型精神疾患
+174,F12259,"Cannabis dependence with psychotic disorder, unspecified",大麻依賴，伴有大麻引發未分類精神疾患，未特定
+175,F1228,Cannabis dependence with other cannabis-induced disorder,大麻依賴，伴有其他大麻導致之疾患
+176,F12280,Cannabis dependence with cannabis-induced anxiety disorder,大麻依賴，伴有大麻導致之焦慮疾患
+177,F12288,Cannabis dependence with other cannabis-induced disorder,大麻依賴，伴有大麻導致之其他疾患
+178,F1229,Cannabis dependence with unspecified cannabis-induced disorder,大麻依賴，伴有大麻導致之未特定疾患
+179,F129,"Cannabis use, unspecified",大麻使用，未特定
+180,F1290,"Cannabis use, unspecified, uncomplicated",大麻使用，未特定，無併發症
+181,F1292,"Cannabis use, unspecified with intoxication",大麻使用，未特定，伴有中毒
+182,F12920,"Cannabis use, unspecified with intoxication, uncomplicated",大麻使用，未特定，伴有中毒，無併發症
+183,F12921,"Cannabis use, unspecified with intoxication delirium",大麻使用，未特定，伴有中毒譫妄
+184,F12922,"Cannabis use, unspecified with intoxication with perceptual disturbance",大麻使用，未特定，伴有知覺障礙中毒
+185,F12929,"Cannabis use, unspecified with intoxication, unspecified",大麻使用，未分類，伴有未分類中毒，未特定
+186,F1295,"Cannabis use, unspecified with psychotic disorder",大麻使用，未特定，伴有大麻精神疾患
+187,F12950,"Cannabis use, unspecified with psychotic disorder with delusions",大麻使用，未特定，伴有大麻引發妄想型精神疾患
+188,F12951,"Cannabis use, unspecified with psychotic disorder with hallucinations",大麻使用，未特定，伴有大麻引發幻覺型精神疾患
+189,F12959,"Cannabis use, unspecified with psychotic disorder, unspecified",大麻使用，未分類，伴有大麻引發未分類精神疾患，未特定
+190,F1298,"Cannabis use, unspecified with other cannabis-induced disorder",大麻使用，未特定，伴有大麻引發的其他疾患
+191,F12980,"Cannabis use, unspecified with anxiety disorder",大麻使用，未特定，伴有大麻引發焦慮疾患
+192,F12988,"Cannabis use, unspecified with other cannabis-induced disorder",大麻使用，未特定，伴有大麻導致之其他疾患
+193,F1299,"Cannabis use, unspecified with unspecified cannabis-induced disorder",大麻使用，未特定，伴有大麻導致之未特定疾患
+194,F13,"Sedative, hypnotic, or anxiolytic related disorders",鎮靜劑、安眠藥或抗焦慮藥相關之疾患
+195,F131,"Sedative, hypnotic or anxiolytic-related abuse",鎮靜劑、安眠藥或抗焦慮藥相關之成癮
+196,F1310,"Sedative, hypnotic or anxiolytic abuse, uncomplicated",鎮靜劑、安眠藥或抗焦慮藥濫用，無併發症
+197,F1312,"Sedative, hypnotic or anxiolytic abuse with intoxication",鎮靜劑、安眠藥或抗焦慮藥相關之成癮併伴有中毒
+198,F13120,"Sedative, hypnotic or anxiolytic abuse with intoxication, uncomplicated",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有中毒，無併發症
+199,F13121,"Sedative, hypnotic or anxiolytic abuse with intoxication delirium",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有中毒譫妄
+200,F13129,"Sedative, hypnotic or anxiolytic abuse with intoxication, unspecified",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有未分類中毒，未特定
+201,F1314,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced mood disorder",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之情感疾患
+202,F1315,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder",鎮靜劑、安眠藥或抗焦慮藥相關之成癮伴有鎮靜劑、安眠藥或抗焦慮藥導致之精神疾患
+203,F13150,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之妄想型精神疾患
+204,F13151,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之幻覺型精神疾患
+205,F13159,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之未分類精神疾患，未特定
+206,F1318,"Sedative, hypnotic or anxiolytic abuse with other sedative, hypnotic or anxiolytic-induced disorders",鎮靜劑、安眠藥或抗焦慮藥相關之成癮伴有其他鎮靜劑、安眠藥或抗焦慮藥導致之疾患
+207,F13180,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced anxiety disorder",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之焦慮疾患
+208,F13181,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sexual dysfunction",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之性功能障礙
+209,F13182,"Sedative, hypnotic or anxiolytic abuse with sedative, hypnotic or anxiolytic-induced sleep disorder",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之睡眠疾患
+210,F13188,"Sedative, hypnotic or anxiolytic abuse with other sedative, hypnotic or anxiolytic-induced disorder",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之其他疾患
+211,F1319,"Sedative, hypnotic or anxiolytic abuse with unspecified sedative, hypnotic or anxiolytic-induced disorder",鎮靜劑、安眠藥或抗焦慮藥濫用，伴有鎮靜劑、安眠藥或抗焦慮藥導致之未特定疾患
+212,F132,"Sedative, hypnotic or anxiolytic-related dependence",鎮靜劑、安眠藥或抗焦慮藥相關成癮
+213,F1320,"Sedative, hypnotic or anxiolytic dependence, uncomplicated",鎮靜劑、安眠藥或抗焦慮藥依賴，無併發症
+214,F1321,"Sedative, hypnotic or anxiolytic dependence, in remission",鎮靜劑、安眠藥或抗焦慮藥依賴，緩解中
+215,F1322,"Sedative, hypnotic or anxiolytic dependence with intoxication",鎮靜劑、安眠藥或抗焦慮藥相關成癮併伴有中毒
+216,F13220,"Sedative, hypnotic or anxiolytic dependence with intoxication, uncomplicated",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有中毒，無併發症
+217,F13221,"Sedative, hypnotic or anxiolytic dependence with intoxication delirium",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有中毒譫妄
+218,F13229,"Sedative, hypnotic or anxiolytic dependence with intoxication, unspecified",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有未分類中毒，未特定
+219,F1323,"Sedative, hypnotic or anxiolytic dependence with withdrawal",鎮靜劑、安眠藥或抗焦慮藥相關成癮併伴有戒斷
+220,F13230,"Sedative, hypnotic or anxiolytic dependence with withdrawal, uncomplicated",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有戒斷，無併發症
+221,F13231,"Sedative, hypnotic or anxiolytic dependence with withdrawal delirium",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有戒斷譫妄
+222,F13232,"Sedative, hypnotic or anxiolytic dependence with withdrawal with perceptual disturbance",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有知覺障礙戒斷
+223,F13239,"Sedative, hypnotic or anxiolytic dependence with withdrawal, unspecified",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有未分類戒斷，未特定
+224,F1324,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced mood disorder",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之情感疾患
+225,F1325,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder",鎮靜劑、安眠藥或抗焦慮藥相關成癮伴有其他鎮靜劑、安眠藥或抗焦慮藥導致之精神疾患
+226,F13250,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之妄想型精神疾患
+227,F13251,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之幻覺型精神疾患
+228,F13259,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之未分類精神疾患，未特定
+229,F1326,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之持續失憶疾患
+230,F1327,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced persisting dementia",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之持續失智症
+231,F1328,"Sedative, hypnotic or anxiolytic dependence with other sedative, hypnotic or anxiolytic-induced disorders",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有其他鎮靜劑、安眠藥或抗焦慮藥導致之疾患
+232,F13280,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced anxiety disorder",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之焦慮疾患
+233,F13281,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sexual dysfunction",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之性功能障礙
+234,F13282,"Sedative, hypnotic or anxiolytic dependence with sedative, hypnotic or anxiolytic-induced sleep disorder",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之睡眠疾患
+235,F13288,"Sedative, hypnotic or anxiolytic dependence with other sedative, hypnotic or anxiolytic-induced disorder",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之其他疾患
+236,F1329,"Sedative, hypnotic or anxiolytic dependence with unspecified sedative, hypnotic or anxiolytic-induced disorder",鎮靜劑、安眠藥或抗焦慮藥依賴，伴有鎮靜劑、安眠藥或抗焦慮藥導致之未特定疾患
+237,F139,"Sedative, hypnotic or anxiolytic-related use, unspecified",鎮靜劑、安眠藥或抗焦慮藥使用，未特定
+238,F1390,"Sedative, hypnotic, or anxiolytic use, unspecified, uncomplicated",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，無併發症
+239,F1392,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有伴有中毒
+240,F13920,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, uncomplicated",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有中毒，無併發症
+241,F13921,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication delirium",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有中毒譫妄
+242,F13929,"Sedative, hypnotic or anxiolytic use, unspecified with intoxication, unspecified",鎮靜劑、安眠藥或抗焦慮藥使用，未分類，伴有未分類中毒，未特定
+243,F1393,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有戒斷
+244,F13930,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal, uncomplicated",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有戒斷，無併發症
+245,F13931,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal delirium",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有戒斷譫妄
+246,F13932,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal with perceptual disturbances",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有知覺障礙戒斷
+247,F13939,"Sedative, hypnotic or anxiolytic use, unspecified with withdrawal, unspecified",鎮靜劑、安眠藥或抗焦慮藥使用，未分類，伴有未分類戒斷，未特定
+248,F1394,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced mood disorder",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之情感疾患
+249,F1395,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之精神疾患
+250,F13950,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with delusions",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之妄想型精神疾患
+251,F13951,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder with hallucinations",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之幻覺型精神疾患
+252,F13959,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced psychotic disorder, unspecified",鎮靜劑、安眠藥或抗焦慮藥使用，未分類，伴有鎮靜劑、安眠藥或抗焦慮藥導致之未分類精神疾患，未特定
+253,F1396,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting amnestic disorder",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之持續失憶疾患
+254,F1397,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced persisting dementia",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之持續失智症
+255,F1398,"Sedative, hypnotic or anxiolytic use, unspecified with other sedative, hypnotic or anxiolytic-induced disorders",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有其他鎮靜劑、安眠藥或抗焦慮藥導致之疾患
+256,F13980,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced anxiety disorder",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之焦慮疾患
+257,F13981,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sexual dysfunction",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之性功能障礙
+258,F13982,"Sedative, hypnotic or anxiolytic use, unspecified with sedative, hypnotic or anxiolytic-induced sleep disorder",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之睡眠疾患
+259,F13988,"Sedative, hypnotic or anxiolytic use, unspecified with other sedative, hypnotic or anxiolytic-induced disorder",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之其他疾患
+260,F1399,"Sedative, hypnotic or anxiolytic use, unspecified with unspecified sedative, hypnotic or anxiolytic-induced disorder",鎮靜劑、安眠藥或抗焦慮藥使用，未特定，伴有鎮靜劑、安眠藥或抗焦慮藥導致之未特定疾患
+261,F14,Cocaine related disorders,古柯鹼濫用相關之疾患
+262,F141,Cocaine abuse,古柯鹼濫用
+263,F1410,"Cocaine abuse, uncomplicated",古柯鹼濫用，無併發症
+264,F1412,Cocaine abuse with intoxication,古柯鹼濫用，伴有中毒
+265,F14120,"Cocaine abuse with intoxication, uncomplicated",古柯鹼濫用，伴有中毒，無併發症
+266,F14121,Cocaine abuse with intoxication with delirium,古柯鹼濫用，伴有中毒譫妄
+267,F14122,Cocaine abuse with intoxication with perceptual disturbance,古柯鹼濫用，伴有知覺障礙中毒
+268,F14129,"Cocaine abuse with intoxication, unspecified",古柯鹼濫用，伴有未分類中毒，未特定
+269,F1414,Cocaine abuse with cocaine-induced mood disorder,古柯鹼濫用，伴有古柯鹼導致之情感疾患
+270,F1415,Cocaine abuse with cocaine-induced psychotic disorder,古柯鹼濫用，伴有古柯鹼導致之精神疾患
+271,F14150,Cocaine abuse with cocaine-induced psychotic disorder with delusions,古柯鹼濫用，伴有古柯鹼導致之妄想型精神疾患
+272,F14151,Cocaine abuse with cocaine-induced psychotic disorder with hallucinations,古柯鹼濫用，伴有古柯鹼導致之幻覺型精神疾患
+273,F14159,"Cocaine abuse with cocaine-induced psychotic disorder, unspecified",古柯鹼濫用，伴有古柯鹼導致之未分類精神疾患，未特定
+274,F1418,Cocaine abuse with other cocaine-induced disorder,古柯鹼濫用，伴有古柯鹼導致之其他疾患
+275,F14180,Cocaine abuse with cocaine-induced anxiety disorder,古柯鹼濫用，伴有古柯鹼導致之焦慮疾患
+276,F14181,Cocaine abuse with cocaine-induced sexual dysfunction,古柯鹼濫用，伴有古柯鹼導致之性功能障礙
+277,F14182,Cocaine abuse with cocaine-induced sleep disorder,古柯鹼濫用，伴有古柯鹼導致之睡眠疾患
+278,F14188,Cocaine abuse with other cocaine-induced disorder,古柯鹼濫用，伴有古柯鹼導致之其他疾患
+279,F1419,Cocaine abuse with unspecified cocaine-induced disorder,古柯鹼濫用，伴有古柯鹼導致之未特定疾患
+280,F142,Cocaine dependence,古柯鹼依賴
+281,F1420,"Cocaine dependence, uncomplicated",古柯鹼依賴，無併發症
+282,F1421,"Cocaine dependence, in remission",古柯鹼依賴，緩解中
+283,F1422,Cocaine dependence with intoxication,古柯鹼依賴，伴有中毒
+284,F14220,"Cocaine dependence with intoxication, uncomplicated",古柯鹼依賴，伴有中毒，無併發症
+285,F14221,Cocaine dependence with intoxication delirium,古柯鹼依賴，伴有中毒譫妄
+286,F14222,Cocaine dependence with intoxication with perceptual disturbance,古柯鹼依賴，伴有知覺障礙中毒
+287,F14229,"Cocaine dependence with intoxication, unspecified",古柯鹼依賴，伴有未分類中毒，未特定
+288,F1423,Cocaine dependence with withdrawal,古柯鹼依賴，伴有戒斷
+289,F1424,Cocaine dependence with cocaine-induced mood disorder,古柯鹼依賴，伴有古柯鹼導致之情感疾患
+290,F1425,Cocaine dependence with cocaine-induced psychotic disorder,古柯鹼依賴，伴有古柯鹼導致之精神疾患
+291,F14250,Cocaine dependence with cocaine-induced psychotic disorder with delusions,古柯鹼依賴，伴有古柯鹼導致之妄想型精神疾患
+292,F14251,Cocaine dependence with cocaine-induced psychotic disorder with hallucinations,古柯鹼依賴，伴有古柯鹼導致之幻覺型精神疾患
+293,F14259,"Cocaine dependence with cocaine-induced psychotic disorder, unspecified",古柯鹼依賴，伴有古柯鹼導致之未分類精神疾患，未特定
+294,F1428,Cocaine dependence with other cocaine-induced disorder,古柯鹼依賴，伴有古柯鹼導致之疾患
+295,F14280,Cocaine dependence with cocaine-induced anxiety disorder,古柯鹼依賴，伴有古柯鹼導致之焦慮疾患
+296,F14281,Cocaine dependence with cocaine-induced sexual dysfunction,古柯鹼依賴，伴有古柯鹼導致之性功能障礙
+297,F14282,Cocaine dependence with cocaine-induced sleep disorder,古柯鹼依賴，伴有古柯鹼導致之睡眠疾患
+298,F14288,Cocaine dependence with other cocaine-induced disorder,古柯鹼依賴，伴有古柯鹼導致之其他疾患
+299,F1429,Cocaine dependence with unspecified cocaine-induced disorder,古柯鹼依賴，伴有古柯鹼導致之未特定疾患
+300,F149,"Cocaine use, unspecified",古柯鹼使用，未特定
+301,F1490,"Cocaine use, unspecified, uncomplicated",古柯鹼使用，未特定，無併發症
+302,F1492,"Cocaine use, unspecified with intoxication",古柯鹼使用，未特定，伴有未特定中毒
+303,F14920,"Cocaine use, unspecified with intoxication, uncomplicated",古柯鹼使用，未特定，伴有中毒，無併發症
+304,F14921,"Cocaine use, unspecified with intoxication delirium",古柯鹼使用，未特定，伴有中毒譫妄
+305,F14922,"Cocaine use, unspecified with intoxication with perceptual disturbance",古柯鹼使用，未特定，伴有知覺障礙中毒
+306,F14929,"Cocaine use, unspecified with intoxication, unspecified",古柯鹼使用，未分類，伴有未分類中毒，未特定
+307,F1494,"Cocaine use, unspecified with cocaine-induced mood disorder",古柯鹼使用，未特定，伴有古柯鹼導致之情感疾患
+308,F1495,"Cocaine use, unspecified with cocaine-induced psychotic disorder",古柯鹼使用，未特定，伴有古柯鹼導致之精神疾患
+309,F14950,"Cocaine use, unspecified with cocaine-induced psychotic disorder with delusions",古柯鹼使用，未特定，伴有古柯鹼導致之妄想型精神疾患
+310,F14951,"Cocaine use, unspecified with cocaine-induced psychotic disorder with hallucinations",古柯鹼使用，未特定，伴有古柯鹼導致之幻覺型精神疾患
+311,F14959,"Cocaine use, unspecified with cocaine-induced psychotic disorder, unspecified",古柯鹼使用，未分類，伴有古柯鹼導致之未分類精神疾患，未特定
+312,F1498,"Cocaine use, unspecified with other specified cocaine-induced disorder",古柯鹼使用，未特定，伴有古柯鹼導致之其他疾患
+313,F14980,"Cocaine use, unspecified with cocaine-induced anxiety disorder",古柯鹼使用，未特定，伴有古柯鹼導致之焦慮疾患
+314,F14981,"Cocaine use, unspecified with cocaine-induced sexual dysfunction",古柯鹼使用，未特定，伴有古柯鹼導致之性功能障礙
+315,F14982,"Cocaine use, unspecified with cocaine-induced sleep disorder",古柯鹼使用，未特定，伴有古柯鹼導致之睡眠疾患
+316,F14988,"Cocaine use, unspecified with other cocaine-induced disorder",古柯鹼使用，未特定，伴有古柯鹼導致之其他疾患
+317,F1499,"Cocaine use, unspecified with unspecified cocaine-induced disorder",古柯鹼使用，未特定，伴有古柯鹼導致之未特定疾患
+318,F15,Other stimulant related disorders,其他興奮劑相關疾患
+319,F151,Other stimulant abuse,其他興奮劑濫用
+320,F1510,"Other stimulant abuse, uncomplicated",其他興奮劑濫用，無併發症
+321,F1512,Other stimulant abuse with intoxication,其他興奮劑濫用，伴有中毒
+322,F15120,"Other stimulant abuse with intoxication, uncomplicated",其他興奮劑濫用，伴有中毒，無併發症
+323,F15121,Other stimulant abuse with intoxication delirium,其他興奮劑濫用，伴有中毒譫妄
+324,F15122,Other stimulant abuse with intoxication with perceptual disturbance,其他興奮劑濫用，伴有知覺障礙中毒
+325,F15129,"Other stimulant abuse with intoxication, unspecified",其他興奮劑濫用，伴有未分類中毒，未特定
+326,F1514,Other stimulant abuse with stimulant-induced mood disorder,其他興奮劑濫用，伴有其他興奮劑導致之情感疾患
+327,F1515,Other stimulant abuse with stimulant-induced psychotic disorder,其他興奮劑濫用，伴有其他興奮劑導致之精神疾患
+328,F15150,Other stimulant abuse with stimulant-induced psychotic disorder with delusions,其他興奮劑濫用，伴有其他興奮劑導致之妄想型精神疾患
+329,F15151,Other stimulant abuse with stimulant-induced psychotic disorder with hallucinations,其他興奮劑濫用，伴有其他興奮劑導致之幻覺型精神疾患
+330,F15159,"Other stimulant abuse with stimulant-induced psychotic disorder, unspecified",其他興奮劑濫用，伴有其他興奮劑導致之未分類精神疾患，未特定
+331,F1518,Other stimulant abuse with other stimulant-induced disorder,其他興奮劑濫用，伴有其他興奮劑導致之疾患
+332,F15180,Other stimulant abuse with stimulant-induced anxiety disorder,其他興奮劑濫用，伴有其他興奮劑導致之焦慮疾患
+333,F15181,Other stimulant abuse with stimulant-induced sexual dysfunction,其他興奮劑濫用，伴有其他興奮劑導致之性功能障礙
+334,F15182,Other stimulant abuse with stimulant-induced sleep disorder,其他興奮劑濫用，伴有其他興奮劑導致之睡眠疾患
+335,F15188,Other stimulant abuse with other stimulant-induced disorder,其他興奮劑濫用，伴有其他興奮劑導致之其他疾患
+336,F1519,Other stimulant abuse with unspecified stimulant-induced disorder,其他興奮劑濫用，伴有其他興奮劑導致之未特定疾患
+337,F152,Other stimulant dependence,其他興奮劑依賴
+338,F1520,"Other stimulant dependence, uncomplicated",其他興奮劑依賴，無併發症
+339,F1521,"Other stimulant dependence, in remission",其他興奮劑依賴，緩解中
+340,F1522,Other stimulant dependence with intoxication,其他興奮劑依賴，伴有中毒
+341,F15220,"Other stimulant dependence with intoxication, uncomplicated",其他興奮劑依賴，伴有中毒，無併發症
+342,F15221,Other stimulant dependence with intoxication delirium,其他興奮劑依賴，伴有中毒譫妄
+343,F15222,Other stimulant dependence with intoxication with perceptual disturbance,其他興奮劑依賴，伴有知覺障礙中毒
+344,F15229,"Other stimulant dependence with intoxication, unspecified",其他興奮劑依賴，伴有未分類中毒，未特定
+345,F1523,Other stimulant dependence with withdrawal,其他興奮劑依賴，伴有戒斷
+346,F1524,Other stimulant dependence with stimulant-induced mood disorder,其他興奮劑依賴，伴有其他興奮劑導致之情感疾患
+347,F1525,Other stimulant dependence with stimulant-induced psychotic disorder,其他興奮劑依賴，伴有其他興奮劑導致之精神疾患
+348,F15250,Other stimulant dependence with stimulant-induced psychotic disorder with delusions,其他興奮劑依賴，伴有其他興奮劑導致之妄想型精神疾患
+349,F15251,Other stimulant dependence with stimulant-induced psychotic disorder with hallucinations,其他興奮劑依賴，伴有其他興奮劑導致之幻覺型精神疾患
+350,F15259,"Other stimulant dependence with stimulant-induced psychotic disorder, unspecified",其他興奮劑依賴，伴有其他興奮劑導致之未分類精神疾患，未特定
+351,F1528,Other stimulant dependence with other stimulant-induced disorder,其他興奮劑依賴，伴有其他興奮劑導致之疾患
+352,F15280,Other stimulant dependence with stimulant-induced anxiety disorder,其他興奮劑依賴，伴有其他興奮劑導致之焦慮疾患
+353,F15281,Other stimulant dependence with stimulant-induced sexual dysfunction,其他興奮劑依賴，伴有其他興奮劑導致之性功能障礙
+354,F15282,Other stimulant dependence with stimulant-induced sleep disorder,其他興奮劑依賴，伴有其他興奮劑導致之睡眠疾患
+355,F15288,Other stimulant dependence with other stimulant-induced disorder,其他興奮劑依賴，伴有其他興奮劑導致之其他疾患
+356,F1529,Other stimulant dependence with unspecified stimulant-induced disorder,其他興奮劑依賴，伴有其他興奮劑導致之未特定疾患
+357,F159,"Other stimulant use, unspecified",其他興奮劑使用，未特定
+358,F1590,"Other stimulant use, unspecified, uncomplicated",其他興奮劑使用，未特定，無併發症
+359,F1592,"Other stimulant use, unspecified with intoxicatio",其他興奮劑使用，未特定，伴有中毒
+360,F15920,"Other stimulant use, unspecified with intoxication, uncomplicated",其他興奮劑使用，未特定，伴有中毒，無併發症
+361,F15921,"Other stimulant use, unspecified with intoxication delirium",其他興奮劑使用，未特定，伴有中毒譫妄
+362,F15922,"Other stimulant use, unspecified with intoxication with perceptual disturbance",其他興奮劑使用，未特定，伴有知覺障礙中毒
+363,F15929,"Other stimulant use, unspecified with intoxication, unspecified",其他興奮劑使用，未分類，伴有未分類中毒，未特定
+364,F1593,"Other stimulant use, unspecified with withdrawal",其他興奮劑使用，未特定，伴有戒斷
+365,F1594,"Other stimulant use, unspecified with stimulant-induced mood disorder",其他興奮劑使用，未特定，伴有興奮劑導致之情感疾患
+366,F1595,"Other stimulant use, unspecified with stimulant-induced psychotic disorder",其他興奮劑使用，未特定，伴有興奮劑導致之精神疾患
+367,F15950,"Other stimulant use, unspecified with stimulant-induced psychotic disorder with delusions",其他興奮劑使用，未特定，伴有興奮劑導致之妄想型精神疾患
+368,F15951,"Other stimulant use, unspecified with stimulant-induced psychotic disorder with hallucinations",其他興奮劑使用，未特定，伴有興奮劑導致之幻覺型精神疾患
+369,F15959,"Other stimulant use, unspecified with stimulant-induced psychotic disorder, unspecified",其他興奮劑使用，未分類，伴有興奮劑導致之未分類精神疾患，未特定
+370,F1598,"Other stimulant use, unspecified with other stimulant-induced disorder",其他興奮劑使用，未特定，伴有其他興奮劑導致之疾患
+371,F15980,"Other stimulant use, unspecified with stimulant-induced anxiety disorder",其他興奮劑使用，未特定，伴有興奮劑導致之焦慮疾患
+372,F15981,"Other stimulant use, unspecified with stimulant-induced sexual dysfunction",其他興奮劑使用，未特定，伴有興奮劑導致之性功能障礙
+373,F15982,"Other stimulant use, unspecified with stimulant-induced sleep disorder",其他興奮劑使用，未特定，伴有興奮劑導致之睡眠疾患
+374,F15988,"Other stimulant use, unspecified with other stimulant-induced disorder",其他興奮劑使用，未特定，伴有興奮劑導致之其他疾患
+375,F1599,"Other stimulant use, unspecified with unspecified stimulant-induced disorder",其他興奮劑使用，未特定，伴有興奮劑導致之未特定疾患
+376,F16,Hallucinogen related disorders,幻覺劑濫用相關之疾患
+377,F161,Hallucinogen abuse,幻覺劑濫用
+378,F1610,"Hallucinogen abuse, uncomplicated",幻覺劑濫用，無併發症
+379,F1612,Hallucinogen abuse with intoxication,幻覺劑濫用，伴有中毒
+380,F16120,"Hallucinogen abuse with intoxication, uncomplicated",幻覺劑濫用，伴有中毒，無併發症
+381,F16121,Hallucinogen abuse with intoxication with delirium,幻覺劑濫用，伴有中毒譫妄
+382,F16122,Hallucinogen abuse with intoxication with perceptual disturbance,幻覺劑濫用，伴有知覺障礙中毒
+383,F16129,"Hallucinogen abuse with intoxication, unspecified",幻覺劑濫用，伴有未分類中毒，未特定
+384,F1614,Hallucinogen abuse with hallucinogen-induced mood disorder,幻覺劑濫用，伴有幻覺劑導致之情感疾患
+385,F1615,Hallucinogen abuse with hallucinogen-induced psychotic disorder,幻覺劑濫用，伴有幻覺劑導致之精神疾患
+386,F16150,Hallucinogen abuse with hallucinogen-induced psychotic disorder with delusions,幻覺劑濫用，伴有幻覺劑導致之妄想型精神疾患
+387,F16151,Hallucinogen abuse with hallucinogen-induced psychotic disorder with hallucinations,幻覺劑濫用，伴有幻覺劑導致之幻覺型精神疾患
+388,F16159,"Hallucinogen abuse with hallucinogen-induced psychotic disorder, unspecified",幻覺劑濫用，伴有幻覺劑導致之未分類精神疾患，未特定
+389,F1618,Hallucinogen abuse with other hallucinogen-induced disorder,幻覺劑濫用，伴有幻覺劑導致之其他疾患
+390,F16180,Hallucinogen abuse with hallucinogen-induced anxiety disorder,幻覺劑濫用，伴有幻覺劑導致之焦慮疾患
+391,F16183,Hallucinogen abuse with hallucinogen persisting perception disorder (flashbacks),幻覺劑濫用，伴有幻覺劑引發持續知覺疾患(瞬間經驗再現)
+392,F16188,Hallucinogen abuse with other hallucinogen-induced disorder,幻覺劑濫用，伴有幻覺劑導致之其他疾患
+393,F1619,Hallucinogen abuse with unspecified hallucinogen-induced disorder,幻覺劑濫用，伴有幻覺劑導致之未特定疾患
+394,F162,Hallucinogen dependence,幻覺劑依賴
+395,F1620,"Hallucinogen dependence, uncomplicated",幻覺劑依賴，無併發症
+396,F1621,"Hallucinogen dependence, in remission",幻覺劑依賴，緩解中
+397,F1622,Hallucinogen dependence with intoxication,幻覺劑依賴，伴有中毒
+398,F16220,"Hallucinogen dependence with intoxication, uncomplicated",幻覺劑依賴，伴有中毒，無併發症
+399,F16221,Hallucinogen dependence with intoxication with delirium,幻覺劑依賴，伴有中毒譫妄
+400,F16229,"Hallucinogen dependence with intoxication, unspecified",幻覺劑依賴，伴有未分類中毒，未特定
+401,F1624,Hallucinogen dependence with hallucinogen-induced mood disorder,幻覺劑依賴，伴有幻覺劑導致之情感疾患
+402,F1625,Hallucinogen dependence with hallucinogen-induced psychotic disorder,幻覺劑依賴，伴有幻覺劑導致之精神疾患
+403,F16250,Hallucinogen dependence with hallucinogen-induced psychotic disorder with delusions,幻覺劑依賴，伴有幻覺劑導致之妄想型精神疾患
+404,F16251,Hallucinogen dependence with hallucinogen-induced psychotic disorder with hallucinations,幻覺劑依賴，伴有幻覺劑導致之幻覺型精神疾患
+405,F16259,"Hallucinogen dependence with hallucinogen-induced psychotic disorder, unspecified",幻覺劑依賴，伴有幻覺劑導致之未分類精神疾患，未特定
+406,F1628,Hallucinogen dependence with other hallucinogen-induced disorder,幻覺劑依賴，伴有幻覺劑導致之其他疾患
+407,F16280,Hallucinogen dependence with hallucinogen-induced anxiety disorder,幻覺劑依賴，伴有幻覺劑導致之焦慮疾患
+408,F16283,Hallucinogen dependence with hallucinogen persisting perception disorder (flashbacks),幻覺劑依賴，伴有幻覺劑引發持續知覺疾患(瞬間經驗再現)
+409,F16288,Hallucinogen dependence with other hallucinogen-induced disorder,幻覺劑依賴，伴有幻覺劑導致之其他疾患
+410,F1629,Hallucinogen dependence with unspecified hallucinogen-induced disorder,幻覺劑依賴，伴有幻覺劑導致之未特定疾患
+411,F169,"Hallucinogen use, unspecified",幻覺劑使用，未特定
+412,F1690,"Hallucinogen use, unspecified, uncomplicated",幻覺劑使用，未特定，無併發症
+413,F1692,"Hallucinogen use, unspecified with intoxication",幻覺劑使用，未特定，伴有中毒
+414,F16920,"Hallucinogen use, unspecified with intoxication, uncomplicated",幻覺劑使用，未特定，伴有中毒，無併發症
+415,F16921,"Hallucinogen use, unspecified with intoxication with delirium",幻覺劑使用，未特定，伴有中毒譫妄
+416,F16929,"Hallucinogen use, unspecified with intoxication, unspecified",幻覺劑使用，未分類，伴有未分類中毒，未特定
+417,F1694,"Hallucinogen use, unspecified with hallucinogen-induced mood disorder",幻覺劑使用，未特定，伴有幻覺劑導致之情感疾患
+418,F1695,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder",幻覺劑使用，未特定，伴有幻覺劑導致之精神疾患
+419,F16950,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with delusions",幻覺劑使用，未特定，伴有幻覺劑導致之妄想型精神疾患
+420,F16951,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder with hallucinations",幻覺劑使用，未特定，伴有幻覺劑導致之幻覺型精神疾患
+421,F16959,"Hallucinogen use, unspecified with hallucinogen-induced psychotic disorder, unspecified",幻覺劑使用，未分類，伴有幻覺劑導致之未分類精神疾患，未特定
+422,F1698,"Hallucinogen use, unspecified with other specified hallucinogen-induced disorder",幻覺劑使用，未特定，伴有幻覺劑導致之其他疾患
+423,F16980,"Hallucinogen use, unspecified with hallucinogen-induced anxiety disorder",幻覺劑使用，未特定，伴有幻覺劑導致之焦慮疾患
+424,F16983,"Hallucinogen use, unspecified with hallucinogen persisting perception disorder (flashbacks)",幻覺劑使用，未特定，伴有幻覺劑引發持續知覺疾患(瞬間經驗再現)
+425,F16988,"Hallucinogen use, unspecified with other hallucinogen-induced disorder",幻覺劑使用，未特定，伴有幻覺劑導致之其他疾患
+426,F1699,"Hallucinogen use, unspecified with unspecified hallucinogen-induced disorder",幻覺劑使用，未特定，伴有幻覺劑導致之未特定疾患
+427,F17,Nicotine dependence,尼古丁依賴
+428,F172,Nicotine dependence,尼古丁依賴
+429,F1720,"Nicotine dependence, unspecified",尼古丁依賴，未特定
+430,F17200,"Nicotine dependence, unspecified, uncomplicated",尼古丁依賴，未特定，無併發症
+431,F17201,"Nicotine dependence, unspecified, in remission",尼古丁依賴，未特定，緩解中
+432,F17203,"Nicotine dependence unspecified, with withdrawal",尼古丁依賴，未特定，伴有戒斷
+433,F17208,"Nicotine dependence, unspecified, with other nicotine-induced disorders",尼古丁依賴，未特定，伴有尼古丁導致之其他疾患
+434,F17209,"Nicotine dependence, unspecified, with unspecified nicotine-induced disorders",尼古丁依賴，未特定，伴有尼古丁導致之未特定疾患
+435,F1721,"Nicotine dependence, cigarettes",尼古丁依賴，香菸
+436,F17210,"Nicotine dependence, cigarettes, uncomplicated",尼古丁依賴，香菸，無併發症
+437,F17211,"Nicotine dependence, cigarettes, in remission",尼古丁依賴，香菸，緩解中
+438,F17213,"Nicotine dependence, cigarettes, with withdrawal",尼古丁依賴，香菸，伴有戒斷
+439,F17218,"Nicotine dependence, cigarettes, with other nicotine-induced disorders",尼古丁依賴，香菸，伴有尼古丁導致之其他疾患
+440,F17219,"Nicotine dependence, cigarettes, with unspecified nicotine-induced disorders",尼古丁依賴，香菸，伴有尼古丁導致之未特定疾患
+441,F1722,"Nicotine dependence, chewing tobacco",尼古丁依賴，菸草
+442,F17220,"Nicotine dependence, chewing tobacco, uncomplicated",尼古丁依賴，菸草，無併發症
+443,F17221,"Nicotine dependence, chewing tobacco, in remission",尼古丁依賴，菸草，緩解中
+444,F17223,"Nicotine dependence, chewing tobacco, with withdrawal",尼古丁依賴，菸草，伴有戒斷
+445,F17228,"Nicotine dependence, chewing tobacco, with other nicotine-induced disorders",尼古丁依賴，菸草，伴有尼古丁導致之其他疾患
+446,F17229,"Nicotine dependence, chewing tobacco, with unspecified nicotine-induced disorders",尼古丁依賴，菸草，伴有尼古丁導致之未特定疾患
+447,F1729,"Nicotine dependence, other tobacco product",尼古丁依賴，其他菸草製品
+448,F17290,"Nicotine dependence, other tobacco product, uncomplicated",尼古丁依賴，其他菸草製品，無併發症
+449,F17291,"Nicotine dependence, other tobacco product, in remission",尼古丁依賴，其他菸草製品，緩解中
+450,F17293,"Nicotine dependence, other tobacco product, with withdrawal",尼古丁依賴，其他菸草製品，伴有戒斷
+451,F17298,"Nicotine dependence, other tobacco product, with other nicotine-induced disorders",尼古丁依賴，其他菸草製品，伴有尼古丁導致之其他疾患
+452,F17299,"Nicotine dependence, other tobacco product, with unspecified nicotine-induced disorders",尼古丁依賴，其他菸草製品，伴有尼古丁導致之未特定疾患
+453,F18,Inhalant related disorders,吸入劑相關疾患
+454,F181,Inhalant abuse,吸入劑濫用
+455,F1810,"Inhalant abuse, uncomplicated",吸入劑濫用，無併發症
+456,F1812,Inhalant abuse with intoxication,吸入劑濫用，伴有中毒
+457,F18120,"Inhalant abuse with intoxication, uncomplicated",吸入劑濫用，伴有中毒，無併發症
+458,F18121,Inhalant abuse with intoxication delirium,吸入劑濫用，伴有中毒譫妄
+459,F18129,"Inhalant abuse with intoxication, unspecified",吸入劑濫用，伴有未分類中毒，未特定
+460,F1814,Inhalant abuse with inhalant-induced mood disorder,吸入劑濫用，伴有吸入劑導致之情感疾患
+461,F1815,Inhalant abuse with inhalant-induced psychotic disorder,吸入劑濫用，伴有吸入劑導致之精神疾患
+462,F18150,Inhalant abuse with inhalant-induced psychotic disorder with delusions,吸入劑濫用，伴有吸入劑導致之妄想型精神疾患
+463,F18151,Inhalant abuse with inhalant-induced psychotic disorder with hallucinations,吸入劑濫用，伴有吸入劑導致之幻覺型精神疾患
+464,F18159,"Inhalant abuse with inhalant-induced psychotic disorder, unspecified",吸入劑濫用，伴有吸入劑導致之未分類精神疾患，未特定
+465,F1817,Inhalant abuse with inhalant-induced dementia,吸入劑濫用，伴有吸入劑導致之失智症
+466,F1818,Inhalant abuse with other-induced induced disorders,吸入劑濫用，伴有吸入劑導致之其他疾患
+467,F18180,Inhalant abuse with inhalant-induced anxiety disorder,吸入劑濫用，伴有吸入劑導致之焦慮疾患
+468,F18188,Inhalant abuse with other inhalant-induced disorder,吸入劑濫用，伴有吸入劑導致之其他疾患
+469,F1819,Inhalant abuse with unspecified inhalant-induced disorder,吸入劑濫用，伴有吸入劑導致之未特定疾患
+470,F182,Inhalant dependence,吸入劑依賴
+471,F1820,"Inhalant dependence, uncomplicated",吸入劑依賴，無併發症
+472,F1821,"Inhalant dependence, in remission",吸入劑依賴，緩解中
+473,F1822,Inhalant dependence with intoxication,吸入劑依賴，伴有中毒
+474,F18220,"Inhalant dependence with intoxication, uncomplicated",吸入劑依賴，伴有中毒，無併發症
+475,F18221,Inhalant dependence with intoxication delirium,吸入劑依賴，伴有中毒譫妄
+476,F18229,"Inhalant dependence with intoxication, unspecified",吸入劑依賴，伴有未分類中毒，未特定
+477,F1824,Inhalant dependence with inhalant-induced mood disorder,吸入劑依賴，伴有吸入劑導致之情感疾患
+478,F1825,Inhalant dependence with inhalant-induced psychotic disorder,吸入劑依賴，伴有吸入劑導致之精神疾患
+479,F18250,Inhalant dependence with inhalant-induced psychotic disorder with delusions,吸入劑依賴，伴有吸入劑導致之妄想型精神疾患
+480,F18251,Inhalant dependence with inhalant-induced psychotic disorder with hallucinations,吸入劑依賴，伴有吸入劑導致之幻覺型精神疾患
+481,F18259,"Inhalant dependence with inhalant-induced psychotic disorder, unspecified",吸入劑依賴，伴有吸入劑導致之未分類精神疾患，未特定
+482,F1827,Inhalant dependence with inhalant-induced dementia,吸入劑依賴，伴有吸入劑導致之失智症
+483,F1828,Inhalant dependence with inhalant-induced disorders,吸入劑依賴，伴有吸入劑導致之疾患
+484,F18280,Inhalant dependence with inhalant-induced anxiety disorder,吸入劑依賴，伴有吸入劑導致之焦慮疾患
+485,F18288,Inhalant dependence with other inhalant-induced disorder,吸入劑依賴，伴有吸入劑導致之其他疾患
+486,F1829,Inhalant dependence with unspecified inhalant-induced disorder,吸入劑依賴，伴有吸入劑導致之未特定疾患
+487,F189,"Inhalant use, unspecified",吸入劑使用，未特定
+488,F1890,"Inhalant use, unspecified, uncomplicated",吸入劑使用，未特定，無併發症
+489,F1892,"Inhalant use, unspecified with intoxication",吸入劑使用，未特定，伴有中毒
+490,F18920,"Inhalant use, unspecified with intoxication, uncomplicated",吸入劑使用，未特定，伴有中毒，無併發症
+491,F18921,"Inhalant use, unspecified with intoxication with delirium",吸入劑使用，未特定，伴有中毒譫妄
+492,F18929,"Inhalant use, unspecified with intoxication, unspecified",吸入劑使用，未分類，伴有未分類中毒，未特定
+493,F1894,"Inhalant use, unspecified with inhalant-induced mood disorder",吸入劑使用，未特定，伴有吸入劑導致之情感疾患
+494,F1895,"Inhalant use, unspecified with inhalant-induced psychotic disorder",吸入劑使用，未特定，伴有吸入劑導致之精神疾患
+495,F18950,"Inhalant use, unspecified with inhalant-induced psychotic disorder with delusions",吸入劑使用，未特定，伴有吸入劑導致之妄想型精神疾患
+496,F18951,"Inhalant use, unspecified with inhalant-induced psychotic disorder with hallucinations",吸入劑使用，未特定，伴有吸入劑導致之幻覺型精神疾患
+497,F18959,"Inhalant use, unspecified with inhalant-induced psychotic disorder, unspecified",吸入劑使用，未分類，伴有吸入劑導致之未分類精神疾患，未特定
+498,F1897,"Inhalant use, unspecified with inhalant-induced persisting dementia",吸入劑使用，未特定，伴有吸入劑導致之持續失智症
+499,F1898,"Inhalant use, unspecified with other inhalant-induced disorder",吸入劑使用，未特定，伴有吸入劑導致之其他疾患
+500,F18980,"Inhalant use, unspecified with inhalant-induced anxiety disorder",吸入劑使用，未特定，伴有吸入劑導致之焦慮疾患
+501,F18988,"Inhalant use, unspecified with other inhalant-induced disorder",吸入劑使用，未特定，伴有吸入劑導致之其他疾患
+502,F1899,"Inhalant use, unspecified with unspecified inhalant-induced disorder",吸入劑使用，未特定，伴有吸入劑導致之未特定疾患
+503,F19,Other psychoactive substance related disorders,其他精神作用物質濫用之相關疾患
+504,F191,Other psychoactive substance abuse,其他精神作用物質濫用
+505,F1910,"Other psychoactive substance abuse, uncomplicated",其他精神作用物質濫用，無併發症
+506,F1912,Other psychoactive substance abuse with intoxication,其他精神作用物質濫用，伴有中毒
+507,F19120,"Other psychoactive substance abuse with intoxication, uncomplicated",其他精神作用物質濫用，伴有中毒，無併發症
+508,F19121,Other psychoactive substance abuse with intoxication delirium,其他精神作用物質濫用，伴有中毒譫妄
+509,F19122,Other psychoactive substance abuse with intoxication with perceptual disturbances,其他精神作用物質濫用，伴有知覺障礙中毒
+510,F19129,"Other psychoactive substance abuse with intoxication, unspecified",其他精神作用物質濫用，伴有未分類中毒，未特定
+511,F1914,Other psychoactive substance abuse with psychoactive substance-induced mood disorder,其他精神作用物質濫用，伴有其他精神作用物質導致之情感疾患
+512,F1915,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder delusions,其他精神作用物質濫用，伴有其他精神作用物質導致之精神妄想疾患
+513,F19150,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with delusions,其他精神作用物質濫用，伴有其他精神作用物質導致之妄想型精神疾患
+514,F19151,Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder with hallucinations,其他精神作用物質濫用，伴有其他精神作用物質導致之幻覺型精神疾患
+515,F19159,"Other psychoactive substance abuse with psychoactive substance-induced psychotic disorder, unspecified",其他精神作用物質濫用，伴有其他精神作用物質導致之未分類精神疾患，未特定
+516,F1916,Other psychoactive substance abuse with psychoactive substance-induced persisting amnestic disorder,其他精神作用物質濫用，伴有其他精神作用物質導致之持續失憶疾患
+517,F1917,Other psychoactive substance abuse with psychoactive substance-induced persisting dementia,其他精神作用物質濫用，伴有其他精神作用物質導致之持續失智症
+518,F1918,Other psychoactive substance abuse with psychoactive substance-induced disorder,其他精神作用物質濫用，伴有其他精神作用物質導致之疾患
+519,F19180,Other psychoactive substance abuse with psychoactive substance-induced anxiety disorder,其他精神作用物質濫用，伴有其他精神作用物質導致之焦慮疾患
+520,F19181,Other psychoactive substance abuse with psychoactive substance-induced sexual dysfunction,其他精神作用物質濫用，伴有其他精神作用物質導致之性功能障礙
+521,F19182,Other psychoactive substance abuse with psychoactive substance-induced sleep disorder,其他精神作用物質濫用，伴有其他精神作用物質導致之睡眠疾患
+522,F19188,Other psychoactive substance abuse with other psychoactive substance-induced disorder,其他精神作用物質濫用，伴有其他精神作用物質導致之其他疾患
+523,F1919,Other psychoactive substance abuse with unspecified psychoactive substance-induced disorder,其他精神作用物質濫用，伴有其他精神作用物質導致之未特定疾患
+524,F192,Other psychoactive substance dependence,其他精神作用物質依賴
+525,F1920,"Other psychoactive substance dependence, uncomplicated",其他精神作用物質依賴，無併發症
+526,F1921,"Other psychoactive substance dependence, in remission",其他精神作用物質依賴，緩解中
+527,F1922,Other psychoactive substance dependence with intoxication,其他精神作用物質依賴，伴有中毒
+528,F19220,"Other psychoactive substance dependence with intoxication, uncomplicated",其他精神作用物質依賴，伴有中毒，無併發症
+529,F19221,Other psychoactive substance dependence with intoxication delirium,其他精神作用物質依賴，伴有中毒譫妄
+530,F19222,Other psychoactive substance dependence with intoxication with perceptual disturbance,其他精神作用物質依賴，伴有知覺障礙中毒
+531,F19229,"Other psychoactive substance dependence with intoxication, unspecified",其他精神作用物質依賴，伴有未分類中毒，未特定
+532,F1923,Other psychoactive substance dependence with withdrawal,其他精神作用物質依賴，伴有戒斷
+533,F19230,"Other psychoactive substance dependence with withdrawal, uncomplicated",其他精神作用物質依賴，伴有戒斷，無併發症
+534,F19231,Other psychoactive substance dependence with withdrawal delirium,其他精神作用物質依賴，伴有戒斷譫妄
+535,F19232,Other psychoactive substance dependence with withdrawal with perceptual disturbance,其他精神作用物質依賴，伴有知覺障礙戒斷
+536,F19239,"Other psychoactive substance dependence with withdrawal, unspecified",其他精神作用物質依賴，伴有未分類戒斷，未特定
+537,F1924,Other psychoactive substance dependence with psychoactive substance-induced mood disorder,其他精神作用物質依賴，伴有精神作用物質導致之情感疾患
+538,F1925,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder,其他精神作用物質依賴，伴有精神作用物質導致之精神疾患
+539,F19250,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with delusions,其他精神作用物質依賴，伴有精神作用物質導致之妄想型精神疾患
+540,F19251,Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder with hallucinations,其他精神作用物質依賴，伴有精神作用物質導致之幻覺型精神疾患
+541,F19259,"Other psychoactive substance dependence with psychoactive substance-induced psychotic disorder, unspecified",其他精神作用物質依賴，伴有精神作用物質導致之未分類精神疾患，未特定
+542,F1926,Other psychoactive substance dependence with psychoactive substance-induced persisting amnestic disorder,其他精神作用物質依賴，伴有精神作用物質導致之持續失憶疾患
+543,F1927,Other psychoactive substance dependence with psychoactive substance-induced persisting dementia,其他精神作用物質依賴，伴有精神作用物質導致之持續失智症
+544,F1928,Other psychoactive substance dependence with psychoactive substance-induced disorders,其他精神作用物質依賴，伴有精神作用物質導致之疾患
+545,F19280,Other psychoactive substance dependence with psychoactive substance-induced anxiety disorder,其他精神作用物質依賴，伴有精神作用物質導致之焦慮疾患
+546,F19281,Other psychoactive substance dependence with psychoactive substance-induced sexual dysfunction,其他精神作用物質依賴，伴有精神作用物質導致之性功能障礙
+547,F19282,Other psychoactive substance dependence with psychoactive substance-induced sleep disorder,其他精神作用物質依賴，伴有精神作用物質導致之睡眠疾患
+548,F19288,Other psychoactive substance dependence with other psychoactive substance-induced disorder,其他精神作用物質依賴，伴有精神作用物質導致之其他疾患
+549,F1929,Other psychoactive substance dependence with unspecified psychoactive substance-induced disorder,其他精神作用物質依賴，伴有精神作用物質導致之未特定疾患
+550,F199,"Other psychoactive substance use, unspecified",其他精神作用物質使用，未特定
+551,F1990,"Other psychoactive substance use, unspecified, uncomplicated",其他精神作用物質使用，未特定，無併發症
+552,F1992,"Other psychoactive substance use, unspecified with intoxication",其他精神作用物質使用，未特定，伴有中毒
+553,F19920,"Other psychoactive substance use, unspecified with intoxication, uncomplicated",其他精神作用物質使用，未特定，伴有中毒，無併發症
+554,F19921,"Other psychoactive substance use, unspecified with intoxication with delirium",其他精神作用物質使用，未特定，伴有中毒譫妄
+555,F19922,"Other psychoactive substance use, unspecified with intoxication with perceptual disturbance",其他精神作用物質使用，未特定，伴有知覺障礙中毒
+556,F19929,"Other psychoactive substance use, unspecified with intoxication, unspecified",其他精神作用物質使用，未分類，伴有未分類中毒，未特定
+557,F1993,"Other psychoactive substance use, unspecified with withdrawal",其他精神作用物質使用，未特定，伴有戒斷
+558,F19930,"Other psychoactive substance use, unspecified with withdrawal, uncomplicated",其他精神作用物質使用，未特定，伴有戒斷，無併發症
+559,F19931,"Other psychoactive substance use, unspecified with withdrawal delirium",其他精神作用物質使用，未特定，伴有戒斷譫妄
+560,F19932,"Other psychoactive substance use, unspecified with withdrawal with perceptual disturbance",其他精神作用物質使用，未特定，伴有知覺障礙戒斷
+561,F19939,"Other psychoactive substance use, unspecified with withdrawal, unspecified",其他精神作用物質使用，未分類，伴有未分類戒斷，未特定
+562,F1994,"Other psychoactive substance use, unspecified with psychoactive substance-induced mood disorder",其他精神作用物質使用，未特定，伴有精神作用物質導致之情感疾患
+563,F1995,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder",其他精神作用物質使用，未特定，伴有精神作用物質導致之精神疾患
+564,F19950,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with delusions",其他精神作用物質使用，未特定，伴有精神作用物質導致之妄想型精神疾患
+565,F19951,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder with hallucinations",其他精神作用物質使用，未特定，伴有精神作用物質導致之幻覺型精神疾患
+566,F19959,"Other psychoactive substance use, unspecified with psychoactive substance-induced psychotic disorder, unspecified",其他精神作用物質使用，未分類，伴有精神作用物質導致之未分類精神疾患，未特定
+567,F1996,"Other psychoactive substance use, unspecified with psychoactive substance-induced persisting amnestic disorder",其他精神作用物質使用，未特定，伴有精神作用物質導致之持續失憶疾患
+568,F1997,"Other psychoactive substance use, unspecified with psychoactive substance-induced persisting dementia",其他精神作用物質使用，未特定，伴有精神作用物質導致之持續失智症
+569,F1998,"Other psychoactive substance use, unspecified with psychoactive substance-induced disorders",其他精神作用物質使用，未特定，伴有精神作用物質導致之疾患
+570,F19980,"Other psychoactive substance use, unspecified with psychoactive substance-induced anxiety disorder",其他精神作用物質使用，未特定，伴有精神作用物質導致之焦慮疾患
+571,F19981,"Other psychoactive substance use, unspecified with psychoactive substance-induced sexual dysfunction",其他精神作用物質使用，未特定，伴有精神作用物質導致之性功能障礙
+572,F19982,"Other psychoactive substance use, unspecified with psychoactive substance-induced sleep disorder",其他精神作用物質使用，未特定，伴有精神作用物質導致之睡眠疾患
+573,F19988,"Other psychoactive substance use, unspecified with other psychoactive substance-induced disorder",其他精神作用物質使用，未特定，伴有精神作用物質導致之其他疾患
+574,F1999,"Other psychoactive substance use, unspecified with unspecified psychoactive substance-induced disorder",其他精神作用物質使用，未特定，伴有精神作用物質導致之未特定疾患
+575,F20,Schizophrenia,精神分裂症
+576,F200,Paranoid schizophrenia,妄想型精神分裂症
+577,F201,Disorganized schizophrenia,混亂型精神分裂症
+578,F202,Catatonic schizophrenia,緊張型精神分裂症
+579,F203,Undifferentiated schizophrenia,未分化型之精神分裂症
+580,F205,Residual schizophrenia,殘餘型精神分裂症
+581,F208,Other schizophrenia,其他精神分裂症
+582,F2081,Schizophreniform disorder,類精神分裂性疾患
+583,F2089,Other schizophrenia,其他精神分裂症
+584,F209,"Schizophrenia, unspecified",精神分裂症，未特定
+585,F21,Schizotypal disorder,準精神分裂症
+586,F22,Delusional disorders,妄想症
+587,F23,Brief psychotic disorder,短暫性精神疾患
+588,F24,Shared psychotic disorder,共有型精神疾患
+589,F25,Schizoaffective disorders,分裂情感疾患
+590,F250,"Schizoaffective disorder, bipolar type",分裂情感疾患，雙極型
+591,F251,"Schizoaffective disorder, depressive type",分裂情感疾患，鬱型
+592,F258,Other schizoaffective disorders,其他分裂情感疾患
+593,F259,"Schizoaffective disorder, unspecified",分裂情感疾患，未特定
+594,F28,Other psychotic disorder not due to a substance or known physiological condition,其他非物質或生理狀況所致之精神疾患
+595,F29,Unspecified psychosis not due to a substance or known physiological condition,非物質或生理狀況所致之未特定精神病
+596,F30,Manic episode,躁症
+597,F301,Manic episode without psychotic symptoms,無精神病症狀之躁症發作
+598,F3010,"Manic episode without psychotic symptoms, unspecified",無精神病症狀之未分類躁症發作，未特定
+599,F3011,"Manic episode without psychotic symptoms, mild",無精神病症狀之躁症發作，輕度
+600,F3012,"Manic episode without psychotic symptoms, moderate",無精神病症狀之躁症發作，中度
+601,F3013,"Manic episode, severe, without psychotic symptoms",無精神病症狀之躁症發作，重度
+602,F302,"Manic episode, severe with psychotic symptoms",伴有精神病症狀之躁症發作，重度
+603,F303,Manic episode in partial remission,躁症發作，部份緩解
+604,F304,Manic episode in full remission,躁症發作，完全緩解
+605,F308,Other manic episodes,其他躁症發作
+606,F309,"Manic episode, unspecified",躁症發作，未特定
+607,F31,Bipolar disorder,雙極疾患
+608,F310,"Bipolar disorder, current episode hypomanic",雙極疾患，目前為輕躁發作
+609,F311,"Bipolar disorder, current episode manic without psychotic features",雙極疾患，目前為無精神病特徵之未分類躁症發作
+610,F3110,"Bipolar disorder, current episode manic without psychotic features, unspecified",雙極疾患，目前為無精神病特徵之未分類躁症發作，未特定
+611,F3111,"Bipolar disorder, current episode manic without psychotic features, mild",雙極疾患，目前為無精神病特徵之躁症發作，輕度
+612,F3112,"Bipolar disorder, current episode manic without psychotic features, moderate",雙極疾患，目前為無精神病特徵之躁症發作，中度
+613,F3113,"Bipolar disorder, current episode manic without psychotic features, severe",雙極疾患，目前為無精神病特徵之躁症發作，重度
+614,F312,"Bipolar disorder, current episode manic severe with psychotic features",雙極疾患，目前為躁期發作，重度伴有精神病性特徵
+615,F313,"Bipolar disorder, current episode depressed, mild or moderate severity",雙極疾患，目前為未分類鬱症發作，輕度或中度
+616,F3130,"Bipolar disorder, current episode depressed, mild or moderate severity, unspecified",雙極疾患，目前為未分類鬱症發作，輕度或中度，未特定
+617,F3131,"Bipolar disorder, current episode depressed, mild",雙極疾患，目前為鬱症發作，輕度
+618,F3132,"Bipolar disorder, current episode depressed, moderate",雙極疾患，目前為鬱症發作，中度
+619,F314,"Bipolar disorder, current episode depressed, severe, without psychotic features",雙極疾患，目前為無精神病特徵之鬱症發作，重度
+620,F315,"Bipolar disorder, current episode depressed, severe, with psychotic features",雙極疾患，目前為伴有神病特徵之鬱症發作，重度
+621,F316,"Bipolar disorder, current episode mixed",雙極疾患，目前為未分類混合發作
+622,F3160,"Bipolar disorder, current episode mixed, unspecified",雙極疾患，目前為未分類混合發作，未特定
+623,F3161,"Bipolar disorder, current episode mixed, mild",雙極疾患，目前為混合發作，輕度
+624,F3162,"Bipolar disorder, current episode mixed, moderate",雙極疾患，目前為混合發作，中度
+625,F3163,"Bipolar disorder, current episode mixed, severe, without psychotic features",雙極疾患，目前為無精神病特徵之混合發作，重度
+626,F3164,"Bipolar disorder, current episode mixed, severe, with psychotic features",雙極疾患，目前為伴有神病特徵之混合發作，重度
+627,F317,"Bipolar disorder, currently in remission",雙極疾患，目前為緩解期
+628,F3170,"Bipolar disorder, currently in remission, most recent episode unspecified",雙極疾患，目前為緩解期，最近一次為未特定發作
+629,F3171,"Bipolar disorder, in partial remission, most recent episode hypomanic",雙極疾患，部份緩解，最近一次為輕躁發作
+630,F3172,"Bipolar disorder, in full remission, most recent episode hypomanic",雙極疾患，完全緩解，最近一次為輕躁發作
+631,F3173,"Bipolar disorder, in partial remission, most recent episode manic",雙極疾患，部份緩解，最近一次為躁症發作
+632,F3174,"Bipolar disorder, in full remission, most recent episode manic",雙極疾患，完全緩解，最近一次為躁症發作
+633,F3175,"Bipolar disorder, in partial remission, most recent episode depressed",雙極疾患，部份緩解，最近一次為鬱症發作
+634,F3176,"Bipolar disorder, in full remission, most recent episode depressed",雙極疾患，完全緩解，最近一次為鬱症發作
+635,F3177,"Bipolar disorder, in partial remission, most recent episode mixed",雙極疾患，部份緩解，最近一次為混合發作
+636,F3178,"Bipolar disorder, in full remission, most recent episode mixed",雙極疾患，完全緩解，最近一次為混合發作
+637,F318,Other bipolar disorders,其他雙極疾患
+638,F3181,Bipolar II disorder,第二型雙極疾患
+639,F3189,Other bipolar disorder,其他雙極疾患
+640,F319,"Bipolar disorder, unspecified",雙極疾患，未特定
+641,F32,"Major depressive disorder, single episode",重鬱症，單一發作
+642,F320,"Major depressive disorder, single episode, mild",重鬱症，單一發作，輕度
+643,F321,"Major depressive disorder, single episode, moderate",重鬱症，單一發作，中度
+644,F322,"Major depressive disorder, single episode, severe without psychotic features",重鬱症，單一發作，重度無精神病特徵
+645,F323,"Major depressive disorder, single episode, severe with psychotic features",重鬱症，單一發作，重度伴有精神病特徵
+646,F324,"Major depressive disorder, single episode, in partial remission",重鬱症，單一發作，部份緩解
+647,F325,"Major depressive disorder, single episode, in full remission",重鬱症，單一發作，完全緩解
+648,F328,Other depressive episodes,其他憂鬱發作
+649,F329,"Major depressive disorder, single episode, unspecified",重鬱症，單一發作，未特定
+650,F33,"Major depressive disorder, recurrent",重鬱症，復發
+651,F330,"Major depressive disorder, recurrent, mild",重鬱症，復發，輕度
+652,F331,"Major depressive disorder, recurrent, moderate",重鬱症，復發，中度
+653,F332,"Major depressive disorder, recurrent severe without psychotic features",重鬱症，復發，重度無精神病特徵
+654,F333,"Major depressive disorder, recurrent, severe with psychotic symptoms",重鬱症，復發，重度伴有精神病特徵
+655,F334,"Major depressive disorder, recurrent, in remission",重鬱症，復發，緩解中
+656,F3340,"Major depressive disorder, recurrent, in remission, unspecified",重鬱症，復發，緩解中，未特定
+657,F3341,"Major depressive disorder, recurrent, in partial remission",重鬱症，復發，部份緩解
+658,F3342,"Major depressive disorder, recurrent, in full remission",重鬱症，復發，完全緩解
+659,F338,Other recurrent depressive disorders,其他鬱症，復發
+660,F339,"Major depressive disorder, recurrent, unspecified",重鬱症，復發，未特定
+661,F34,Persistent mood [affective] disorder,其他持續性情感疾患
+662,F340,Cyclothymic disorder,循環型情感疾患
+663,F341,Dysthymic disorder,輕鬱症
+664,F348,Other persistent mood [affective] disorders,其他持續性情感疾患
+665,F349,"Persistent mood [affective] disorder, unspecified",持續性情感疾患，未特定
+666,F39,Unspecified mood [affective] disorder,未特定之情感疾患
+667,F40,Phobic anxiety disorders,畏懼性焦慮症
+668,F400,Agoraphobia,懼曠症
+669,F4000,"Agoraphobia, unspecified",懼曠症，未特定
+670,F4001,Agoraphobia with panic disorder,伴有恐慌症之懼曠症
+671,F4002,Agoraphobia without panic disorder,無恐慌症之懼曠症
+672,F401,Social phobia,懼社交症
+673,F4010,"Social phobia, unspecified",懼社交症，未特定
+674,F4011,"Social phobia, generalized",廣泛懼社交症，
+675,F402,Specific (isolated) phobias,特殊(單項)畏懼症
+676,F4021,Animal type phobia,其他動物畏懼症
+677,F40210,Arachnophobia,蜘蛛類動物畏懼症
+678,F40218,Other animal type phobia,其他動物畏懼症
+679,F4022,Natural environment type phobia,其他自然環境畏懼症
+680,F40220,Fear of thunderstorms,大雷雨畏懼症
+681,F40228,Other natural environment type phobia,其他自然環境畏懼症
+682,F4023,"Blood,injection,injury type phobia",對注射和輸血之畏懼
+683,F40230,Fear of blood,對血液之畏懼
+684,F40231,Fear of injections and transfusions,對注射和輸血之畏懼
+685,F40232,Fear of other medical care,對其他醫療步驟之畏懼
+686,F40233,Fear of injury,對受傷之畏懼
+687,F4024,Situational type phobia,情境畏懼症
+688,F40240,Claustrophobia,幽閉畏懼症
+689,F40241,Acrophobia,懼高症
+690,F40242,Fear of bridges,對橋樑之畏懼
+691,F40243,Fear of flying,對飛行之畏懼
+692,F40248,Other situational type phobia,其他特定情境之畏懼
+693,F4029,Other specified phobia,其他特定之畏懼
+694,F40290,Androphobia,對男性畏懼症
+695,F40291,Gynephobia,對婦女畏懼症
+696,F40298,Other specified phobia,其他特定之畏懼
+697,F408,Other phobic anxiety disorders,其他畏懼焦慮症
+698,F409,"Phobic anxiety disorder, unspecified",畏懼焦慮症，未特定
+699,F41,Other anxiety disorders,其他焦慮症
+700,F410,Panic disorder [episodic paroxysmal anxiety] without agoraphobia,無懼曠症之恐慌症（陣發性焦慮發作）
+701,F411,Generalized anxiety disorder,泛焦慮症
+702,F413,Other mixed anxiety disorders,其他混合型焦慮症
+703,F418,Other specified anxiety disorders,其他特定焦慮症
+704,F419,"Anxiety disorder, unspecified",焦慮症，未特定
+705,F42,Obsessive-compulsive disorder,強迫症
+706,F43,Reaction to severe stress and adjustment disorders,嚴重壓力之反應與適應障礙症
+707,F430,Acute stress reaction,急性壓力反應
+708,F431,Post-traumatic stress disorder(PTSD),創傷後壓力疾患
+709,F4310,"Post-traumatic stress disorder, unspecified",創傷後壓力疾患，未特定
+710,F4311,"Post-traumatic stress disorder, acute",創傷後壓力疾患，急性
+711,F4312,"Post-traumatic stress disorder, chronic",創傷後壓力疾患，慢性
+712,F432,Adjustment disorders,適應疾患
+713,F4320,"Adjustment disorder, unspecified",適應疾患，未特定
+714,F4321,Adjustment disorder with depressed mood,伴有憂鬱情緒之適應疾患
+715,F4322,Adjustment disorder with anxiety,伴有焦慮之適應疾患
+716,F4323,Adjustment disorder with mixed anxiety and depressed mood,伴有混合憂鬱情緒及焦慮之適應疾患
+717,F4324,Adjustment disorder with disturbance of conduct,伴有干擾行為之適應疾患
+718,F4325,Adjustment disorder with mixed disturbance of emotions and conduct,伴有混合困擾情緒及干擾行為之適應疾患
+719,F4329,Adjustment disorder with other symptoms,伴有其他症狀之適應疾患
+720,F438,Other reactions to severe stress,其他嚴重壓力之反應
+721,F439,"Reaction to severe stress, unspecified",嚴重壓力之反應，未特定
+722,F44,Dissociative and conversion disorders,解離性和轉化症
+723,F440,Dissociative amnesia,解離性失憶症
+724,F441,Dissociative fugue,解離性神遊症
+725,F442,Dissociative stupor,解離性木僵症
+726,F444,Conversion disorder with motor symptom or deficit,伴有運動症狀或缺失之轉化症
+727,F445,Conversion disorder with seizures or convulsions,伴有抽搐或痙攣之轉化症
+728,F446,Conversion disorder with sensory symptom or deficit,伴有知覺症狀或缺失之轉化症
+729,F447,Conversion disorder with mixed symptom presentation,伴有呈現混合症狀之轉化症
+730,F448,Other dissociative and conversion disorders,其他解離及轉化疾患
+731,F4481,Dissociative identity disorder,解離性認同疾患
+732,F4489,Other dissociative and conversion disorders,其他解離及轉化疾患
+733,F449,"Dissociative and conversion disorder, unspecified",解離及轉化疾患，未特定
+734,F45,Somatization disorders,擬身體疾患
+735,F450,Somatization disorder,身體化疾患
+736,F451,Undifferentiated somatoform disorder,未分化擬身體疾患
+737,F452,Hypochondriacal disorders,慮病症
+738,F4520,"Hypochondriacal disorder, unspecified",慮病症，未特定
+739,F4521,Hypochondriasis,慮病症
+740,F4522,Body dysmorphic disorder,軀體變形疾患
+741,F4529,Other hypochondriacal disorders,其他慮病症
+742,F454,Pain disorders related to psychological factors,與心理因素相關之疼痛症
+743,F4541,Pain disorder exclusively related to psychological factors,完全與心理因素相關之疼痛症
+744,F4542,Pain disorder with related psychological factors,與心理因素相關之疼痛症
+745,F458,Other somatoform disorders,其他擬身體疾患
+746,F459,"Somatoform disorder, unspecified",擬身體疾患，未特定
+747,F48,Other nonpsychotic mental disorders,其他特定非精神病之精神疾患
+748,F481,Depersonalization-derealization syndrome,自我感-現實感喪失症候群
+749,F488,Other specified nonpsychotic mental disorders,其他特定非精神病之精神疾患
+750,F489,"Nonpsychotic mental disorder, unspecified",非精神病之精神疾患，未特定
+751,F50,Eating disorders,飲食疾患
+752,F500,Anorexia nervosa,厭食症
+753,F5000,"Anorexia nervosa, unspecified",厭食症，未特定
+754,F5001,"Anorexia nervosa, restricting type",厭食症，禁食型
+755,F5002,"Anorexia nervosa, binge eating/purging type",厭食症，暴食/清除型
+756,F502,Bulimia nervosa,暴食症
+757,F508,Other eating disorders,其他飲食疾患
+758,F509,"Eating disorder, unspecified",飲食疾患，未特定
+759,F51,Sleep disorder not due to a substance or known physiological condition,非物質或生理狀況所致之其他睡眠疾患
+760,F510,Insomnia not due to a substance or known physiological condition,非物質或生理狀況所致之其他失眠症
+761,F5101,Primary insomnia,原發性失眠症
+762,F5102,Adjustment insomnia,適應性失眠症
+763,F5103,Paradoxical insomnia,異型失眠症
+764,F5104,Psychophysiologic insomnia,心理生理性失眠症
+765,F5105,Insomnia due to other mental disorder,其他精神疾患所致之失眠症
+766,F5109,Other insomnia not due to a substance or known physiological condition,非物質或生理狀況所致之其他失眠症
+767,F511,Hypersomnia not due to a substance or known physiological condition,非物質或生理狀況所致之嗜睡症
+768,F5111,Primary hypersomnia,原發性嗜睡症
+769,F5112,Insufficient sleep syndrome,睡眠不足症候群
+770,F5113,Hypersomnia due to other mental disorder,其他精神疾患所致之嗜睡症
+771,F5119,Other hypersomnia not due to a substance or known physiological condition,非物質或生理狀況所致之其他嗜睡症
+772,F513,Sleepwalking [somnambulism],夢遊症
+773,F514,Sleep terrors [night terrors],睡驚症  [夜驚症]
+774,F515,Nightmare disorder,夢魘症
+775,F518,Other sleep disorders not due to a substance or known physiological condition,其他非物質或生理狀況所致之睡眠疾患
+776,F519,"Sleep disorder not due to a substance or known physiological condition, unspecified",非物質或生理狀況所致之睡眠疾患，未特定
+777,F52,Sexual dysfunction not due to a substance or known physiological condition,非物質或生理狀況所致之性功能障礙症
+778,F520,Hypoactive sexual desire disorder,性慾低下疾患
+779,F521,Sexual aversion disorder,性嫌惡疾患
+780,F522,Sexual arousal disorders,性興奮疾患
+781,F5221,Male erectile disorder,男性勃起疾患
+782,F5222,Female sexual arousal disorder,女性性興奮疾患
+783,F523,Orgasmic disorder,性高潮疾患
+784,F5231,Female orgasmic disorder,女性性高潮疾患
+785,F5232,Male orgasmic disorder,男性性高潮疾患
+786,F524,Premature ejaculation,早洩症
+787,F525,Vaginismus not due to a substance or known physiological condition,非物質或生理狀況所致之陰道痙攣
+788,F526,Dyspareunia not due to a substance or known physiological condition,非物質或生理狀況所致之性交疼痛症
+789,F528,Other sexual dysfunction not due to a substance or known physiological condition,非物質或生理狀況所致之其他性功能障礙症
+790,F529,Unspecified sexual dysfunction not due to a substance or known physiological condition,非物質或生理狀況所致之未特定性功能問題
+791,F53,Puerperal psychosis,產後精神病
+792,F54,Psychological and behavioral factors associated with disorders or diseases classified elsewhere,與其他分類之疾患或疾患相關之心理或行為因素
+793,F55,Abuse of non-psychoactive substances,非精神作用物質濫用
+794,F550,Abuse of antacids,制酸劑濫用
+795,F551,Abuse of herbal or folk remedies,草藥或民俗療法濫用
+796,F552,Abuse of laxatives,瀉劑濫用
+797,F553,Abuse of steroids or hormones,類固醇或荷爾蒙濫用
+798,F554,Abuse of vitamins,維生素濫用
+799,F558,Abuse of other non-psychoactive substances,其他非精神作用物質濫用
+800,F59,Unspecified behavioral syndromes associated with physiological disturbances and physical factors,與生理障礙及身體因素相關之未特定行為症候群
+801,F60,Specific personality disorders,特定人格疾患
+802,F600,Paranoid personality disorder,妄想性人格疾患
+803,F601,Schizoid personality disorder,類精神分裂性人格疾患
+804,F602,Antisocial personality disorder,反社會性人格疾患
+805,F603,Borderline personality disorder,邊緣性人格疾患
+806,F604,Histrionic personality disorder,劇化性人格疾患
+807,F605,Obsessive-compulsive personality disorder,強迫性人格疾患
+808,F606,Avoidant personality disorder,迴避性人格疾患
+809,F607,Dependent personality disorder,依賴性人格疾患
+810,F608,Other specific personality disorders,其他特定人格疾患
+811,F6081,Narcissistic personality disorder,自戀性人格疾患
+812,F6089,Other specific personality disorders,其他特定人格疾患
+813,F609,"Personality disorder, unspecified",人格疾患，未特定
+814,F63,Impulse disorders,衝動疾患
+815,F630,Pathological gambling,病態性賭博症
+816,F631,Pyromania,縱火狂
+817,F632,Kleptomania,竊盜狂
+818,F633,Trichotillomania,拔毛症
+819,F638,Other impulse disorders,其他衝動疾患
+820,F6381,Intermittent explosive disorder,間歇性暴躁疾患
+821,F6389,Other impulse disorders,其他衝動疾患
+822,F639,"Impulse disorder, unspecified",衝動疾患，未特定
+823,F64,Gender identity disorders,性別認同疾患
+824,F641,Gender identity disorder in adolescence and adulthood,青春期及成人期性別認同疾患
+825,F642,Gender identity disorder of childhood,兒童期性別認同疾患
+826,F648,Other gender identity disorders,其他性別認同疾患
+827,F649,"Gender identity disorder, unspecified",性別認同疾患，未特定
+828,F65,Paraphilias,性倒錯
+829,F650,Fetishism,戀物症
+830,F651,Transvestic fetishism,扮異性症
+831,F652,Exhibitionism,暴露症
+832,F653,Voyeurism,窺視症
+833,F654,Pedophilia,戀童症
+834,F655,Sadomasochism,虐待與被虐待症
+835,F6550,"Sadomasochism, unspecified",虐待與被虐待症，未特定
+836,F6551,Sexual masochism,性被虐待症
+837,F6552,Sexual sadism,性虐待症
+838,F658,Other paraphilias,其他性倒錯
+839,F6581,Frotteurism,觸摩摩擦症
+840,F6589,Other paraphilias,其他性倒錯
+841,F659,"Paraphilia, unspecified",性倒錯，未特定
+842,F66,Other sexual disorders,其他性疾患
+843,F68,Other disorders of adult personality and behavior,其他成人人格及行為疾患
+844,F681,Factitious disorder,偽病症
+845,F6810,"Factitious disorder, unspecified",偽病症，未特定
+846,F6811,Factitious disorder with predominantly psychological signs and symptoms,主要為心理病徵及症狀之偽病症
+847,F6812,Factitious disorder with predominantly physical signs and symptoms,主要為身體病徵及症狀之偽病症
+848,F6813,Factitious disorder with combined psychological and physical signs and symptoms,合併心理及身體病徵及症狀之偽病症
+849,F688,Other specified disorders of adult personality and behavior,其他特定成人人格及行為疾患
+850,F69,Unspecified disorder of adult personality and behavior,成人人格及行為之未特定疾患
+851,F70,Mild mental retardation,輕度智能不足
+852,F71,Moderate mental retardation,中度智能不足
+853,F72,Severe mental retardation,重度智能不足
+854,F73,Profound mental retardation,極度智能不足
+855,F78,Other mental retardation,其他智能不足
+856,F79,Unspecified mental retardation,未特定之智能不足
+857,F80,Specific developmental disorder of speech and language,語言發展疾患
+858,F800,Phonological disorder,音韻疾患
+859,F801,Expressive language disorder,語言表達疾患
+860,F802,Mixed receptive-expressive language disorder,混合型語言接受-表達疾患
+861,F803,Acquired aphasia with epilepsy [Landau-Kleffner],伴有癲癇之後天失語症（Landau-Kleffner）
+862,F804,Speech and language development delay due to hearing loss,聽障所致之語言發展遲緩
+863,F808,Other developmental disorders of speech or language,其他語言發展疾患
+864,F809,"Developmental disorder of speech or language, unspecified",語言發展疾患，未特定
+865,F81,Specific developmental disorders of scholastic skills,學業技能發展疾患
+866,F810,Specific reading disorder,特定閱讀疾患
+867,F812,Mathematics disorder,數學疾患
+868,F818,Other developmental disorders of scholastic skills,其他學業技能發展疾患
+869,F8181,Disorder of written expression,文字表達疾患
+870,F8189,Other developmental disorders of scholastic skills,其他學業技能發展疾患
+871,F819,"Developmental disorder of scholastic skills, unspecified",學業技能發展疾患，未特定
+872,F82,Specific developmental disorder of motor function,特定動作功能發展疾患
+873,F84,Pervasive developmental disorders,廣泛性發展疾患
+874,F840,Autistic disorder,自閉症
+875,F842,Rett's syndrome,雷特症候群
+876,F843,Other childhood disintegrative disorder,其他兒童期崩解疾患
+877,F845,Asperger's syndrome,亞斯伯格症候群(Asperger's症候群)
+878,F848,Other pervasive developmental disorders,其他廣泛性發展疾患
+879,F849,"Pervasive developmental disorder, unspecified",廣泛性發展疾患，未特定
+880,F88,Other disorders of psychological development,其他心理發展疾患
+881,F89,Unspecified disorder of psychological development,心理發展之未特定疾患
+882,F90,Attention-deficit hyperactivity disorders(ADD),注意力缺失過動疾患
+883,F900,"Attention-deficit hyperactivity disorder, predominantly inattentive type",注意力缺失過動疾患，主要為注意力缺失型
+884,F901,"Attention-deficit hyperactivity disorder, predominantly hyperactive type",注意力缺失過動疾患，主要為過動型
+885,F902,"Attention-deficit hyperactivity disorder, combined type",注意力缺失過動疾患，複合型
+886,F908,"Attention-deficit hyperactivity disorder, other type",注意力缺失過動疾患，其他型
+887,F909,"Attention-deficit hyperactivity disorder, unspecified type",注意力缺失過動疾患，未特定型
+888,F91,Conduct disorders,行為疾患
+889,F910,Conduct disorder confined to family context,侷限於家庭之行為疾患
+890,F911,"Conduct disorder, childhood-onset type",行為疾患，兒童期發作型
+891,F912,"Conduct disorder, adolescent-onset type",品性疾患，青少年期發作型
+892,F913,Oppositional defiant disorder,對立反抗疾患
+893,F918,Other conduct disorders,其他行為疾患
+894,F919,"Conduct disorder, unspecified",行為疾患，未特定
+895,F93,Emotional disorders with onset specific to childhood,特發於兒童期情緒疾患
+896,F930,Separation anxiety disorder of childhood,兒童期分離焦慮疾患
+897,F938,Other childhood emotional disorders,其他兒童期情緒疾患
+898,F939,"Childhood emotional disorder, unspecified",兒童期情緒疾患，未特定
+899,F94,Disorders of social functioning with onset specific to childhood and adolescence,特發於兒童期或青少年期社會功能疾患
+900,F940,Selective mutism,選擇性不語症
+901,F941,Reactive attachment disorder of childhood,兒童期反應性依附疾患
+902,F942,Disinhibited attachment disorder of childhood,兒童期無法選擇性依附疾患
+903,F948,Other childhood disorders of social functioning,兒童期其他社會功能疾患
+904,F949,"Childhood disorder of social functioning, unspecified",兒童期社會功能疾患，未特定
+905,F95,Tic disorder,抽搐症
+906,F950,Transient tic disorder,短暫抽搐症
+907,F951,Chronic motor or vocal tic disorder,慢性運動性或發聲抽搐症
+908,F952,Tourette's disorder,妥瑞症
+909,F958,Other tic disorders,其他抽搐症
+910,F959,"Tic disorder, unspecified",抽搐症，未特定
+911,F98,Other behavioral and emotional disorders with onset usually occurring in childhood and adolescence,發生於兒童期及青少年期之其他行為與情緒疾患
+912,F980,Enuresis not due to a substance or known physiological condition,非物質或生理狀況所致之遺尿症
+913,F981,Encopresis not due to a substance or known physiological condition,非物質或生理狀況所致之遺屎症
+914,F982,Other feeding disorders of infancy and childhood,嬰兒期及兒童早期其他餵食疾患
+915,F9821,Rumination disorder of infancy,嬰兒期反芻症
+916,F9829,Other feeding disorders of infancy and early childhood,嬰兒期及兒童早期其他餵食疾患
+917,F983,Pica of infancy and childhood,嬰兒期及兒童期異食症
+918,F984,Stereotyped movement disorders,刻板動作症
+919,F985,Stuttering [stammering],口吃症 [結巴症]
+920,F988,Other specified behavioral and emotional disorders with onset usually occurring in childhood and adolescence,其他特定發生於兒童期及青少年期之特定行為與情緒疾患
+921,F989,Unspecified behavioral and emotional disorders with onset usually occurring in childhood and adolescence,發生於兒童期及青少年期之未特定行為與情緒疾患
+922,F99,"Mental disorder, not otherwise specified",未分類精神疾患

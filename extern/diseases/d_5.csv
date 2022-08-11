@@ -1,0 +1,773 @@
+,code,en_name,ch_name
+0,G00,"Bacterial meningitis,not elsewhere classified",細菌性腦膜炎，他處未分類
+1,G000,Hemophilus meningitis,嗜血桿菌性腦膜炎
+2,G001,Pneumococcal meningitis,肺炎球菌性腦膜炎
+3,G002,Streptococcal meningitis,鏈球菌性腦膜炎
+4,G003,Staphylococcal meningitis,葡萄球菌性腦膜炎
+5,G008,Other bacterial meningitis,其他細菌性腦膜炎
+6,G009,"Bacterial meningitis, unspecified",細菌性腦膜炎，未特定
+7,G01,Meningitis in bacterial diseases classified elsewhere,細菌性疾病所致之腦膜炎 歸類於它處者
+8,G02,Meningitis in other infectious and parasitic diseases classified elsewhere,感染性及寄生蟲疾病所致之腦膜炎 歸類於它處者
+9,G03,Meningitis due to other and unspecified causes,其他及未特定原因所致的腦膜炎
+10,G030,Nonpyogenic meningitis,非化膿性腦膜炎
+11,G031,Chronic meningitis,慢性腦膜炎
+12,G032,Benign recurrent meningitis [Mollaret],良性復發性腦膜炎[Mollaret]
+13,G038,Meningitis due to other specified causes,其他特定原因所致之腦膜炎
+14,G039,"Meningitis, unspecified",腦膜炎，未特定
+15,G04,"Encephalitis,myelitis and encephalomyelitis",腦炎、脊髓炎及腦脊髓炎
+16,G040,Acute disseminated encephalitis and encephalomyelitis (ADEM),急性散播性腦炎及腦脊髓炎
+17,G0400,Postinfectious acute disseminated encephalitis and encephalomyelitis (postinfectious ADEM),感染後急性散播性腦炎及腦脊髓炎(感染後ADEM)
+18,G0401,"Postimmunization acute disseminated encephalitis, myelitis and encephalomyelitis","免疫接種後急性散播性腦炎,脊髓炎, 及腦脊髓炎"
+19,G041,Tropical spastic paraplegia,熱帶僵直性下半身癱瘓
+20,G042,"Bacterial meningoencephalitis and meningomyelitis, not elsewhere classified",細菌性腦膜腦炎及腦膜脊髓炎，他處未歸類者
+21,G043,Acute necrotizing hemorrhagic encephalopathy,急性壞死性出血性腦病變
+22,G0430,Postinfectious acute necrotizing hemorrhagic encephalopathy,感染後急性壞死性出血性腦病變
+23,G0431,Postimmunization acute necrotizing hemorrhagic encephalopathy,免疫接種後急性壞死性出血性腦病變
+24,G048,"Other encephalitis,myelitis and encephalomyelitis",其他腦炎、脊髓炎及腦脊髓炎
+25,G0481,Other encephalitis and encephalomyelitis,其他腦炎及腦脊髓炎
+26,G0489,Other myelitis,其他脊髓炎
+27,G049,"Encephalitis myelitis and encephalomyelitis,unspecified",腦炎、脊髓炎及腦脊髓炎
+28,G0490,"Encephalitis and encephalomyelitis, unspecified",腦炎及腦脊髓炎，未特定
+29,G0491,"Myelitis, unspecified",脊髓炎，未特定
+30,G05,"Encephalitis,myelitis and encephalomyelitis in diseases classified elsewhere",歸類於他處疾病所致的腦炎、脊髓炎及腦脊髓炎
+31,G053,Encephalitis and encephalomyelitis in diseases classified elsewhere,歸類於他處疾病所致之腦炎及腦脊髓炎
+32,G054,Myelitis in diseases classified elsewhere,歸類於他處疾病所致之脊髓炎
+33,G06,Intracranial and intraspinal abscess and granuloma,顱內、脊椎管內的膿瘍及肉芽腫
+34,G060,Intracranial abscess and granuloma,顱內膿瘍及肉芽腫
+35,G061,Intraspinal abscess and granuloma,脊椎管內膿瘍及肉芽腫
+36,G062,"Extradural and subdural abscess, unspecified",硬腦膜外及硬膜下膿瘍，未特定
+37,G07,Intracranial and intraspinal abscess and granuloma in diseases classified elsewhere,歸類於他處疾病所致之顱內及脊椎管內膿瘍及肉芽腫
+38,G08,Intracranial and intraspinal phlebitis and thrombophlebitis,顱內及脊椎管內靜脈炎及血栓靜脈炎
+39,G09,Sequelae of inflammatory diseases of central nervous system,中樞神經系統發炎性疾病的後遺症
+40,G10,Huntington's disease,亨丁頓舞蹈症
+41,G11,Hereditary ataxia,遺傳性共濟失調
+42,G110,Congenital nonprogressive ataxia,先天性非進行性共濟失調
+43,G111,Early-onset cerebellar ataxia,早發型小腦共濟失調
+44,G112,Late-onset cerebellar ataxia,晚發型小腦共濟失調
+45,G113,Cerebellar ataxia with defective DNA repair,小腦共濟失調伴有去氧核醣核酸修復缺損
+46,G114,Hereditary spastic paraplegia,遺傳性痙攣截癱
+47,G118,Other hereditary ataxias,其他遺傳性共濟失調
+48,G119,"Hereditary ataxia, unspecified",遺傳性共濟失調，未特定
+49,G12,Spinal muscular atrophy and related syndromes,脊髓性肌肉萎縮及相關症候群
+50,G120,"Infantile spinal muscular atrophy, type I [Werdnig-Hoffman]","嬰兒型脊髓性肌肉萎縮症, 第I型 [Werdnig-Hoffmann氏病]"
+51,G121,Other inherited spinal muscular atrophy,其他遺傳性脊髓性肌肉萎縮症
+52,G122,Motor neuron disease,運動神經元疾病
+53,G1220,"Motor neuron disease, unspecified",運動神經元疾病，未特定
+54,G1221,Amyotrophic lateral sclerosis,肌萎縮性側索硬化症
+55,G1222,Progressive bulbar palsy,進行性延髓性麻痺
+56,G1229,Other motor neuron disease,其他運動神經元疾病
+57,G128,Other spinal muscular atrophies and related syndromes,其他脊髓性肌肉萎縮及相關症候群
+58,G129,"Spinal muscular atrophy, unspecified",脊髓性肌肉萎縮症，未特定
+59,G13,Systemic atrophies primarily affecting central nervous system in diseases classified elsewhere,歸類於他處疾病所致主要影響中樞神經系統的全身性萎縮症
+60,G130,Paraneoplastic neuromyopathy and neuropathy,伴隨腫瘤的神經肌肉病變及神經病變
+61,G131,Other systemic atrophy primarily affecting central nervous system in neoplastic disease,腫瘤疾病所致主要影響中樞神經系統的其他全身性萎縮症
+62,G138,Systemic atrophy primarily affecting central nervous system in other diseases classified elsewhere,歸類於他處其他疾病所致之主要影響中樞神經系統的全身性萎縮症
+63,G14,Postpolio syndrome,小兒麻痺後症候群
+64,G20,Parkinson's disease,帕金森氏病
+65,G21,Secondary parkinsonism,續發性帕金森氏病
+66,G210,Malignant neuroleptic syndrome,惡性抗精神病藥症候群
+67,G211,Other drug-induced secondary parkinsonism,其他藥物導致之續發性帕金森症
+68,G2111,Neuroleptic induced parkinsonism,抗精神病藥導致之帕金森症
+69,G2119,Other drug induced secondary parkinsonism,其他藥物導致之續發性帕金森症
+70,G212,Secondary parkinsonism due to other external agents,其他外因所致之續發性帕金森症
+71,G213,Postencephalitic parkinsonism,腦炎後帕金森症
+72,G214,Vascular parkinsonism,血管性帕金森症
+73,G218,Other secondary parkinsonism,其他續發性帕金森症
+74,G219,"Secondary parkinsonism, unspecified",續發性帕金森症，未特定
+75,G23,Other degenerative diseases of basal ganglia,基底核之其他退化性疾病
+76,G230,Hallervorden-Spatz disease,Hallervorden-Spatz氏病
+77,G231,Progressive supranuclear ophthalmoplegia [Steele-Richardson-Olszewski],進行性核上麻痺 [Steele-Richardson-Olszewski氏病]
+78,G232,Striatonigral degeneration,紋狀體黑質退化
+79,G238,Other specified degenerative diseases of basal ganglia,其他特定之基底核退化性疾病
+80,G239,"Degenerative disease of basal ganglia, unspecified",基底核退化性疾病，未特定
+81,G24,Dystonia,張力不全
+82,G240,Drug induced dystonia,藥物導致之張力不全
+83,G2401,Drug induced subacute dyskinesia,藥物導致之亞急性異動症
+84,G2402,Drug induced acute dystonia,藥物導致之急性肌張力不全
+85,G2409,Other drug induced dystonia,其他藥物導致之肌張力不全
+86,G241,Genetic torsion dystonia,遺傳性扭轉肌張力不全
+87,G242,Idiopathic nonfamilial dystonia,原發性非家族性肌張力不全
+88,G243,Spasmodic torticollis,痙攣性斜頸
+89,G244,Idiopathic orofacial dystonia,原發性口面部肌張力不全
+90,G245,Blepharospasm,眼瞼痙攣
+91,G248,Other dystonia,其他肌張力不全
+92,G249,"Dystonia, unspecified",肌張力不全，未特定
+93,G25,Other extrapyramidal and movement disorders,其他錐體外路(徑)及動作疾患
+94,G250,Essential tremor,本態性顫抖
+95,G251,Drug-induced tremor,藥物導致之顫抖
+96,G252,Other specified forms of tremor,其他特定型態之顫抖
+97,G253,Myoclonus,肌躍症
+98,G254,Drug-induced chorea,藥物導致之舞蹈症
+99,G255,Other chorea,其他舞蹈症
+100,G256,Drug induced tics and other tics of organic origin,藥物導致之肌抽搐及其他器質性肌抽搐
+101,G2561,Drug induced tics,藥物導致之肌抽搐
+102,G2569,Other tics of organic origin,其它器質性肌抽搐
+103,G257,Other and unspecified drug induced movement disorders,其他及未特定藥物導致之動作障礙疾患
+104,G2570,"Drug induced movement disorder, unspecified",藥物導致之動作障礙疾患，未特定
+105,G2571,Drug induced akathisia,藥物導致之靜坐不能
+106,G2579,Other drug induced movement disorders,其他藥物導致之動作障礙疾患
+107,G258,Other specified extrapyramidal and movement disorders,其它特定錐體外及動作障礙疾患
+108,G2581,Restless legs syndrome,不寧腿症候群
+109,G2582,Stiff-man syndrome,僵硬人症候群
+110,G2589,Other specified extrapyramidal and movement disorders,其它特定錐體外及動作障礙疾患
+111,G259,"Extrapyramidal and movement disorder, unspecified",錐體外及動作障礙疾患，未特定
+112,G26,Extrapyramidal and movement disorders in diseases classified elsewhere,歸類於他處疾患所致之錐體外及動作障礙疾患
+113,G30,Alzheimer's disease,阿茲海默氏病
+114,G300,Alzheimer's disease with early onset,早發型阿茲海默氏病
+115,G301,Alzheimer's disease with late onset,晚發型阿茲海默氏病
+116,G308,Other Alzheimer's disease,其他阿茲海默氏病
+117,G309,"Alzheimer's disease, unspecified",阿茲海默氏病，未特定
+118,G31,"Other degenerative diseases of nervous system, not elsewhere classified",神經系統其他退化性疾病，他處未分類
+119,G310,Frontotemporal dementia,額顳葉失智症
+120,G3101,Pick's disease,畢克氏病
+121,G3109,Other frontotemporal dementia,其它額顳葉失智症
+122,G311,"Senile degeneration of brain, not elsewhere classified",老年性腦退化，他處未歸類者
+123,G312,Degeneration of nervous system due to alcohol,酒精所致之神經系統退化
+124,G318,Other specified degenerative diseases of nervous system,神經系統其他特定的退化性疾病
+125,G3181,Alpers disease,Alpers氏病
+126,G3182,Leigh's disease,Leigh's 氏病
+127,G3183,Dementia with Lewy bodies,路易士體失智症
+128,G3184,"Mild cognitive impairment, so stated",輕度認知功能障礙
+129,G3189,Other specified degenerative diseases of nervous system,其他特定神經系統退化疾病
+130,G319,"Degenerative disease of nervous system, unspecified",神經系統退化疾病，未特定
+131,G32,Other degenerative disorders of nervous system in diseases classified elsewhere,歸類於他處疾病所致之神經系統其他退化性疾病
+132,G320,Subacute combined degeneration of spinal cord in diseases classified elsewhere,歸類於他處疾病所致之亞急性脊髓聯合退化
+133,G328,Other specified degenerative disorders of nervous system in diseases classified elsewhere,歸類於他處疾病所致之神經系統其他特定退化疾患
+134,G35,Multiple sclerosis,多發性硬化症
+135,G36,Other acute disseminated demyelination,其他急性散播性脫髓鞘病
+136,G360,Neuromyelitis optica [Devic],視神經脊髓炎 [Devic氏病]
+137,G361,Acute and subacute hemorrhagic leukoencephalitis [Hurst],急性及亞急性出血性腦白質炎 [Hurst氏病]
+138,G368,Other specified acute disseminated demyelination,其他特定急性散播性脫髓鞘病
+139,G369,"Acute disseminated demyelination, unspecified",急性散播性脫髓鞘病，未特定
+140,G37,Other demyelinating diseases of central nervous system,中樞神經系統其他脫髓鞘疾病
+141,G370,Diffuse sclerosis of central nervous system,中樞神經系統瀰漫性硬化症
+142,G371,Central demyelination of corpus callosum,胼骶體中樞性脫髓鞘病
+143,G372,Central pontine myelinolysis,中樞橋腦髓鞘溶解症
+144,G373,Acute transverse myelitis in demyelinating disease of central nervous system,中樞神經系統脫髓鞘疾病所致的急性橫貫性脊髓炎
+145,G374,Subacute necrotizing myelitis of central nervous system,中樞神經系統之亞急性壞死性脊髓炎
+146,G375,Concentric sclerosis [Balo] of central nervous system,中樞神經系統之同心性硬化症[Balo ]
+147,G378,Other specified demyelinating diseases of central nervous system,中樞神經系統其他特定的脫髓鞘疾病
+148,G379,"Demyelinating disease of central nervous system, unspecified",中樞神經系統之脫髓鞘疾病  未特定
+149,G40,Epilepsy and recurrent seizures,癲癇及重覆發作
+150,G400,Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset,有關侷限(局部)(部份)特發性癲癇及癲癇症候群伴有侷限性發作
+151,G4000,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset,not intractable",有關侷限(局部)(部份)特發性癲癇及癲癇症候群伴有侷限性發作，非難治之癲癇
+152,G40001,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, with status epilepticus",有關侷限(局部)(部份)特發性癲癇及癲癇症候群伴有侷限性發作，非難治之癲癇，伴有癲癇重積狀態
+153,G40009,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, not intractable, without status epilepticus",有關侷限(局部)(部份)特發性癲癇及癲癇症候群伴有侷限性發作，非難治之癲癇，未伴有癲癇重積狀態
+154,G4001,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable",有關侷限(局部)(部份)特發性癲癇及癲癇症候群伴有侷限性發作，難治之癲癇
+155,G40011,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, with status epilepticus",有關侷限(局部)(部份)特發性癲癇及癲癇症候群伴有侷限性發作，難治之癲癇，伴有癲癇重積狀態
+156,G40019,"Localization-related (focal) (partial) idiopathic epilepsy and epileptic syndromes with seizures of localized onset, intractable, without status epilepticus",有關侷限(局部)(部份)特發性癲癇及癲癇症候群伴有侷限性發作，難治之癲癇，未伴有癲癇重積狀態
+157,G401,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures,有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有單純型部份發作
+158,G4010,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有單純型部份發作，非難治之癲癇
+159,G40101,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, with status epilepticus",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有單純型部份發作，非難治之癲癇，伴有癲癇重積狀態
+160,G40109,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, not intractable, without status epilepticus",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有單純型部份發作，非難治之癲癇，未伴有癲癇重積狀態
+161,G4011,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有單純型部份發作，難治之癲癇
+162,G40111,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, with status epilepticus",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有單純型部份發作，難治之癲癇，伴有癲癇重積狀態
+163,G40119,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with simple partial seizures, intractable, without status epilepticus",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有單純型部份發作，難治之癲癇，未伴有癲癇重積狀態
+164,G402,Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures,有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有複雜型部份發作
+165,G4020,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有複雜型部份發作，非難治之癲癇
+166,G40201,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, with status epilepticus",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有複雜型部份發作，非難治之癲癇，伴有癲癇重積狀態
+167,G40209,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, not intractable, without status epilepticus",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有複雜型部份發作，非難治之癲癇，未伴有癲癇重積狀態
+168,G4021,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有複雜型部份發作，難治之癲癇
+169,G40211,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, with status epilepticus",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有複雜型部份發作，難治之癲癇，伴有癲癇重積狀態
+170,G40219,"Localization-related (focal) (partial) symptomatic epilepsy and epileptic syndromes with complex partial seizures, intractable, without status epilepticus",有關侷限(局部)(部份)症狀性癲癇及癲癇症候群伴有複雜型部份發作，難治之癲癇，未伴有癲癇重積狀態
+171,G403,Generalized idiopathic epilepsy and epileptic syndromes,廣泛性特發性癲癇及癲癇症候群
+172,G4030,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable",廣泛性特發性癲癇及癲癇症候群，非難治之癲癇
+173,G40301,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, with status epilepticus",廣泛性特發性癲癇及癲癇症候群，非難治之癲癇，伴有癲癇重積狀態
+174,G40309,"Generalized idiopathic epilepsy and epileptic syndromes, not intractable, without status epilepticus",廣泛性特發性癲癇及癲癇症候群，非難治之癲癇，未伴有癲癇重積狀態
+175,G4031,"Generalized idiopathic epilepsy and epileptic syndromes, intractable",廣泛性特發性癲癇及癲癇症候群，難治之癲癇
+176,G40311,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, with status epilepticus",廣泛性特發性癲癇及癲癇症候群，難治之癲癇，伴有癲癇重積狀態
+177,G40319,"Generalized idiopathic epilepsy and epileptic syndromes, intractable, without status epilepticus",廣泛性特發性癲癇及癲癇症候群，難治之癲癇，未伴有癲癇重積狀態
+178,G404,Other generalized epilepsy and epileptic syndromes,其他廣泛性癲癇及癲癇症候群
+179,G4040,"Other generalized epilepsy and epileptic syndromes, not intractable",其他廣泛性癲癇及癲癇症候群，非難治之癲癇
+180,G40401,"Other generalized epilepsy and epileptic syndromes, not intractable, with status epilepticus",其他廣泛性癲癇及癲癇症候群，非難治之癲癇，伴有癲癇重積狀態
+181,G40409,"Other generalized epilepsy and epileptic syndromes, not intractable, without status epilepticus",其他廣泛性癲癇及癲癇症候群，非難治之癲癇，未伴有癲癇重積狀態
+182,G4041,"Other generalized epilepsy and epileptic syndromes, intractable",其他廣泛性癲癇及癲癇症候群，難治之癲癇
+183,G40411,"Other generalized epilepsy and epileptic syndromes, intractable, with status epilepticus",其他廣泛性癲癇及癲癇症候群，難治之癲癇，伴有癲癇重積狀態
+184,G40419,"Other generalized epilepsy and epileptic syndromes, intractable, without status epilepticus",其他廣泛性癲癇及癲癇症候群，難治之癲癇，未伴有癲癇重積狀態
+185,G405,Special epileptic syndromes,特殊癲癇症候群
+186,G4050,"Special epileptic syndromes, not intractable",特殊癲癇症候群，非難治之癲癇
+187,G40501,"Special epileptic syndromes, not intractable, with status epilepticus",特殊癲癇症候群，非難治之癲癇，伴有癲癇重積狀態
+188,G40509,"Special epileptic syndromes, not intractable, without status epilepticus",特殊癲癇症候群，非難治之癲癇，未伴有癲癇重積狀態
+189,G4051,"Special epileptic syndromes, intractable",特殊癲癇症候群，難治之癲癇
+190,G40511,"Special epileptic syndromes, intractable, with status epilepticus",特殊癲癇症候群，難治之癲癇，伴有癲癇重積狀態
+191,G40519,"Special epileptic syndromes, intractable, without status epilepticus",特殊癲癇症候群，難治之癲癇，未伴有癲癇重積狀態
+192,G408,Other epilepsy and seizures,其他癲癇及發作
+193,G4080,"Other epilepsy, not intractable",其他癲癇，非難治之癲癇
+194,G40801,"Other epilepsy, not intractable, with status epilepticus",其他癲癇，非難治之癲癇，伴有癲癇重積狀態
+195,G40809,"Other epilepsy, not intractable, without status epilepticus",其他癲癇，非難治之癲癇，未伴有癲癇重積狀態
+196,G4081,"Other epilepsy, intractable",其他癲癇，難治之癲癇
+197,G40811,"Other epilepsy, intractable, with status epilepticus",其他癲癇，難治之癲癇，伴有癲癇重積狀態
+198,G40819,"Other epilepsy, intractable, without status epilepticus",其他癲癇，難治之癲癇，未伴有癲癇重積狀態
+199,G4089,Other seizures,其他發作
+200,G409,"Epilepsy,unspecified",癲癇
+201,G4090,"Epilepsy, unspecified, not intractable",癲癇，非難治之癲癇
+202,G40901,"Epilepsy, unspecified, not intractable, with status epilepticus",癲癇，非難治之癲癇，伴有癲癇重積狀態
+203,G40909,"Epilepsy, unspecified, not intractable, without status epilepticus",癲癇，非難治之癲癇，未伴有癲癇重積狀態
+204,G4091,"Epilepsy, unspecified, intractable",癲癇，難治之癲癇
+205,G40911,"Epilepsy, unspecified, intractable, with status epilepticus",癲癇，難治之癲癇，伴有癲癇重積狀態
+206,G40919,"Epilepsy, unspecified, intractable, without status epilepticus",癲癇，難治之癲癇，未伴有癲癇重積狀態
+207,G43,Migraine,偏頭痛
+208,G430,Migraine without aura,無預兆偏頭痛
+209,G4300,"Migraine without aura, not intractable",無預兆偏頭痛，非頑固性
+210,G43001,"Migraine without aura, not intractable, with status migrainosus",無預兆偏頭痛，非頑固性，伴有偏頭痛重積狀態
+211,G43009,"Migraine without aura, not intractable, without status migrainosus",無預兆偏頭痛，非頑固性，未伴有偏頭痛重積狀態
+212,G4301,"Migraine without aura, intractable",無預兆偏頭痛，頑固性
+213,G43011,"Migraine without aura, intractable, with status migrainosus",無預兆偏頭痛，頑固性，伴有偏頭痛重積狀態
+214,G43019,"Migraine without aura, intractable, without status migrainosus",無預兆偏頭痛，頑固性，未伴有偏頭痛重積狀態
+215,G431,Migraine with aura,無預兆偏頭痛，非頑固性
+216,G4310,"Migraine with aura, not intractable",預兆偏頭痛，非頑固性
+217,G43101,"Migraine with aura, not intractable, with status migrainosus",預兆偏頭痛，非頑固性，伴有偏頭痛重積狀態
+218,G43109,"Migraine with aura, not intractable, without status migrainosus",預兆偏頭痛，非頑固性，未伴有偏頭痛重積狀態
+219,G4311,"Migraine with aura, intractable",預兆偏頭痛，頑固性
+220,G43111,"Migraine with aura, intractable, with status migrainosus",預兆偏頭痛，頑固性，伴有偏頭痛重積狀態
+221,G43119,"Migraine with aura, intractable, without status migrainosus",預兆偏頭痛，頑固性，伴有偏頭痛重積狀態
+222,G432,Status migrainosus,偏頭痛重積狀態
+223,G434,Hemiplegic migraine,偏癱偏頭痛
+224,G4340,"Hemiplegic migraine, not intractable",偏癱偏頭痛，非頑固性
+225,G43401,"Hemiplegic migraine, not intractable, with status migrainosus",偏癱偏頭痛，非頑固性，伴有偏頭痛重積狀態
+226,G43409,"Hemiplegic migraine, not intractable, without status migrainosus",偏癱偏頭痛，非頑固性，未伴有偏頭痛重積狀態
+227,G4341,"Hemiplegic migraine, intractable",偏癱偏頭痛，頑固性
+228,G43411,"Hemiplegic migraine, intractable, with status migrainosus",偏癱偏頭痛，頑固性，伴有偏頭痛重積狀態
+229,G43419,"Hemiplegic migraine, intractable, without status migrainosus",偏癱偏頭痛，頑固性，未伴有偏頭痛重積狀態
+230,G435,Persistent migraine aura without cerebral infarction,無腦梗塞之持續性偏頭痛預兆
+231,G4350,"Persistent migraine aura without cerebral infarction, not intractable",無腦梗塞之持續性偏頭痛預兆，非頑固性
+232,G43501,"Persistent migraine aura without cerebral infarction, not intractable, with status migrainosus",無腦梗塞之持續性偏頭痛預兆，非頑固性，伴有偏頭痛重積狀態
+233,G43509,"Persistent migraine aura without cerebral infarction, not intractable, without status migrainosus",無腦梗塞之持續性偏頭痛預兆，非頑固性，未伴有偏頭痛重積狀態
+234,G4351,"Persistent migraine aura without cerebral infarction, intractable",無腦梗塞之持續性偏頭痛預兆，頑固性
+235,G43511,"Persistent migraine aura without cerebral infarction, intractable, with status migrainosus",無腦梗塞之持續性偏頭痛預兆，頑固性，伴有偏頭痛重積狀態
+236,G43519,"Persistent migraine aura without cerebral infarction, intractable, without status migrainosus",無腦梗塞之持續性偏頭痛預兆，頑固性，未伴有偏頭痛重積狀態
+237,G436,Persistent migraine aura with cerebral infarction,伴有腦梗塞之持續性偏頭痛預兆
+238,G4360,"Persistent migraine aura with cerebral infarction, not intractable",伴有腦梗塞之持續性偏頭痛預兆，非頑固性
+239,G43601,"Persistent migraine aura with cerebral infarction, not intractable, with status migrainosus",伴有腦梗塞之持續性偏頭痛預兆，非頑固性，伴有偏頭痛重積狀態
+240,G43609,"Persistent migraine aura with cerebral infarction, not intractable, without status migrainosus",伴有腦梗塞之持續性偏頭痛預兆，非頑固性，未伴有偏頭痛重積狀態
+241,G4361,"Persistent migraine aura with cerebral infarction, intractable",伴有腦梗塞之持續性偏頭痛預兆，頑固性
+242,G43611,"Persistent migraine aura with cerebral infarction, intractable, with status migrainosus",伴有腦梗塞之持續性偏頭痛預兆，頑固性，伴有偏頭痛重積狀態
+243,G43619,"Persistent migraine aura with cerebral infarction, intractable, without status migrainosus",伴有腦梗塞之持續性偏頭痛預兆，頑固性，未伴有偏頭痛重積狀態
+244,G437,Chronic migraine without aura,慢性無預兆偏頭痛，非頑固性
+245,G4370,"Chronic migraine without aura, not intractable",慢性無預兆偏頭痛，非頑固性
+246,G43701,"Chronic migraine without aura, not intractable, with status migrainosus",慢性無預兆偏頭痛，非頑固性，伴有偏頭痛重積狀態
+247,G43709,"Chronic migraine without aura, not intractable, without status migrainosus",慢性無預兆偏頭痛，非頑固性，未伴有偏頭痛重積狀態
+248,G4371,"Chronic migraine without aura, intractable",慢性無預兆偏頭痛，頑固性
+249,G43711,"Chronic migraine without aura, intractable, with status migrainosus",慢性無預兆偏頭痛，頑固性，伴有偏頭痛重積狀態
+250,G43719,"Chronic migraine without aura, intractable, without status migrainosus",慢性無預兆偏頭痛，頑固性，未伴有偏頭痛重積狀態
+251,G438,"Other migraine,",其他偏頭痛
+252,G4380,"Other migraine, not intractable",其他偏頭痛，非頑固性
+253,G43801,"Other migraine, not intractable, with status migrainosus",其他偏頭痛，非頑固性，伴有偏頭痛重積狀態
+254,G43809,"Other migraine, not intractable, without status migrainosus",其他偏頭痛，非頑固性，未伴有偏頭痛重積狀態
+255,G4381,"Other migraine, intractable",其他偏頭痛，頑固性
+256,G43811,"Other migraine, intractable, with status migrainosus",其他偏頭痛，頑固性，伴有偏頭痛重積狀態
+257,G43819,"Other migraine, intractable, without status migrainosus",其他偏頭痛，頑固性，未伴有偏頭痛重積狀態
+258,G439,"Migraine, unspecified",偏頭痛，未明確定義型態
+259,G4390,"Migraine, unspecified, not intractable",偏頭痛，未明確定義型態，非頑固性
+260,G43901,"Migraine, unspecified, not intractable, with status migrainosus",偏頭痛，未明確定義型態，非頑固性，伴有偏頭痛重積狀態
+261,G43909,"Migraine, unspecified, not intractable, without status migrainosus",偏頭痛，未明確定義型態，非頑固性，未伴有偏頭痛重積狀態
+262,G4391,"Migraine, unspecified, intractable",偏頭痛，未明確定義型態，頑固性
+263,G43911,"Migraine, unspecified, intractable, with status migrainosus",偏頭痛，未明確定義型態，頑固性，伴有偏頭痛重積狀態
+264,G43919,"Migraine, unspecified, intractable, without status migrainosus",偏頭痛，未明確定義型態，頑固性，未伴有偏頭痛重積狀態
+265,G43a,Cyclical vomiting,週期性嘔吐
+266,G43a0,"Cyclical vomiting, not intractable",週期性嘔吐，非頑固性
+267,G43a01,"Cyclical vomiting, not intractable, with status migrainosus",週期性嘔吐，非頑固性，伴有偏頭痛重積狀態
+268,G43a09,"Cyclical vomiting, not intractable, without status migrainosus",週期性嘔吐，非頑固性，未伴有偏頭痛重積狀態
+269,G43a1,"Cyclical vomiting, intractable",週期性嘔吐，頑固性
+270,G43a11,"Cyclical vomiting, intractable, with status migrainosus",週期性嘔吐，頑固性，伴有偏頭痛重積狀態
+271,G43a19,"Cyclical vomiting, intractable, without status migrainosus",週期性嘔吐，頑固性，未伴有偏頭痛重積狀態
+272,G43b,Ophthalmoplegic migraine,眼肌麻痺偏頭痛
+273,G43b0,"Ophthalmoplegic migraine, not intractable",眼肌麻痺偏頭痛，非頑固性
+274,G43b01,"Ophthalmoplegic migraine, not intractable, with status migrainosus",眼肌麻痺偏頭痛，非頑固性，伴有偏頭痛重積狀態
+275,G43b09,"Ophthalmoplegic migraine, not intractable, without status migrainosus",眼肌麻痺偏頭痛，非頑固性，未伴有偏頭痛重積狀態
+276,G43b1,"Ophthalmoplegic migraine, intractable",眼肌麻痺偏頭痛，頑固性
+277,G43b11,"Ophthalmoplegic migraine, intractable, with status migrainosus",眼肌麻痺偏頭痛，頑固性，伴有偏頭痛重積狀態
+278,G43b19,"Ophthalmoplegic migraine, intractable, without status migrainosus",眼肌麻痺偏頭痛，頑固性，未伴有偏頭痛重積狀態
+279,G43c,Periodic headache syndromes in child or adult,兒童或成人週期性頭痛症候群
+280,G43c0,"Periodic headache syndromes in child or adult, not intractable",兒童或成人週期性頭痛症候群，非頑固性
+281,G43c01,"Periodic headache syndromes in child or adult, not intractable, with status migrainosus",兒童或成人週期性頭痛症候群，非頑固性，伴有偏頭痛重積狀態
+282,G43c09,"Periodic headache syndromes in child or adult, not intractable, without status migrainosus",兒童或成人週期性頭痛症候群，非頑固性，未伴有偏頭痛重積狀態
+283,G43c1,"Periodic headache syndromes in child or adult, intractable",兒童或成人週期性頭痛症候群，頑固性
+284,G43c11,"Periodic headache syndromes in child or adult, intractable, with status migrainosus",兒童或成人週期性頭痛症候群，非頑固性，伴有偏頭痛重積狀態
+285,G43c19,"Periodic headache syndromes in child or adult, intractable, without status migrainosus",兒童或成人週期性頭痛症候群，頑固性，未伴有偏頭痛重積狀態
+286,G43d,Menstrual migraine,月經偏頭痛
+287,G43d0,"Menstrual migraine, not intractable",月經偏頭痛，非頑固性
+288,G43d01,"Menstrual migraine, not intractable, with status migrainosus",月經偏頭痛，非頑固性，伴有偏頭痛重積狀態
+289,G43d09,"Menstrual migraine, not intractable, without status migrainosus",月經偏頭痛，非頑固性，未伴有偏頭痛重積狀態
+290,G43d1,"Menstrual migraine, intractable",月經偏頭痛，頑固性
+291,G43d11,"Menstrual migraine, intractable, with status migrainosus",月經偏頭痛，頑固性，伴有偏頭痛重積狀態
+292,G43d19,"Menstrual migraine, intractable, without status migrainosus",月經偏頭痛，頑固性，未伴有偏頭痛重積狀態
+293,G44,Other headache syndromes,其他頭痛症候群
+294,G440,Cluster headaches and other trigeminal autonomic cephalgias (TAC),叢發性頭痛及三叉自律神經頭痛
+295,G4400,"Cluster headache syndrome, unspecified",叢發性頭痛症候群，未明確定義型態
+296,G44001,"Cluster headache syndrome, unspecified, intractable",叢發性頭痛症候群，未明確定義型態，頑固性
+297,G44009,"Cluster headache syndrome, unspecified, not intractable",叢發性頭痛症候群，未明確定義型態，非頑固性
+298,G4401,Episodic cluster headache,陣發性叢發性頭痛
+299,G44011,"Episodic cluster headache, intractable",陣發性叢發性頭痛，頑固性
+300,G44019,"Episodic cluster headache, not intractable",陣發性叢發性頭痛，非頑固性
+301,G4402,Chronic cluster headache,慢性叢發性頭痛
+302,G44021,"Chronic cluster headache, intractable",慢性叢發性頭痛，頑固性
+303,G44029,"Chronic cluster headache, not intractable",慢性叢發性頭痛，非頑固性
+304,G4403,Episodic paroxysmal hemicrania,陣發發作性半邊頭痛
+305,G44031,"Episodic paroxysmal hemicrania, intractable",陣發發作性半邊頭痛，頑固性
+306,G44039,"Episodic paroxysmal hemicrania, not intractable",陣發發作性半邊頭痛，非頑固性
+307,G4404,Chronic paroxysmal hemicrania,慢性發作性半邊頭痛
+308,G44041,"Chronic paroxysmal hemicrania, intractable",慢性發作性半邊頭痛，頑固性
+309,G44049,"Chronic paroxysmal hemicrania, not intractable",慢性發作性半邊頭痛，非頑固性
+310,G4405,Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT),短暫單側神經痛性頭痛發作伴有結膜充血及流淚
+311,G44051,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), intractable",短暫單側神經痛性頭痛發作伴有結膜充血及流淚(SUNCT)，頑固性
+312,G44059,"Short lasting unilateral neuralgiform headache with conjunctival injection and tearing (SUNCT), not intractable",短暫單側神經痛性頭痛發作伴有結膜充血及流淚(SUNCT)，非頑固性
+313,G4409,Other trigeminal autonomic cephalgias (TAC),其他三叉自律神經頭痛
+314,G44091,"Other trigeminal autonomic cephalgias (TAC), intractable",其他三叉自律神經頭痛，頑固性
+315,G44099,"Other trigeminal autonomic cephalgias (TAC), not intractable",其他三叉自律神經頭痛，非頑固性
+316,G441,"Vascular headache, not elsewhere classified",他處未歸類之血管性頭痛
+317,G4410,"Vascular headache, not elsewhere classified, not intractable",他處未歸類之血管性頭痛，非頑固性
+318,G4411,"Vascular headache, not elsewhere classified, intractable",他處未歸類之血管性頭痛，頑固性
+319,G442,Tension-type headache,緊縮型頭痛
+320,G4420,"Tension-type headache, unspecified",緊縮型頭痛
+321,G44201,"Tension-type headache, unspecified, intractable",緊縮型頭痛，未明確定義型態，頑固性
+322,G44209,"Tension-type headache, unspecified, not intractable",緊縮型頭痛，未明確定義型態，非頑固性
+323,G4421,Episodic tension-type headache,陣發性緊縮型頭痛
+324,G44211,"Episodic tension-type headache, intractable",陣發性緊縮型頭痛，頑固性
+325,G44219,"Episodic tension-type headache, not intractable",陣發性緊縮型頭痛，非頑固性
+326,G4422,Chronic tension-type headache,慢性緊縮型頭痛
+327,G44221,"Chronic tension-type headache, intractable",慢性緊縮型頭痛，頑固性
+328,G44229,"Chronic tension-type headache, not intractable",慢性緊縮型頭痛，非頑固性
+329,G443,Post-traumatic headache,外傷後頭痛
+330,G4430,"Post-traumatic headache, unspecified",外傷後頭痛
+331,G44301,"Post-traumatic headache, unspecified, intractable",外傷後頭痛，未明確定義型態，頑固性
+332,G44309,"Post-traumatic headache, unspecified, not intractable",外傷後頭痛，未明確定義型態，非頑固性
+333,G4431,Acute post-traumatic headache,急性外傷後頭痛
+334,G44311,"Acute post-traumatic headache, intractable",急性外傷後頭痛，頑固性
+335,G44319,"Acute post-traumatic headache, not intractable",急性外傷後頭痛，非頑固性
+336,G4432,Chronic post-traumatic headache,慢性外傷後頭痛
+337,G44321,"Chronic post-traumatic headache, intractable",慢性外傷後頭痛，頑固性
+338,G44329,"Chronic post-traumatic headache, not intractable",慢性外傷後頭痛，非頑固性
+339,G444,"Drug-induced headache, not elsewhere classified",藥物導致之頭痛，他處未分類
+340,G4440,"Drug-induced headache, not elsewhere classified, not intractable",藥物導致之頭痛，他處未歸類者，非頑固性
+341,G4441,"Drug-induced headache, not elsewhere classified, intractable",藥物導致之頭痛，他處未歸類者，頑固性
+342,G445,Complicated headche syndromes,複雜性頭痛症候群
+343,G4451,Hemicrania continua,持續性半邊頭痛
+344,G4452,New daily persistent headache (NDPH),新發生每日持續性頭痛
+345,G4453,Primary thunderclap headache,原發性雷擊頭痛
+346,G4459,Other complicated headache syndrome,其他複雜性頭痛症候群
+347,G448,Other specified headche syndromes,其他頭痛症候群
+348,G4481,Hypnic headache,睡眠頭痛
+349,G4482,Headache associated with sexual activity,性行為相關之頭痛
+350,G4483,Primary cough headache,原發性咳嗽頭痛
+351,G4484,Primary exertional headache,原發性運動頭痛
+352,G4485,Primary stabbing headache,原發性刺戳性頭痛
+353,G4489,Other headache syndrome,其他頭痛症候群
+354,G45,Transient cerebral ischemic attacks and related syndromes,短暫性腦缺血發作及相關症候群
+355,G450,Vertebro-basilar artery syndrome,脊椎－基底動脈症候群
+356,G451,Carotid artery syndrome (hemispheric),(腦半球性)頸動脈症候群
+357,G452,Multiple and bilateral precerebral artery syndromes,多發性及兩側腦前動脈症候群
+358,G453,Amaurosis fugax,短暫性黑矇
+359,G454,Transient global amnesia,短暫性整體失憶
+360,G458,Other transient cerebral ischemic attacks and related syndromes,其他短暫性大腦缺血發作及有關症候群
+361,G459,"Transient cerebral ischemic attack, unspecified",短暫性大腦缺血發作，未特定
+362,G46,Vascular syndromes of brain in cerebrovascular diseases,腦血管疾病所致的腦血管症候群
+363,G460,Middle cerebral artery syndrome,中大腦動脈症候群
+364,G461,Anterior cerebral artery syndrome,前大腦動脈症候群
+365,G462,Posterior cerebral artery syndrome,後大腦動脈症候群
+366,G463,Brain stem stroke syndrome,腦幹中風症候群
+367,G464,Cerebellar stroke syndrome,小腦中風症候群
+368,G465,Pure motor lacunar syndrome,純運動性腔隙症候群
+369,G466,Pure sensory lacunar syndrome,純感覺性腔隙症候群
+370,G467,Other lacunar syndromes,其他腔隙症候群
+371,G468,Other vascular syndromes of brain in cerebrovascular diseases,腦血管疾病所致之腦部其他血管性症候群
+372,G47,Sleep disorders,睡眠疾患
+373,G470,Insomnia,失眠
+374,G4700,"Insomnia, unspecified",失眠，未特定
+375,G4701,Insomnia due to medical condition,醫療情況引起之失眠
+376,G4709,Other insomnia,其他失眠
+377,G471,Hypersomnia,多眠症
+378,G4710,"Hypersomnia, unspecified",多眠症，未特定
+379,G4711,Idiopathic hypersomnia with long sleep time,特定性多眠症伴有長時間睡眠
+380,G4712,Idiopathic hypersomnia without long sleep time,特定性多眠症未伴有長時間睡眠
+381,G4713,Recurrent hypersomnia,復發性多眠症
+382,G4714,Hypersomnia due to medical condition,醫療情況引起之多眠症
+383,G4719,Other hypersomnia,其他多眠症
+384,G472,Circadian rhythm sleep disorders,晝夜生理節律睡眠疾患
+385,G4720,"Circadian rhythm sleep disorder, unspecified type",晝夜生理節律睡眠疾患，未特定型
+386,G4721,"Circadian rhythm sleep disorder, delayed sleep phase type",晝夜生理節律睡眠疾患，延遲睡眠期型
+387,G4722,"Circadian rhythm sleep disorder, advanced sleep phase type",晝夜生理節律睡眠疾患，超前睡眠階段型
+388,G4723,"Circadian rhythm sleep disorder, irregular sleep wake type",晝夜生理節律睡眠疾患，不規則覺醒週期型
+389,G4724,"Circadian rhythm sleep disorder, free running type",晝夜生理節律睡眠疾患，自由賽跑型
+390,G4725,"Circadian rhythm sleep disorder, jet lag type",晝夜生理節律睡眠疾患，時差型
+391,G4726,"Circadian rhythm sleep disorder, shift work type",晝夜生理節律睡眠疾患，輪班工作型
+392,G4727,Circadian rhythm sleep disorder in conditions classified elsewhere,歸類於他處之晝夜生理節律睡眠疾患
+393,G4729,Other circadian rhythm sleep disorder,其他晝夜生理節律睡眠疾患
+394,G473,Sleep apnea,睡眠呼吸中止
+395,G4730,"Sleep apnea, unspecified",睡眠呼吸中止，未特定
+396,G4731,Primary central sleep apnea,原發性中樞型睡眠呼吸中止
+397,G4732,High altitude periodic breathing,高處陣發性呼吸
+398,G4733,Obstructive sleep apnea (adult) (pediatric),阻塞型睡眠呼吸中止 (成人) (小兒)
+399,G4734,Idiopathic sleep related nonobstructive alveolar hypoventilation,特定性睡眠相關之非阻塞型肺泡換氣不足
+400,G4735,Congenital central alveolar hypoventilation syndrome,先天中樞性肺泡換氣不足症候群
+401,G4736,Sleep related hypoventilation in conditions classified elsewhere,歸類於他處情況之睡眠相關之肺泡換氣不足
+402,G4737,Central sleep apnea in conditions classified elsewhere,歸類於他處情況之中樞性睡眠呼吸中止
+403,G4739,Other sleep apnea,其他睡眠呼吸中止
+404,G474,Narcolepsy and cataplexy,猝睡症及猝倒症
+405,G4741,Narcolepsy,猝睡症
+406,G47411,Narcolepsy with cataplexy,猝睡症伴有猝倒症
+407,G47419,Narcolepsy without cataplexy,猝睡症未伴有猝倒症
+408,G4742,Narcolepsy in conditions classified elsewhere,歸類於他處之猝睡症
+409,G47421,Narcolepsy in conditions classified elsewhere with cataplexy,歸類於他處情況之猝倒症伴有嗜睡症
+410,G47429,Narcolepsy in conditions classified elsewhere without cataplexy,歸類於他處情況之猝倒症未伴有嗜睡症
+411,G475,Parasomnia,類睡症
+412,G4750,"Parasomnia, unspecified",類睡症，未特定
+413,G4751,Confusional arousals,混亂性醒覺
+414,G4752,REM sleep behavior disorder,快速眼球轉動睡眠行為疾患
+415,G4753,Recurrent isolated sleep paralysis,復發性隔離型睡眠麻痺
+416,G4754,Parasomnia in conditions classified elsewhere,歸類於他處之類睡症
+417,G4759,Other parasomnia,其他類睡症
+418,G476,Sleep related movement disorders,睡眠相關之動作疾患
+419,G4761,Periodic limb movement disorder,陣發性肢體動作疾患
+420,G4762,Sleep related leg cramps,睡眠相關之腳抽筋
+421,G4763,Sleep related bruxism,睡眠相關之磨牙
+422,G4769,Other sleep related movement disorders,其他睡眠相關之動作疾患
+423,G478,Other sleep disorders,其他睡眠疾患
+424,G479,"Sleep disorder, unspecified",睡眠疾患，未特定
+425,G50,Disorders of trigeminal nerve,三叉神經疾患
+426,G500,Trigeminal neuralgia,三叉神經痛
+427,G501,Atypical facial pain,非典型性臉痛
+428,G508,Other disorders of trigeminal nerve,三叉神經的其他疾患
+429,G509,"Disorder of trigeminal nerve, unspecified",三叉神經疾患 未特定
+430,G51,Facial nerve disorders,顏面神經疾患
+431,G510,Bell's palsy,Bell 氏麻痺
+432,G511,Geniculate ganglionitis,膝狀神經節炎
+433,G512,Melkersson's syndrome,Melkersson氏症候群
+434,G513,Clonic hemifacial spasm,陣攣性半顏面痙攣
+435,G514,Facial myokymia,顏面肌顫搐
+436,G518,Other disorders of facial nerve,顏面神經的其他疾患
+437,G519,"Disorder of facial nerve, unspecified",顏面神經疾患  未特定
+438,G52,Disorders of other cranial nerves,其他腦神經疾患
+439,G520,Disorders of olfactory nerve,嗅神經疾患
+440,G521,Disorders of glossopharyngeal nerve,舌咽神經疾患
+441,G522,Disorders of vagus nerve,迷走神經疾患
+442,G523,Disorders of hypoglossal nerve,舌下神經疾患
+443,G527,Disorders of multiple cranial nerves,多重顱神經疾患
+444,G528,Disorders of other specified cranial nerves,其他特定顱神經疾患
+445,G529,"Cranial nerve disorder, unspecified",顱神經疾患  未特定
+446,G53,Cranial nerve disorders in diseases classified elsewhere,歸類於他處疾病所致之顱神經疾患
+447,G54,Nerve root and plexus disorders,神經根及神經叢疾患
+448,G540,Brachial plexus disorders,臂神經叢疾患
+449,G541,Lumbosacral plexus disorders,腰薦椎神經叢疾患
+450,G542,"Cervical root disorders, not elsewhere classified",頸神經根疾患，他處未歸類者
+451,G543,"Thoracic root disorders, not elsewhere classified",胸神經根疾患，他處未歸類者
+452,G544,"Lumbosacral root disorders, not elsewhere classified",腰薦椎神經根疾患，他處未歸類者
+453,G545,Neuralgic amyotrophy,神經痛性肌萎縮症
+454,G546,Phantom limb syndrome with pain,伴有痛感的幻肢症候群
+455,G547,Phantom limb syndrome without pain,無疼痛感的幻肢症候群
+456,G548,Other nerve root and plexus disorders,其他神經根及神經叢疾患
+457,G549,"Nerve root and plexus disorder, unspecified",神經根及神經叢疾患  未特定
+458,G55,Nerve root and plexus compressions in diseases classified elsewhere,歸類於他處疾病所致之神經根及神經叢壓迫
+459,G56,Mononeuropathies of upper limb,上肢單一神經病變
+460,G560,Carpal tunnel syndrome,腕隧道症候群
+461,G5600,"Carpal tunnel syndrome, unspecified side",未特定側腕隧道症候群
+462,G5601,"Carpal tunnel syndrome, right side",右側腕隧道症候群
+463,G5602,"Carpal tunnel syndrome, left side",左側腕隧道症候群
+464,G561,Other lesions of median nerve,正中神經之其他病灶
+465,G5610,"Other lesions of median nerve, unspecified side",未特定側正中神經之其他病灶
+466,G5611,"Other lesions of median nerve, right side",右側正中神經之其他病灶
+467,G5612,"Other lesions of median nerve, left side",左側正中神經之其他病灶
+468,G562,Lesion of ulnar nerve,尺神經病灶
+469,G5620,"Lesion of ulnar nerve, unspecified side",未特定側尺神經病灶
+470,G5621,"Lesion of ulnar nerve, right side",右側尺神經病灶
+471,G5622,"Lesion of ulnar nerve, left side",左側尺神經病灶
+472,G563,Lesion of radial nerve,撓神經病灶
+473,G5630,"Lesion of radial nerve, unspecified side",未特定側撓神經病灶
+474,G5631,"Lesion of radial nerve, right side",右側撓神經病灶
+475,G5632,"Lesion of radial nerve, left side",左側撓神經病灶
+476,G564,Causalgia of upper limb,上肢灼痛
+477,G5640,"Causalgia of upper limb, unspecified side",未特定側上肢灼痛
+478,G5641,"Causalgia of upper limb, right side",右側上肢灼痛
+479,G5642,"Causalgia of upper limb, left side",左側上肢灼痛
+480,G568,Other mononeuropathies of upper limb,其他上肢單一神經病變
+481,G5680,"Other mononeuropathies of upper limb, unspecified side",未特定側其他上肢單一神經炎
+482,G5681,"Other mononeuropathies of upper limb, right side",右側其他上肢單一神經炎
+483,G5682,"Other mononeuropathies of upper limb, left side",左側其他上肢單一神經炎
+484,G569,"Mononeuropathy of upper limb, unspecified",上肢單一神經病變
+485,G5690,"Mononeuropathy of upper limb, unspecified, unspecified side",未特定側上肢單一神經炎
+486,G5691,"Mononeuropathy of upper limb, unspecified, right side",右側上肢單一神經炎
+487,G5692,"Mononeuropathy of upper limb, unspecified, left side",左側上肢單一神經炎
+488,G57,Mononeuropathies of lower limb,下肢單一神經病變
+489,G570,Lesion of sciatic nerve,坐骨神經病灶
+490,G5700,"Lesion of sciatic nerve, unspecified side",未特定側坐骨神經病灶
+491,G5701,"Lesion of sciatic nerve, right side",右側坐骨神經病灶
+492,G5702,"Lesion of sciatic nerve, left side",左側坐骨神經病灶
+493,G571,Meralgia paresthetica,感覺異樣性股痛
+494,G5710,"Meralgia paresthetica, unspecified side",未特定側感覺異樣性股痛
+495,G5711,"Meralgia paresthetica, right side",右側感覺異樣性股痛
+496,G5712,"Meralgia paresthetica, left side",左側感覺異樣性股痛
+497,G572,Lesion of femoral nerve,股神經病灶
+498,G5720,"Lesion of femoral nerve, unspecified side",未特定側股神經病灶
+499,G5721,"Lesion of femoral nerve, right side",右側股神經病灶
+500,G5722,"Lesion of femoral nerve, left side",左側股神經病灶
+501,G573,Lesion of lateral popliteal nerve,外側膕神經病灶
+502,G5730,"Lesion of lateral popliteal nerve, unspecified side",未特定側外側膕神經病灶
+503,G5731,"Lesion of lateral popliteal nerve, right side",右側外側膕神經病灶
+504,G5732,"Lesion of lateral popliteal nerve, left side",左側外側膕神經病灶
+505,G574,Lesion of medial popliteal nerve,內側膕神經病灶
+506,G5740,"Lesion of medial popliteal nerve, unspecified side",未特定側內側膕神經病灶
+507,G5741,"Lesion of medial popliteal nerve, right side",右側內側膕神經病灶
+508,G5742,"Lesion of medial popliteal nerve, left side",左側內側膕神經病灶
+509,G575,Tarsal tunnel syndrome,跗隧道症候群
+510,G5750,"Tarsal tunnel syndrome, unspecified side",未特定側跗隧道症候群
+511,G5751,"Tarsal tunnel syndrome, right side",右側跗隧道症候群
+512,G5752,"Tarsal tunnel syndrome, left side",左側跗隧道症候群
+513,G576,Lesion of plantar nerve,蹠神經病灶
+514,G5760,"Lesion of plantar nerve, unspecified side",未特定側蹠神經病灶
+515,G5761,"Lesion of plantar nerve, right side",右側蹠神經病灶
+516,G5762,"Lesion of plantar nerve, left side",左側蹠神經病灶
+517,G577,Causalgia of lower limb,下肢灼痛
+518,G5770,"Causalgia of lower limb, unspecified side",未特定側下肢灼痛
+519,G5771,"Causalgia of lower limb, right side",右側下肢灼痛
+520,G5772,"Causalgia of lower limb, left side",左側下肢灼痛
+521,G578,Other mononeuropathies of lower limb,下肢其他單一神經病變
+522,G5780,"Other mononeuropathies of lower limb, unspecified side",未特定側下肢其他單一神經病變
+523,G5781,"Other mononeuropathies of lower limb, right side",右側下肢其他單一神經病變
+524,G5782,"Other mononeuropathies of lower limb, left side",左側下肢其他單一神經病變
+525,G579,"Mononeuropathy of lower limb, unspecified",下肢單一神經病變
+526,G5790,"Mononeuropathy of lower limb, unspecified, unspecified side",未特定側下肢單一神經病變
+527,G5791,"Mononeuropathy of lower limb, unspecified, right side",右側下肢單一神經病變
+528,G5792,"Mononeuropathy of lower limb, unspecified, left side",左側下肢單一神經病變
+529,G58,Other mononeuropathies,其他單一神經病變
+530,G580,Intercostal neuropathy,肋間神經病變
+531,G587,Mononeuritis multiplex,多發性單一神經炎
+532,G588,Other specified mononeuropathies,其他特定之單一神經病變
+533,G589,"Mononeuropathy, unspecified",單一神經病變，未特定
+534,G59,Mononeuropathy in diseases classified elsewhere,歸類於他處疾病所致之單一神經病變
+535,G60,Hereditary and idiopathic neuropathy,遺傳性及特發性神經病變
+536,G600,Hereditary motor and sensory neuropathy,遺傳性運動及感覺神經病變
+537,G601,Refsum's disease,Refsum氏病
+538,G602,Neuropathy in association with hereditary ataxia,與遺傳性運動失調相關的神經病變
+539,G603,Idiopathic progressive neuropathy,原發性進行性神經病變
+540,G608,Other hereditary and idiopathic neuropathies,其他遺傳性及原發性神經病變
+541,G609,"Hereditary and idiopathic neuropathy, unspecified",遺傳性及原發性神經病變  未特定
+542,G61,Inflammatory polyneuropathy,發炎性多發神經病變
+543,G610,Guillain-Barre syndrome,Guillain-Barre 氏症候群
+544,G611,Serum neuropathy,血清性神經病變
+545,G618,Other inflammatory polyneuropathies,其他發炎性多發神經病變
+546,G6181,Chronic inflammatory demyelinating polyneuritis,慢性發炎性脫髓鞘多發神經炎
+547,G6189,Other inflammatory polyneuropathies,其他發炎性多發神經病變
+548,G619,"Inflammatory polyneuropathy, unspecified",發炎性多發神經病變  未特定
+549,G62,Other and unspecified polyneuropathies,其他及為特定之多發神經病變
+550,G620,Drug-induced polyneuropathy,藥物導致之多發神經病變
+551,G621,Alcoholic polyneuropathy,酒精性多發神經病變
+552,G622,Polyneuropathy due to other toxic agents,其他毒性製劑所致之多發神經病變
+553,G628,Other specified polyneuropathies,其他特定多發神經病變
+554,G6281,Critical illness polyneuropathy,重症多發神經病變
+555,G6282,Radiation-induced polyneuropathy,放射線導致之多發神經病變
+556,G6289,Other specified polyneuropathies,其他特定多發神經病變
+557,G629,"Polyneuropathy, unspecified",多發神經病變 未特定
+558,G63,Polyneuropathy in diseases classified elsewhere,歸類於他處疾病所致之多發神經病變
+559,G64,Other disorders of peripheral nervous system,周邊神經系統其他疾患
+560,G65,Sequelae of inflammatory and toxic polyneuropathies,發炎性及毒性多發神經病變後遺症
+561,G650,Sequelae of Guillain-Barre syndrome,Guillain-Barré氏症候群後遺症
+562,G651,Sequelae of other inflammatory polyneuropathy,其他發炎性多發神經病變後遺症
+563,G652,Sequelae of toxic polyneuropathy,毒性多發神經病變後遺症
+564,G70,Myasthenia gravis and other myoneural disorders,重症肌無力及其他肌肉神經疾患
+565,G700,Myasthenia gravis,重症肌無力
+566,G7000,Myasthenia gravis without (acute) exacerbation,重症肌無力未伴有急性惡化
+567,G7001,Myasthenia gravis with (acute) exacerbation,重症肌無力伴有急性惡化
+568,G701,Toxic myoneural disorders,中毒性肌肉神經疾患
+569,G702,Congenital and developmental myasthenia,先天性及發育性肌無力
+570,G708,Other specified myoneural disorders,其他特定的肌肉神經疾患
+571,G709,"Myoneural disorder, unspecified",肌肉神經疾患 未特定
+572,G71,Primary disorders of muscles,肌肉特發性疾患
+573,G710,Muscular dystrophy,肌肉失養症
+574,G711,Myo tonic disorders,肌強直疾患
+575,G7111,Myotonic muscular dystrophy,肌強直性 肌肉失養症
+576,G7112,Myotonia congenita,先天性肌強直症
+577,G7113,Myotonic chondrodystrophy,肌強直性軟骨失養症
+578,G7114,Drug induced myotonia,藥物導致之肌強直症
+579,G7119,Other specified myotonic disorders,其他特定肌強直疾患
+580,G712,Congenital myopathies,先天性肌病變
+581,G713,"Mitochondrial myopathy, not elsewhere classified",粒線體肌病變，他處未歸類者
+582,G718,Other primary disorders of muscles,其他肌肉原發性疾患
+583,G719,"Primary disorder of muscle, unspecified",肌肉原發性疾患 未特定
+584,G72,Other and unspecified myopathies,其他及為特定之肌病變
+585,G720,Drug-induced myopathy,藥物導致之肌病變
+586,G721,Alcoholic myopathy,酒精性肌病變
+587,G722,Myopathy due to other toxic agents,其他毒性製劑所致的肌病變
+588,G723,Periodic paralysis,週期性麻痺
+589,G724,"Inflammatory and immune myopathies, not elsewhere classified",發炎性肌病變，他處未分類
+590,G7241,Inclusion body myositis [IBM],内含体肌病變[IBM]
+591,G7249,"Other inflammatory and immune myopathies, not elsewhere classified",其他發炎及免疫性肌病變，他處未歸類者
+592,G728,Other specified myopathies,其他特定肌病變
+593,G7281,Critical illness myopathy,重症肌病變
+594,G7289,Other specified myopathies,其他特定肌病變
+595,G729,"Myopathy, unspecified",肌病變 未特定
+596,G73,Disorders of myoneural junction and muscle in diseases classified elsewhere,歸類於他處疾病所致之肌肉神經接合處及肌肉疾患
+597,G731,Lambert-Eaton syndrome,Lambert-Eaton症候群
+598,G733,Myasthenic syndromes in other diseases classified elsewhere,歸類於他處疾病所致之肌無力症候群
+599,G737,Myopathy in diseases classified elsewhere,歸類於他處疾病所致之肌病變
+600,G80,Cerebral palsy,嬰兒腦性麻痺
+601,G800,Spastic quadriplegic cerebral palsy,僵直性四肢癱型腦性麻痺
+602,G801,Spastic diplegic cerebral palsy,僵直性兩側癱型腦性麻痺
+603,G802,Spastic hemiplegic cerebral palsy,僵直性偏癱型腦性麻痺
+604,G803,Athetoid cerebral palsy,類手足徐動性腦性痲痺
+605,G804,Ataxic cerebral palsy,共劑失調性腦性麻痺
+606,G808,Other cerebral palsy,其他腦性麻痺
+607,G809,"Cerebral palsy, unspecified",腦性麻痺，未特定類型，未特定
+608,G81,Hemiplegia and hemiparesis,偏癱
+609,G810,Flaccid hemiplegia,鬆弛性偏癱
+610,G8100,Flaccid hemiplegia affecting unspecified side,未特定影響側別鬆弛性偏癱
+611,G8101,Flaccid hemiplegia affecting right dominant side,影響右邊優勢側鬆弛性偏癱
+612,G8102,Flaccid hemiplegia affecting left dominant side,影響左邊優勢側鬆弛性偏癱
+613,G8103,Flaccid hemiplegia affecting right nondominant side,影響右邊非優勢側鬆弛性偏癱
+614,G8104,Flaccid hemiplegia affecting left nondominant side,影響左邊非優勢側鬆弛性偏癱
+615,G811,Spastic hemiplegia,僵直性偏癱
+616,G8110,Spastic hemiplegia affecting unspecified side,未特定影響側別僵直性偏癱
+617,G8111,Spastic hemiplegia affecting right dominant side,影響右邊優勢側僵直性偏癱
+618,G8112,Spastic hemiplegia affecting left dominant side,影響左邊優勢側僵直性偏癱
+619,G8113,Spastic hemiplegia affecting right nondominant side,影響右邊非優勢側僵直性偏癱
+620,G8114,Spastic hemiplegia affecting left nondominant side,影響左邊非優勢側僵直性偏癱
+621,G819,"Hemiplegia, unspecified",偏癱
+622,G8190,"Hemiplegia, unspecified affecting unspecified side",未特定影響側別偏癱
+623,G8191,"Hemiplegia, unspecified affecting right dominant side",影響右邊優勢側偏癱
+624,G8192,"Hemiplegia, unspecified affecting left dominant side",影響左邊優勢側偏癱
+625,G8193,"Hemiplegia, unspecified affecting right nondominant side",影響右邊非優勢側偏癱
+626,G8194,"Hemiplegia, unspecified affecting left nondominant side",影響左邊非優勢側偏癱
+627,G82,Paraplegia (paraparesis) and quadriplegia (quadriparesis),下身癱瘓[截癱]及四肢癱
+628,G822,Parplegia,截癱
+629,G8220,"Paraplegia, unspecified",截癱，未特定
+630,G8221,"Paraplegia, complete",完全截癱
+631,G8222,"Paraplegia, incomplete",不完全截癱
+632,G825,Quadriplegia,四肢癱
+633,G8250,"Quadriplegia, unspecified",四肢癱，未特定
+634,G8251,"Quadriplegia, C1-C4 complete",完全四肢癱，C1-C4
+635,G8252,"Quadriplegia, C1-C4 incomplete",不完全四肢癱，C1-C4
+636,G8253,"Quadriplegia, C5-C7 complete",完全四肢癱，C5-C7
+637,G8254,"Quadriplegia, C5-C7 incomplete",不完全四肢癱，C5-C7
+638,G83,Other paralytic syndromes,其他麻痺性症候群
+639,G830,Diplegia of upper limbs,上肢雙側癱
+640,G831,Monoplegia of lower limb,下肢單肢癱
+641,G8310,Monoplegia of lower limb affecting unspecified side,影響未特定側別下肢單肢癱
+642,G8311,Monoplegia of lower limb affecting right dominant side,影響右邊優勢側下肢單肢癱
+643,G8312,Monoplegia of lower limb affecting left dominant side,影響左邊優勢側下肢單肢癱
+644,G8313,Monoplegia of lower limb affecting right nondominant side,影響右邊非優勢側下肢單肢癱
+645,G8314,Monoplegia of lower limb affecting left nondominant side,影響左邊非優勢側下肢單肢癱
+646,G832,Monoplegia of upper limb,上肢單肢癱
+647,G8320,Monoplegia of upper limb affecting unspecified side,影響未特定側別上肢單肢癱
+648,G8321,Monoplegia of upper limb affecting right dominant side,影響右邊優勢側上肢單肢癱
+649,G8322,Monoplegia of upper limb affecting left dominant side,影響左邊優勢側上肢單肢癱
+650,G8323,Monoplegia of upper limb affecting right nondominant side,影響右邊非優勢側上肢單肢癱
+651,G8324,Monoplegia of upper limb affecting left nondominant side,影響左邊非優勢側上肢單肢癱
+652,G833,"Monoplegia, unspecified",單肢癱
+653,G8330,"Monoplegia, unspecified affecting unspecified side",影響未特定側別單肢癱
+654,G8331,"Monoplegia, unspecified affecting right dominant side",影響右邊優勢側單肢癱
+655,G8332,"Monoplegia, unspecified affecting left dominant side",影響左邊優勢側單肢癱
+656,G8333,"Monoplegia, unspecified affecting right nondominant side",影響右邊非優勢側單肢癱
+657,G8334,"Monoplegia, unspecified affecting left nondominant side",影響左邊非優勢側單肢癱
+658,G834,Cauda equina syndrome,馬尾症候群
+659,G835,Locked-in state,閉鎖狀態之麻痺
+660,G838,Other specified paralytic syndromes,其他特定之麻痺性症候群
+661,G8381,Brown-Sequard syndrome,Brown-Sequard 症候群
+662,G8382,Anterior cord syndrome,前脊髓症候群
+663,G8383,Posterior cord syndrome,後脊髓症候群
+664,G8384,Todd's paralysis (postepileptic),Todd氏麻痺
+665,G8389,Other specified paralytic syndromes,其他特定之麻痺症候群
+666,G839,"Paralytic syndrome, unspecified",麻痺症候群，未特定
+667,G89,"Pain, not elsewhere classified",痛，他處未分類
+668,G890,Central pain syndrome,中樞性痛症候群
+669,G891,"Acute pain, not elsewhere classified",急性痛，他處未分類
+670,G8911,Acute pain due to trauma,創傷引起急性痛
+671,G8912,Acute post-thoracotomy pain,急性胸廓切開術後痛
+672,G8918,Other acute postprocedural pain,其他急性處置後痛
+673,G892,"Chronic pain, not elsewhere classified",慢性痛，他處未分類
+674,G8921,Chronic pain due to trauma,創傷引起慢性痛
+675,G8922,Chronic post-thoracotomy pain,慢性胸廓切開術後痛
+676,G8928,Other chronic postprocedural pain,其他慢性處置後痛
+677,G893,Neoplasm related pain (acute) (chronic),腫瘤相關痛(急性)(慢性)
+678,G894,Chronic pain syndrome,慢性痛症候群
+679,G90,Disorders of autonomic nervous system,自主神經系統疾患
+680,G900,Idiopathic peripheral autonomic neuropathy,特發性周邊自主神經性病變
+681,G9001,Carotid sinus syncope,頸動脈竇暈厥
+682,G9009,Other idiopathic peripheral autonomic neuropathy,其他特發性周邊自主神經性病變
+683,G901,Familial dysautonomia [Riley-Day],先天性家族性自律神經功能障礙
+684,G902,Horner's syndrome,霍納氏症候群
+685,G903,Multi-system degeneration of the autonomic nervous system,自主神經系統多重系統退化
+686,G904,Autonomic dysreflexia,自主神經反射異常
+687,G905,Complex regional pain syndrome I (CRPS I),複雜性局部性痛症候群 I
+688,G9050,"Complex regional pain syndrome I, unspecified","複雜性局部性疼痛症候群I, 未特定之，未特定"
+689,G9051,Complex regional pain syndrome I of upper limb,上肢複雜性局部性疼痛症候群 I
+690,G90511,Complex regional pain syndrome I of right upper limb,右上肢複雜性局部性痛症候群 I
+691,G90512,Complex regional pain syndrome I of left upper limb,左上肢複雜性局部性痛症候群 I
+692,G90513,"Complex regional pain syndrome I of upper limb, bilateral",兩側上肢複雜性局部性痛症候群 I
+693,G90519,Complex regional pain syndrome I of unspecified upper limb,未特定之上肢複雜性局部性疼痛症候群I
+694,G9052,Complex regional pain syndrome I of lower limb,下肢複雜性局部性痛症候群 I
+695,G90521,Complex regional pain syndrome I of right lower limb,右下肢複雜性局部性痛症候群 I
+696,G90522,Complex regional pain syndrome I of left lower limb,左下肢複雜性局部性痛症候群 I
+697,G90523,"Complex regional pain syndrome I of lower limb, bilateral",兩側下肢複雜性局部性痛症候群 I
+698,G90529,Complex regional pain syndrome I of unspecified lower limb,未特定之下肢複雜性局部性疼痛症候群I
+699,G9059,Complex regional pain syndrome I of other specified site,其他特定部位複雜性局部性痛症候群 I
+700,G908,Other disorders of autonomic nervous system,自主神經系統其他疾患
+701,G909,"Disorder of the autonomic nervous system, unspecified",自主神經系統疾患，未特定
+702,G91,Hydrocephalus,水腦症
+703,G910,Communicating hydrocephalus,交通性水腦症
+704,G911,Obstructive hydrocephalus,阻塞性水腦症
+705,G912,(Idiopathic) normal pressure hydrocephalus,(特發性)正常腦壓性水腦症
+706,G913,"Post-traumatic hydrocephalus, unspecified","創傷後水腦症, 未特定之，未特定"
+707,G914,Hydrocephalus in diseases classified elsewhere,歸類於他處疾病所致之水腦症
+708,G918,Other hydrocephalus,其他水腦症
+709,G919,"Hydrocephalus, unspecified","水腦症,未特定之，未特定"
+710,G92,Toxic encephalopathy,毒性腦病變
+711,G93,Other disorders of brain,腦其他疾患
+712,G930,Cerebral cysts,腦囊腫
+713,G931,"Anoxic brain damage, not elsewhere classified",缺氧性腦損傷，他處未歸類者
+714,G932,Benign intracranial hypertension,良性顱內高壓
+715,G933,Postviral fatigue syndrome,病毒感染後疲勞症候群
+716,G934,Other and unspecified encephalopathy,其他及未特定腦病變
+717,G9340,"Encephalopathy, unspecified","腦病變, 未特定之，未特定"
+718,G9341,Metabolic encephalopathy,代謝性腦病變
+719,G9349,Other encephalopathy,其他腦病變
+720,G935,Compression of brain,腦壓迫
+721,G936,Cerebral edema,腦水腫
+722,G937,Reye's syndrome,雷氏症候群
+723,G938,Other specified disoders of brain,其他特定之腦疾患
+724,G9381,Temporal sclerosis,顳葉硬化
+725,G9389,Other specified disorders of brain,腦部其他特定疾患
+726,G939,"Disorder of brain, unspecified","腦部疾患,未特定之，未特定"
+727,G94,Other disorders of brain in diseases classified elsewhere,歸類於他處疾病所致之腦部其他疾患
+728,G95,Other and unspecified diseases of spinal cord,脊髓其他及未特定疾病
+729,G950,Syringomyelia and syringobulbia,脊髓空洞症及延髓空洞症
+730,G951,Vascular myelopathies,血管性脊髓病變
+731,G9511,Acute infarction of spinal cord (embolic) (nonembolic),(栓塞性)(非栓塞性)急性脊髓梗塞
+732,G9519,Other vascular myelopathies,其他血管性脊髓病變
+733,G952,Other and unspecified cord compression,其他及未特定之脊髓壓迫
+734,G9520,Unspecified cord compression,未特定之脊髓壓迫
+735,G9529,Other cord compression,其他脊髓壓迫
+736,G958,Other specified diseases of spinal cord,脊髓其他特定的疾病
+737,G9581,Conus medullaris syndrome,脊髓圓錐症候群
+738,G9589,Other specified diseases of spinal cord,脊髓其他特定疾病
+739,G959,"Disease of spinal cord, unspecified","脊髓疾病, 未特定之，未特定"
+740,G96,Other disorders of central nervous system,中樞神經系統其他疾患
+741,G960,Cerebrospinal fluid leak,腦脊髓液滲漏
+742,G961,"Disorders of meninges, not elsewhere classified",腦脊髓膜疾患，他處未分類
+743,G9611,Dural tear,硬膜撕裂
+744,G9612,Meningeal adhesions (cerebral) (spinal),(腦)(脊髓)腦脊髓膜沾粘
+745,G9619,"Other disorders of meninges, not elsewhere classified",腦脊髓膜其他疾患，他處未歸類者
+746,G968,Other specified disorders of central nervous system,中樞神經系統其他特定疾患
+747,G969,"Disorder of central nervous system, unspecified","中樞神經系統疾患,未特定之，未特定"
+748,G97,"Intraoperative and postprocedural complications and disorders of nervous system, not elsewhere classified",手術中及醫療處置後之神經系統併發症和疾患，他處未分類
+749,G970,Cerebrospinal fluid leak from spinal puncture,脊椎穿刺所致的腦脊髓液滲漏
+750,G971,Other reaction to spinal and lumbar puncture,脊椎及腰椎穿刺所致的其他反應
+751,G972,Intracranial hypotension following ventricular shunting,腦室分流後的低顱內壓
+752,G973,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a procedure,併發於手術中神經系統器官或構造之出血及血腫
+753,G9731,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating a nervous system procedure,神經系統處置中神經系統之器官或構造出血及血腫
+754,G9732,Intraoperative hemorrhage and hematoma of a nervous system organ or structure complicating other procedure,其他處置中神經系統之器官或構造出血及血腫
+755,G974,Accidental puncture and laceration of a nervous system organ or structure during a procedure,醫療處置中意外刺穿及撕裂其他神經系統之器官或構造
+756,G9741,Accidental puncture or laceration of dura during a procedure,醫療處置中意外刺穿及裂傷
+757,G9748,Accidental puncture and laceration of other nervous system organ or structure during a nervous system procedure,神經系統醫療處置中意外刺穿及撕裂其他神經系統之器官或構造
+758,G9749,Accidental puncture and laceration of other nervous system organ or structure during other procedure,其他醫療處置中意外刺穿及撕裂其他神經系統之器官或構造
+759,G975,Postprocedural hemorrhage and hematoma of a nervous system organ or structure following a procedure,處置後神經系統之器官或構造出血及血腫
+760,G9751,Postprocedural hemorrhage and hematoma of a nervous system organ or structure following a nervous system procedure,神經系統處置後神經系統之器官或構造出血及血腫
+761,G9752,Postprocedural hemorrhage and hematoma of a nervous system organ or structure following other procedure,其他處置後神經系統之器官或構造出血及血腫
+762,G978,Other intraoperative and postprocedural complications and disorders of nervous system,其他手術中及處置後之神經系統併發症及疾患
+763,G9781,Other intraoperative complications of nervous system,其他手術中的神經系統併發症
+764,G9782,Other postprocedural complications and disorders of nervous system,其他處置後的神經系統併發症及疾患
+765,G98,Other disorders of nervous system not elsewhere classified,神經系統其他疾患，他處未分類
+766,G980,"Neurogenic arthritis, not elsewhere classified",神經性關節炎，他處未歸類者
+767,G988,Other disorders of nervous system,神經系統其他疾患
+768,G99,Other disorders of nervous system in diseases classified elsewhere,歸類於他處疾病所致之神經系統其他疾患
+769,G990,Autonomic neuropathy in diseases classified elsewhere,歸類於他處疾病所致之自主神經病變
+770,G992,Myelopathy in diseases classified elsewhere,歸類於他處疾病所致之脊髓病變
+771,G998,Other specified disorders of nervous system in diseases classified elsewhere,歸類於他處疾病所致之神經系統其他特定疾患

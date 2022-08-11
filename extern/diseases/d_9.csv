@@ -1,0 +1,377 @@
+,code,en_name,ch_name
+0,J00,Acute nasopharyngitis [common cold],急性鼻咽炎（感冒）
+1,J01,Acute sinusitis,急性鼻竇炎
+2,J010,Acute maxillary sinusitis,急性上頷竇炎
+3,J0100,"Acute maxillary sinusitis, unspecified",急性上頷竇炎，未特定
+4,J0101,Acute recurrent maxillary sinusitis,急性復發性上頷竇炎
+5,J011,Acute frontal sinusitis,急性額竇炎
+6,J0110,"Acute frontal sinusitis, unspecified",急性額竇炎，未特定
+7,J0111,Acute recurrent frontal sinusitis,急性復發性額竇炎
+8,J012,Acute ethmoidal sinusitis,急性篩竇炎
+9,J0120,"Acute ethmoidal sinusitis, unspecified",急性篩竇炎，未特定
+10,J0121,Acute recurrent ethmoidal sinusitis,急性復發性篩竇炎
+11,J013,Acute sphenoidal sinusitis,急性蝶竇炎
+12,J0130,"Acute sphenoidal sinusitis, unspecified",急性蝶竇炎，未特定
+13,J0131,Acute recurrent sphenoidal sinusitis,急性復發性蝶竇炎
+14,J014,Acute pansinusitis,急性全鼻竇炎
+15,J0140,"Acute pansinusitis, unspecified",急性全鼻竇炎，未特定
+16,J0141,Acute recurrent pansinusitis,急性復發性全鼻竇炎
+17,J018,Other acute sinusitis,其他急性鼻竇炎
+18,J0180,Other acute sinusitis,其他急性鼻竇炎
+19,J0181,Other acute recurrent sinusitis,其他急性復發性鼻竇炎
+20,J019,"Acute sinusitis, unspecified",急性鼻竇炎，未特定
+21,J0190,"Acute sinusitis, unspecified",急性鼻竇炎，未特定
+22,J0191,"Acute recurrent sinusitis, unspecified",急性復發性鼻竇炎，未特定
+23,J02,Acute pharyngitis,急性咽炎
+24,J020,Streptococcal pharyngitis,鏈球菌性咽炎
+25,J028,Acute pharyngitis due to other specified organisms,其他特定病原體所致急性咽炎
+26,J029,"Acute pharyngitis, unspecified",急性咽炎，未特定
+27,J03,Acute tonsillitis,急性扁桃腺炎
+28,J030,Streptococcal tonsillitis,鏈球菌扁桃腺炎
+29,J0300,"Acute streptococcal tonsillitis, unspecified",急性鏈球菌扁桃腺炎，未特定
+30,J0301,Acute recurrent streptococcal tonsillitis,急性復發性鏈球菌扁桃腺炎
+31,J038,Acute tonsillitis due to other specified organisms,其他特定病原體所致急性扁桃腺炎
+32,J0380,Acute tonsillitis due to other specified organisms,其他特定病原體所致急性扁桃腺炎
+33,J0381,Acute recurrent tonsillitis due to other specified organisms,其他特定病原體所致急性復發性扁桃腺炎
+34,J039,"Acute tonsillitis, unspecified",急性扁桃腺炎，未特定
+35,J0390,"Acute tonsillitis, unspecified",急性扁桃腺炎，未特定
+36,J0391,"Acute recurrent tonsillitis, unspecified",急性復發性扁桃腺炎，未特定
+37,J04,Acute laryngitis and tracheitis,急性喉炎和氣管炎
+38,J040,Acute laryngitis,急性喉炎
+39,J041,Acute tracheitis,急性氣管炎
+40,J0410,Acute tracheitis without obstruction,急性氣管炎，未伴有阻塞
+41,J0411,Acute tracheitis with obstruction,急性氣管炎，併阻塞
+42,J042,Acute laryngotracheitis,急性喉氣管炎
+43,J043,"Supraglottitis, unspecified",聲門上炎，未特定
+44,J0430,"Supraglottitis, unspecified, without obstruction",聲門上炎，未伴有阻塞
+45,J0431,"Supraglottitis, unspecified, with obstruction",聲門上炎，併阻塞
+46,J05,Acute obstructive laryngitis [croup] and epiglottitis,急性阻塞性喉炎[嘶哮]和急性會厭炎
+47,J050,Acute obstructive laryngitis [croup],急性阻塞性喉炎[嘶哮]
+48,J051,Acute epiglottitis,急性會厭炎
+49,J0510,Acute epiglottitis without obstruction,急性會厭炎，未伴有阻塞
+50,J0511,Acute epiglottitis with obstruction,急性會厭炎，併阻塞
+51,J06,Acute upper respiratory infections of multiple and unspecified sites,急性上呼吸道多處或未特定感染
+52,J060,Acute laryngopharyngitis,急性咽喉炎
+53,J069,"Acute upper respiratory infection, unspecified",急性上呼吸道感染，未特定
+54,J09,Influenza due to certain identified influenza viruses,確認流感病毒所致流行性感冒
+55,J090,Influenza due to identified avian influenza virus,確認禽流感病毒所致流行性感冒
+56,J0901,Influenza due to identified avian influenza virus with respiratory manifestations,確認禽流感病毒所致流行性感冒併呼吸道表徵
+57,J0909,Influenza due to identified avian influenza virus with other manifestations,確認禽流感病毒所致流行性感冒併其他表徵
+58,J09090,Influenza due to identified avian influenza virus gastroenteritis,確認禽流感病毒所致流行性感冒腸胃炎
+59,J09098,Influenza due to identified avian influenza virus with other manifestations,確認禽流感病毒所致流行性感冒併其他表徵
+60,J091,Influenza due to identified novel H1N1 influenza virus,確認新型流感H1N1病毒所致流行性感冒
+61,J0911,Influenza due to identified novel H1N1 influenza virus with respiratory manifestations,確認新型流感H1N1病毒所致流行性感冒併呼吸道表徵
+62,J0919,Influenza due to identified novel H1N1 influenza virus with other manifestations,確認新型流感H1N1病毒所致流行性感冒併其他表徵
+63,J09190,Influenza due to identified novel H1N1 influenza virus gastroenteritis,確認新型流感H1N1病毒所致流行性感冒腸胃炎
+64,J09198,Influenza due to identified novel H1N1 influenza virus with other manifestations,確認新型流感H1N1病毒所致流行性感冒併其他表徵
+65,J10,Influenza due to other influenza virus,其他流感病毒所致流行性感冒
+66,J101,Influenza due to other influenza virus with respiratory manifestations,其他流感病毒所致流行性感冒併呼吸道表徵
+67,J108,Influenza due to other influenza virus with other manifestations,其他流感病毒所致流行性感冒併其他表徵
+68,J1081,Influenzal gastroenteritis,流行性感冒腸胃炎
+69,J1089,Influenza due to other influenza virus with other manifestations,其他流感病毒所致流行性感冒併其他表徵
+70,J12,"Viral pneumonia, not elsewhere classified","病毒性肺炎,他處未歸類"
+71,J120,Adenoviral pneumonia,腺病毒性肺炎
+72,J121,Respiratory syncytial virus pneumonia,呼吸道融合病毒性肺炎
+73,J122,Parainfluenza virus pneumonia,副流行性感冒病毒性肺炎
+74,J123,Human metapneumovirus pneumonia,人類間質肺炎病毒性肺炎
+75,J128,Other viral pneumonia,其他病毒所致肺炎
+76,J1281,Pneumonia due to SARS-associated coronavirus,SARS相關冠狀病毒所致肺炎
+77,J1289,Other viral pneumonia,其他病毒所致肺炎
+78,J129,"Viral pneumonia, unspecified",病毒性肺炎，未特定
+79,J13,Pneumonia due to Streptococcus pneumoniae,肺炎鏈球菌性肺炎
+80,J14,Pneumonia due to Hemophilus influenzae,流行感冒嗜血桿菌所致之肺炎
+81,J15,"Bacterial pneumonia, not elsewhere classified","細菌性肺炎,他處未歸類"
+82,J150,Pneumonia due to Klebsiella pneumoniae,克雷白肺炎桿菌所致之肺炎
+83,J151,Pneumonia due to Pseudomonas,假單胞菌所致之肺炎
+84,J152,Pneumonia due to staphylococcus,葡萄球菌所致之肺炎
+85,J1520,"Pneumonia due to staphylococcus, unspecified",葡萄球菌所致之肺炎，未特定
+86,J1521,Pneumonia due to staphylococcus aureus,金黃色葡萄球菌所致之肺炎
+87,J1529,Pneumonia due to other staphylococcus,其他葡萄球菌性肺炎
+88,J153,"Pneumonia due to streptococcus, group B",B群鏈球菌所致之肺炎
+89,J154,Pneumonia due to other streptococci,其他鏈球菌所致之肺炎
+90,J155,Pneumonia due to Escherichia coli,大腸桿菌所致之肺炎
+91,J156,Pneumonia due to other aerobic Gram-negative bacteria,其他好氧性革蘭氏陰性細菌所致之肺炎
+92,J157,Pneumonia due to Mycoplasma pneumoniae,肺炎黴漿菌所致之肺炎
+93,J158,Pneumonia due to other specified bacteria,其他特定細菌所致之肺炎
+94,J159,Unspecified bacterial pneumonia,細菌性肺炎
+95,J16,"Pneumonia due to other infectious organisms, not elsewhere classified","其他病原菌所致之肺炎,他處未歸類"
+96,J160,Chlamydial pneumonia,披衣菌性肺炎
+97,J168,Pneumonia due to other specified infectious organisms,其他特定病原菌所致之肺炎
+98,J17,Pneumonia in diseases classified elsewhere,歸類於他處疾病所致之肺炎
+99,J18,"Pneumonia, unspecified organism",肺炎
+100,J180,"Bronchopneumonia, unspecified organism",支氣管肺炎，未特定病原體
+101,J181,"Lobar pneumonia, unspecified organism",大葉性肺炎，未特定病原體
+102,J182,"Hypostatic pneumonia, unspecified organism",沈滯性肺炎，未特定病原體
+103,J188,"Other pneumonia, unspecified organism",其他肺炎，未特定病原體
+104,J189,"Pneumonia, unspecified organism",肺炎，未特定病原體
+105,J20,Acute bronchitis,急性支氣管炎
+106,J200,Acute bronchitis due to Mycoplasma pneumoniae,肺炎黴漿菌所致急性支氣管炎
+107,J201,Acute bronchitis due to Hemophilus influenzae,流行性感冒嗜血桿菌所致急性支氣管炎
+108,J202,Acute bronchitis due to streptococcus,鏈球菌所致急性支氣管炎
+109,J203,Acute bronchitis due to coxsackievirus,克沙奇病毒所致急性支氣管炎
+110,J204,Acute bronchitis due to parainfluenza virus,副流行性感冒病毒所致急性支氣管炎
+111,J205,Acute bronchitis due to respiratory syncytial virus,肺部融合細胞病毒所致急性支氣管炎
+112,J206,Acute bronchitis due to rhinovirus,鼻病毒所致急性支氣管炎
+113,J207,Acute bronchitis due to echovirus,埃可病毒所致急性支氣管炎
+114,J208,Acute bronchitis due to other specified organisms,其他特定病原體所致急性支氣管炎
+115,J209,"Acute bronchitis, unspecified",急性支氣管炎，未特定
+116,J21,Acute bronchiolitis,急性細支氣管炎
+117,J210,Acute bronchiolitis due to respiratory syncytial virus,呼吸道融合病毒引起之急性細支氣管炎
+118,J211,Acute bronchiolitis due to human metapneumovirus,呼吸道融合病毒引起之急性細支氣管炎
+119,J218,Acute bronchiolitis due to other specified organisms,其他特定病原體引起之急性細支氣管炎
+120,J219,"Acute bronchiolitis, unspecified",急性細支氣管炎，未特定
+121,J22,Unspecified acute lower respiratory infection,急性下呼吸道感染
+122,J30,Vasomotor and allergic rhinitis,血管舒縮性及過敏性鼻炎
+123,J300,Vasomotor rhinitis,血管舒縮性鼻炎
+124,J301,Allergic rhinitis due to pollen,花粉所致過敏性鼻炎
+125,J302,Other seasonal allergic rhinitis,其他季節性過敏性鼻炎
+126,J305,Allergic rhinitis due to food,食物所致之過敏性鼻炎
+127,J308,Other allergic rhinitis,其他過敏性鼻炎
+128,J3081,Allergic rhinitis due to animal (cat) (dog) hair and dander,動物（貓）（狗）毛髮、皮屑所致之過敏性鼻炎
+129,J3089,Other allergic rhinitis,其他過敏性鼻炎
+130,J309,"Allergic rhinitis, unspecified",過敏性鼻炎，未特定
+131,J31,"Chronic rhinitis,nasopharyngitis and pharyngitis","慢性鼻炎,鼻咽炎及咽炎"
+132,J310,Chronic rhinitis,慢性鼻炎
+133,J311,Chronic nasopharyngitis,慢性鼻咽炎
+134,J312,Chronic pharyngitis,慢性咽炎
+135,J32,Chronic sinusitis,慢性鼻竇炎
+136,J320,Chronic maxillary sinusitis,慢性上頷竇炎
+137,J321,Chronic frontal sinusitis,慢性額竇炎
+138,J322,Chronic ethmoidal sinusitis,慢性篩竇炎
+139,J323,Chronic sphenoidal sinusitis,慢性蝶竇炎
+140,J324,Chronic pansinusitis,慢性全鼻竇炎
+141,J328,Other chronic sinusitis,其他慢性鼻竇炎
+142,J329,"Chronic sinusitis, unspecified",慢性鼻竇炎，未特定
+143,J33,Nasal polyp,鼻息肉
+144,J330,Polyp of nasal cavity,鼻腔內息肉
+145,J331,Polypoid sinus degeneration,鼻竇息肉樣變性
+146,J338,Other polyp of sinus,其他鼻竇息肉
+147,J339,"Nasal polyp, unspecified",鼻息肉，未特定
+148,J34,Other and unspecified disorders of nose and nasal sinuses,其他或未特定的鼻及鼻竇疾患
+149,J340,"Abscess, furuncle and carbuncle of nose",鼻膿瘍、癤及癰
+150,J341,Cyst and mucocele of nose and nasal sinus,鼻及鼻竇囊腫或黏液囊腫
+151,J342,Deviated nasal septum,鼻中隔彎曲
+152,J343,Hypertrophy of nasal turbinates,鼻甲肥大
+153,J348,Other specified disorders of nose and nasal sinuses,其他特定的鼻及鼻竇疾患
+154,J3481,Nasal mucositis (ulcerative),鼻黏膜炎(潰瘍性)
+155,J3489,Other specified disorders of nose and nasal sinuses,其他特定的鼻及鼻竇疾患
+156,J349,Unspecified disorder of nose and nasal sinuses,鼻及鼻竇疾患
+157,J35,Chronic disease of tonsils and adenoids,扁桃腺及腺樣體之慢性疾病
+158,J350,Chronic tonsillitis and adenoiditis,慢性扁桃腺炎及腺樣體發炎
+159,J3501,Chronic tonsillitis,慢性扁桃腺炎
+160,J3502,Chronic adenoiditis,慢性腺樣體發炎
+161,J3503,Chronic tonsillitis and adenoiditis,慢性扁桃腺炎及腺樣體發炎
+162,J351,Hypertrophy of tonsils,扁桃腺肥大
+163,J352,Hypertrophy of adenoids,腺樣體肥大
+164,J353,Hypertrophy of tonsils with hypertrophy of adenoids,扁桃腺及腺樣體肥大
+165,J358,Other chronic diseases of tonsils and adenoids,扁桃腺及腺樣體之其他慢性疾病
+166,J359,"Chronic disease of tonsils and adenoids, unspecified",扁桃腺及腺樣體之慢性疾病，未特定
+167,J36,Peritonsillar abscess,扁桃腺周圍膿瘍
+168,J37,Chronic laryngitis and laryngotracheitis,慢性喉炎及喉氣管炎
+169,J370,Chronic laryngitis,慢性喉炎
+170,J371,Chronic laryngotracheitis,慢性喉氣管炎
+171,J38,"Diseases of vocal cords and larynx,not elsewhere classified",聲帶及喉部疾病，他處未歸類
+172,J380,Paralysis of vocal cords and larynx,聲帶或喉部之麻痺
+173,J3800,"Paralysis of vocal cords and larynx, unspecified",聲帶或喉部之麻痺，未特定
+174,J3801,"Paralysis of vocal cords and larynx, unilateral",單側聲帶或喉部麻痺
+175,J3802,"Paralysis of vocal cords and larynx, bilateral",雙側聲帶或喉部麻痺
+176,J381,Polyp of vocal cord and larynx,聲帶或喉部息肉
+177,J382,Nodules of vocal cords,聲帶結節
+178,J383,Other diseases of vocal cords,聲帶之其他疾病
+179,J384,Edema of larynx,喉部水腫
+180,J385,Laryngeal spasm,喉痙攣
+181,J386,Stenosis of larynx,喉部狹窄
+182,J387,Other diseases of larynx,喉部之其他疾病
+183,J39,Other diseases of upper respiratory tract,上呼吸道其他疾病
+184,J390,Retropharyngeal and parapharyngeal abscess,後咽、咽旁膿瘍
+185,J391,Other abscess of pharynx,咽其他膿瘍
+186,J392,Other diseases of pharynx,咽之其他疾病
+187,J393,"Upper respiratory tract hypersensitivity reaction, site unspecified",上呼吸道過敏反應
+188,J398,Other specified diseases of upper respiratory tract,上呼吸道其他特定的疾病
+189,J399,"Disease of upper respiratory tract, unspecified",上呼吸道疾病，未特定
+190,J40,"Bronchitis, not specified as acute or chronic",支氣管炎，未特定急性或慢性者
+191,J41,Simple and mucopurulent chronic bronchitis,單純性及膿黏液性慢性支氣管炎
+192,J410,Simple chronic bronchitis,單純性慢性支氣管炎
+193,J411,Mucopurulent chronic bronchitis,膿黏液性慢性支氣管炎
+194,J418,Mixed simple and mucopurulent chronic bronchitis,混合型單純性及膿黏液性慢性支氣管炎
+195,J42,Unspecified chronic bronchitis,慢性支氣管炎
+196,J43,Emphysema,肺氣腫
+197,J430,Unilateral pulmonary emphysema [MacLeod's syndrome],單側性肺氣腫[MacLeod (氏)症候群]
+198,J431,Panlobular emphysema,全小葉性肺氣腫
+199,J432,Centrilobular emphysema,中央小葉性肺氣腫
+200,J438,Other emphysema,其他肺氣腫
+201,J439,"Emphysema, unspecified",肺氣腫，未特定
+202,J44,Other chronic obstructive pulmonary disease,慢性阻塞性肺病
+203,J440,Chronic obstructive pulmonary disease with acute lower respiratory infection,慢性阻塞性肺病伴有急性下呼吸道感染
+204,J441,Chronic obstructive pulmonary disease with (acute) exacerbation,慢性阻塞性肺病伴有(急性)發作
+205,J449,"Chronic obstructive pulmonary disease, unspecified",慢性阻塞性肺病，未特定
+206,J45,Asthma,氣喘
+207,J452,Mild intermittent asthma,輕度間歇性氣喘
+208,J4520,"Mild intermittent asthma, uncomplicated","輕度間歇性氣喘,無併發症"
+209,J4521,Mild intermittent asthma with (acute) exacerbation,輕度間歇性氣喘併(急性)發作
+210,J4522,Mild intermittent asthma with status asthmaticus,輕度間歇性氣喘併氣喘積重狀態
+211,J453,Mild persistent asthma,輕度持續性氣喘
+212,J4530,"Mild persistent asthma, uncomplicated","輕度持續性氣喘,無併發症"
+213,J4531,Mild persistent asthma with (acute) exacerbation,輕度持續性氣喘併(急性)發作
+214,J4532,Mild persistent asthma with status asthmaticus,輕度持續性氣喘併氣喘積重狀態
+215,J454,Moderate persistent,中度持續性氣喘
+216,J4540,"Moderate persistent, uncomplicated","中度持續性氣喘,無併發症"
+217,J4541,Moderate persistent with (acute) exacerbation,中度持續性氣喘併(急性)發作
+218,J4542,Moderate persistent with status asthmaticus,中度持續性氣喘併氣喘積重狀態
+219,J455,Severe persistent,重度持續發作性氣喘
+220,J4550,"Severe persistent, uncomplicated","重度持續發作性氣喘,無併發症"
+221,J4551,Severe persistent with (acute) exacerbation,重度持續發作性氣喘併(急性)發作
+222,J4552,Severe persistent with status asthmaticus,重度持續發作性氣喘併氣喘積重狀態
+223,J459,Other and unspecified asthma,其他或未特定之氣喘
+224,J4590,Unspecified asthma,氣喘
+225,J45901,Unspecified asthma with (acute) exacerbation,氣喘併(急性)發作
+226,J45902,Unspecified asthma with status asthmaticus,氣喘併氣喘積重狀態
+227,J45909,"Unspecified asthma, uncomplicated","氣喘,無併發症"
+228,J4599,Other asthma,其他氣喘
+229,J45990,Exercise induced bronchospasm,運動導致之支氣管痙攣
+230,J45991,Cough variant asthma,咳嗽變異性氣喘
+231,J45998,Other asthma,其他氣喘
+232,J47,Bronchiectasis,支氣管擴張症
+233,J470,Bronchiectasis with acute lower respiratory infection,支氣管擴張症併急性下呼吸道感染
+234,J471,Bronchiectasis with (acute) exacerbation,支氣管擴張症併(急性)發作
+235,J479,"Bronchiectasis, uncomplicated",支氣管擴張症
+236,J60,Coalworker's pneumoconiosis,煤礦工人塵肺症
+237,J61,Pneumoconiosis due to asbestos and other mineral fibers,石棉及其他礦物纖維所致塵肺症
+238,J62,Pneumoconiosis due to dust containing silica,含矽粉塵所致塵肺症
+239,J620,Pneumoconiosis due to talc dust,滑石粉塵所致的塵肺症
+240,J628,Pneumoconiosis due to other dust containing silica,其他含矽粉塵所致塵肺症
+241,J63,Pneumoconiosis due to other inorganic dusts,其他無機性塵埃所致之塵肺症
+242,J630,Aluminosis (of lung),(肺)明礬屑沈積症
+243,J631,Bauxite fibrosis (of lung),(肺)鐵礬纖維化
+244,J632,Berylliosis,鈹屑沈積症
+245,J633,Graphite fibrosis (of lung),(肺)石墨纖維化
+246,J634,Siderosis,鐵末沈積症
+247,J635,Stannosis,錫末沈積症
+248,J636,Pneumoconiosis due to other specified inorganic dusts,其他特定無機性塵埃所致之塵肺症
+249,J64,Unspecified pneumoconiosis,塵肺症，未特定
+250,J65,Pneumoconiosis associated with tuberculosis,合伴有結核病的塵肺症
+251,J66,Airway disease due to specific organic dust,特定有機粉塵所致的呼吸道疾病
+252,J660,Byssinosis,棉絮(肺)症
+253,J661,Flax-dressers' disease,亞麻工人病
+254,J662,Cannabinosis,大麻(肺)症
+255,J668,Airway disease due to other specific organic dusts,其他特定有機粉塵所致的呼吸道疾病
+256,J67,Hypersensitivity pneumonitis due to organic dust,有機粉塵所致的過敏性肺炎
+257,J670,Farmer's lung,農夫肺
+258,J671,Bagassosis,甘蔗灰沈著症
+259,J672,Bird fancier's lung,養鳥者肺
+260,J673,Suberosis,栓木屑肺沉著症
+261,J674,Maltworker's lung,麥芽製造工人肺
+262,J675,Mushroom-worker's lung,蕈類工人肺
+263,J676,Maple-bark-stripper's lung,剝楓樹皮工人肺
+264,J677,Air conditioner and humidifier lung,空氣調節機及潮濕機肺症
+265,J678,Hypersensitivity pneumonitis due to other organic dusts,其他有機粉塵所致的過敏性肺炎
+266,J679,Hypersensitivity pneumonitis due to unspecified organic dust,未特定有機粉塵所致的過敏性肺炎
+267,J68,"Respiratory conditions due to inhalation of  chemicals,gases,fumes and vapors",吸入化學製劑、氣體、煙霧及蒸氣所致的呼吸道病況
+268,J680,"Bronchitis and pneumonitis due to chemicals, gases, fumes and vapors",化學製劑、氣體、煙霧及蒸氣所致的支氣管炎及肺炎
+269,J681,"Pulmonary edema due to chemicals, gases, fumes and vapors",化學製劑、氣體、煙霧及蒸氣所致的急性肺水腫
+270,J682,"Upper respiratory inflammation due to chemicals, gases, fumes and vapors, not elsewhere classified",化學製劑、氣體、煙霧及蒸氣所致的上呼吸道炎症，他處未歸類者
+271,J683,"Other acute and subacute respiratory conditions due to chemicals, gases, fumes and vapors",化學製劑、氣體、煙霧及蒸氣所致的其他急性及亞急性呼吸道病況
+272,J684,"Chronic respiratory conditions due to chemicals, gases, fumes and vapors",化學製劑、氣體、煙霧及蒸氣所致的慢性呼吸道病況
+273,J688,"Other respiratory conditions due to chemicals, gases, fumes and vapors",化學製劑、氣體、煙霧及蒸氣所致的其他呼吸道病況
+274,J689,"Unspecified respiratory condition due to chemicals, gases, fumes and vapors",化學製劑、氣體、煙霧及蒸氣所致的未特定呼吸道病況
+275,J69,Pneumonitis due to solids and lipuids,他處未歸類
+276,J690,Pneumonitis due to inhalation of food and vomit,吸入食物或嘔吐物所致之肺炎
+277,J691,Pneumonitis due to inhalation of oils and essences,吸入油及精油所致之肺炎
+278,J698,Pneumonitis due to inhalation of other solids and liquids,吸入其他固體及液體所致之肺炎
+279,J70,Respiratory conditions due to other external agents,其他外物所致之呼吸病症
+280,J700,Acute pulmonary manifestations due to radiation,放射線所致之急性肺病徵
+281,J701,Chronic and other pulmonary manifestations due to radiation,放射線所致之慢性及其他肺病徵
+282,J702,Acute drug-induced interstitial lung disorders,急性藥物導致之間質性肺疾患
+283,J703,Chronic drug-induced interstitial lung disorders,慢性藥物導致之間質性肺疾患
+284,J704,"Drug-induced interstitial lung disorders, unspecified",藥物導致之間質性肺疾患，未特定
+285,J708,Respiratory conditions due to other specified external agents,其他特定外物所致之呼吸病症
+286,J709,Respiratory conditions due to unspecified external agent,外物所致之呼吸病症
+287,J80,Acute respiratory distress syndrome,成人呼吸窘迫症候群
+288,J81,Pulmonary edema,肺水腫
+289,J810,Acute pulmonary edema,急性肺水腫
+290,J811,Chronic pulmonary edema,慢性肺水腫
+291,J82,"Pulmonary eosinophilia, not elsewhere classified",肺嗜伊紅血球增多症，他處未歸類者
+292,J84,Other interstitial pulmonary diseases,他處未歸類
+293,J840,Alveolar and parieto-alveolar conditions,肺泡及肺泡壁病況
+294,J841,Other interstitial pulmonary diseases with fibrosis,其他間質性肺疾病伴有纖維化變性
+295,J842,Lymphoid interstitial pneumonia,淋巴間質性肺炎
+296,J848,Other specified interstitial pulmonary diseases,其他特定間質性肺疾病
+297,J849,"Interstitial pulmonary disease, unspecified",間質性肺疾病，未特定
+298,J85,Abscess of lung and mediastinum,肺和縱膈膿瘍
+299,J850,Gangrene and necrosis of lung,肺壞疽及壞死
+300,J851,Abscess of lung with pneumonia,肺膿瘍伴有肺炎
+301,J852,Abscess of lung without pneumonia,"肺膿瘍, 無肺炎"
+302,J853,Abscess of mediastinum,縱膈膿瘍
+303,J86,Pyothorax,肺積膿
+304,J860,Pyothorax with fistula,肺積膿，併瘻管
+305,J869,Pyothorax without fistula,肺積膿，未伴有瘻管
+306,J90,"Pleural effusion, not elsewhere classified",肋膜積水，他處未歸類者
+307,J91,Pleural effuison in conditions classified eldeehere,他處未歸類
+308,J910,Malignant pleural effusion,惡性肋膜積水
+309,J918,Pleural effusion in other conditions classified elsewhere,其他分類之肋膜積水
+310,J92,Pleural plaque,肋膜斑
+311,J920,Pleural plaque with presence of asbestos,肋膜斑伴有石棉沉著
+312,J929,Pleural plaque without asbestos,肋膜斑未伴有石棉沉著
+313,J93,Pneumothorax,氣胸
+314,J930,Spontaneous tension pneumothorax,自發性壓力性氣胸
+315,J931,Other spontaneous pneumothorax,其他自發性氣胸
+316,J938,Other pneumothorax,其他氣胸
+317,J939,"Pneumothorax, unspecified",氣胸，未特定
+318,J94,Other pleural conditions,其他的肋膜病況
+319,J940,Chylous effusion,乳糜積水
+320,J941,Fibrothorax,纖維胸
+321,J942,Hemothorax,血胸
+322,J948,Other specified pleural conditions,其他特定的肋膜病況
+323,J949,"Pleural condition, unspecified",肋膜病況，未特定
+324,J95,"Intraoperative and postprocedural complications and disorders of respiratory system,not elsewhere classified",手術中或醫療處置後呼吸道系統之併發症及疾患，他處未歸類
+325,J950,Tracheostomy complications,氣管造口之併發症
+326,J9500,Unspecified tracheostomy complication,氣管造口之併發症，未特定
+327,J9501,Hemorrhage from tracheostomy stoma,氣管造口出血
+328,J9502,Infection of tracheostomy stoma,氣管造口感染
+329,J9503,Malfunction of tracheostomy stoma,氣管造口功能不良
+330,J9504,Tracheo-esophageal fistula following tracheostomy,氣管造口術後氣管食道瘻管
+331,J9509,Other tracheostomy complication,其他氣管造口併發症
+332,J951,Acute pulmonary insufficiency following thoracic surgery,胸腔手術後急性肺功能不全
+333,J952,Acute pulmonary insufficiency following nonthoracic surgery,非胸腔手術後急性肺功能不全
+334,J953,Chronic pulmonary insufficiency following surgery,手術後慢性肺功能不全
+335,J954,Chemical pneumonitis due to anesthesia [Mendelson's syndrome],麻醉所致化學性肺炎[Mendelson (氏)症候群]
+336,J955,Postprocedural subglottic stenosis,醫療處置後聲門下方狹窄
+337,J956,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a procedure,處置中併發術中呼吸道系統器官或結構出血和血腫
+338,J9561,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating a respiratory system procedure,呼吸道系統處置中併發術中呼吸道系統器官或結構出血和血腫
+339,J9562,Intraoperative hemorrhage and hematoma of a respiratory system organ or structure complicating other procedure,其他處置中併發術中呼吸道系統器官或結構出血和血腫
+340,J957,Accidental puncture and laceration of a respiratory system organ or structure during a procedure,處置中意外刺穿及裂傷呼吸道系統器官或結構
+341,J9571,Accidental puncture and laceration of a respiratory system organ or structure during a respiratory system procedure,呼吸道系統處置中意外刺穿及裂傷呼吸道系統器官或結構
+342,J9572,Accidental puncture and laceration of a respiratory system organ or structure during other procedure,其他處置中意外刺穿及裂傷呼吸道系統器官或結構
+343,J958,"Other intraoperative and postprocedural complications and disorders of respiratory system,not elsewhere classified",其他手術中或醫療處置後呼吸道系統之併發症及疾患，他處未歸類
+344,J9581,Postprocedural pneumothorax,醫療處置後氣胸
+345,J9582,Postprocedural respiratory failure,醫療處置後呼吸衰竭
+346,J9583,Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following a procedure,處置併醫療處置後呼吸道系統器官或結構出血和血腫
+347,J95830,Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following a respiratory system procedure,呼吸道系統處置併醫療處置後呼吸道系統器官或結構出血和血腫
+348,J95831,Postprocedural hemorrhage and hematoma of a respiratory system organ or structure following other procedure,其他醫療處置後併發呼吸道系統器官或結構出血和血腫
+349,J9584,Transfusion-related acute lung injury (TRALI),輸血相關性急性肺損傷
+350,J9585,Complication of respirator [ventilator],呼吸器相關併發症
+351,J95850,Mechanical complication of respirator,呼吸器機械性功能不良
+352,J95851,Ventilator associated pneumonia,呼吸器相關肺炎
+353,J95859,Other complication of respirator [ventilator],呼吸器相關併發症
+354,J9588,"Other intraoperative complications of respiratory system, not elsewhere classified",呼吸系統術中併發症，他處未歸類者
+355,J9589,"Other postprocedural complications and disorders of respiratory system, not elsewhere classified",呼吸系統之其他醫療處置後併發症及疾患，他處未歸類者
+356,J96,"Respiratory failure, not elsewhere classified",呼吸衰竭，他處未歸類
+357,J960,Acute respiratory failure,急性呼吸衰竭
+358,J961,Chronic respiratory failure,慢性呼吸衰竭
+359,J962,Acute and chronic respiratory failure,急慢性呼吸衰竭
+360,J969,"Respiratory failure, unspecified",呼吸衰竭，未特定
+361,J98,Other respiratory disorders,其他呼吸衰竭
+362,J980,"Diseases of bronchus, not elsewhere classified",支氣管疾病，他處未歸類者
+363,J9801,Acute bronchospasm,急性氣管痙攣
+364,J9809,"Other diseases of bronchus, not elsewhere classified",其他支氣管疾病，他處未歸類者
+365,J981,Pulmonary collapse,肺塌陷
+366,J9811,Atelectasis,肺擴張不全
+367,J9819,Other pulmonary collapse,肺塌陷
+368,J982,Interstitial emphysema,間質性肺氣腫
+369,J983,Compensatory emphysema,代償性肺氣腫
+370,J984,Other disorders of lung,其他肺部疾患
+371,J985,"Diseases of mediastinum, not elsewhere classified",縱隔疾病，他處未歸類者
+372,J986,Disorders of diaphragm,橫膈膜疾患
+373,J988,Other specified respiratory disorders,其他特定的呼吸道疾患
+374,J989,"Respiratory disorder, unspecified",呼吸系統疾患，未特定
+375,J99,Respiratory disorders in diseases classified elsewhere,歸類於他處疾病所致之呼吸系統疾患

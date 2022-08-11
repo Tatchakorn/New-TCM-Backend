@@ -1,0 +1,856 @@
+,code,en_name,ch_name
+0,H60,Otitis externa,外耳炎
+1,H600,Abscess of external ear,外耳膿瘍
+2,H6000,"Abscess of external ear, unspecified ear",未特定側外耳膿瘍
+3,H6001,Abscess of right external ear,右側外耳膿瘍
+4,H6002,Abscess of left external ear,左側外耳膿瘍
+5,H6003,"Abscess of external ear, bilateral",雙側外耳膿瘍
+6,H601,Cellulitis of external ear,外耳蜂窩組織炎
+7,H6010,"Cellulitis of external ear, unspecified ear",未特定側外耳蜂窩組織炎
+8,H6011,Cellulitis of right external ear,右側外耳蜂窩組織炎
+9,H6012,Cellulitis of left external ear,左側外耳蜂窩組織炎
+10,H6013,"Cellulitis of external ear, bilateral",雙側外耳蜂窩組織炎
+11,H602,Malignant otitis externa,惡性外耳炎
+12,H6020,"Malignant otitis externa, unspecified ear",未特定側惡性外耳炎
+13,H6021,"Malignant otitis externa, right ear",右側惡性外耳炎
+14,H6022,"Malignant otitis externa, left ear",左側惡性外耳炎
+15,H6023,"Malignant otitis externa, bilateral",雙側惡性外耳炎
+16,H603,Other infective otitis externa,其他感染性外耳炎
+17,H6031,Diffuse otitis externa,彌漫性外耳炎
+18,H60311,"Diffuse otitis externa, right ear",右側彌漫性外耳炎
+19,H60312,"Diffuse otitis externa, left ear",左側彌漫性外耳炎
+20,H60313,"Diffuse otitis externa, bilateral",雙側彌漫性外耳炎
+21,H60319,"Diffuse otitis externa, unspecified ear",未特定側彌漫性外耳炎
+22,H6032,Hemorrhagic otitis externa,出血性外耳炎
+23,H60321,"Hemorrhagic otitis externa, right ear",右側出血性外耳炎
+24,H60322,"Hemorrhagic otitis externa, left ear",左側出血性外耳炎
+25,H60323,"Hemorrhagic otitis externa, bilateral",雙側出血性外耳炎
+26,H60329,"Hemorrhagic otitis externa, unspecified ear",未特定側出血性外耳炎
+27,H6033,Swimmer's ear,泳者耳
+28,H60331,"Swimmer's ear, right ear",右側泳者耳
+29,H60332,"Swimmer's ear, left ear",左側泳者耳
+30,H60333,"Swimmer's ear, bilateral",雙側泳者耳
+31,H60339,"Swimmer's ear, unspecified ear",未特定側泳者耳
+32,H6039,Other infective otitis externa,其他感染性外耳炎
+33,H60391,"Other infective otitis externa, right ear",右側其他傳染性外耳炎
+34,H60392,"Other infective otitis externa, left ear",左側其他傳染性外耳炎
+35,H60393,"Other infective otitis externa, bilateral",雙側其他傳染性外耳炎
+36,H60399,"Other infective otitis externa, unspecified ear",未特定側其他傳染性外耳炎
+37,H604,Cholesteatoma of external ear,外耳道膽脂瘤
+38,H6040,"Cholesteatoma of external ear, unspecified ear",未特定側外耳道膽脂瘤
+39,H6041,Cholesteatoma of right external ear,右側外耳道膽脂瘤
+40,H6042,Cholesteatoma of left external ear,左側外耳道膽脂瘤
+41,H6043,"Cholesteatoma of external ear, bilateral",雙側外耳道膽脂瘤
+42,H605,Acute noninfective otitis externa,急性非感染性外耳炎
+43,H6050,Unspecified acute noninfective otitis externa,急性非感染性外耳炎
+44,H60501,"Unspecified acute noninfective otitis externa, right ear",右側急性非感染性外耳炎
+45,H60502,"Unspecified acute noninfective otitis externa, left ear",左側急性非感染性外耳炎
+46,H60503,"Unspecified acute noninfective otitis externa, bilateral",雙側急性非感染性外耳炎
+47,H60509,"Unspecified acute noninfective otitis externa, unspecified ear",未特定側急性非感染性外耳炎
+48,H6051,Acute actinic otitis externa,急性光化性外耳炎
+49,H60511,"Acute actinic otitis externa, right ear",右側急性光化性外耳炎
+50,H60512,"Acute actinic otitis externa, left ear",左側急性光化性外耳炎
+51,H60513,"Acute actinic otitis externa, bilateral",雙側急性光化性外耳炎
+52,H60519,"Acute actinic otitis externa, unspecified ear",未特定側急性光化性外耳炎
+53,H6052,Acute chemical otitis externa,急性化學性外耳炎
+54,H60521,"Acute chemical otitis externa, right ear",右側急性化學性外耳炎
+55,H60522,"Acute chemical otitis externa, left ear",左側急性化學性外耳炎
+56,H60523,"Acute chemical otitis externa, bilateral",雙側急性化學性外耳炎
+57,H60529,"Acute chemical otitis externa, unspecified ear",未特定側急性化學性外耳炎
+58,H6053,Acute contact otitis externa,急性接觸性外耳炎
+59,H60531,"Acute contact otitis externa, right ear",右側急性接觸性外耳炎
+60,H60532,"Acute contact otitis externa, left ear",左側急性接觸性外耳炎
+61,H60533,"Acute contact otitis externa, bilateral",雙側急性接觸性外耳炎
+62,H60539,"Acute contact otitis externa, unspecified ear",未特定側急性接觸性外耳炎
+63,H6054,Acute eczematoid otitis externa,急性濕疹樣(性)外耳炎
+64,H60541,"Acute eczematoid otitis externa, right ear",右側急性濕疹樣(性)外耳炎
+65,H60542,"Acute eczematoid otitis externa, left ear",左側急性濕疹樣(性)外耳炎
+66,H60543,"Acute eczematoid otitis externa, bilateral",雙側急性濕疹樣(性)外耳炎
+67,H60549,"Acute eczematoid otitis externa, unspecified ear",未特定側急性濕疹樣(性)外耳炎
+68,H6055,Acute reactive otitis externa,急性反應性外耳炎
+69,H60551,"Acute reactive otitis externa, right ear",右側急性反應性外耳炎
+70,H60552,"Acute reactive otitis externa, left ear",左側急性反應性外耳炎
+71,H60553,"Acute reactive otitis externa, bilateral",雙側急性反應性外耳炎
+72,H60559,"Acute reactive otitis externa, unspecified ear",未特定側急性反應性外耳炎
+73,H6059,Other noninfective acute otitis externa,"其他非感染性急性外耳炎,"
+74,H60591,"Other noninfective acute otitis externa, right ear","右側其他非感染性急性外耳炎,"
+75,H60592,"Other noninfective acute otitis externa, left ear","左側其他非感染性急性外耳炎,"
+76,H60593,"Other noninfective acute otitis externa, bilateral",雙側其他非感染性急性外耳炎
+77,H60599,"Other noninfective acute otitis externa, unspecified ear",未特定側其他非感染性急性外耳炎
+78,H606,Unspecified chronic otitis externa,慢性外耳炎
+79,H6060,"Unspecified chronic otitis externa, unspecified ear",未特定側慢性外耳炎
+80,H6061,"Unspecified chronic otitis externa, right ear",右側慢性外耳炎
+81,H6062,"Unspecified chronic otitis externa, left ear",左側慢性外耳炎
+82,H6063,"Unspecified chronic otitis externa, bilateral",雙側慢性外耳炎
+83,H608,Other otitis externa,其他外耳炎
+84,H608x,Other otitis externa,其他外耳炎
+85,H608x1,"Other otitis externa, right ear",右側其他外耳炎
+86,H608x2,"Other otitis externa, left ear",左側其他外耳炎
+87,H608x3,"Other otitis externa, bilateral",雙側其他外耳炎
+88,H608x9,"Other otitis externa, unspecified ear",未特定側其他外耳炎
+89,H609,Unspecified otitis externa,外耳炎
+90,H6090,"Unspecified otitis externa, unspecified ear",未特定側外耳炎
+91,H6091,"Unspecified otitis externa, right ear",右側外耳炎
+92,H6092,"Unspecified otitis externa, left ear",左側外耳炎
+93,H6093,"Unspecified otitis externa, bilateral",雙側外耳炎
+94,H61,Other disorders of external ear,外耳其他疾患
+95,H610,Chondritis and perichondritis of external ear,外耳軟骨炎及軟骨膜炎
+96,H6100,Unspecified perichondritis of external ear,外耳軟骨膜炎
+97,H61001,Unspecified perichondritis of right external ear,右側外耳軟骨膜炎
+98,H61002,Unspecified perichondritis of left external ear,左側外耳軟骨膜炎
+99,H61003,"Unspecified perichondritis of external ear, bilateral",雙側外耳軟骨膜炎
+100,H61009,"Unspecified perichondritis of external ear, unspecified ear",未特定側外耳軟骨膜炎
+101,H6101,Acute perichondritis of external ear,外耳急性軟骨膜炎
+102,H61011,Acute perichondritis of right external ear,右側外耳急性軟骨膜炎
+103,H61012,Acute perichondritis of left external ear,左側外耳急性軟骨膜炎
+104,H61013,"Acute perichondritis of external ear, bilateral",雙側外耳急性軟骨膜炎
+105,H61019,"Acute perichondritis of external ear, unspecified ear",未特定側外耳急性軟骨膜炎
+106,H6102,Chronic perichondritis of external ear,外耳慢性軟骨膜炎
+107,H61021,Chronic perichondritis of right external ear,右側外耳慢性軟骨膜炎
+108,H61022,Chronic perichondritis of left external ear,左側外耳慢性軟骨膜炎
+109,H61023,"Chronic perichondritis of external ear, bilateral",雙側外耳慢性軟骨膜炎
+110,H61029,"Chronic perichondritis of external ear, unspecified ear",未特定側外耳慢性軟骨膜炎
+111,H6103,Chondritis of external ear,外耳軟骨炎
+112,H61031,Chondritis of right external ear,右側外耳軟骨炎
+113,H61032,Chondritis of left external ear,左側外耳軟骨炎
+114,H61033,"Chondritis of external ear, bilateral",雙側外耳軟骨炎
+115,H61039,"Chondritis of external ear, unspecified ear",未特定側外耳軟骨炎
+116,H611,Noninfective disorders of pinna,耳翼(廓)非感染性疾患
+117,H6110,Unspecified noninfective disorders of pinna,耳翼(廓)非感染性疾患
+118,H61101,"Unspecified noninfective disorders of pinna, right ear",右側非感染性耳翼(廓)疾患
+119,H61102,"Unspecified noninfective disorders of pinna, left ear",左側非感染性耳翼(廓)疾患
+120,H61103,"Unspecified noninfective disorders of pinna, bilateral",雙側非感染性耳翼(廓)疾患
+121,H61109,"Unspecified noninfective disorders of pinna, unspecified ear",未特定側非感染性耳翼(廓)疾患
+122,H6111,Acquired deformity of pinna,耳翼(廓)後天性畸形
+123,H61111,"Acquired deformity of pinna, right ear",右側耳翼(廓)後天性畸形
+124,H61112,"Acquired deformity of pinna, left ear",左側耳翼(廓)後天性畸形
+125,H61113,"Acquired deformity of pinna, bilateral",雙側耳翼(廓)後天性畸形
+126,H61119,"Acquired deformity of pinna, unspecified ear",未特定側耳翼(廓)後天性畸形
+127,H6112,Hematoma of pinna,耳翼(廓)血腫
+128,H61121,"Hematoma of pinna, right ear",右側耳翼(廓)血腫
+129,H61122,"Hematoma of pinna, left ear",左側耳翼(廓)血腫
+130,H61123,"Hematoma of pinna, bilateral",雙側耳翼(廓)血腫
+131,H61129,"Hematoma of pinna, unspecified ear",未特定側耳翼(廓)血腫
+132,H6119,Other noninfective disorders of pinna,耳翼(廓)非感染性疾患
+133,H61191,"Noninfective disorders of pinna, right ear",右側非感染性耳翼(廓)疾患
+134,H61192,"Noninfective disorders of pinna, left ear",左側非感染性耳翼(廓)疾患
+135,H61193,"Noninfective disorders of pinna, bilateral",雙側非感染性耳翼(廓)疾患
+136,H61199,"Noninfective disorders of pinna, unspecified ear",未特定側非感染性耳翼疾患
+137,H612,Impacted cerumen,耳垢嵌塞
+138,H6120,"Impacted cerumen, unspecified ear",未特定側耳垢嵌塞
+139,H6121,"Impacted cerumen, right ear",右側耳垢嵌塞
+140,H6122,"Impacted cerumen, left ear",左側耳垢嵌塞
+141,H6123,"Impacted cerumen, bilateral",雙側耳垢嵌塞
+142,H613,Acquired stenosis of external ear canal,外耳道後天性狹窄
+143,H6130,"Acquired stenosis of external ear canal, unspecified",外耳道後天性狹窄，未特定
+144,H61301,"Acquired stenosis of right external ear canal, unspecified",右側外耳道後天性狹窄，未特定
+145,H61302,"Acquired stenosis of left external ear canal, unspecified",左側外耳道後天性狹窄，未特定
+146,H61303,"Acquired stenosis of external ear canal, unspecified, bilateral",雙側後天性外耳道狹窄
+147,H61309,"Acquired stenosis of external ear canal, unspecified, unspecified ear",未特定側後天性外耳道狹窄
+148,H6131,Acquired stenosis of external ear canal secondary to trauma,外傷所致之續發性外耳道狹窄
+149,H61311,Acquired stenosis of right external ear canal secondary to trauma,外傷所致之續發性右側外耳道狹窄
+150,H61312,Acquired stenosis of left external ear canal secondary to trauma,外傷所致之續發性左側外耳道狹窄
+151,H61313,"Acquired stenosis of external ear canal secondary to trauma, bilateral",雙側外傷所致之續發性外耳道狹窄
+152,H61319,"Acquired stenosis of external ear canal secondary to trauma, unspecified ear",未特定側外傷所致之續發性外耳道狹窄
+153,H6132,Acquired stenosis of external ear canal secondary to inflammation and infection,發炎及感染所致之續發性外耳道狹窄
+154,H61321,Acquired stenosis of right external ear canal secondary to inflammation and infection,發炎及感染所致之續發性右側外耳道狹窄
+155,H61322,Acquired stenosis of left external ear canal secondary to inflammation and infection,發炎及感染所致之續發性左側外耳道狹窄
+156,H61323,"Acquired stenosis of external ear canal secondary to inflammation and infection, bilateral",雙側發炎及感染所致之續發性外耳道狹窄
+157,H61329,"Acquired stenosis of external ear canal secondary to inflammation and infection, unspecified ear",未特定側發炎及感染所致之續發性外耳道狹窄
+158,H6139,Other acquired stenosis of external ear canal,外耳道其他後天性狹窄
+159,H61391,Other acquired stenosis of right external ear canal,右側外耳道其他後天性狹窄
+160,H61392,Other acquired stenosis of left external ear canal,左側外耳道其他後天性狹窄
+161,H61393,"Other acquired stenosis of external ear canal, bilateral",雙側外耳道其他後天性狹窄
+162,H61399,"Other acquired stenosis of external ear canal, unspecified ear",未特定側外耳道其他後天性狹窄
+163,H618,Other specified disorders of external ear,外耳之其他特定疾患
+164,H6181,Exostosis of external canal,外耳道外生骨疣
+165,H61811,Exostosis of right external canal,右側外耳道外生骨疣
+166,H61812,Exostosis of left external canal,左側外耳道外生骨疣
+167,H61813,"Exostosis of external canal, bilateral",雙側外耳道外生骨疣
+168,H61819,"Exostosis of external canal, unspecified ear",未特定側外耳道外生骨疣
+169,H6189,Other specified disorders of external ear,外耳之其他特定疾患
+170,H61891,Other specified disorders of right external ear,右側外耳之其他特定疾患
+171,H61892,Other specified disorders of left external ear,左側外耳之其他特定疾患
+172,H61893,"Other specified disorders of external ear, bilateral",雙側外耳之其他特定疾患
+173,H61899,"Other specified disorders of external ear, unspecified ear",未特定側外耳之其他特定疾患
+174,H619,"Disorder of external ear, unspecified",外耳疾患，未特定
+175,H6190,"Disorder of external ear, unspecified, unspecified ear",未特定側外耳疾患
+176,H6191,"Disorder of right external ear, unspecified",右側外耳疾患，未特定
+177,H6192,"Disorder of left external ear, unspecified",左側外耳疾患，未特定
+178,H6193,"Disorder of external ear, unspecified, bilateral",雙側外耳疾患
+179,H62,Disorders of external ear in diseases classified elsewhere,歸類於他處疾病所致之外耳疾患
+180,H624,Otitis externa in other diseases classified elsewhere,歸類於他處其他疾病所致之外耳炎
+181,H6240,"Otitis externa in other diseases classified elsewhere, unspecified ear",未特定側歸類於他處之其他疾病所致之外耳炎
+182,H6241,"Otitis externa in other diseases classified elsewhere, right ear",右側歸類於他處其他疾病所致之外耳炎
+183,H6242,"Otitis externa in other diseases classified elsewhere, left ear",左側歸類於他處其他疾病所致之外耳炎
+184,H6243,"Otitis externa in other diseases classified elsewhere, bilateral",雙側歸類於他處其他疾病所致之外耳炎
+185,H628,Other disorders of external ear in diseases clssified elsewhere,歸類於他處疾病所致之外耳其他疾患
+186,H628x,Other disorders of external ear in diseases classified elsewhere,歸類於他處疾病所致之外耳其他疾患
+187,H628x1,Other disorders of right external ear in diseases classified elsewhere,歸類於他處疾病所致之右側外耳其他疾患
+188,H628x2,Other disorders of left external ear in diseases classified elsewhere,歸類於他處疾病所致之左側外耳其他疾患
+189,H628x3,"Other disorders of external ear in diseases classified elsewhere, bilateral",歸類於他處疾病所致之雙側外耳其他疾患
+190,H628x9,"Other disorders of external ear in diseases classified elsewhere, unspecified ear",未特定側歸類於他處疾病所致之外耳其他疾患
+191,H65,Nonsuppurative otitis media,非化膿性中耳炎
+192,H650,Acute serous otitis media,急性漿液性中耳炎
+193,H6500,"Acute serous otitis media, unspecified ear",未特定側急性漿液性中耳炎
+194,H6501,"Acute serous otitis media, right ear",右側急性漿液性中耳炎
+195,H6502,"Acute serous otitis media, left ear",左側急性漿液性中耳炎
+196,H6503,"Acute serous otitis media, bilateral",雙側急性漿液性中耳炎
+197,H6504,"Acute serous otitis media, recurrent, right ear","右側急性漿液性中耳炎,復發"
+198,H6505,"Acute serous otitis media, recurrent, left ear","左側急性漿液性中耳炎,復發"
+199,H6506,"Acute serous otitis media, recurrent, bilateral","雙側急性漿液性中耳炎,復發"
+200,H6507,"Acute serous otitis media, recurrent, unspecified ear","未特定側急性漿液性中耳炎,復發"
+201,H651,Other acute nonsuppurative otitis media,其他急性非化膿性中耳炎
+202,H6511,Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous),急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性)
+203,H65111,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), right ear",右側急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性)
+204,H65112,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), left ear",左側急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性)
+205,H65113,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), bilateral",雙側急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性)
+206,H65114,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), recurrent, right ear","右側急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性),復發"
+207,H65115,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), recurrent, left ear","左側急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性),復發"
+208,H65116,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), recurrent, bilateral","雙側急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性),復發"
+209,H65117,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), recurrent, unspecified ear","未特定側急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性),復發"
+210,H65119,"Acute and subacute allergic otitis media (mucoid) (sanguinous) (serous), unspecified ear",未特定側急性及亞急性過敏性中耳炎(黏液樣性)(血性)(漿液性)
+211,H6519,Other acute nonsuppurative otitis media,其他急性非化膿性中耳炎
+212,H65191,"Other acute nonsuppurative otitis media, right ear",右側其他急性非化膿性中耳炎
+213,H65192,"Other acute nonsuppurative otitis media, left ear",左側其他急性非化膿性中耳炎
+214,H65193,"Other acute nonsuppurative otitis media, bilateral",雙側其他急性非化膿性中耳炎
+215,H65194,"Other acute nonsuppurative otitis media, recurrent, right ear","右側其他急性非化膿性中耳炎,復發"
+216,H65195,"Other acute nonsuppurative otitis media, recurrent, left ear","左側其他急性非化膿性中耳炎,復發"
+217,H65196,"Other acute nonsuppurative otitis media, recurrent, bilateral","雙側其他急性非化膿性中耳炎,復發"
+218,H65197,"Other acute nonsuppurative otitis media recurrent, unspecified ear","未特定側其他急性非化膿性中耳炎,復發"
+219,H65199,"Other acute nonsuppurative otitis media, unspecified ear",未特定側其他急性非化膿性中耳炎
+220,H652,Chronic serous otitis media,慢性漿液性中耳炎
+221,H6520,"Chronic serous otitis media, unspecified ear",未特定側慢性漿液性中耳炎
+222,H6521,"Chronic serous otitis media, right ear",右側慢性漿液性中耳炎
+223,H6522,"Chronic serous otitis media, left ear",左側慢性漿液性中耳炎
+224,H6523,"Chronic serous otitis media, bilateral",雙側慢性漿液性中耳炎
+225,H653,Chronic mucoid otitis media,慢性黏液性中耳炎
+226,H6530,"Chronic mucoid otitis media, unspecified ear",未特定側慢性黏液性中耳炎
+227,H6531,"Chronic mucoid otitis media, right ear",右側慢性黏液性中耳炎
+228,H6532,"Chronic mucoid otitis media, left ear",左側慢性黏液性中耳炎
+229,H6533,"Chronic mucoid otitis media, bilateral",雙側慢性黏液性中耳炎
+230,H654,Other chronic nonsuppurative otitis media,其他慢性非化膿性中耳炎
+231,H6541,Chronic allergic otitis media,慢性過敏性中耳炎
+232,H65411,"Chronic allergic otitis media, right ear",右側慢性過敏性中耳炎
+233,H65412,"Chronic allergic otitis media, left ear",左側慢性過敏性中耳炎
+234,H65413,"Chronic allergic otitis media, bilateral",雙側慢性過敏性中耳炎
+235,H65419,"Chronic allergic otitis media, unspecified ear",未特定側慢性過敏性中耳炎
+236,H6549,Other chronic nonsuppurative otitis media,其他慢性非化膿性中耳炎
+237,H65491,"Other chronic nonsuppurative otitis media, right ear",右側其他慢性非化膿性中耳炎
+238,H65492,"Other chronic nonsuppurative otitis media, left ear",左側其他慢性非化膿性中耳炎
+239,H65493,"Other chronic nonsuppurative otitis media, bilateral",雙側其他慢性非化膿性中耳炎
+240,H65499,"Other chronic nonsuppurative otitis media, unspecified ear",未特定側其他慢性非化膿性中耳炎
+241,H659,Unspecified nonsuppurative otitis media,非化膿性中耳炎
+242,H6590,"Unspecified nonsuppurative otitis media, unspecified ear",未特定側非化膿性中耳炎
+243,H6591,"Unspecified nonsuppurative otitis media, right ear",右側非化膿性中耳炎
+244,H6592,"Unspecified nonsuppurative otitis media, left ear",左側非化膿性中耳炎
+245,H6593,"Unspecified nonsuppurative otitis media, bilateral",雙側非化膿性中耳炎
+246,H66,Suppurative and unspecified otitis media,化膿性及未特定之中耳炎
+247,H660,Acute suppurative otitis media,急性化膿性中耳炎
+248,H6600,Acute suppurative otitis media without spontaneous rupture of ear drum,未伴有自發性耳鼓破裂之急性化膿性中耳炎
+249,H66001,"Acute suppurative otitis media without spontaneous rupture of ear drum, right ear",右側未伴有自發性耳鼓破裂之急性化膿性中耳炎
+250,H66002,"Acute suppurative otitis media without spontaneous rupture of ear drum, left ear",左側未伴有自發性耳鼓破裂之急性化膿性中耳炎
+251,H66003,"Acute suppurative otitis media without spontaneous rupture of ear drum, bilateral",雙側未伴有自發性耳鼓破裂之急性化膿性中耳炎
+252,H66004,"Acute suppurative otitis media without spontaneous rupture of ear drum, recurrent, right ear",右側未伴有自發性耳鼓破裂復發之急性化膿性中耳炎
+253,H66005,"Acute suppurative otitis media without spontaneous rupture of ear drum, recurrent, left ear",左側未伴有自發性耳鼓破裂復發之急性化膿性中耳炎
+254,H66006,"Acute suppurative otitis media without spontaneous rupture of ear drum, recurrent, bilateral",雙側未伴有自發性耳鼓破裂復發之急性化膿性中耳炎
+255,H66007,"Acute suppurative otitis media without spontaneous rupture of ear drum, recurrent, unspecified ear",未特定側未伴有自發性耳鼓破裂復發之急性化膿性中耳炎
+256,H66009,"Acute suppurative otitis media without spontaneous rupture of ear drum, unspecified ear",未特定側未伴有自發性耳鼓破裂之急性化膿性中耳炎
+257,H6601,Acute suppurative otitis media with spontaneous rupture of ear drum,伴有自發性耳鼓破裂之急性化膿性中耳炎
+258,H66011,"Acute suppurative otitis media with spontaneous rupture of ear drum, right ear",右側伴有自發性耳鼓破裂之急性化膿性中耳炎
+259,H66012,"Acute suppurative otitis media with spontaneous rupture of ear drum, left ear",左側伴有自發性耳鼓破裂之急性化膿性中耳炎
+260,H66013,"Acute suppurative otitis media with spontaneous rupture of ear drum, bilateral",雙側伴有自發性耳鼓破裂之急性化膿性中耳炎
+261,H66014,"Acute suppurative otitis media with spontaneous rupture of ear drum, recurrent, right ear","右側伴有自發性耳鼓破裂,復發之急性化膿性中耳炎"
+262,H66015,"Acute suppurative otitis media with spontaneous rupture of ear drum, recurrent, left ear",左側伴有自發性耳鼓破裂復發之急性化膿性中耳炎
+263,H66016,"Acute suppurative otitis media with spontaneous rupture of ear drum, recurrent, bilateral",雙側伴有自發性耳鼓破裂復發之急性化膿性中耳炎
+264,H66017,"Acute suppurative otitis media with spontaneous rupture of ear drum, recurrent, unspecified ear",未特定側伴有自發性耳鼓破裂復發之急性化膿性中耳炎
+265,H66019,"Acute suppurative otitis media with spontaneous rupture of ear drum, unspecified ear",未特定側伴有自發性耳鼓破裂之急性化膿性中耳炎
+266,H661,Chronic tubotympanic suppurative otitis media,慢性耳咽管及鼓室化膿性中耳炎
+267,H6610,"Chronic tubotympanic suppurative otitis media, unspecified",慢性耳咽管及鼓室化膿性中耳炎，未特定
+268,H6611,"Chronic tubotympanic suppurative otitis media, right ear",右側慢性耳咽管及鼓室化膿性中耳炎
+269,H6612,"Chronic tubotympanic suppurative otitis media, left ear",左側慢性耳咽管及鼓室化膿性中耳炎
+270,H6613,"Chronic tubotympanic suppurative otitis media, bilateral",雙側慢性耳咽管及鼓室化膿性中耳炎
+271,H662,Chronic atticoantral suppurative otitis media,慢性鼓室隱窩及乳突竇化膿性中耳炎
+272,H6620,"Chronic atticoantral suppurative otitis media, unspecified ear",未特定側慢性鼓室隱窩及乳突竇化膿性中耳炎
+273,H6621,"Chronic atticoantral suppurative otitis media, right ear",右側慢性鼓室隱窩及乳突竇化膿性中耳炎
+274,H6622,"Chronic atticoantral suppurative otitis media, left ear",左側慢性鼓室隱窩及乳突竇化膿性中耳炎
+275,H6623,"Chronic atticoantral suppurative otitis media, bilateral",雙側慢性鼓室隱窩及乳突竇化膿性中耳炎
+276,H663,Other chronic suppurative otitis media,其他慢性化膿性中耳炎
+277,H663x,Other chronic suppurative otitis media,其他慢性化膿性中耳炎
+278,H663x1,"Other chronic suppurative otitis media, right ear",右側其他慢性化膿性中耳炎
+279,H663x2,"Other chronic suppurative otitis media, left ear",左側其他慢性化膿性中耳炎
+280,H663x3,"Other chronic suppurative otitis media, bilateral",雙側其他慢性化膿性中耳炎
+281,H663x9,"Other chronic suppurative otitis media, unspecified ear",未特定側其他慢性化膿性中耳炎
+282,H664,"Suppurative otitis media, unspecified",化膿性中耳炎，未特定
+283,H6640,"Suppurative otitis media, unspecified, unspecified ear",未特定側化膿性中耳炎
+284,H6641,"Suppurative otitis media, unspecified, right ear",右側化膿性中耳炎
+285,H6642,"Suppurative otitis media, unspecified, left ear",左側化膿性中耳炎
+286,H6643,"Suppurative otitis media, unspecified, bilateral",雙側化膿性中耳炎
+287,H669,"Otitis media, unspecified",中耳炎，未特定
+288,H6690,"Otitis media, unspecified, unspecified ear",未特定側中耳炎
+289,H6691,"Otitis media, unspecified. right ear",右側中耳炎
+290,H6692,"Otitis media, unspecified, left ear",左側中耳炎
+291,H6693,"Otitis media, unspecified, bilateral",雙側中耳炎
+292,H67,Otitis media in diseases classified elsewhere,歸類於他處疾病所致之中耳炎
+293,H671,"Otitis media in diseases classified elsewhere, right ear",右側歸類於他處疾病所致之中耳炎
+294,H672,"Otitis media in diseases classified elsewhere, left ear",左側歸類於他處疾病所致之中耳炎
+295,H673,"Otitis media in diseases classified elsewhere, bilateral",雙側歸類於他處疾病所致之中耳炎
+296,H679,"Otitis media in diseases classified elsewhere, unspecified ear",未特定側歸類於他處疾病所致之中耳炎
+297,H68,Eustachian salpingitis and obstruction,耳咽管炎及阻塞
+298,H680,Eustachian salpingitis,耳咽管炎
+299,H6800,Unspecified Eustachian salpingitis,耳咽管炎
+300,H68001,"Unspecified Eustachian salpingitis, right ear",右側耳咽管炎
+301,H68002,"Unspecified Eustachian salpingitis, left ear",左側耳咽管炎
+302,H68003,"Unspecified Eustachian salpingitis, bilateral",雙側耳咽管炎
+303,H68009,"Unspecified Eustachian salpingitis, unspecified ear",未特定側耳咽管炎
+304,H6801,Acute Eustachian salpingitis,急性耳咽管炎
+305,H68011,"Acute Eustachian salpingitis, right ear",右側急性耳咽管炎
+306,H68012,"Acute Eustachian salpingitis, left ear",左側急性耳咽管炎
+307,H68013,"Acute Eustachian salpingitis, bilateral",雙側急性耳咽管炎
+308,H68019,"Acute Eustachian salpingitis, unspecified ear",未特定側急性耳咽管炎
+309,H6802,Chronic Eustachian salpingitis,慢性耳咽管炎
+310,H68021,"Chronic Eustachian salpingitis, right ear",右側慢性耳咽管炎
+311,H68022,"Chronic Eustachian salpingitis, left ear",左側慢性耳咽管炎
+312,H68023,"Chronic Eustachian salpingitis, bilateral",雙側慢性耳咽管炎
+313,H68029,"Chronic Eustachian salpingitis, unspecified ear",未特定側慢性耳咽管炎
+314,H681,Obstruction of Eustachian tube,耳咽管阻塞
+315,H6810,Unspecified obstruction of Eustachian tube,耳咽管阻塞
+316,H68101,"Unspecified obstruction of Eustachian tube, right ear",右側耳咽管阻塞
+317,H68102,"Unspecified obstruction of Eustachian tube, left ear",左側耳咽管阻塞
+318,H68103,"Unspecified obstruction of Eustachian tube, bilateral",雙側耳咽管阻塞
+319,H68109,"Unspecified obstruction of Eustachian tube, unspecified ear",未特定側耳咽管阻塞
+320,H6811,Osseous obstruction of Eustachian tube,耳咽管骨性阻塞
+321,H68111,"Osseous obstruction of Eustachian tube, right ear",右側耳咽管骨性阻塞
+322,H68112,"Osseous obstruction of Eustachian tube, left ear",左側耳咽管骨性阻塞
+323,H68113,"Osseous obstruction of Eustachian tube, bilateral",雙側耳咽管骨性阻塞
+324,H68119,"Osseous obstruction of Eustachian tube, unspecified ear",未特定側耳咽管骨性阻塞
+325,H6812,Intrinsic cartilahenous obstruction of Eustachian tube,耳咽管內部軟骨性阻塞
+326,H68121,"Intrinsic cartilagenous obstruction of Eustachian tube, right ear",右側耳咽管內部軟骨性阻塞
+327,H68122,"Intrinsic cartilagenous obstruction of Eustachian tube, left ear",左側耳咽管內部軟骨性阻塞
+328,H68123,"Intrinsic cartilagenous obstruction of Eustachian tube, bilateral",雙側耳咽管內部軟骨性阻塞
+329,H68129,"Intrinsic cartilagenous obstruction of Eustachian tube, unspecified ear",未特定側耳咽管內部軟骨性阻塞
+330,H6813,Extrinsic cartilahenous obstruction of Eustachian tube,耳咽管外部軟骨性阻塞
+331,H68131,"Extrinsic cartilagenous obstruction of Eustachian tube, right ear",右側耳咽管外部軟骨性阻塞
+332,H68132,"Extrinsic cartilagenous obstruction of Eustachian tube, left ear",左側耳咽管外部軟骨性阻塞
+333,H68133,"Extrinsic cartilagenous obstruction of Eustachian tube, bilateral",雙側耳咽管外部軟骨性阻塞
+334,H68139,"Extrinsic cartilagenous obstruction of Eustachian tube, unspecified ear",未特定側耳咽管外部軟骨性阻塞
+335,H69,Other and unspecified disorders of Eustachian tube,耳咽管其他及未特定疾患
+336,H690,Patulous Eustachian tube,耳咽管開放症
+337,H6900,"Patulous Eustachian tube, unspecified ear",未特定側耳咽管開放症
+338,H6901,"Patulous Eustachian tube, right ear",右側耳咽管開放症
+339,H6902,"Patulous Eustachian tube, left ear",左側耳咽管開放症
+340,H6903,"Patulous Eustachian tube, bilateral",雙側耳咽管開放症
+341,H698,Other specified disorders of Eustachian tube,其他特定之耳咽管疾患
+342,H6980,"Other specified disorders of Eustachian tube, unspecified ear",未特定側其他特定之耳咽管疾患
+343,H6981,"Other specified disorders of Eustachian tube, right ear",右側其他特定之耳咽管疾患
+344,H6982,"Other specified disorders of Eustachian tube, left ear",左側其他特定之耳咽管疾患
+345,H6983,"Other specified disorders of Eustachian tube, bilateral",雙側其他特定之耳咽管疾患
+346,H699,Unspecified Eustachian tube disorder,耳咽管疾患
+347,H6990,"Unspecified Eustachian tube disorder, unspecified ear",未特定側耳咽管疾患
+348,H6991,"Unspecified Eustachian tube disorder, right ear",右側耳咽管疾患
+349,H6992,"Unspecified Eustachian tube disorder, left ear",左側耳咽管疾患
+350,H6993,"Unspecified Eustachian tube disorder, bilateral",雙側耳咽管疾患
+351,H70,Mastoiditis and related conditions,乳突炎及其相關病況
+352,H700,Acute mastoiditis,急性乳突炎
+353,H7000,Acute mastoiditis without complications,急性乳突炎未伴有併發症
+354,H70001,"Acute mastoiditis without complications, right ear",右側急性乳突炎未伴有併發症
+355,H70002,"Acute mastoiditis without complications, left ear",左側急性乳突炎未伴有併發症
+356,H70003,"Acute mastoiditis without complications, bilateral",雙側急性乳突炎未伴有併發症
+357,H70009,"Acute mastoiditis without complications, unspecified ear",未特定側急性乳突炎未伴有併發症
+358,H7001,Subperiosteal abscess of mastoid,乳突骨膜下膿瘍
+359,H70011,"Subperiosteal abscess of mastoid, right ear",右側乳突骨膜下膿瘍
+360,H70012,"Subperiosteal abscess of mastoid, left ear",左側乳突骨膜下膿瘍
+361,H70013,"Subperiosteal abscess of mastoid, bilateral",雙側乳突骨膜下膿瘍
+362,H70019,"Subperiosteal abscess of mastoid, unspecified ear",未特定側乳突骨膜下膿瘍
+363,H7009,Acute mastoiditis with other complications,急性乳突炎伴有其他併發症
+364,H70091,"Acute mastoiditis with other complications, right ear",右側急性乳突炎伴有其他併發症
+365,H70092,"Acute mastoiditis with other complications, left ear",左側急性乳突炎伴有其他併發症
+366,H70093,"Acute mastoiditis with other complications, bilateral",雙側急性乳突炎伴有其他併發症
+367,H70099,"Acute mastoiditis with other complications, unspecified ear",未特定側急性乳突炎伴有其他併發症
+368,H701,Chronic mastoiditis,慢性乳突炎
+369,H7010,"Chronic mastoiditis, unspecified ear",未特定側慢性乳突炎
+370,H7011,"Chronic mastoiditis, right ear",右側慢性乳突炎
+371,H7012,"Chronic mastoiditis, left ear",左側慢性乳突炎
+372,H7013,"Chronic mastoiditis, bilateral",雙側慢性乳突炎
+373,H702,Petrositis,顳骨岩部炎
+374,H7020,Unspecified petrositis,顳骨岩部炎
+375,H70201,"Unspecified petrositis, right ear",右側顳骨岩部炎
+376,H70202,"Unspecified petrositis, left ear",左側顳骨岩部炎
+377,H70203,"Unspecified petrositis, bilateral",雙側顳骨岩部炎
+378,H70209,"Unspecified petrositis, unspecified ear",未特定側顳骨岩部炎
+379,H7021,Acute petrositis,急性顳骨岩部炎
+380,H70211,"Acute petrositis, right ear",右側急性顳骨岩部炎
+381,H70212,"Acute petrositis, left ear",左側急性顳骨岩部炎
+382,H70213,"Acute petrositis, bilateral",雙側急性顳骨岩部炎
+383,H70219,"Acute petrositis, unspecified ear",未特定側急性顳骨岩部炎
+384,H7022,Chronic petrositis,慢性顳骨岩部炎
+385,H70221,"Chronic petrositis, right ear",右側慢性顳骨岩部炎
+386,H70222,"Chronic petrositis, left ear",左側慢性顳骨岩部炎
+387,H70223,"Chronic petrositis, bilateral",雙側慢性顳骨岩部炎
+388,H70229,"Chronic petrositis, unspecified ear",未特定側慢性顳骨岩部炎
+389,H708,Other mastoiditis and related conditions,其它乳突炎及其相關病況
+390,H7081,Postauricular fistula,耳後瘻管
+391,H70811,"Postauricular fistula, right ear",右側耳後瘻管
+392,H70812,"Postauricular fistula, left ear",左側耳後瘻管
+393,H70813,"Postauricular fistula, bilateral",雙側耳後瘻管
+394,H70819,"Postauricular fistula, unspecified ear",未特定側耳後瘻管
+395,H7089,Other mastoiditis and related conditions,其它乳突炎及其相關病況
+396,H70891,"Other mastoiditis and related conditions, right ear",右耳其它乳突炎及其相關病況
+397,H70892,"Other mastoiditis and related conditions, left ear",左耳其它乳突炎及其相關病況
+398,H70893,"Other mastoiditis and related conditions, bilateral",雙側其它乳突炎及其相關病況
+399,H70899,"Other mastoiditis and related conditions, unspecified ear",未特定側之其它乳突炎及其相關病況
+400,H709,Unspecified mastoiditis,乳突炎
+401,H7090,"Unspecified mastoiditis, unspecified ear",未特定側之乳突炎
+402,H7091,"Unspecified mastoiditis, right ear",右耳乳突炎
+403,H7092,"Unspecified mastoiditis, left ear",左耳乳突炎
+404,H7093,"Unspecified mastoiditis, bilateral",雙側乳突炎
+405,H71,Cholesteatoma of middle ear,中耳膽脂瘤
+406,H710,Cholesteatoma of attic,鼓室隱窩膽脂瘤
+407,H7100,"Cholesteatoma of attic, unspecified ear",未特定側之鼓室隱窩膽脂瘤
+408,H7101,"Cholesteatoma of attic, right ear",右耳鼓室隱窩膽脂瘤
+409,H7102,"Cholesteatoma of attic, left ear",左耳鼓室隱窩膽脂瘤
+410,H7103,"Cholesteatoma of attic, bilateral",雙側鼓室隱窩膽脂瘤
+411,H711,Cholesteatoma of tympanum,鼓室膽脂瘤
+412,H7110,"Cholesteatoma of tympanum, unspecified ear",未特定側之中耳鼓室膽脂瘤
+413,H7111,"Cholesteatoma of tympanum, right ear",右側中耳鼓室膽脂瘤
+414,H7112,"Cholesteatoma of tympanum, left ear",左側中耳鼓室膽脂瘤
+415,H7113,"Cholesteatoma of tympanum, bilateral",雙側中耳鼓室膽脂瘤
+416,H712,Cholesteatoma of mastoid,乳突膽脂瘤
+417,H7120,"Cholesteatoma of mastoid, unspecified ear",未特定側之乳突膽脂瘤
+418,H7121,"Cholesteatoma of mastoid, right ear",右耳乳突膽脂瘤
+419,H7122,"Cholesteatoma of mastoid, left ear",左耳乳突膽脂瘤
+420,H7123,"Cholesteatoma of mastoid, bilateral",雙側乳突膽脂瘤
+421,H713,Diffuse cholesteatosis,瀰漫性膽脂性變性
+422,H7130,"Diffuse cholesteatosis, unspecified ear",未特定側之瀰漫性膽脂性變性
+423,H7131,"Diffuse cholesteatosis, right ear",右耳瀰漫性膽脂性變性
+424,H7132,"Diffuse cholesteatosis, left ear",左耳瀰漫性膽脂性變性
+425,H7133,"Diffuse cholesteatosis, bilateral",雙側瀰漫性膽脂性變性
+426,H719,Unspecified cholesteatoma,膽脂瘤
+427,H7190,"Unspecified cholesteatoma, unspecified ear",未特定側之膽脂瘤
+428,H7191,"Unspecified cholesteatoma, right ear",右耳膽脂瘤
+429,H7192,"Unspecified cholesteatoma, left ear",左耳膽脂瘤
+430,H7193,"Unspecified cholesteatoma, bilateral",雙側膽脂瘤
+431,H72,Perforation of tympanic membrane,鼓膜穿孔
+432,H720,Central perforation of tympanic membrane,鼓膜中央穿孔
+433,H7200,"Central perforation of tympanic membrane, unspecified ear",未特定側之鼓膜中央穿孔
+434,H7201,"Central perforation of tympanic membrane, right ear",右耳鼓膜中央穿孔
+435,H7202,"Central perforation of tympanic membrane, left ear",左耳鼓膜中央穿孔
+436,H7203,"Central perforation of tympanic membrane, bilateral",雙側鼓膜中央穿孔
+437,H721,Attic perforation of tympanic membrane,鼓膜鼓室隱窩部穿孔
+438,H7210,"Attic perforation of tympanic membrane, unspecified ear",未特定側之鼓膜鼓室隱窩部穿孔
+439,H7211,"Attic perforation of tympanic membrane, right ear",右耳鼓膜鼓室隱窩部穿孔
+440,H7212,"Attic perforation of tympanic membrane, left ear",左耳鼓膜鼓室隱窩部穿孔
+441,H7213,"Attic perforation of tympanic membrane, bilateral",雙側鼓膜鼓室隱窩部穿孔
+442,H722,Other marginal perforations of tympanic membrane,其他鼓膜邊緣穿孔
+443,H722x,Other marginal perforations of tympanic membrane,其他鼓膜邊緣穿孔
+444,H722x1,"Other marginal perforations of tympanic membrane, right ear",右耳其他鼓膜邊緣穿孔
+445,H722x2,"Other marginal perforations of tympanic membrane, left ear",左耳其他鼓膜邊緣穿孔
+446,H722x3,"Other marginal perforations of tympanic membrane, bilateral",雙側其他鼓膜邊緣穿孔
+447,H722x9,"Other marginal perforations of tympanic membrane, unspecified ear",未特定側之其他鼓膜邊緣穿孔
+448,H728,Other perforations of tympanic membrane,其他鼓膜穿孔
+449,H7281,Multiple perforations of tympanic membrane,鼓膜多處穿孔
+450,H72811,"Multiple perforations of tympanic membrane, right ear",右耳鼓膜多處穿孔
+451,H72812,"Multiple perforations of tympanic membrane, left ear",左耳鼓膜多處穿孔
+452,H72813,"Multiple perforations of tympanic membrane, bilateral",雙側鼓膜多處穿孔
+453,H72819,"Multiple perforations of tympanic membrane, unspecified ear",未特定側之鼓膜多處穿孔
+454,H7282,Total perforations of tympanic membrane,鼓膜全穿孔
+455,H72821,"Total perforations of tympanic membrane, right ear",右耳鼓膜全穿孔
+456,H72822,"Total perforations of tympanic membrane, left ear",左耳鼓膜全穿孔
+457,H72823,"Total perforations of tympanic membrane, bilateral",雙側鼓膜全穿孔
+458,H72829,"Total perforations of tympanic membrane, unspecified ear",未特定側之鼓膜全穿孔
+459,H729,Unspecified perforation of tympanic membrane,鼓膜穿孔
+460,H7290,"Unspecified perforation of tympanic membrane, unspecified ear",未特定側之鼓膜穿孔
+461,H7291,"Unspecified perforation of tympanic membrane, right ear",右耳鼓膜穿孔
+462,H7292,"Unspecified perforation of tympanic membrane, left ear",左耳鼓膜穿孔
+463,H7293,"Unspecified perforation of tympanic membrane, bilateral",雙側鼓膜穿孔
+464,H73,Other disorders of tympanic membrane,鼓膜其他疾患
+465,H730,Acute myringitis,急性鼓膜炎
+466,H7300,Unspecified acute myringitis,急性鼓膜炎
+467,H73001,"Acute myringitis, right ear",右耳急性鼓膜炎
+468,H73002,"Acute myringitis, left ear",左耳急性鼓膜炎
+469,H73003,"Acute myringitis, bilateral",雙側急性鼓膜炎
+470,H73009,"Acute myringitis, unspecified ear",未特定側之急性鼓膜炎
+471,H7301,Bullous myringitis,水泡性鼓膜炎
+472,H73011,"Bullous myringitis, right ear",右耳水泡性鼓膜炎
+473,H73012,"Bullous myringitis, left ear",左耳水泡性鼓膜炎
+474,H73013,"Bullous myringitis, bilateral",雙側水泡性鼓膜炎
+475,H73019,"Bullous myringitis, unspecified ear",未特定側之水泡性鼓膜炎
+476,H7309,Other acute myringitis,其他急性鼓膜炎
+477,H73091,"Other acute myringitis, right ear",右耳其他急性鼓膜炎
+478,H73092,"Other acute myringitis, left ear",左耳其他急性鼓膜炎
+479,H73093,"Other acute myringitis, bilateral",雙側其他急性鼓膜炎
+480,H73099,"Other acute myringitis, unspecified ear",未特定側之其他急性鼓膜炎
+481,H731,Chronic myringitis,慢性鼓膜炎
+482,H7310,"Chronic myringitis, unspecified ear",未特定側之慢性鼓膜炎
+483,H7311,"Chronic myringitis, right ear",右耳慢性鼓膜炎
+484,H7312,"Chronic myringitis, left ear",左耳慢性鼓膜炎
+485,H7313,"Chronic myringitis, bilateral",雙側慢性鼓膜炎
+486,H732,Unspecified myringitis,鼓膜炎
+487,H7320,"Unspecified myringitis, unspecified ear",未特定側之鼓膜炎
+488,H7321,"Unspecified myringitis, right ear",右耳鼓膜炎
+489,H7322,"Unspecified myringitis, left ear",左耳鼓膜炎
+490,H7323,"Unspecified myringitis, bilateral",雙側鼓膜炎
+491,H738,Other specified disorders of tympanic membrane,鼓膜之其他特定疾患
+492,H7381,Atrophic flaccid tympanic membrane,鼓膜鬆弛性萎縮
+493,H73811,"Atrophic flaccid tympanic membrane, right ear",右耳鼓膜鬆弛性萎縮
+494,H73812,"Atrophic flaccid tympanic membrane, left ear",左耳鼓膜鬆弛性萎縮
+495,H73813,"Atrophic flaccid tympanic membrane, bilateral",雙側鼓膜鬆弛性萎縮
+496,H73819,"Atrophic flaccid tympanic membrane, unspecified ear",未特定側之鼓膜鬆弛性萎縮
+497,H7382,Atrophic nonflaccid tympanic membrane,鼓膜非鬆弛性萎縮
+498,H73821,"Atrophic nonflaccid tympanic membrane, right ear",右耳鼓膜非鬆弛性萎縮
+499,H73822,"Atrophic nonflaccid tympanic membrane, left ear",左耳鼓膜非鬆弛性萎縮
+500,H73823,"Atrophic nonflaccid tympanic membrane, bilateral",雙側鼓膜非鬆弛性萎縮
+501,H73829,"Atrophic nonflaccid tympanic membrane, unspecified ear",未特定側之鼓膜非鬆弛性萎縮
+502,H7389,Other specified disorders of tympanic membrane,鼓膜其他特定疾患
+503,H73891,"Other specified disorders of tympanic membrane, right ear",右耳鼓膜其它特定疾患
+504,H73892,"Other specified disorders of tympanic membrane, left ear",左耳鼓膜其它特定疾患
+505,H73893,"Other specified disorders of tympanic membrane, bilateral",雙側鼓膜其它特定疾患
+506,H73899,"Other specified disorders of tympanic membrane, unspecified ear",未特定側之鼓膜其它特定疾患
+507,H739,Unspecified disorder of tympanic membrane,鼓膜疾患
+508,H7390,"Unspecified disorder of tympanic membrane, unspecified ear",未特定側之鼓膜疾患
+509,H7391,"Unspecified disorder of tympanic membrane, right ear",右耳鼓膜疾患
+510,H7392,"Unspecified disorder of tympanic membrane, left ear",左耳鼓膜疾患
+511,H7393,"Unspecified disorder of tympanic membrane, bilateral",雙側鼓膜疾患
+512,H74,Other disorders of middle ear mastoid,中耳乳突之其他疾患
+513,H740,Tympanosclerosis,鼓室硬化症
+514,H7401,"Tympanosclerosis, right ear",右耳鼓室硬化症
+515,H7402,"Tympanosclerosis, left ear",左耳鼓室硬化症
+516,H7403,"Tympanosclerosis, bilateral",雙側鼓室硬化症
+517,H7409,"Tympanosclerosis, unspecified ear",未特定側之鼓室硬化症
+518,H741,Adhesive middle ear disease,黏性中耳疾病
+519,H7411,Adhesive right middle ear disease,右耳黏性中耳疾病
+520,H7412,Adhesive left middle ear disease,左耳黏性中耳疾病
+521,H7413,"Adhesive middle ear disease, bilateral",雙側黏性中耳疾病
+522,H7419,"Adhesive middle ear disease, unspecified ear",未特定側之黏連性中耳疾病
+523,H742,Discontinuity and dislocation of ear ossicles,聽小骨斷離及脫位
+524,H7420,"Discontinuity and dislocation of ear ossicles, unspecified ear",未特定側之聽小骨斷離及脫位
+525,H7421,Discontinuity and dislocation of right ear ossicles,右耳聽小骨斷離及脫位
+526,H7422,Discontinuity and dislocation of left ear ossicles,左耳聽小骨斷離及脫位
+527,H7423,"Discontinuity and dislocation of ear ossicles, bilateral",雙側聽小骨斷離及脫位
+528,H743,Other acquired abnormalities of ear ossicles,其他後天性聽小骨異常
+529,H7431,Ankylosis of ear ossicles,聽小骨固著
+530,H74311,"Ankylosis of ear ossicles, right ear",右耳聽小骨固著
+531,H74312,"Ankylosis of ear ossicles, left ear",左耳聽小骨固著
+532,H74313,"Ankylosis of ear ossicles, bilateral",雙側聽小骨固著
+533,H74319,"Ankylosis of ear ossicles, unspecified ear",未特定側之聽小骨固著
+534,H7432,Partial loss of ear ossicles,聽小骨部份缺失
+535,H74321,"Partial loss of ear ossicles, right ear",右耳聽小骨部份缺失
+536,H74322,"Partial loss of ear ossicles, left ear",左耳聽小骨部份缺失
+537,H74323,"Partial loss of ear ossicles, bilateral",雙側聽小骨部份缺失
+538,H74329,"Partial loss of ear ossicles, unspecified ear",未特定側之聽小骨部份缺失
+539,H7439,Other acquired abnormalities of ear ossicles,其他後天性聽小骨異常
+540,H74391,Other acquired abnormalities of right ear ossicles,右耳其它後天性聽小骨異常
+541,H74392,Other acquired abnormalities of left ear ossicles,左耳其它後天性聽小骨異常
+542,H74393,"Other acquired abnormalities of ear ossicles, bilateral",雙側其它後天性聽小骨異常
+543,H74399,"Other acquired abnormalities of ear ossicles, unspecified ear",未特定側之其它後天性聽小骨異常
+544,H744,Polyp of middle ear,中耳瘜肉
+545,H7440,"Polyp of middle ear, unspecified ear",未特定側之中耳瘜肉
+546,H7441,Polyp of right middle ear,右側中耳息肉
+547,H7442,Polyp of left middle ear,左側中耳息肉
+548,H7443,"Polyp of middle ear, bilateral",雙側中耳息肉
+549,H748,Other specified disorders of middle ear and mastoid,中耳及乳突之其他特定疾患
+550,H748x,Other specified disorders of middle ear and mastoid,中耳及乳突之其他特定疾患
+551,H748x1,Other specified disorders of right middle ear and mastoid,右側中耳及乳突之其它特定疾患
+552,H748x2,Other specified disorders of left middle ear and mastoid,左側中耳及乳突之其它特定疾患
+553,H748x3,"Other specified disorders of middle ear and mastoid, bilateral",雙側中耳及乳突之其它特定疾患
+554,H748x9,"Other specified disorders of middle ear and mastoid, unspecified ear",未特定側之中耳及乳突其它特定疾患
+555,H749,Unspecified disorder of middle ear and mastoid,中耳及乳突疾患
+556,H7490,"Unspecified disorder of middle ear and mastoid, unspecified ear",未特定側之中耳及乳突疾患
+557,H7491,Unspecified disorder of right middle ear and mastoid,右側中耳及乳突疾患
+558,H7492,Unspecified disorder of left middle ear and mastoid,左側中耳及乳突疾患
+559,H7493,"Unspecified disorder of middle ear and mastoid, bilateral",雙側中耳及乳突疾患
+560,H75,Other disorders of middle ear and mastoid in diseases classified elsewhere,歸類於他處疾病所致之中耳及乳突其它疾患
+561,H750,Mastoiditis in infectious and parasitic diseases classified elsewhere,歸類於其他感染及寄生蟲疾病所致之乳突炎
+562,H7500,"Mastoiditis in infectious and parasitic diseases classified elsewhere, unspecified ear",未特定側之歸類於其它感染及寄生蟲疾病所致之乳突炎
+563,H7501,"Mastoiditis in infectious and parasitic diseases classified elsewhere, right ear",右耳之歸類於其它感染及寄生蟲疾病所致之乳突炎
+564,H7502,"Mastoiditis in infectious and parasitic diseases classified elsewhere, left ear",左耳之歸類於其它感染及寄生蟲疾病所致之乳突炎
+565,H7503,"Mastoiditis in infectious and parasitic diseases classified elsewhere, bilateral",雙側之歸類於其它感染及寄生蟲疾病所致之乳突炎
+566,H758,Other specified disorders of middle ear and mastoid in diseases classified elsewhere,歸類於他處疾病所致之中耳及乳突其他特定疾患
+567,H7580,"Other specified disorders of middle ear and mastoid in diseases classified elsewhere, unspecified ear",未特定側歸類於他處疾病所致之中耳及乳突其它特定疾患
+568,H7581,Other specified disorders of right middle ear and mastoid in diseases classified elsewhere,右耳歸類於他處疾病所致之中耳及乳突其它特定疾患
+569,H7582,Other specified disorders of left middle ear and mastoid in diseases classified elsewhere,左耳歸類於他處疾病所致之中耳及乳突其它特定疾患
+570,H7583,"Other specified disorders of middle ear and mastoid in diseases classified elsewhere, bilateral",雙側歸類於他處疾病所致之中耳及乳突其它特定疾患
+571,H80,Otosclerosis,耳硬化症
+572,H800,"Otosclerosis involving oval window, nonobliterative",非閉塞性涉及卵圓窗之耳硬化症
+573,H8000,"Otosclerosis involving oval window, nonobliterative, unspecified ear",未特定側之非閉塞性涉及卵圓窗之耳硬化症
+574,H8001,"Otosclerosis involving oval window, nonobliterative, right ear",右耳非閉塞性涉及卵圓窗之耳硬化症
+575,H8002,"Otosclerosis involving oval window, nonobliterative, left ear",左耳非閉塞性涉及卵圓窗之耳硬化症
+576,H8003,"Otosclerosis involving oval window, nonobliterative, bilateral",雙側非閉塞性涉及卵圓窗之耳硬化症
+577,H801,"Otosclerosis involving oval window, obliterative",閉塞性涉及卵圓窗之耳硬化症
+578,H8010,"Otosclerosis involving oval window, obliterative, unspecified ear",未特定側之閉塞性涉及卵圓窗之耳硬化症
+579,H8011,"Otosclerosis involving oval window, obliterative, right ear",右耳閉塞性涉及卵圓窗之耳硬化症
+580,H8012,"Otosclerosis involving oval window, obliterative, left ear",左耳閉塞性涉及卵圓窗之耳硬化症
+581,H8013,"Otosclerosis involving oval window, obliterative, bilateral",雙側閉塞性涉及卵圓窗之耳硬化症
+582,H802,Cochlear otosclerosis,耳蝸部耳硬化症
+583,H8020,"Cochlear otosclerosis, unspecified ear",未特定側之耳蝸部耳硬化症
+584,H8021,"Cochlear otosclerosis, right ear",右耳耳蝸部耳硬化症
+585,H8022,"Cochlear otosclerosis, left ear",左耳耳蝸部耳硬化症
+586,H8023,"Cochlear otosclerosis, bilateral",雙側耳蝸部耳硬化症
+587,H808,Other otosclerosis,其他耳硬化症
+588,H8080,"Other otosclerosis, unspecified ear",未特定側之其他耳硬化症
+589,H8081,"Other otosclerosis, right ear",右耳其他耳硬化症
+590,H8082,"Other otosclerosis, left ear",左耳其他耳硬化症
+591,H8083,"Other otosclerosis, bilateral",雙側其他耳硬化症
+592,H809,Unspecified otosclerosis,耳硬化症
+593,H8090,"Unspecified otosclerosis, unspecified ear",未特定側之耳硬化症
+594,H8091,"Unspecified otosclerosis, right ear",右耳耳硬化症
+595,H8092,"Unspecified otosclerosis, left ear",左耳耳硬化症
+596,H8093,"Unspecified otosclerosis, bilateral",雙側耳硬化症
+597,H81,Disorders of vestibular function,前庭功能疾患
+598,H810,Meniere's disease,梅尼爾氏病
+599,H8101,"Meniere's disease, right ear",右耳梅尼爾氏病
+600,H8102,"Meniere's disease, left ear",左耳梅尼爾氏病
+601,H8103,"Meniere's disease, bilateral",雙側梅尼爾氏病
+602,H8109,"Meniere's disease, unspecified ear",未特定側之梅尼爾氏病
+603,H811,Benign paroxysmal vertigo,良性陣發性眩暈
+604,H8110,"Benign paroxysmal vertigo, unspecified ear",未特定側之良性陣發性眩暈
+605,H8111,"Benign paroxysmal vertigo, right ear",右耳良性陣發性眩暈
+606,H8112,"Benign paroxysmal vertigo, left ear",左耳良性陣發性眩暈
+607,H8113,"Benign paroxysmal vertigo, bilateral",雙側良性陣發性眩暈
+608,H812,Vestibular neuronitis,前庭神經元炎
+609,H8120,"Vestibular neuronitis, unspecified ear",未特定側之前庭神經元炎
+610,H8121,"Vestibular neuronitis, right ear",右耳前庭神經元炎
+611,H8122,"Vestibular neuronitis, left ear",左耳前庭神經元炎
+612,H8123,"Vestibular neuronitis, bilateral",雙側前庭神經元炎
+613,H813,Other peripheral vertigo,其他末梢性眩暈
+614,H8131,Aural vertigo,耳性眩暈
+615,H81311,"Aural vertigo, right ear",右耳耳性眩暈
+616,H81312,"Aural vertigo, left ear",左耳耳性眩暈
+617,H81313,"Aural vertigo, bilateral",雙側耳性眩暈
+618,H81319,"Aural vertigo, unspecified ear",未特定側之耳性眩暈
+619,H8139,Other peripheral vertigo,其他末梢性眩暈
+620,H81391,"Other peripheral vertigo, right ear",右耳其他末梢性眩暈
+621,H81392,"Other peripheral vertigo, left ear",左耳其他末梢性眩暈
+622,H81393,"Other peripheral vertigo, bilateral",雙側其他末梢性眩暈
+623,H81399,"Other peripheral vertigo, unspecified ear",未特定側之其他末梢性眩暈
+624,H814,Vertigo of central orgin,中樞性眩暈
+625,H8141,"Vertigo of central origin, right ear",右耳中樞性眩暈
+626,H8142,"Vertigo of central origin, left ear",左耳中樞性眩暈
+627,H8143,"Vertigo of central origin, bilateral",雙側中樞性眩暈
+628,H8149,"Vertigo of central origin, unspecified ear",未特定側之中樞性眩暈
+629,H818,Other disorders of vestibular function,其他前庭功能疾患
+630,H818x,Other disorders of vestibular function,其他前庭功能疾患
+631,H818x1,"Other disorders of vestibular function, right ear",右耳其他前庭功能疾患
+632,H818x2,"Other disorders of vestibular function, left ear",左耳其他前庭功能疾患
+633,H818x3,"Other disorders of vestibular function, bilateral",雙側其他前庭功能疾患
+634,H818x9,"Other disorders of vestibular function, unspecified ear",未特定側之其他前庭功能疾患
+635,H819,Unspecified disorder of vestibular function,前庭功能疾患
+636,H8190,"Unspecified disorder of vestibular function, unspecified ear",未特定側之前庭功能疾患
+637,H8191,"Unspecified disorder of vestibular function, right ear",右耳前庭功能疾患
+638,H8192,"Unspecified disorder of vestibular function, left ear",左耳前庭功能疾患
+639,H8193,"Unspecified disorder of vestibular function, bilateral",雙側前庭功能疾患
+640,H82,Vertiginous syndromes in diseases classified elsewhere,歸類於他處疾病所致之眩暈症
+641,H821,"Vertiginous syndromes in diseases classified elsewhere, right ear",右耳歸類於他處疾病所致之眩暈症
+642,H822,"Vertiginous syndromes in diseases classified elsewhere, left ear",左耳歸類於他處疾病所致之眩暈症
+643,H823,"Vertiginous syndromes in diseases classified elsewhere, bilateral",雙側歸類於他處疾病所致之眩暈症
+644,H829,"Vertiginous syndromes in diseases classified elsewhere, unspecified ear",未特定側之歸類於他處疾病所致之眩暈症
+645,H83,Other diseases of inner ear,內耳疾患
+646,H830,Labyrinthitis,迷路炎
+647,H8301,"Labyrinthitis, right ear",右耳迷路炎
+648,H8302,"Labyrinthitis, left ear",左耳迷路炎
+649,H8303,"Labyrinthitis, bilateral",雙側迷路炎
+650,H8309,"Labyrinthitis, unspecified ear",未特定側之迷路炎
+651,H831,Labyrinthine fistula,迷路瘻管
+652,H8311,"Labyrinthine fistula, right ear",右耳迷路瘻管
+653,H8312,"Labyrinthine fistula, left ear",左耳迷路瘻管
+654,H8313,"Labyrinthine fistula, bilateral",雙側迷路瘻管
+655,H8319,"Labyrinthine fistula, unspecified ear",末特定側性之迷路瘻管
+656,H832,Labyrinthine dysfunction,迷路功能不良
+657,H832x,Labyrinthine dysfunction,迷路功能不良
+658,H832x1,"Labyrinthine dysfunction, right ear",右耳迷路功能不良
+659,H832x2,"Labyrinthine dysfunction, left ear",左耳迷路功能不良
+660,H832x3,"Labyrinthine dysfunction, bilateral",雙側迷路功能不良
+661,H832x9,"Labyrinthine dysfunction, unspecified ear",未特定側之迷路功能不良
+662,H833,Noise effects on inner ear,噪音所致之內耳疾患
+663,H833x,Noise effects on inner ear,噪音所致之內耳疾患
+664,H833x1,Noise effects on right inner ear,噪音所致之右側內耳疾患
+665,H833x2,Noise effects on left inner ear,噪音所致之左側內耳疾患
+666,H833x3,"Noise effects on inner ear, bilateral",噪音所致之雙側內耳疾患
+667,H833x9,"Noise effects on inner ear, unspecified ear",噪音所致之未特定側內耳疾患
+668,H838,Other specified diseases of inner ear,內耳其他特定疾病
+669,H838x,Other specified diseases of inner ear,內耳其他特定疾病
+670,H838x1,Other specified diseases of right inner ear,右內耳其他特定疾病
+671,H838x2,Other specified diseases of left inner ear,左內耳其他特定疾病
+672,H838x3,"Other specified diseases of inner ear, bilateral",雙側內耳其他特定疾病
+673,H838x9,"Other specified diseases of inner ear, unspecified ear",末特定側性之內耳其他特定疾病
+674,H839,Unspecified disease of inner ear,內耳疾病
+675,H8390,"Unspecified disease of inner ear, unspecified ear",末特定側性之內耳疾病
+676,H8391,Unspecified disease of right inner ear,右側內耳疾病
+677,H8392,Unspecified disease of left inner ear,左側內耳疾病
+678,H8393,"Unspecified disease of inner ear, bilateral",雙側內耳疾病
+679,H90,Conductive and sensorineural hearing loss,傳音性及感音性耳聾
+680,H900,"Conductive hearing loss, bilateral",雙側傳音性耳聾
+681,H901,"Conductive hearing loss, unilateral with unrestricted hearing on the contralateral side",單側傳音性耳聾，對側聽力無受限
+682,H9011,"Conductive hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side",右耳單側傳音性耳聾，對側聽力無受限
+683,H9012,"Conductive hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side",左耳單側傳音性耳聾，對側聽力無受限
+684,H902,"Conductive hearing loss, unspecified",傳音性耳聾，未特定
+685,H903,"Sensorineural hearing loss, bilateral",雙側感音神經性耳聾
+686,H904,"Sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",單側感音神經性耳聾，對側聽力無受限
+687,H9041,"Sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side",右耳單側感音神經性耳聾，對側聽力無受限
+688,H9042,"Sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side",左耳單側感音神經性耳聾，對側聽力無受限
+689,H905,Unspecified sensorineural hearing loss,感音神經性耳聾
+690,H906,"Mixed conductive and sensorineural hearing loss, bilateral",雙側傳音型及感音神經型混合性耳聾
+691,H907,"Mixed conductive and sensorineural hearing loss, unilateral with unrestricted hearing on the contralateral side",單側傳音型及感音神經型混合性耳聾，對側聽力無受限
+692,H9071,"Mixed conductive and sensorineural hearing loss, unilateral, right ear, with unrestricted hearing on the contralateral side",右耳單側傳音型及感音神經型混合性耳聾，對側聽力無受限
+693,H9072,"Mixed conductive and sensorineural hearing loss, unilateral, left ear, with unrestricted hearing on the contralateral side",左耳單側傳音型及感音神經型混合性耳聾，對側聽力無受限
+694,H908,"Mixed conductive and sensorineural hearing loss, unspecified",傳音型及感音神經型混合性耳聾，未特定
+695,H91,Other and unspecified hearing loss,其他及未特定之耳聾
+696,H910,Ototoxic hearing loss,耳毒性耳聾
+697,H9101,"Ototoxic hearing loss, right ear",右側耳毒性耳聾
+698,H9102,"Ototoxic hearing loss, left ear",左側耳毒性耳聾
+699,H9103,"Ototoxic hearing loss, bilateral",雙側耳毒性耳聾
+700,H9109,"Ototoxic hearing loss, unspecified ear",未特定側之耳毒性耳聾
+701,H911,Presbycusis,老年失聰
+702,H9110,"Presbycusis, unspecified ear",未特定側之老年失聰
+703,H9111,"Presbycusis, right ear",右耳老年失聰
+704,H9112,"Presbycusis, left ear",左耳老年失聰
+705,H9113,"Presbycusis, bilateral",雙側老年失聰
+706,H912,Sudden idiopathic hearing loss,突發性自發性聽力喪失
+707,H9120,"Sudden idiopathic hearing loss, unspecified ear",未特定側之突發性自發性聽力喪失
+708,H9121,"Sudden idiopathic hearing loss, right ear",右耳突發性自發性聽力喪失
+709,H9122,"Sudden idiopathic hearing loss, left ear",左耳突發性自發性聽力喪失
+710,H9123,"Sudden idiopathic hearing loss, bilateral",雙側突發性自發性聽力喪失
+711,H913,"Deaf nonspeaking, not elsewhere classified",聾啞症，他處未歸類者
+712,H918,Other specified hearing loss,其他特定之耳聾
+713,H918x,Other specified hearing loss,其他特定之耳聾
+714,H918x1,"Other specified hearing loss, right ear",右耳其他特定之耳聾
+715,H918x2,"Other specified hearing loss, left ear",左耳其他特定之耳聾
+716,H918x3,"Other specified hearing loss, bilateral",雙側其他特定之耳聾
+717,H918x9,"Other specified hearing loss, unspecified ear",未特定側之其他特定性耳聾
+718,H919,Unspecified hearing loss,聽障
+719,H9190,"Unspecified hearing loss, unspecified ear",未特定側之聽障
+720,H9191,"Unspecified hearing loss, right ear",右耳聽障
+721,H9192,"Unspecified hearing loss, left ear",左耳聽障
+722,H9193,"Unspecified hearing loss, bilateral",雙側聽障
+723,H92,Otalgia and effusion of ear,耳痛及積液
+724,H920,Otalgia,耳痛
+725,H9201,"Otalgia, right ear",右耳痛
+726,H9202,"Otalgia, left ear",左耳痛
+727,H9203,"Otalgia, bilateral",雙側耳痛
+728,H9209,"Otalgia, unspecified ear",未特定側之耳痛
+729,H921,Otorrhea,耳漏
+730,H9210,"Otorrhea, unspecified ear",未特定側之耳漏
+731,H9211,"Otorrhea, right ear",右耳耳漏
+732,H9212,"Otorrhea, left ear",左耳耳漏
+733,H9213,"Otorrhea, bilateral",雙側耳漏
+734,H922,Otorrhagia,耳出血
+735,H9220,"Otorrhagia, unspecified ear",未特定側之耳出血
+736,H9221,"Otorrhagia, right ear",右耳出血
+737,H9222,"Otorrhagia, left ear",左耳出血
+738,H9223,"Otorrhagia, bilateral",雙側耳出血
+739,H93,"Other disorders of ear, not elsewhere classified",耳部其他疾患，他處未歸類者
+740,H930,Degenerative and vascular disorders of ear,耳部退化及血管疾患
+741,H9301,Transient ischemic deafness,暫時缺血性耳聾
+742,H93011,"Transient ischemic deafness, right ear",右耳暫時缺血性耳聾
+743,H93012,"Transient ischemic deafness, left ear",左耳暫時缺血性耳聾
+744,H93013,"Transient ischemic deafness, bilateral",雙側暫時缺血性耳聾
+745,H93019,"Transient ischemic deafness, unspecified ear",未特定側之暫時缺血性耳聾
+746,H9309,Unspecified degenerative and vascular disorders of ear,耳部退化及血管疾患
+747,H93091,Unspecified degenerative and vascular disorders of right ear,右耳退化及血管疾患
+748,H93092,Unspecified degenerative and vascular disorders of left ear,左耳退化及血管疾患
+749,H93093,"Unspecified degenerative and vascular disorders of ear, bilateral",雙側退化及血管疾患
+750,H93099,Unspecified degenerative and vascular disorders of unspecified ear,未特定側之耳退化及血管疾患
+751,H931,Transient ischemic deafness Tinnitus,暫時缺血性耳聾耳鳴
+752,H9311,"Tinnitus, right ear",右耳耳鳴
+753,H9312,"Tinnitus, left ear",左耳耳鳴
+754,H9313,"Tinnitus, bilateral",雙側耳鳴
+755,H9319,"Tinnitus, unspecified ear",未特定側之耳鳴
+756,H932,Other abnormal auditory perceptions,其他異常聽覺
+757,H9321,Auditory recruitment,聽覺響音重振
+758,H93211,"Auditory recruitment, right ear",右耳聽覺響音重振
+759,H93212,"Auditory recruitment, left ear",左耳聽覺響音重振
+760,H93213,"Auditory recruitment, bilateral",雙側聽覺響音重振
+761,H93219,"Auditory recruitment, unspecified ear",未特定側之聽覺響音重振
+762,H9322,Diplacusis,複聽
+763,H93221,"Diplacusis, right ear",右耳複聽
+764,H93222,"Diplacusis, left ear",左耳複聽
+765,H93223,"Diplacusis, bilateral",雙側複聽
+766,H93229,"Diplacusis, unspecified ear",未特定側之複聽
+767,H9323,Hyperacusis,聽覺過敏
+768,H93231,"Hyperacusis, right ear",右耳聽覺過敏
+769,H93232,"Hyperacusis, left ear",左耳聽覺過敏
+770,H93233,"Hyperacusis, bilateral",雙側聽覺過敏
+771,H93239,"Hyperacusis, unspecified ear",未特定側之聽覺過敏
+772,H9324,Temporary auditory threshold shift,暫時聽覺閾移
+773,H93241,"Temporary auditory threshold shift, right ear",右耳暫時聽覺閾移
+774,H93242,"Temporary auditory threshold shift, left ear",左耳暫時聽覺閾移
+775,H93243,"Temporary auditory threshold shift, bilateral",雙側暫時聽覺閾移
+776,H93249,"Temporary auditory threshold shift, unspecified ear",未特定側之暫時聽覺閾移
+777,H9325,Central auditory processing disorder,中樞聽覺疾患
+778,H9329,Other abnormal auditory perceptions,其他異常聽覺
+779,H93291,"Other abnormal auditory perceptions, right ear",右耳其他異常聽覺
+780,H93292,"Other abnormal auditory perceptions, left ear",左耳其他異常聽覺
+781,H93293,"Other abnormal auditory perceptions, bilateral",雙側其他異常聽覺
+782,H93299,"Other abnormal auditory perceptions, unspecified ear",未特定側之其他異常聽覺
+783,H933,Disorders of acoustic nerve,聽神經疾患
+784,H933x,Disorders of acoustic nerve,聽神經疾患
+785,H933x1,Disorders of right acoustic nerve,右側聽神經疾患
+786,H933x2,Disorders of left acoustic nerve,左側聽神經疾患
+787,H933x3,Disorders of bilateral acoustic nerves,雙側聽神經疾患
+788,H933x9,Disorders of unspecified acoustic nerve,未特定側之聽神經疾患
+789,H938,Other specified disorders of ear,耳部其他特定疾患
+790,H938x,Other specified disorders of ear,耳部其他特定疾患
+791,H938x1,Other specified disorders of right ear,右耳其他特定疾患
+792,H938x2,Other specified disorders of left ear,左耳其他特定疾患
+793,H938x3,"Other specified disorders of ear, bilateral",雙耳其他特定疾患
+794,H938x9,"Other specified disorders of ear, unspecified ear",未特定側之耳部其他特定疾患
+795,H939,Unspecified disorder of ear,耳部疾患
+796,H9390,"Unspecified disorder of ear, unspecified ear",未特定側之耳部疾患
+797,H9391,Unspecified disorder of right ear,右耳疾患
+798,H9392,Unspecified disorder of left ear,左耳疾患
+799,H9393,"Unspecified disorder of ear, bilateral",雙側耳部疾患
+800,H94,Other disorders of ear in diseases classified elsewhere,歸類於他處疾病之耳部其他疾患
+801,H940,Acoustic neuritis in infectious and parasitic diseases classified elsewhere,歸類於感染與寄生蟲疾病所致之聽神經炎
+802,H9400,"Acoustic neuritis in infectious and parasitic diseases classified elsewhere, unspecified ear",未特定側之歸類於其他感染與寄生蟲疾病所致之聽神經炎
+803,H9401,"Acoustic neuritis in infectious and parasitic diseases classified elsewhere, right ear",右耳之歸類於其他感染與寄生蟲疾病所致之聽神經炎
+804,H9402,"Acoustic neuritis in infectious and parasitic diseases classified elsewhere, left ear",左耳之歸類於其他感染與寄生蟲疾病所致之聽神經炎
+805,H9403,"Acoustic neuritis in infectious and parasitic diseases classified elsewhere, bilateral",雙耳之歸類於其他感染與寄生蟲疾病所致之聽神經炎
+806,H948,Other specified disorders of ear in diseases classified elsewhere,歸類於他處疾病之耳部其他特定疾患
+807,H9480,"Other specified disorders of ear in diseases classified elsewhere, unspecified ear",未特定側之歸類於他處疾病所致之其他特定耳部疾患
+808,H9481,Other specified disorders of right ear in diseases classified elsewhere,右耳之歸類於他處疾病所致之其他特定耳部疾患
+809,H9482,Other specified disorders of left ear in diseases classified elsewhere,左耳之歸類於他處疾病所致之其他特定耳部疾患
+810,H9483,"Other specified disorders of ear in diseases classified elsewhere, bilateral",雙側之歸類於他處疾病所致之其他特定耳部疾患
+811,H95,"Intraoperative and postprocedural complications and disorders of ear and mastoid process, not elsewhere classified",源於處置中及處置後之耳部及乳突併發症及疾患，他處未歸類者
+812,H950,Recurrent cholesteatoma of postmastoidectomy cavity,復發性膽脂瘤源於乳突切除術後空泂
+813,H9500,"Recurrent cholesteatoma of postmastoidectomy cavity, unspecified side",未特定側之復發性膽脂瘤源於乳突切除術後空泂
+814,H9501,"Recurrent cholesteatoma of postmastoidectomy cavity, right side",右側復發性膽脂瘤源於乳突切除術後空泂
+815,H9502,"Recurrent cholesteatoma of postmastoidectomy cavity, left side",左側復發性膽脂瘤源於乳突切除術後空泂
+816,H9503,"Recurrent cholesteatoma of postmastoidectomy cavity, bilateral",雙側復發性膽脂瘤源於乳突切除術後空泂
+817,H951,Other disorders of ear and mastoid process following mastoidectomy,其他乳突切除術後之耳及乳突疾患
+818,H9511,Chronic inflammation of postmastoidectomy cavity,慢性發炎源於乳突切除術後空泂
+819,H95111,"Chronic inflammation of postmastoidectomy cavity, right side",右側慢性發炎源於乳突切除術後空泂
+820,H95112,"Chronic inflammation of postmastoidectomy cavity, left side",左側慢性發炎源於乳突切除術後空泂
+821,H95113,"Chronic inflammation of postmastoidectomy cavity, bilateral",雙側慢性發炎源於乳突切除術後空泂
+822,H95119,"Chronic inflammation of postmastoidectomy cavity, unspecified side",未特定側之慢性發炎源於乳突切除術後空泂
+823,H9512,Granulation of postmastoidectomy cavity,乳突切除後空腔肉芽組織
+824,H95121,"Granulation of postmastoidectomy cavity, right side",右側乳突切除後空腔肉芽組織
+825,H95122,"Granulation of postmastoidectomy cavity, left side",左側乳突切除後空腔肉芽組織
+826,H95123,"Granulation of postmastoidectomy cavity, bilateral",雙側乳突切除後空腔肉芽組織
+827,H95129,"Granulation of postmastoidectomy cavity, unspecified side",未特定側之乳突切除後空腔肉芽組織
+828,H9513,Mucosal cyst of postmastoidectomy cavity,乳突切除術後空腔黏膜囊腫
+829,H95131,"Mucosal cyst of postmastoidectomy cavity, right side",右側乳突切除術後空腔黏膜囊腫
+830,H95132,"Mucosal cyst of postmastoidectomy cavity, left side",左側乳突切除術後空腔黏膜囊腫
+831,H95133,"Mucosal cyst of postmastoidectomy cavity, bilateral",雙側乳突切除術後空空腔膜囊腫
+832,H95139,"Mucosal cyst of postmastoidectomy cavity, unspecified side",未特定側之乳突切除術後空腔黏膜囊腫
+833,H9519,Other disorders following mastoidectomy,其他源於乳突切除後之疾患
+834,H95191,"Other disorders following mastoidectomy, right side",右側其他源於乳突切除後之疾患
+835,H95192,"Other disorders following mastoidectomy, left side",左側其他源於乳突切除後之疾患
+836,H95193,"Other disorders following mastoidectomy, bilateral",雙側其他源於乳突切除後之疾患
+837,H95199,"Other disorders following mastoidectomy, unspecified side",未特定側之其他源於乳突切除後之疾患
+838,H952,Intraoperative hemorrhage and hematoma of ear and mastoid process complicating a procedure,併發於處置中之耳部及乳突出血及血腫
+839,H9521,Intraoperative hemorrhage and hematoma of ear and mastoid process complicating a procedure on the ear and mastoid process,併發於耳部及乳突處置中之耳部及乳突出血及血腫
+840,H9522,Intraoperative hemorrhage and hematoma of ear and mastoid process complicating other procedure,併發於其他處置中之耳部及乳突出血及血腫
+841,H953,Accidental puncture and laceration of ear and mastoid process during a procedure,處置中耳部及乳突之意外刺穿及裂傷
+842,H9531,Accidental puncture and laceration of the ear and mastoid process during a procedure on the ear and mastoid process,耳及乳突處置中意外刺穿及裂傷耳部及乳突
+843,H9532,Accidental puncture and laceration of the ear and mastoid process during other procedure,其他處置中意外刺穿及裂傷耳部及乳突
+844,H954,Postprocedutal hemorrhage and hematoma of ear and mastoid process following a procedure,源於處置後之耳部及乳突出血及血腫
+845,H9541,Postprocedural hemorrhage and hematoma of ear and mastoid process following a procedure on the ear and mastoid process,源於耳部及乳突處置後之耳部及乳突出血及血腫
+846,H9542,Postprocedural hemorrhage and hematoma of ear and mastoid process following other procedure,源於其他處置後耳部及乳突出血及血腫
+847,H958,"Other intraoperative and postprocedural complications and disorders of the ear and mastoid process, not elsewhere classified",其他源於處置中及處置後之耳部及乳突併發症及疾患，他處未歸類者
+848,H9581,Postprocedural stenosis of external ear canal,外耳道處置後狹窄
+849,H95811,Postprocedural stenosis of right external ear canal,右側外耳道處置後狹窄
+850,H95812,Postprocedural stenosis of left external ear canal,左側外耳道處置後狹窄
+851,H95813,"Postprocedural stenosis of external ear canal, bilateral",雙側外耳道處置後狹窄
+852,H95819,Postprocedural stenosis of unspecified external ear canal,未特定側之外耳道處置後狹窄
+853,H9588,"Other intraoperative complications and disorders of the ear and mastoid process, not elsewhere classified",其他耳部及乳突之術中併發症與疾患，他處未歸類者
+854,H9589,"Other postprocedural complications and disorders of the ear and mastoid process, not elsewhere classified",其他耳部及乳突之術後併發症與疾患，他處未歸類者

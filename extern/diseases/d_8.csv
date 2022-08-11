@@ -1,0 +1,1569 @@
+,code,en_name,ch_name
+0,I00,Rheumatic fever without heart involvement,未提侵及心臟之風濕熱
+1,I01,Rheumatic fever with heart involvemant,伴有侵及心臟之風濕熱
+2,I010,Acute rheumatic pericarditis,急性風濕性心包膜炎
+3,I011,Acute rheumatic endocarditis,急性風濕性心內膜炎
+4,I012,Acute rheumatic myocarditis,急性風濕性心肌炎
+5,I018,Other acute rheumatic heart disease,其他急性風濕性心臟病
+6,I019,"Acute rheumatic heart disease, unspecified",急性風濕性心臟病，未特定
+7,I02,Rheumatic chorea,風濕性舞蹈症
+8,I020,Rheumatic chorea with heart involvement,伴有侵及心臟之風濕性舞蹈症
+9,I029,Rheumatic chorea without heart involvement,未提侵及心臟之風濕性舞蹈症
+10,I05,Rheumatic mitral valve diseases,風濕性二尖瓣疾病
+11,I050,Rheumatic mitral stenosis,風濕性二尖瓣狹窄
+12,I051,Rheumatic mitral insufficiency,風濕性二尖瓣閉鎖不全
+13,I052,Rheumatic mitral stenosis with insufficiency,風濕性二尖瓣狹窄伴有閉鎖不全
+14,I058,Other rheumatic mitral valve diseases,其他風濕性二尖瓣疾病
+15,I059,"Rheumatic mitral valve disease, unspecified",風濕性二尖瓣疾病，未特定
+16,I06,Rheumatic aortic valve diseases,風濕性主動脈瓣疾病
+17,I060,Rheumatic aortic stenosis,風濕性主動脈瓣狹窄
+18,I061,Rheumatic aortic insufficiency,風濕性主動脈瓣閉鎖不全
+19,I062,Rheumatic aortic stenosis with insufficiency,風濕性主動脈瓣狹窄伴有閉鎖不全
+20,I068,Other rheumatic aortic valve diseases,其他風濕性主動脈瓣疾病
+21,I069,"Rheumatic aortic valve disease, unspecified",風濕性主動脈瓣疾病，未特定
+22,I07,Rheumatic tricuspid valve diseases,風濕性三尖脈瓣疾病
+23,I070,Rheumatic tricuspid stenosis,風濕性三尖脈瓣狹窄
+24,I071,Rheumatic tricuspid insufficiency,風濕性三尖瓣閉鎖不全
+25,I072,Rheumatic tricuspid stenosis and insufficiency,風濕性三尖脈瓣狹窄伴有閉鎖不全
+26,I078,Other rheumatic tricuspid valve diseases,其他風濕性三尖瓣疾病
+27,I079,"Rheumatic tricuspid valve disease, unspecified",風濕性三尖瓣疾病，未特定
+28,I08,Multiple valve diseases,多發性瓣膜疾病
+29,I080,Rheumatic disorders of both mitral and aortic valves,多發性風濕性瓣膜疾患包括二尖瓣及主動脈瓣
+30,I081,Rheumatic disorders of both mitral and tricuspid valves,多發性風濕性瓣膜疾患包括二尖瓣及三尖瓣
+31,I082,Rheumatic disorders of both aortic and tricuspid valves,多發性風濕性瓣膜疾患包括主動脈瓣及三尖瓣
+32,I083,"Combined rheumatic disorders of mitral, aortic and tricuspid valves",多發性風濕性瓣膜疾患合併二尖瓣、主動脈瓣及三尖瓣
+33,I088,Other rheumatic multiple valve diseases,其他多發性風濕性瓣膜疾病
+34,I089,"Rheumatic multiple valve disease, unspecified",多發性風濕性瓣膜疾病，未特定
+35,I09,Other rheumatic heart diseases,其他風濕性心臟疾病
+36,I090,Rheumatic myocarditis,風濕性心肌炎
+37,I091,"Rheumatic diseases of endocardium, valve unspecified",瓣膜未特定之風濕性心內膜疾病
+38,I092,Chronic rheumatic pericarditis,慢性風濕性心包膜炎
+39,I098,Other specified rheumatic heart diseases,其他特定性風濕性心臟疾病
+40,I0981,Rheumatic heart failure,風濕性心臟衰竭
+41,I0989,Other specified rheumatic heart diseases,其他特定風濕性心臟疾病
+42,I099,"Rheumatic heart disease, unspecified",風濕性心臟疾病，未特定
+43,I10,Essential (primary) hypertension,本態性(原發性)高血壓
+44,I11,Hypertensive heart disease,高血壓性心臟病
+45,I110,Hypertensive heart disease with heart failure,高血壓性心臟病伴有心臟衰竭
+46,I119,Hypertensive heart disease without heart failure,高血壓性心臟病，無心臟衰竭
+47,I12,Hypertensive chronic kidney disease,高血壓性慢性腎臟病
+48,I120,Hypertensive chronic kidney disease with stage 5 chronic kidney disease or end stage renal disease,高血壓性慢性腎臟病伴有第五期慢性腎病或末期腎病
+49,I129,"Hypertensive chronic kidney disease with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",高血壓性慢性腎臟病伴有第一至第四期慢性腎病或未特定慢性腎病
+50,I13,Hypertensive heart and chronic kidney disease,高血壓性心臟及慢性腎臟病
+51,I130,"Hypertensive heart and chronic kidney disease with heart failure and stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",高血壓性心臟及慢性腎臟病伴有心臟衰竭及第一至第四期慢性腎病或未特定慢性腎病
+52,I131,Hypertensive heart and chronic kidney disease without heart failure,高血壓性心臟及慢性腎臟病未提及心臟衰竭
+53,I1310,"Hypertensive heart and chronic kidney disease without heart failure, with stage 1 through stage 4 chronic kidney disease, or unspecified chronic kidney disease",高血壓性心臟及慢性腎臟病未伴有心臟衰竭合併第一至第四期慢性腎病或未特定慢性腎病
+54,I1311,"Hypertensive heart and chronic kidney disease without heart failure, with stage 5 chronic kidney disease, or end stage renal disease",高血壓性心臟及慢性腎臟病未伴有心臟衰竭合併第五期慢性腎病或末期腎病
+55,I132,"Hypertensive heart and chronic kidney disease with heart failure and with stage 5 chronic kidney disease, or end stage renal disease",高血壓性心臟及慢性腎臟病伴有心臟衰竭及第五期慢性腎病或末期腎病
+56,I15,Secondary hypertension,續發性高血壓
+57,I150,Renovascular hypertension,腎血管性續發性高血壓
+58,I151,Hypertension secondary to other renal disorders,其他腎疾患引起之續發性高血壓
+59,I152,Hypertension secondary to endocrine disorders,其他內分泌疾患引起之續發性高血壓
+60,I158,Other secondary hypertension,其他續發性高血壓
+61,I159,"Secondary hypertension, unspecified",續發性高血壓，未特定
+62,I20,Angina pectoris,心絞痛
+63,I200,Unstable angina,不穩定心絞痛
+64,I201,Angina pectoris with documented spasm,因痙攣引起之心絞痛
+65,I208,Other forms of angina pectoris,其他形式之心絞痛
+66,I209,"Angina pectoris, unspecified",心絞痛，未特定
+67,I21,ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction,ST段上升之心肌梗塞 (STEMI）與非ST段上升之心肌梗塞（NSTEMI）
+68,I210,ST elevation (STEMI) myocardial infarction of anterior wall,ST段上升之前壁心肌梗塞（STEMI）
+69,I2101,ST elevation (STEMI) myocardial infarction involving left main coronary artery,ST段上升之心肌梗塞（STEMI）涉及左主幹冠狀動脈
+70,I2102,ST elevation (STEMI) myocardial infarction involving left anterior descending coronary artery,ST段上升之心肌梗塞（STEMI）涉及左前降支冠狀動脈
+71,I2109,ST elevation (STEMI) myocardial infarction involving other coronary artery of anterior wall,ST段上升之前壁心肌梗塞（STEMI）涉及其他冠狀動脈
+72,I211,ST elevation (STEMI) myocardial infarction of inferior wall,ST段上升之下壁心肌梗塞（STEMI）
+73,I2111,ST elevation (STEMI) myocardial infarction involving right coronary artery,ST段上升之心肌梗塞（STEMI）涉及右冠狀動脈
+74,I2119,ST elevation (STEMI) myocardial infarction involving other coronary artery of inferior wall,ST段上升之下壁心肌梗塞（STEMI）涉及其他冠狀動脈
+75,I212,ST elevation (STEMI) myocardial infarction of other sites,ST段上升之心肌梗塞（STEMI）涉及其他部位
+76,I2121,ST elevation (STEMI) myocardial infarction involving left circumflex coronary artery,ST段上升之心肌梗塞（STEMI）涉及左迴旋冠狀動脈
+77,I2129,ST elevation (STEMI) myocardial infarction involving other sites,ST段上升之心肌梗塞（STEMI）涉及其他部位
+78,I213,ST elevation (STEMI) myocardial infarction of unspecified site,未特定部位ST段上升之心肌梗塞（STEMI）
+79,I214,Non-ST elevation (NSTEMI) myocardial infarction,非ST段上升之心肌梗塞（NSTEMI）
+80,I22,Subsequent ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction,續發性ST段上升之心肌梗塞 (STEMI）與非ST段上升之心肌梗塞（NSTEMI）
+81,I220,Subsequent ST elevation (STEMI) myocardial infarction of anterior wall,續發性ST段上升之前壁心肌梗塞（STEMI）
+82,I221,Subsequent ST elevation (STEMI) myocardial infarction of inferior wall,續發性ST段上升之下壁心肌梗塞（STEMI）
+83,I222,Subsequent non-ST elevation (NSTEMI) myocardial infarction,續發性非ST段上升之心肌梗塞（ NSTEMI）
+84,I228,Subsequent ST elevation (STEMI) myocardial infarction of other sites,續發性ST段上升之其他部位心肌梗塞（STEMI）
+85,I229,Subsequent ST elevation (STEMI) myocardial infarction of unspecified site,續發性ST段上升之未特定部位心肌梗塞（STEMI）
+86,I23,Certain current complications following ST elevation (STEMI) and non-ST elevation (NSTEMI) myocardial infarction (within the 28 day period),ST段上升之心肌梗塞 (STEMI）與非ST段上升之心肌梗塞（NSTEMI）後造成之併發症
+87,I230,Hemopericardium as current complication following acute myocardial infarction,急性心肌梗塞後造成心包積血
+88,I231,Atrial septal defect as current complication following acute myocardial infarction,急性心肌梗塞後造成心房中膈缺損
+89,I232,Ventricular septal defect as current complication following acute myocardial infarction,急性心肌梗塞後造成心室中膈缺損
+90,I233,Rupture of cardiac wall without hemopericardium as current complication following acute myocardial infarction,急性心肌梗塞後造成心臟破裂未伴有心包積血
+91,I234,Rupture of chordae tendineae as current complication following acute myocardial infarction,急性心肌梗塞後造成腱索破裂
+92,I235,Rupture of papillary muscle as current complication following acute myocardial infarction,急性心肌梗塞後造成乳頭肌斷裂
+93,I236,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",急性心肌梗塞後造成心房、心室及附屬之血栓形成
+94,I237,Postinfarction angina,梗塞後心絞痛
+95,I238,Other current complications following acute myocardial infarction,急性心肌梗塞後之其他併發症
+96,I24,Other acute ischemic heart diseases,其他急性缺血性心臟病
+97,I240,Acute coronary thrombosis not resulting in myocardial infarction,無心肌梗塞之急性冠狀動脈血栓
+98,I241,Dressler's syndrome,Dressler's徵候群
+99,I248,Other forms of acute ischemic heart disease,其他形式之急性缺血性心臟病
+100,I249,"Acute ischemic heart disease, unspecified",急性缺血性心臟病，未特定
+101,I25,Chronic ischemic heart disease,慢性缺血性心臟病
+102,I251,Atherosclerotic heart disease of native coronary artery,自體的冠狀動脈粥樣硬化心臟病
+103,I2510,Atherosclerotic heart disease of native coronary artery without angina pectoris,自體的冠狀動脈粥樣硬化心臟病未伴有心絞痛
+104,I2511,Atherosclerotic heart disease of native coronary artery with angina pectoris,自體的冠狀動脈粥樣硬化心臟病併心絞痛
+105,I25110,Atherosclerotic heart disease of native coronary artery with unstable angina pectoris,自體的冠狀動脈粥樣硬化心臟病伴有不穩定心絞痛
+106,I25111,Atherosclerotic heart disease of native coronary artery with angina pectoris with documented spasm,自體的冠狀動脈粥樣硬化心臟病伴有心絞痛與痙攣
+107,I25118,Atherosclerotic heart disease of native coronary artery with other forms of angina pectoris,自體的冠狀動脈粥樣硬化心臟病伴有其他形式之心絞痛
+108,I25119,Atherosclerotic heart disease of native coronary artery with unspecified angina pectoris,自體的冠狀動脈粥樣硬化心臟病伴有未特定心絞痛
+109,I252,Old myocardial infarction,陳舊性心肌梗塞
+110,I253,Aneurysm of heart,心臟瘤
+111,I254,Coronary artery aneurysm and dissection,冠狀動脈瘤與剝離
+112,I2541,Coronary artery aneurysm,冠狀動脈瘤
+113,I2542,Coronary artery dissection,冠狀動脈剝離
+114,I255,Ischemic cardiomyopathy,缺血性心肌病變
+115,I256,Silent myocardial ischemia,無症狀性心肌缺血
+116,I257,Atherosclerosis of coronary artery bypass graft(s) and coronary artery of transplanted heart with angina pectoris,經冠狀動脈繞道術心臟移植的動脈粥樣硬化症併心絞痛
+117,I2570,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris",冠狀動脈繞道術的未特定動脈粥樣硬化症併心絞痛
+118,I25700,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unstable angina pectoris",未特定冠狀動脈繞道術的動脈粥樣硬化症伴有不穩定心絞痛
+119,I25701,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with angina pectoris with documented spasm",未特定冠狀動脈繞道術的動脈粥樣硬化症伴有心絞痛與痙攣
+120,I25708,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with other forms of angina pectoris",未特定冠狀動脈繞道術的動脈粥樣硬化症伴有其他形式之心絞痛
+121,I25709,"Atherosclerosis of coronary artery bypass graft(s), unspecified, with unspecified angina pectoris",未特定冠狀動脈繞道術的動脈粥樣硬化症伴有未特定心絞痛
+122,I2571,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris,經自體靜脈繞道移植術的冠狀動脈粥樣硬化症伴有心絞痛
+123,I25710,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unstable angina pectoris,經自體靜脈繞道移植術的冠狀動脈粥樣硬化症伴有不穩定心絞痛
+124,I25711,Atherosclerosis of autologous vein coronary artery bypass graft(s) with angina pectoris with documented spasm,經自體靜脈繞道移植術的冠狀動脈粥樣硬化症伴有心絞痛與痙攣
+125,I25718,Atherosclerosis of autologous vein coronary artery bypass graft(s) with other forms of angina pectoris,經自體靜脈繞道移植術的冠狀動脈粥樣硬化症伴有其他形式之心絞痛
+126,I25719,Atherosclerosis of autologous vein coronary artery bypass graft(s) with unspecified angina pectoris,經自體靜脈繞道移植術的冠狀動脈粥樣硬化症伴有未特定心絞痛
+127,I2572,Arherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris,經自體動脈繞道移植術的冠狀動脈粥樣硬化症伴有心絞痛
+128,I25720,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unstable angina pectoris,經自體動脈繞道移植術的冠狀動脈粥樣硬化症伴有不穩定心絞痛
+129,I25721,Atherosclerosis of autologous artery coronary artery bypass graft(s) with angina pectoris with documented spasm,經自體動脈繞道移植術的冠狀動脈粥樣硬化症伴有心絞痛與痙攣
+130,I25728,Atherosclerosis of autologous artery coronary artery bypass graft(s) with other forms of angina pectoris,經自體動脈繞道移植術的冠狀動脈粥樣硬化症伴有其他形式之心絞痛
+131,I25729,Atherosclerosis of autologous artery coronary artery bypass graft(s) with unspecified angina pectoris,經自體動脈繞道移植術的冠狀動脈粥樣硬化症伴有未特定心絞痛
+132,I2573,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris,經生物體非自體血管繞道移植術的冠狀動脈粥樣硬化症伴有心絞痛
+133,I25730,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unstable angina pectoris,經生物體非自體血管繞道移植術的冠狀動脈粥樣硬化症伴有不穩定心絞痛
+134,I25731,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with angina pectoris with documented spasm,經生物體非自體血管繞道移植術的冠狀動脈粥樣硬化症伴有心絞痛與痙攣
+135,I25738,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with other forms of angina pectoris,經生物體非自體血管繞道移植術的冠狀動脈粥樣硬化症伴有其他形式之心絞痛
+136,I25739,Atherosclerosis of nonautologous biological coronary artery bypass graft(s) with unspecified angina pectoris,經生物體非自體血管繞道移植術的冠狀動脈粥樣硬化症伴有未特定心絞痛
+137,I2575,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris,經自體冠狀動脈心臟移植的動脈粥樣硬化症伴有心絞痛
+138,I25750,Atherosclerosis of native coronary artery of transplanted heart with unstable angina,經自體冠狀動脈心臟移植的動脈粥樣硬化症伴有不穩定心絞痛
+139,I25751,Atherosclerosis of native coronary artery of transplanted heart with angina pectoris with documented spasm,經自體冠狀動脈心臟移植的動脈粥樣硬化症伴有心絞痛與痙攣
+140,I25758,Atherosclerosis of native coronary artery of transplanted heart with other forms of angina pectoris,經自體冠狀動脈心臟移植的動脈粥樣硬化症伴有其他形式之心絞痛
+141,I25759,Atherosclerosis of native coronary artery of transplanted heart with unspecified angina pectoris,經自體冠狀動脈心臟移植的動脈粥樣硬化症伴有未特定心絞痛
+142,I2576,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris,經冠狀動脈繞道術心臟移植的動脈粥樣硬化症伴有心絞痛
+143,I25760,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unstable angina,經冠狀動脈繞道術心臟移植的動脈粥樣硬化症伴有不穩定心絞痛
+144,I25761,Atherosclerosis of bypass graft of coronary artery of transplanted heart with angina pectoris with documented spasm,經冠狀動脈繞道術心臟移植的動脈粥樣硬化症伴有心絞痛與痙攣
+145,I25768,Atherosclerosis of bypass graft of coronary artery of transplanted heart with other forms of angina pectoris,經冠狀動脈繞道術心臟移植的動脈粥樣硬化症伴有其他形式之心絞痛
+146,I25769,Atherosclerosis of bypass graft of coronary artery of transplanted heart with unspecified angina pectoris,經冠狀動脈繞道術心臟移植的動脈粥樣硬化症伴有未特定心絞痛
+147,I2579,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris,經其他冠狀動脈繞道術的動脈粥樣硬化症伴有心絞痛
+148,I25790,Atherosclerosis of other coronary artery bypass graft(s) with unstable angina pectoris,經其他冠狀動脈繞道術的動脈粥樣硬化症伴有不穩定心絞痛
+149,I25791,Atherosclerosis of other coronary artery bypass graft(s) with angina pectoris with documented spasm,經其他冠狀動脈繞道術的動脈粥樣硬化症伴有心絞痛與痙攣
+150,I25798,Atherosclerosis of other coronary artery bypass graft(s) with other forms of angina pectoris,經其他冠狀動脈繞道術的動脈粥樣硬化症伴有其他形式之心絞痛
+151,I25799,Atherosclerosis of other coronary artery bypass graft(s) with unspecified angina pectoris,經其他冠狀動脈繞道術的動脈粥樣硬化症伴有未特定心絞痛
+152,I258,Other forms of chronic ischemic heart disease,其他特定形態之慢性缺血性心臟病
+153,I2581,Atherosclerosis of other coronary vessels without angina pectoris,其他冠狀動脈粥樣硬化症未提及心絞痛
+154,I25810,Atherosclerosis of coronary artery bypass graft(s) without angina pectoris,經冠狀動脈繞道術的動脈粥樣硬化症未伴有心絞痛
+155,I25811,Atherosclerosis of native coronary artery of transplanted heart without angina pectoris,經心臟移植自體冠狀動脈的動脈粥樣硬化症未伴有心絞痛
+156,I25812,Atherosclerosis of bypass graft of coronary artery of transplanted heart without angina pectoris,經冠狀動脈繞道術心臟移植的動脈粥樣硬化症未伴有心絞痛
+157,I2582,Chronic total occlusion of coronary artery,慢性完全閉塞性冠狀動脈心臟病
+158,I2583,Coronary atherosclerosis due to lipid rich plaque,富含脂質斑塊的冠狀動脈粥樣硬化症
+159,I2589,Other forms of chronic ischemic heart disease,其他特定形態之慢性缺血性心臟病
+160,I259,"Chronic ischemic heart disease, unspecified",慢性缺血性心臟病，未特定
+161,I26,Pulmonary embolism,肺栓塞
+162,I260,Pulmonary embolism with acute cor pulmonale,肺栓塞併急性肺性心臟病
+163,I2601,Septic pulmonary embolism with acute cor pulmonale,敗血性肺栓塞伴有急性肺性心臟病
+164,I2609,Other pulmonary embolism with acute cor pulmonale,其他肺栓塞併急性肺性心臟病
+165,I269,Pulmonary embolism without acute cor pulmonale,肺栓塞未提及急性肺性心臟病
+166,I2690,Septic pulmonary embolism without acute cor pulmonale,敗血性肺栓塞未伴有急性肺性心臟病
+167,I2699,Other pulmonary embolism without acute cor pulmonale,其他肺栓塞未伴有急性肺性心臟病
+168,I27,Other pulmonary heart diseases,其他肺性心臟病
+169,I270,Primary pulmonary hypertension,原發性肺性高血壓
+170,I271,Kyphoscoliotic heart disease,脊椎後側彎心臟病
+171,I272,Other secondary pulmonary hypertension,其他續發性肺性高血壓
+172,I278,Other specified pulmonary heart diseases,其他特定性肺性心臟病
+173,I2781,Cor pulmonale (chronic),肺心症
+174,I2782,Chronic pulmonary embolism,慢性肺栓塞
+175,I2789,Other specified pulmonary heart diseases,其他特定之慢性肺性心臟病
+176,I279,"Pulmonary heart disease, unspecified",肺性心臟病，未特定
+177,I28,Other diseases of pulmonary vessels,其他肺血管疾病
+178,I280,Arteriovenous fistula of pulmonary vessels,肺血管動靜脈廔管
+179,I281,Aneurysm of pulmonary artery,肺動脈動脈瘤
+180,I288,Other diseases of pulmonary vessels,其他肺血管疾病
+181,I289,"Disease of pulmonary vessels, unspecified",肺血管疾病，未特定
+182,I30,Acute pericarditis,急性心包膜炎
+183,I300,Acute nonspecific idiopathic pericarditis,急性非特異性特發性心包膜炎
+184,I301,Infective pericarditis,感染性心包膜炎
+185,I308,Other forms of acute pericarditis,其他形式之急性心包膜炎
+186,I309,"Acute pericarditis, unspecified",急性心包膜炎，未特定
+187,I31,Other diseases of pericardium,其他心包膜疾病
+188,I310,Chronic adhesive pericarditis,慢性黏連性心包膜炎
+189,I311,Chronic constrictive pericarditis,慢性狹窄性心包膜炎
+190,I312,"Hemopericardium, not elsewhere classified",心包膜積血，他處未歸類者
+191,I313,Pericardial effusion (noninflammatory),心包積液（非炎症性）
+192,I314,Cardiac tamponade,心包膜填塞
+193,I318,Other specified diseases of pericardium,其他特定之心包膜疾病
+194,I319,"Disease of pericardium, unspecified",心包膜疾病，未特定
+195,I32,Pericarditis in diseases classified elsewhere,歸類於他處疾病所致之心包膜炎
+196,I33,Acute and subacute endocarditis,急性及亞急性心內膜炎
+197,I330,Acute and subacute infective endocarditis,急性及亞急性感染性心內膜炎
+198,I339,"Acute and subacute endocarditis, unspecified",急性及亞急性心內膜炎，未特定
+199,I34,Nonrheumatic mitral valve disorders,非風濕性二尖瓣疾患
+200,I340,Nonrheumatic mitral (valve) insufficiency,非風濕性二尖瓣閉鎖不全
+201,I341,Nonrheumatic mitral (valve) prolapse,非風濕性二尖瓣脫垂
+202,I342,Nonrheumatic mitral (valve) stenosis,非風濕性二尖瓣狹窄
+203,I348,Other nonrheumatic mitral valve disorders,非風濕性其他二尖瓣疾患
+204,I349,"Nonrheumatic mitral valve disorder, unspecified",非風濕性未特定二尖瓣疾患，未特定
+205,I35,Nonrheumatic aortic valve disorders,非風濕性主動脈瓣疾患
+206,I350,Nonrheumatic aortic (valve) stenosis,非風濕性主動脈瓣狹窄
+207,I351,Nonrheumatic aortic (valve) insufficiency,非風濕主動脈瓣閉鎖不全
+208,I352,Nonrheumatic aortic (valve) stenosis with insufficiency,非風濕主動脈瓣狹窄伴有閉鎖不全
+209,I358,Other nonrheumatic aortic valve disorders,非風濕性其他主動脈瓣疾患
+210,I359,"Nonrheumatic aortic valve disorder, unspecified",非風濕性未特定主動脈瓣疾患，未特定
+211,I36,Nonrheumatic tricuspid valve disorders,非風濕性三尖瓣疾患
+212,I360,Nonrheumatic tricuspid (valve) stenosis,非風濕性三尖瓣狹窄
+213,I361,Nonrheumatic tricuspid (valve) insufficiency,非風濕三尖瓣閉鎖不全
+214,I362,Nonrheumatic tricuspid (valve) stenosis with insufficiency,非風濕三尖瓣狹窄伴有閉鎖不全
+215,I368,Other nonrheumatic tricuspid valve disorders,非風濕性其他三尖瓣疾患
+216,I369,"Nonrheumatic tricuspid valve disorder, unspecified",非風濕性未特定三尖瓣疾患，未特定
+217,I37,Nonrheumatic pulmonary valve disorders,非風濕性肺動脈瓣疾患
+218,I370,Nonrheumatic pulmonary valve stenosis,非風濕性肺動脈瓣狹窄
+219,I371,Nonrheumatic pulmonary valve insufficiency,非風濕肺動脈瓣閉鎖不全
+220,I372,Nonrheumatic pulmonary valve stenosis with insufficiency,非風濕肺動脈瓣狹窄伴有閉鎖不全
+221,I378,Other nonrheumatic pulmonary valve disorders,非風濕性其他肺動脈瓣疾患
+222,I379,"Nonrheumatic pulmonary valve disorder, unspecified",非風濕性未特定肺動脈瓣疾患，未特定
+223,I38,"Endocarditis, valve unspecified",未特定瓣膜之心內膜炎
+224,I39,Endocarditis and heart valve disorders in diseases classified elsewhere,歸類於他處疾病所致之心內膜炎及心臟瓣膜疾患
+225,I40,Acute myocarditis,急性心肌炎
+226,I400,Infective myocarditis,感染性心肌炎
+227,I401,Isolated myocarditis,孤立性心肌炎
+228,I408,Other acute myocarditis,其他急性心肌炎
+229,I409,"Acute myocarditis, unspecified",急性心肌炎，未特定
+230,I41,Myocarditis in diseases classified elsewhere,歸類於他處疾病所致之急性心肌炎
+231,I42,Cardiomyopathy,心肌病變
+232,I420,Dilated cardiomyopathy,擴張性心肌病變
+233,I421,Obstructive hypertrophic cardiomyopathy,肥厚性阻塞性心肌病變
+234,I422,Other hypertrophic cardiomyopathy,其他肥厚性心肌病變
+235,I423,Endomyocardial (eosinophilic) disease,心內膜心肌（嗜酸性）疾病
+236,I424,Endocardial fibroelastosis,心內膜彈性纖維化
+237,I425,Other restrictive cardiomyopathy,其他限制性心肌病變
+238,I426,Alcoholic cardiomyopathy,酒精性心肌病變
+239,I427,Cardiomyopathy due to drug and external agent,因藥物或外傷原因所造成之心肌病變
+240,I428,Other cardiomyopathies,其他之心肌病變
+241,I429,"Cardiomyopathy, unspecified",心肌病變，未特定
+242,I43,Cardiomyopathy in diseases classified elsewhere,歸類於他處疾病所致之心肌病變
+243,I44,Atrioventricular and left bundle-branch block,房室和左束支傳導阻滯
+244,I440,"Atrioventricular block, first degree",第一度房室傳導阻滯
+245,I441,"Atrioventricular block, second degree",第二度房室傳導阻滯
+246,I442,"Atrioventricular block, complete",完全性房室傳導阻滯
+247,I443,Other and unspecified atrioventricular block,其他和未特定房室傳導阻滯
+248,I4430,Unspecified atrioventricular block,房室傳導阻滯，未特定
+249,I4439,Other atrioventricular block,其他房室傳導阻滯
+250,I444,Left anterior fascicular block,左前束支傳導阻滯
+251,I445,Left posterior fascicular block,左後束支傳導阻滯
+252,I446,Other and unspecified fascicular block,其他和未特定束支傳導阻滯
+253,I4460,Unspecified fascicular block,束支傳導阻滯，未特定
+254,I4469,Other fascicular block,其他束支傳導阻滯
+255,I447,"Left bundle-branch block, unspecified",左束支傳導阻滯，未特定
+256,I45,Other conduction disorders,其他傳導障礙
+257,I450,Right fascicular block,右束支傳導阻滯
+258,I451,Other and unspecified right bundle-branch block,其他和未特定右束支傳導阻滯
+259,I4510,Unspecified right bundle-branch block,右束支傳導阻滯，未特定
+260,I4519,Other right bundle-branch block,其他右束支傳導阻滯
+261,I452,Bifascicular block,雙束支傳導阻滯
+262,I453,Trifascicular block,三束支傳導阻滯
+263,I454,Nonspecific intraventricular block,非特異性心室內傳導阻滯
+264,I455,Other specified heart block,其他特定心臟傳導阻滯
+265,I456,Pre-excitation syndrome,預激症候群
+266,I458,Other specified conduction disorders,其他特定之傳導障礙
+267,I4581,Long QT syndrome,QT節段延長症候群
+268,I4589,Other specified conduction disorders,其他特定之傳導疾患
+269,I459,"Conduction disorder, unspecified",傳導疾患，未特定
+270,I46,Cardiac arrest,心跳休止
+271,I462,Cardiac arrest due to underlying cardiac condition,因心臟本身疾病導致之心跳休止
+272,I468,Cardiac arrest due to other underlying condition,因其他疾病導致之心跳休止
+273,I469,"Cardiac arrest, cause unspecified",未特定原因導致之心跳休止
+274,I47,Paroxysmal tachycardia,陣發性心搏過速
+275,I470,Re-entry ventricular arrhythmia,再迴旋性心室心律不整
+276,I471,Supraventricular tachycardia,心室上部心搏過速
+277,I472,Ventricular tachycardia,心室心搏過速
+278,I479,"Paroxysmal tachycardia, unspecified",陣發性心搏過速，未特定
+279,I48,Atrial fibrillation and flutter,心房顫動和撲動
+280,I480,Atrial fibrillation,心房顫動
+281,I481,Atrial flutter,心房撲動
+282,I49,Other cardiac arrhythmias,其他心臟節律不整
+283,I490,Ventricular fibrillation and flutter,心室顫動和撲動
+284,I4901,Ventricular fibrillation,心室顫動
+285,I4902,Ventricular flutter,心室撲動
+286,I491,Atrial premature depolarization,心房早期去極化
+287,I492,Junctional premature depolarization,房室交界早期去極化
+288,I493,Ventricular premature depolarization,心室早期去極化
+289,I494,Other and unspecified premature depolarization,其他和未特定早期去極化
+290,I4940,Unspecified premature depolarization,未特定早期去極化
+291,I4949,Other premature depolarization,其他早期去極化
+292,I495,Sick sinus syndrome,病竇症候群
+293,I498,Other specified cardiac arrhythmias,其他特定之心臟節律不整
+294,I499,"Cardiac arrhythmia, unspecified",心臟節律不整，未特定
+295,I50,Heart failure,心臟衰竭
+296,I501,Left ventricular failure,左心衰竭
+297,I502,Systolic (congestive) heart failure,收縮性(充血性)心臟衰竭
+298,I5020,Unspecified systolic (congestive) heart failure,未特定收縮性(充血性)心臟衰竭
+299,I5021,Acute systolic (congestive) heart failure,急性收縮性(充血性)心臟衰竭
+300,I5022,Chronic systolic (congestive) heart failure,慢性收縮性(充血性)心臟衰竭
+301,I5023,Acute on chronic systolic (congestive) heart failure,急慢性收縮性(充血性)心臟衰竭
+302,I503,Diastolic (congestive) heart failure,舒張性(充血性)心臟衰竭
+303,I5030,Unspecified diastolic (congestive) heart failure,未特定舒張性(充血性)心臟衰竭
+304,I5031,Acute diastolic (congestive) heart failure,急性舒張性(充血性)心臟衰竭
+305,I5032,Chronic diastolic (congestive) heart failure,慢性舒張性(充血性)心臟衰竭
+306,I5033,Acute on chronic diastolic (congestive) heart failure,急慢性舒張性(充血性)心臟衰竭
+307,I504,Combined systolic (congestive) and diastolic (congestive) heart failure,收縮性併舒張性(充血性)心臟衰竭
+308,I5040,Unspecified combined systolic (congestive) and diastolic (congestive) heart failure,未特定收縮性併舒張性(充血性)心臟衰竭
+309,I5041,Acute combined systolic (congestive) and diastolic (congestive) heart failure,急性收縮性併舒張性(充血性)心臟衰竭
+310,I5042,Chronic combined systolic (congestive) and diastolic (congestive) heart failure,慢性收縮性併舒張性(充血性)心臟衰竭
+311,I5043,Acute on chronic combined systolic (congestive) and diastolic (congestive) heart failure,慢性收縮性併舒張性(充血性)心臟衰竭併急性發作
+312,I509,"Heart failure, unspecified",心臟衰竭，未特定
+313,I51,Complications and ill-defined descriptions of heart disease,併發症和診斷不明確之心臟疾病
+314,I510,"Cardiac septal defect, acquired",後天性心臟中隔缺損
+315,I511,"Rupture of chordae tendineae, not elsewhere classified",腱索破裂，他處未歸類者
+316,I512,"Rupture of papillary muscle, not elsewhere classified",乳頭肌破裂，他處未歸類者
+317,I513,"Intracardiac thrombosis, not elsewhere classified",心內血栓形成，他處未歸類者
+318,I514,"Myocarditis, unspecified",心肌炎，未特定
+319,I515,Myocardial degeneration,心肌變性
+320,I517,Cardiomegaly,心臟肥大
+321,I518,Other ill-defined heart diseases,其他診斷不明確之心臟疾病
+322,I5181,Takotsubo syndrome,Takotsubo 症候群
+323,I5189,Other ill-defined heart diseases,其他診斷不明確之心臟疾病
+324,I519,"Heart disease, unspecified",心臟疾病，未特定
+325,I52,Other heart disorders in diseases classified elsewhere,歸類於他處疾患所致之其他心臟疾患
+326,I60,Nontraumatic subarachnoid hemorrhage,非外傷性蜘蛛網膜下腔出血
+327,I600,Nontraumatic subarachnoid hemorrhage form carotid siphon and bifurcation,頸動脈虹吸管和叉路之非外傷性蜘蛛網膜下腔出血
+328,I6000,Nontraumatic subarachnoid hemorrhage from unspecified carotid siphon and bifurcation,未特定側性頸動脈虹吸和分叉創傷性蛛網膜下腔出血
+329,I6001,Nontraumatic subarachnoid hemorrhage from right carotid siphon and bifurcation,右側頸動脈虹吸和分叉創傷性蛛網膜下腔出血
+330,I6002,Nontraumatic subarachnoid hemorrhage from left carotid siphon and bifurcation,左側頸動脈虹吸和分叉創傷性蛛網膜下腔出血
+331,I601,Nontraumatic subarachnoid hemorrhage from middle cerebral artery,中大腦動脈之非外傷性蜘蛛網膜下腔出血
+332,I6010,Nontraumatic subarachnoid hemorrhage from unspecified middle cerebral artery,未特定側性大腦中動脈非創傷性蜘蛛網膜下腔出血
+333,I6011,Nontraumatic subarachnoid hemorrhage from right middle cerebral artery,右側大腦中動脈非創傷性蜘蛛網膜下腔出血
+334,I6012,Nontraumatic subarachnoid hemorrhage from left middle cerebral artery,左側大腦中動脈非創傷性蜘蛛網膜下腔出血
+335,I602,Nontraumatic subarachnoid hemorrhage from anterior communicating artery,前交通動脈之非外傷性蜘蛛網膜下腔出血
+336,I6020,Nontraumatic subarachnoid hemorrhage from unspecified anterior communicating artery,未特定側性前交通動脈非創傷性蜘蛛網膜下腔出血
+337,I6021,Nontraumatic subarachnoid hemorrhage from right anterior communicating artery,右側前交通動脈非創傷性蜘蛛網膜下腔出血
+338,I6022,Nontraumatic subarachnoid hemorrhage from left anterior communicating artery,左側前交通動脈非創傷性蜘蛛網膜下腔出血
+339,I603,Nontraumatic subarachnoid hemorrhage from posterior communicating artery,後交通動脈之非外傷性蜘蛛網膜下腔出血
+340,I6030,Nontraumatic subarachnoid hemorrhage from unspecified posterior communicating artery,未特定側性後交通動脈非創傷性蜘蛛網膜下腔出血
+341,I6031,Nontraumatic subarachnoid hemorrhage from right posterior communicating artery,右側後交通動脈非創傷性蜘蛛網膜下腔出血右
+342,I6032,Nontraumatic subarachnoid hemorrhage from left posterior communicating artery,左側後交通動脈非創傷性蜘蛛網膜下腔出血
+343,I604,Nontraumatic subarachnoid hemorrhage from basilar artery,基底動脈非創傷性蜘蛛網膜下腔出血
+344,I605,Nontraumatic subarachnoid hemorrhage from vertebral artery,椎動脈之非外傷性蜘蛛網膜下腔出血
+345,I6050,Nontraumatic subarachnoid hemorrhage from unspecified vertebral artery,未特定側性椎動脈非創傷性蜘蛛網膜下腔出血
+346,I6051,Nontraumatic subarachnoid hemorrhage from right vertebral artery,右側椎動脈非創傷性蜘蛛網膜下腔出血
+347,I6052,Nontraumatic subarachnoid hemorrhage from left vertebral artery,左側椎動脈非創傷性蜘蛛網膜下腔出血
+348,I606,Nontraumatic subarachnoid hemorrhage from other intracranial arteries,其他顱內動脈非創傷性蜘蛛網膜下腔出血
+349,I607,Nontraumatic subarachnoid hemorrhage from unspecified intracranial artery,未特定顱內動脈非創傷性蜘蛛網膜下腔出血
+350,I608,Other nontraumatic subarachnoid hemorrhage,其他非創傷性蜘蛛網膜下腔出血
+351,I609,"Nontraumatic subarachnoid hemorrhage, unspecified",非創傷性蜘蛛網膜下腔出血，未特定
+352,I61,Nontraumatic intracerebral hemorrhage,非外傷性腦出血
+353,I610,"Nontraumatic intracerebral hemorrhage in hemisphere, subcortical",非創傷性皮質下腦出血
+354,I611,"Nontraumatic intracerebral hemorrhage in hemisphere, cortical",非創傷性皮質腦出血
+355,I612,"Nontraumatic intracerebral hemorrhage in hemisphere, unspecified",非創傷性未特定腦出血，未特定
+356,I613,Nontraumatic intracerebral hemorrhage in brain stem,非創傷性腦幹出血
+357,I614,Nontraumatic intracerebral hemorrhage in cerebellum,非創傷性小腦出血
+358,I615,"Nontraumatic intracerebral hemorrhage, intraventricular",非創傷性腦室出血
+359,I616,"Nontraumatic intracerebral hemorrhage, multiple localized",非創傷性多發性腦出血
+360,I618,Other nontraumatic intracerebral hemorrhage,其他非創傷性腦出血
+361,I619,"Nontraumatic intracerebral hemorrhage, unspecified",非創傷性腦出血，未特定
+362,I62,Other and unspecified nontraumatic intracranial hemorrhage,其他和未特定側性之非外傷性顱內出血
+363,I620,Nontraumatic subdural hemorrhage,非外傷性硬腦膜下出血
+364,I6200,"Nontraumatic subdural hemorrhage, unspecified",非創傷性硬腦膜下出血，未特定
+365,I6201,Nontraumatic acute subdural hemorrhage,非創傷性急性腦膜下出血
+366,I6202,Nontraumatic subacute subdural hemorrhage,非創傷性亞急性硬腦膜下出血
+367,I6203,Nontraumatic chronic subdural hemorrhage,非創傷性慢性硬腦膜下出血
+368,I621,Nontraumatic extradural hemorrhage,非創傷性硬腦膜外出血
+369,I629,"Nontraumatic intracranial hemorrhage, unspecified",非創傷性顱內出血，未特定
+370,I63,Cerebral infarction,腦梗塞
+371,I630,Cerebral infarction due to thrombosis of precerebral arteries,伴有腦梗塞之腦前動脈血栓
+372,I6300,Cerebral infarction due to thrombosis of unspecified precerebral artery,伴有腦梗塞之未特定側性腦前動脈血栓
+373,I6301,Cerebral infarction due to thrombosis of vertebral artery,伴有腦梗塞之椎動脈血栓
+374,I63011,Cerebral infarction due to thrombosis of right vertebral artery,伴有腦梗塞之右側椎動脈血栓
+375,I63012,Cerebral infarction due to thrombosis of left vertebral artery,伴有腦梗塞之左側椎動脈血栓
+376,I63019,Cerebral infarction due to thrombosis of unspecified vertebral artery,伴有腦梗塞之未特定側性椎動脈血栓
+377,I6302,Cerebral infarction due to thrombosis of basilar artery,伴有腦梗塞之基底動脈血栓
+378,I6303,Cerebral infarction due to thrombosis of carotid artery,伴有腦梗塞之頸動脈血栓
+379,I63031,Cerebral infarction due to thrombosis of right carotid artery,伴有腦梗塞之右側頸動脈血栓
+380,I63032,Cerebral infarction due to thrombosis of left carotid artery,伴有腦梗塞之左側頸動脈血栓
+381,I63039,Cerebral infarction due to thrombosis of unspecified carotid artery,伴有腦梗塞之未特定側性頸動脈血栓
+382,I6309,Cerebral infarction due to thrombosis of other precerebral artery,伴有腦梗塞之其他腦前動脈血栓
+383,I631,Cerebral infarction due to embolism of precerebral arteries,伴有腦梗塞之腦前動脈栓塞
+384,I6310,Cerebral infarction due to embolism of unspecified precerebral artery,伴有腦梗塞之未特定腦前動脈栓塞
+385,I6311,Cerebral infarction due to embolism of vertebral artery,伴有腦梗塞之椎動脈栓塞
+386,I63111,Cerebral infarction due to embolism of left vertebral artery,伴有腦梗塞之左側椎動脈栓塞
+387,I63112,Cerebral infarction due to embolism of right vertebral artery,伴有腦梗塞之右側椎動脈栓塞
+388,I63119,Cerebral infarction due to embolism of unspecified vertebral artery,伴有腦梗塞之未特定側性椎動脈栓塞
+389,I6312,Cerebral infarction due to embolism of basilar artery,伴有腦梗塞之基底動脈栓塞
+390,I6313,Cerebral infarction due to embolism of carotid artery,伴有腦梗塞之頸動脈栓塞
+391,I63131,Cerebral infarction due to embolism of right carotid artery,伴有腦梗塞之右側頸動脈栓塞
+392,I63132,Cerebral infarction due to embolism of left carotid artery,伴有腦梗塞之左側頸動脈血栓塞
+393,I63139,Cerebral infarction due to embolism of unspecified carotid artery,伴有腦梗塞之未特定側性頸動脈栓塞
+394,I6319,Cerebral infarction due to embolism of other precerebral artery,伴有腦梗塞之其他腦前動脈栓塞
+395,I632,Cerebral infarction due to unspecified occlusion or stenosis of precerebral arteries,伴有腦梗塞之未特定側性腦前動脈阻塞及狹窄
+396,I6320,Cerebral infarction due to unspecified occlusion or stenosis of unspecified precerebral arteries,伴有腦梗塞之未特定側性腦前動脈阻塞及狹窄
+397,I6321,Cerebral infarction due to unspecified occlusion or stenosis of vertebral arteries,伴有腦梗塞之未特定側性椎動脈阻塞及狹窄
+398,I63211,Cerebral infarction due to unspecified occlusion or stenosis of right vertebral arteries,伴有腦梗塞之右側椎動脈阻塞及狹窄
+399,I63212,Cerebral infarction due to unspecified occlusion or stenosis of left vertebral arteries,伴有腦梗塞之左側椎動脈阻塞及狹窄
+400,I63219,Cerebral infarction due to unspecified occlusion or stenosis of unspecified vertebral arteries,伴有腦梗塞之未特定椎動脈阻塞及狹窄
+401,I6322,Cerebral infarction due to unspecified occlusion or stenosis of basilar arteries,伴有腦梗塞之基底動脈阻塞及狹窄
+402,I6323,Cerebral infarction due to unspecified occlusion or stenosis of carotid arteries,伴有腦梗塞之未特定側性頸動脈阻塞及狹窄
+403,I63231,Cerebral infarction due to unspecified occlusion or stenosis of right carotid arteries,伴有腦梗塞之右側頸動脈阻塞及狹窄
+404,I63232,Cerebral infarction due to unspecified occlusion or stenosis of left carotid arteries,伴有腦梗塞之左側頸動脈阻塞及狹窄
+405,I63239,Cerebral infarction due to unspecified occlusion or stenosis of unspecified carotid arteries,伴有腦梗塞之未特定側性頸動脈阻塞及狹窄
+406,I6329,Cerebral infarction due to unspecified occlusion or stenosis of other precerebral arteries,伴有腦梗塞之其他腦前動脈阻塞及狹窄
+407,I633,Cerebral infarction due to thrombosis of cerebral arteries,伴有腦梗塞之腦動脈血栓
+408,I6330,Cerebral infarction due to thrombosis of unspecified cerebral artery,伴有腦梗塞之未特定腦動脈血栓
+409,I6331,Cerebral infarction due to thrombosis of middle cerebral artery,伴有腦梗塞之中大腦動脈血栓
+410,I63311,Cerebral infarction due to thrombosis of right middle cerebral artery,伴有腦梗塞之右側大腦中動脈血栓
+411,I63312,Cerebral infarction due to thrombosis of left middle cerebral artery,伴有腦梗塞之左側大腦中動脈血栓
+412,I63319,Cerebral infarction due to thrombosis of unspecified middle cerebral artery,伴有腦梗塞之未特定側性大腦中動脈血栓
+413,I6332,Cerebral infarction due to thrombosis of anterior cerebral artery,伴有腦梗塞之前大腦動脈血栓
+414,I63321,Cerebral infarction due to thrombosis of right anterior cerebral artery,伴有腦梗塞之右側大腦前動脈血栓
+415,I63322,Cerebral infarction due to thrombosis of left anterior cerebral artery,伴有腦梗塞之左側大腦前動脈血栓
+416,I63329,Cerebral infarction due to thrombosis of unspecified anterior cerebral artery,伴有腦梗塞之未特定側性大腦前動脈血栓
+417,I6333,Cerebral infarction due to thrombosis of posterior cerebral artery,伴有腦梗塞之後大腦動脈血栓
+418,I63331,Cerebral infarction due to thrombosis of right posterior cerebral artery,伴有腦梗塞之右側大腦後動脈血栓
+419,I63332,Cerebral infarction due to thrombosis of left posterior cerebral artery,伴有腦梗塞之左側大腦後動脈血栓
+420,I63339,Cerebral infarction due to thrombosis of unspecified posterior cerebral artery,伴有腦梗塞之未特定側性大腦後動脈血栓
+421,I6334,Cerebral infarction due to thrombosis of cerebellar artery,伴有腦梗塞之小腦動脈血栓
+422,I63341,Cerebral infarction due to thrombosis of right cerebellar artery,伴有腦梗塞之右小腦動脈血栓
+423,I63342,Cerebral infarction due to thrombosis of left cerebellar artery,伴有腦梗塞之左小腦動脈血栓
+424,I63349,Cerebral infarction due to thrombosis of unspecified cerebellar artery,伴有腦梗塞之未特定側性小腦動脈血栓
+425,I6339,Cerebral infarction due to thrombosis of other cerebral artery,伴有腦梗塞之其他腦動脈血栓
+426,I634,Cerebral infarction due to embolism of cerebral arteries,伴有腦梗塞之腦動脈栓塞
+427,I6340,Cerebral infarction due to embolism of unspecified cerebral artery,伴有腦梗塞之未特定腦動脈栓塞
+428,I6341,Cerebral infarction due to embolism of middle cerebral artery,伴有腦梗塞之中大腦動脈栓塞
+429,I63411,Cerebral infarction due to embolism of right middle cerebral artery,伴有腦梗塞之右側大腦中動脈栓塞
+430,I63412,Cerebral infarction due to embolism of left middle cerebral artery,伴有腦梗塞之左側大腦中動脈栓塞
+431,I63419,Cerebral infarction due to embolism of unspecified middle cerebral artery,伴有腦梗塞之未特定側性大腦中動脈栓塞
+432,I6342,Cerebral infarction due to embolism of anterior cerebral artery,伴有腦梗塞之前大腦動脈栓塞
+433,I63421,Cerebral infarction due to embolism of right anterior cerebral artery,伴有腦梗塞之右側大腦前動脈栓塞
+434,I63422,Cerebral infarction due to embolism of left anterior cerebral artery,伴有腦梗塞之左側大腦前動脈栓塞
+435,I63429,Cerebral infarction due to embolism of unspecified anterior cerebral artery,伴有腦梗塞之未特定側性大腦前動脈栓塞
+436,I6343,Cerebral infarction due to embolism of posterior cerebral artery,伴有腦梗塞之後大腦動脈栓塞
+437,I63431,Cerebral infarction due to embolism of right posterior cerebral artery,伴有腦梗塞之右側大腦後動脈栓塞
+438,I63432,Cerebral infarction due to embolism of left posterior cerebral artery,伴有腦梗塞之左側大腦後動脈栓塞
+439,I63439,Cerebral infarction due to embolism of unspecified posterior cerebral artery,伴有腦梗塞之未特定側性大腦後動脈栓塞
+440,I6344,Cerebral infarction due to embolism of cerebellar artery,伴有腦梗塞之小腦動脈栓塞
+441,I63441,Cerebral infarction due to embolism of right cerebellar artery,伴有腦梗塞之右側小腦動脈栓塞
+442,I63442,Cerebral infarction due to embolism of left cerebellar artery,伴有腦梗塞之左側小腦動脈栓塞
+443,I63449,Cerebral infarction due to embolism of unspecified cerebellar artery,伴有腦梗塞之未特定側性小腦動脈栓塞
+444,I6349,Cerebral infarction due to embolism of other cerebral artery,伴有腦梗塞之其他腦動脈栓塞
+445,I635,Cerebral infarction due to unspecified occlusion or stenosis of cerebral arteries,伴有腦梗塞未特定側性腦動脈阻塞及狹窄
+446,I6350,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebral artery,伴有腦梗塞之未特定腦動脈阻塞及狹窄
+447,I6351,Cerebral infarction due to unspecified occlusion or stenosis of middle cerebral artery,伴有腦梗塞未特定側性中大腦動脈阻塞及狹窄
+448,I63511,Cerebral infarction due to unspecified occlusion or stenosis of right middle cerebral artery,伴有腦梗塞之右側大腦中動脈阻塞及狹窄
+449,I63512,Cerebral infarction due to unspecified occlusion or stenosis of left middle cerebral artery,伴有腦梗塞之左側大腦中動脈阻塞及狹窄
+450,I63519,Cerebral infarction due to unspecified occlusion or stenosis of unspecified middle cerebral artery,伴有腦梗塞之未特定側性大腦中動脈阻塞及狹窄
+451,I6352,Cerebral infarction due to unspecified occlusion or stenosis of anterior cerebral artery,伴有腦梗塞未特定側性前大腦動脈阻塞及狹窄
+452,I63521,Cerebral infarction due to unspecified occlusion or stenosis of right anterior cerebral artery,伴有腦梗塞之右側大腦前動脈阻塞及狹窄
+453,I63522,Cerebral infarction due to unspecified occlusion or stenosis of left anterior cerebral artery,伴有腦梗塞之左側大腦前動脈阻塞及狹窄
+454,I63529,Cerebral infarction due to unspecified occlusion or stenosis of unspecified anterior cerebral artery,伴有腦梗塞之未特定側性大腦前動脈阻塞及狹窄
+455,I6353,Cerebral infarction due to unspecified occlusion or stenosis of posterior cerebral artery,伴有腦梗塞未特定側性後大腦動脈阻塞及狹窄
+456,I63531,Cerebral infarction due to unspecified occlusion or stenosis of left posterior cerebral artery,伴有腦梗塞之左側大腦後動脈阻塞及狹窄
+457,I63532,Cerebral infarction due to unspecified occlusion or stenosis of right posterior cerebral artery,伴有腦梗塞之右側大腦後動脈阻塞及狹窄
+458,I63539,Cerebral infarction due to unspecified occlusion or stenosis of unspecified posterior cerebral artery,伴有腦梗塞之未特定側性大腦後動脈阻塞及狹窄
+459,I6354,Cerebral infarction due to unspecified occlusion or stenosis of cerebellar artery,伴有腦梗塞未特定側性小腦動脈阻塞及狹窄
+460,I63541,Cerebral infarction due to unspecified occlusion or stenosis of left cerebellar artery,伴有腦梗塞之左小腦動脈阻塞及狹窄
+461,I63542,Cerebral infarction due to unspecified occlusion or stenosis of right cerebellar artery,伴有腦梗塞之右小腦動脈阻塞及狹窄
+462,I63549,Cerebral infarction due to unspecified occlusion or stenosis of unspecified cerebellar artery,伴有腦梗塞之未特定側性小腦動脈阻塞及狹窄
+463,I6359,Cerebral infarction due to unspecified occlusion or stenosis of other cerebral artery,伴有腦梗塞之其他腦動脈阻塞及狹窄
+464,I636,"Cerebral infarction due to cerebral venous thrombosis, nonpyogenic",伴有腦梗塞之腦靜脈血栓，非化膿性
+465,I638,Other cerebral infarction,其他腦梗塞
+466,I639,"Cerebral infarction, unspecified",腦梗塞，未特定
+467,I65,"Occlusion and stenosis of precerebral arteries, not resulting in cerebral infarction",未伴有腦梗塞之其他腦前動脈阻塞及狹窄
+468,I650,Occlusion and stenosis of vertebral artery,椎動脈阻塞及狹窄
+469,I6501,Occlusion and stenosis of right vertebral artery,右側椎動脈阻塞及狹窄
+470,I6502,Occlusion and stenosis of left vertebral artery,左側椎動脈阻塞及狹窄
+471,I6503,Occlusion and stenosis of bilateral vertebral arteries,雙側椎動脈阻塞及狹窄
+472,I6509,Occlusion and stenosis of unspecified vertebral artery,未特定側性椎動脈阻塞及狹窄
+473,I651,Occlusion and stenosis of basilar artery,基底動脈阻塞及狹窄
+474,I652,Occlusion and stenosis of carotid artery,頸動脈阻塞及狹窄
+475,I6521,Occlusion and stenosis of right carotid artery,右側頸動脈阻塞及狹窄
+476,I6522,Occlusion and stenosis of left carotid artery,左側頸動脈阻塞及狹窄
+477,I6523,Occlusion and stenosis of bilateral carotid arteries,雙側頸動脈阻塞及狹窄
+478,I6529,Occlusion and stenosis of unspecified carotid artery,未特定側性頸動脈阻塞及狹窄
+479,I658,Occlusion and stenosis of other precerebral arteries,其他腦前動脈阻塞及狹窄
+480,I659,Occlusion and stenosis of unspecified precerebral artery,未特定之腦前動脈阻塞及狹窄
+481,I66,"Occlusion and stenosis of cerebral arteries, not resulting in cerebral infarction",未伴有腦梗塞之大腦動脈阻塞及狹窄
+482,I660,Occlusion and stenosis of middle cerebral artery,中大腦動脈阻塞及狹窄
+483,I6601,Occlusion and stenosis of right middle cerebral artery,右側大腦中動脈阻塞及狹窄
+484,I6602,Occlusion and stenosis of left middle cerebral artery,左側大腦中動脈阻塞及狹窄
+485,I6603,Occlusion and stenosis of bilateral middle cerebral arteries,雙側大腦中動脈阻塞及狹窄
+486,I6609,Occlusion and stenosis of unspecified middle cerebral artery,未特定側性大腦中動脈阻塞及狹窄
+487,I661,Occlusion and stenosis of anterior cerebral artery,前大腦動脈阻塞及狹窄
+488,I6611,Occlusion and stenosis of right anterior cerebral artery,右側大腦前動脈阻塞及狹窄
+489,I6612,Occlusion and stenosis of left anterior cerebral artery,左側大腦前動脈阻塞及狹窄
+490,I6613,Occlusion and stenosis of bilateral anterior cerebral arteries,雙側大腦前動脈阻塞及狹窄
+491,I6619,Occlusion and stenosis of unspecified anterior cerebral artery,未特定側性大腦前動脈阻塞及狹窄
+492,I662,Occlusion and stenosis of posterior cerebral artery,後大腦動脈阻塞及狹窄
+493,I6621,Occlusion and stenosis of right posterior cerebral artery,右側大腦後動脈阻塞及狹窄
+494,I6622,Occlusion and stenosis of left posterior cerebral artery,左側大腦後動脈阻塞及狹窄
+495,I6623,Occlusion and stenosis of bilateral posterior cerebral arteries,雙側大腦後動脈阻塞及狹窄
+496,I6629,Occlusion and stenosis of unspecified posterior cerebral artery,未特定側性大腦後動脈阻塞及狹窄
+497,I663,Occlusion and stenosis of cerebellar arteries,小腦動脈阻塞及狹窄
+498,I668,Occlusion and stenosis of other cerebral arteries,其他腦動脈阻塞及狹窄
+499,I669,Occlusion and stenosis of unspecified cerebral artery,未特定腦動脈阻塞及狹窄
+500,I67,Other cerebrovascular diseases,其他腦血管疾病
+501,I670,"Dissection of cerebral arteries, nonruptured",腦動脈剝離，未破裂者
+502,I671,"Cerebral aneurysm, nonruptured",腦動脈瘤，未破裂者
+503,I672,Cerebral atherosclerosis,腦血管動脈粥樣硬化
+504,I673,Progressive vascular leukoencephalopathy,進行性血管性腦白質病
+505,I674,Hypertensive encephalopathy,高血壓性腦病變
+506,I675,Moyamoya disease,腦部小血管雲霧狀疾病
+507,I676,Nonpyogenic thrombosis of intracranial venous system,顱內靜脈竇非化膿性血栓症
+508,I677,"Cerebral arteritis, not elsewhere classified",腦動脈炎，他處未歸類者
+509,I678,Other specified cerebrovascular diseases,其他特定之腦血管疾病
+510,I679,"Cerebrovascular disease, unspecified",診斷欠明之腦血管疾病，未特定
+511,I68,Cerebrovascular disorders in diseases classified elsewhere,歸類於他處疾病的腦血管疾病
+512,I680,Cerebral amyloid angiopathy,澱粉樣腦血管病
+513,I682,Cerebral arteritis in other diseases classified elsewhere,歸類於他處其他疾病所致之腦動脈炎
+514,I688,Other cerebrovascular disorders in diseases classified elsewhere,歸類於他處疾患所致之其他腦血管疾患
+515,I69,Sequelae of cerebrovascular disease,腦血管疾病後遺症
+516,I690,Sequelae of nontraumatic subarachnoid hemorrhage,非創傷性蜘蛛網膜下腔出血後遺症
+517,I6900,Unspecified sequelae of nontraumatic subarachnoid hemorrhage,未特定非創傷性蜘蛛網膜下腔出血後遺症
+518,I6901,Cognitive deficits following nontraumatic subarachnoid hemorrhage,認知障礙，非創傷性蛛網膜下腔出血後遺症
+519,I6902,Speech and language deficits following nontraumatic subarachnoid hemorrhage,說話及語言功能障礙，非創傷性蛛網膜下腔出血後遺症
+520,I69020,Aphasia following nontraumatic subarachnoid hemorrhage,失語症，非創傷性蛛網膜下腔出血後遺症
+521,I69021,Dysphasia following nontraumatic subarachnoid hemorrhage,部分失語症，非創傷性蛛網膜下腔出血後遺症
+522,I69022,Dysarthria following nontraumatic subarachnoid hemorrhage,構音障礙，非創傷性蛛網膜下腔出血後遺症
+523,I69023,Fluency disorder following nontraumatic subarachnoid hemorrhage,流暢性疾患，非創傷性蛛網膜下腔出血後遺症
+524,I69028,Other speech and language deficits following nontraumatic subarachnoid hemorrhage,其他說話及語言功能障礙，非創傷性蛛網膜下腔出血後遺症
+525,I6903,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage,上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+526,I69031,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting right dominant side,右側優勢側上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+527,I69032,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting left dominant side,左側優勢側上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+528,I69033,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting right non-dominant side,右側非優勢側上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+529,I69034,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting left non-dominant side,左側非優勢側上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+530,I69039,Monoplegia of upper limb following nontraumatic subarachnoid hemorrhage affecting unspecified side,未特定側性上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+531,I6904,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage,下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+532,I69041,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting right dominant side,右側優勢側下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+533,I69042,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting left dominant side,左側優勢側下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+534,I69043,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting right non-dominant side,右側非優勢側下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+535,I69044,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting left non-dominant side,左側非優勢側下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+536,I69049,Monoplegia of lower limb following nontraumatic subarachnoid hemorrhage affecting unspecified side,未特定側性下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+537,I6905,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage,偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+538,I69051,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right dominant side,右側優勢側偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+539,I69052,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left dominant side,左側優勢側偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+540,I69053,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting right non-dominant side,右側非優勢側偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+541,I69054,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting left non-dominant side,左側非優勢側偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+542,I69059,Hemiplegia and hemiparesis following nontraumatic subarachnoid hemorrhage affecting unspecified side,未特定側性偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+543,I6906,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage,其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+544,I69061,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting right dominant side,右側優勢側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+545,I69062,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting left dominant side,左側優勢側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+546,I69063,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting right non-dominant side,右側非優勢側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+547,I69064,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting left non-dominant side,左側非優勢側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+548,I69065,"Other paralytic syndrome following nontraumatic subarachnoid hemorrhage, bilateral",雙側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+549,I69069,Other paralytic syndrome following nontraumatic subarachnoid hemorrhage affecting unspecified side,未特定側性之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+550,I6909,Other sequelae of nontraumatic subarachnoid hemorrhage,其他非創傷性蛛網膜下腔出血後遺症
+551,I69090,Apraxia following nontraumatic subarachnoid hemorrhage,失用症，非創傷性蛛網膜下腔出血後遺症
+552,I69091,Dysphagia following nontraumatic subarachnoid hemorrhage,吞嚥困難，非創傷性蛛網膜下腔出血後遺症
+553,I69092,Facial weakness following nontraumatic subarachnoid hemorrhage,臉部鬆弛，非創傷性蛛網膜下腔出血後遺症
+554,I69093,Ataxia following nontraumatic subarachnoid hemorrhage,共濟失調，非創傷性蛛網膜下腔出血後遺症
+555,I69098,Other sequelae following nontraumatic subarachnoid hemorrhage,其他非創傷性蛛網膜下腔出血後遺症
+556,I691,Sequelae of nontraumatic intracerebral hemorrhage,非創傷性腦出血後遺症
+557,I6910,Unspecified sequelae of nontraumatic intracerebral hemorrhage,未特定非創傷性蜘蛛網膜下腔出血後遺症
+558,I6911,Cognitive deficits following nontraumatic intracerebral hemorrhage,認知障礙，非創傷性蛛網膜下腔出血後遺症
+559,I6912,Speech and language deficits following nontraumatic intracerebral hemorrhage,說話及語言功能障礙，非創傷性腦出血後遺症
+560,I69120,Aphasia following nontraumatic intracerebral hemorrhage,失語症，非創傷性蛛網膜下腔出血後遺症
+561,I69121,Dysphasia following nontraumatic intracerebral hemorrhage,部分失語症，非創傷性蛛網膜下腔出血後遺症
+562,I69122,Dysarthria following nontraumatic intracerebral hemorrhage,構音障礙，非創傷性蛛網膜下腔出血後遺症
+563,I69123,Fluency disorder following nontraumatic intracerebral hemorrhage,流暢性疾患，非創傷性蛛網膜下腔出血後遺症
+564,I69128,Other speech and language deficits following nontraumatic intracerebral hemorrhage,其他說話及語言功能障礙，非創傷性蛛網膜下腔出血後遺症
+565,I6913,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage,上肢單肢偏癱，非創傷性腦出血後遺症
+566,I69131,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting right dominant side,右側優勢側上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+567,I69132,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting left dominant side,左側優勢側上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+568,I69133,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting right non-dominant side,右側非優勢側上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+569,I69134,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting left non-dominant side,左側非優勢側上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+570,I69139,Monoplegia of upper limb following nontraumatic intracerebral hemorrhage affecting unspecified side,未特定側性上肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+571,I6914,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage,下肢單肢偏癱，非創傷性腦出血後遺症
+572,I69141,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting right dominant side,右側優勢側下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+573,I69142,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting left dominant side,左側優勢側下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+574,I69143,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting right non-dominant side,右側非優勢側下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+575,I69144,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting left non-dominant side,左側非優勢側下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+576,I69149,Monoplegia of lower limb following nontraumatic intracerebral hemorrhage affecting unspecified side,未特定側性下肢單肢偏癱，非創傷性蛛網膜下腔出血後遺症
+577,I6915,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage,偏癱/輕偏癱，非創傷性腦出血後遺症
+578,I69151,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right dominant side,右側優勢側偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+579,I69152,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left dominant side,左側優勢側偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+580,I69153,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting right non-dominant side,右側非優勢側偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+581,I69154,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting left non-dominant side,左側非優勢側偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+582,I69159,Hemiplegia and hemiparesis following nontraumatic intracerebral hemorrhage affecting unspecified side,未特定側性偏癱/輕偏癱，非創傷性蛛網膜下腔出血後遺症
+583,I6916,Other paralytic syndrome following nontraumatic intracerebral hemorrhage,其他癱瘓症候群，非創傷性腦出血後遺症
+584,I69161,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting right dominant side,右側優勢側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+585,I69162,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting left dominant side,左側優勢側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+586,I69163,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting right non-dominant side,右側非優勢側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+587,I69164,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting left non-dominant side,左側非優勢側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+588,I69165,"Other paralytic syndrome following nontraumatic intracerebral hemorrhage, bilateral",雙側之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+589,I69169,Other paralytic syndrome following nontraumatic intracerebral hemorrhage affecting unspecified side,未特定側性之其他癱瘓症候群，非創傷性蛛網膜下腔出血後遺症
+590,I6919,Other sequelae of nontraumatic intracerebral hemorrhage,其他非創傷性腦出血後遺症
+591,I69190,Apraxia following nontraumatic intracerebral hemorrhage,失用症，非創傷性蛛網膜下腔出血後遺症
+592,I69191,Dysphagia following nontraumatic intracerebral hemorrhage,吞嚥困難，非創傷性蛛網膜下腔出血後遺症
+593,I69192,Facial weakness following nontraumatic intracerebral hemorrhage,臉部鬆弛，非創傷性蛛網膜下腔出血後遺症
+594,I69193,Ataxia following nontraumatic intracerebral hemorrhage,共濟失調，非創傷性蛛網膜下腔出血後遺症
+595,I69198,Other sequelae of nontraumatic intracerebral hemorrhage,其他非創傷性蛛網膜下腔出血後遺症
+596,I692,Sequelae of other nontraumatic intracranial hemorrhage,非創傷性顱內出血後遺症
+597,I6920,Unspecified sequelae of other nontraumatic intracranial hemorrhage,未特定非創傷性腦內出血後遺症
+598,I6921,Cognitive deficits following other nontraumatic intracranial hemorrhage,認知障礙，非創傷腦內出血後遺症
+599,I6922,Speech and language deficits following other nontraumatic intracranial hemorrhage,說話及語言功能障礙，非創傷性顱內出血後遺症
+600,I69220,Aphasia following other nontraumatic intracranial hemorrhage,失語症，非創傷性腦內出血後遺症
+601,I69221,Dysphasia following other nontraumatic intracranial hemorrhage,部分失語症，非創傷性腦內出血後遺症
+602,I69222,Dysarthria following other nontraumatic intracranial hemorrhage,構音障礙，非創傷性腦內出血後遺症
+603,I69223,Fluency disorder following other nontraumatic intracranial hemorrhage,流暢性疾患，非創傷性腦內出血後遺症
+604,I69228,Other speech and language deficits following other nontraumatic intracranial hemorrhage,其他說話及語言功能障礙，非創傷性腦內出血後遺症
+605,I6923,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage,上肢單肢偏癱，非創傷性顱內出血後遺症
+606,I69231,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting right dominant side,右側優勢側上肢單肢偏癱，非創傷性腦內出血後遺症
+607,I69232,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting left dominant side,左側優勢側上肢單肢偏癱，非創傷性腦內出血後遺症
+608,I69233,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting right non-dominant side,右側非優勢側上肢單肢偏癱，非創傷性腦內出血後遺症
+609,I69234,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting left non-dominant side,左側非優勢側上肢單肢偏癱，非創傷性腦內出血後遺症
+610,I69239,Monoplegia of upper limb following other nontraumatic intracranial hemorrhage affecting unspecified side,未特定側性上肢單肢偏癱，非創傷性腦內出血後遺症
+611,I6924,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage,下肢單肢偏癱，非創傷性顱內出血後遺症
+612,I69241,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting right dominant side,右側優勢側下肢單肢偏癱，非創傷性腦內出血後遺症
+613,I69242,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting left dominant side,左側優勢側下肢單肢偏癱，非創傷性腦內出血後遺症
+614,I69243,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting right non-dominant side,右側非優勢側下肢單肢偏癱，非創傷性腦內出血後遺症
+615,I69244,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting left non-dominant side,左側非優勢側下肢單肢偏癱，非創傷性腦內出血後遺症
+616,I69249,Monoplegia of lower limb following other nontraumatic intracranial hemorrhage affecting unspecified side,未特定側性下肢單肢偏癱，非創傷性腦內出血後遺症
+617,I6925,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage,偏癱/輕偏癱，非創傷性顱內出血後遺症
+618,I69251,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right dominant side,右側優勢側偏癱/輕偏癱，非創傷性腦內出血後遺症
+619,I69252,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left dominant side,左側優勢側偏癱/輕偏癱，非創傷性腦內出血後遺症
+620,I69253,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting right non-dominant side,右側非優勢側偏癱/輕偏癱，非創傷性腦內出血後遺症
+621,I69254,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting left non-dominant side,左側非優勢側偏癱/輕偏癱，非創傷性腦內出血後遺症
+622,I69259,Hemiplegia and hemiparesis following other nontraumatic intracranial hemorrhage affecting unspecified side,未特定側性偏癱/輕偏癱，非創傷性腦內出血後遺症
+623,I6926,Other paralytic syndrome following other nontraumatic intracranial hemorrhage,其他癱瘓症候群，非創傷性顱內出血後遺症
+624,I69261,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting right dominant side,右側優勢側之其他癱瘓症候群，非創傷性腦內出血後遺症
+625,I69262,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting left dominant side,左側優勢側之其他癱瘓症候群，非創傷性腦內出血後遺症
+626,I69263,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting right non-dominant side,右側非優勢側之其他癱瘓症候群，非創傷性腦內出血後遺症
+627,I69264,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting left non-dominant side,左側非優勢側之其他癱瘓症候群，非創傷性腦內出血後遺症
+628,I69265,"Other paralytic syndrome following other nontraumatic intracranial hemorrhage, bilateral",雙側之其他癱瘓症候群，非創傷性腦內出血後遺症
+629,I69269,Other paralytic syndrome following other nontraumatic intracranial hemorrhage affecting unspecified side,未特定側性之其他癱瘓症候群，非創傷性腦內出血後遺症
+630,I6929,Other sequelae of other nontraumatic intracranial hemorrhage,其他非創傷性顱內出血後遺症
+631,I69290,Apraxia following other nontraumatic intracranial hemorrhage,失用症，非創傷性腦內出血後遺症
+632,I69291,Dysphagia following other nontraumatic intracranial hemorrhage,吞嚥困難，非創傷性腦內出血後遺症
+633,I69292,Facial weakness following other nontraumatic intracranial hemorrhage,臉部鬆弛，非創傷性腦內出血後遺症
+634,I69293,Ataxia following other nontraumatic intracranial hemorrhage,共濟失調，非創傷性腦內出血後遺症
+635,I69298,Other sequelae of other nontraumatic intracranial hemorrhage,其他非創傷性腦內出血後遺症
+636,I693,Sequelae of cerebral infarction,腦梗塞後遺症
+637,I6930,Unspecified sequelae of cerebral infarction,未特定腦梗塞後遺症
+638,I6931,Cognitive deficits following cerebral infarction,認知障礙，腦梗塞後遺症
+639,I6932,Speech and language deficits following cerebral infarction,說話及語言功能障礙，非創傷性顱內出血後遺症
+640,I69320,Aphasia following cerebral infarction,失語症，腦梗塞後遺症
+641,I69321,Dysphasia following cerebral infarction,部分失語症，腦梗塞後遺症
+642,I69322,Dysarthria following cerebral infarction,構音障礙，腦梗塞後遺症
+643,I69323,Fluency disorder following cerebral infarction,流暢性疾患，腦梗塞後遺症
+644,I69328,Other speech and language deficits following cerebral infarction,其他說話及語言功能障礙，腦梗塞後遺症
+645,I6933,Monoplegia of upper limb following cerebral infarction,上肢單肢偏癱，非創傷性顱內出血後遺症
+646,I69331,Monoplegia of upper limb following cerebral infarction affecting right dominant side,右側優勢側上肢單肢偏癱，腦梗塞後遺症
+647,I69332,Monoplegia of upper limb following cerebral infarction affecting left dominant side,左側優勢側上肢單肢偏癱，腦梗塞後遺症
+648,I69333,Monoplegia of upper limb following cerebral infarction affecting right non-dominant side,右側非優勢側上肢單肢偏癱，腦梗塞後遺症
+649,I69334,Monoplegia of upper limb following cerebral infarction affecting left non-dominant side,左側非優勢側上肢單肢偏癱，腦梗塞後遺症
+650,I69339,Monoplegia of upper limb following cerebral infarction affecting unspecified side,未特定側性上肢單肢偏癱，腦梗塞後遺症
+651,I6934,Monoplegia of lower limb following cerebral infarction,下肢單肢偏癱，非創傷性顱內出血後遺症
+652,I69341,Monoplegia of lower limb following cerebral infarction affecting right dominant side,右側優勢側下肢單肢偏癱，腦梗塞後遺症
+653,I69342,Monoplegia of lower limb following cerebral infarction affecting left dominant side,左側優勢側下肢單肢偏癱，腦梗塞後遺症
+654,I69343,Monoplegia of lower limb following cerebral infarction affecting right non-dominant side,右側非優勢側下肢單肢偏癱，腦梗塞後遺症
+655,I69344,Monoplegia of lower limb following cerebral infarction affecting left non-dominant side,左側非優勢側下肢單肢偏癱，腦梗塞後遺症
+656,I69349,Monoplegia of lower limb following cerebral infarction affecting unspecified side,未特定側性下肢單肢偏癱，腦梗塞後遺症
+657,I6935,Hemiplegia and hemiparesis following cerebral infarction,偏癱/輕偏癱，非創傷性顱內出血後遺症
+658,I69351,Hemiplegia and hemiparesis following cerebral infarction affecting right dominant side,右側優勢側偏癱/輕偏癱，腦梗塞後遺症
+659,I69352,Hemiplegia and hemiparesis following cerebral infarction affecting left dominant side,左側優勢側偏癱/輕偏癱，腦梗塞後遺症
+660,I69353,Hemiplegia and hemiparesis following cerebral infarction affecting right non-dominant side,右側非優勢側偏癱/輕偏癱，腦梗塞後遺症
+661,I69354,Hemiplegia and hemiparesis following cerebral infarction affecting left non-dominant side,左側非優勢側偏癱/輕偏癱，腦梗塞後遺症
+662,I69359,Hemiplegia and hemiparesis following cerebral infarction affecting unspecified side,未特定側性偏癱/輕偏癱，腦梗塞後遺症
+663,I6936,Other paralytic syndrome following cerebral infarction,其他癱瘓症候群，非創傷性顱內出血後遺症
+664,I69361,Other paralytic syndrome following cerebral infarction affecting right dominant side,右側優勢側之其他癱瘓症候群，腦梗塞後遺症
+665,I69362,Other paralytic syndrome following cerebral infarction affecting left dominant side,左側優勢側之其他癱瘓症候群，腦梗塞後遺症
+666,I69363,Other paralytic syndrome following cerebral infarction affecting right non-dominant side,右側非優勢側之其他癱瘓症候群，腦梗塞後遺症
+667,I69364,Other paralytic syndrome following cerebral infarction affecting left non-dominant side,左側非優勢側之其他癱瘓症候群，腦梗塞後遺症
+668,I69365,"Other paralytic syndrome following cerebral infarction, bilateral",雙側之其他癱瘓症候群，腦梗塞後遺症
+669,I69369,Other paralytic syndrome following cerebral infarction affecting unspecified side,未特定側性之其他癱瘓症候群，腦梗塞後遺症
+670,I6939,Other sequelae of cerebral infarction,其他非創傷性顱內出血後遺症
+671,I69390,Apraxia following cerebral infarction,失用症，腦梗塞後遺症
+672,I69391,Dysphagia following cerebral infarction,吞嚥困難，腦梗塞後遺症
+673,I69392,Facial weakness following cerebral infarction,臉部鬆弛，腦梗塞後遺症
+674,I69393,Ataxia following cerebral infarction,共濟失調，腦梗塞後遺症
+675,I69398,Other sequelae of cerebral infarction,其他腦梗塞後遺症後遺症
+676,I698,Sequelae of other cerebrovascular diseases,其他腦血管疾病後遺症
+677,I6980,Unspecified sequelae of other cerebrovascular disease,未特定其它腦血管疾病後遺症
+678,I6981,Cognitive deficits following other cerebrovascular disease,認知障礙，其它腦血管疾病後遺症
+679,I6982,Speech and language deficits following other cerebrovascular disease,說話及語言功能障礙，其他腦血管疾病後遺症
+680,I69820,Aphasia following other cerebrovascular disease,失語症，其它腦血管疾病後遺症
+681,I69821,Dysphasia following other cerebrovascular disease,部分失語症，其它腦血管疾病後遺症
+682,I69822,Dysarthria following other cerebrovascular disease,構音障礙，其它腦血管疾病後遺症
+683,I69823,Fluency disorder following other cerebrovascular disease,流暢性障礙，其它腦血管疾患後遺症
+684,I69828,Other speech and language deficits following other cerebrovascular disease,其他說話及語言功能障礙，其它腦血管疾病後遺症
+685,I6983,Monoplegia of upper limb following other cerebrovascular disease,上肢單肢偏癱，其他腦血管疾病後遺症
+686,I69831,Monoplegia of upper limb following other cerebrovascular disease affecting right dominant side,右側優勢側上肢單肢偏癱，其它腦血管疾病後遺症
+687,I69832,Monoplegia of upper limb following other cerebrovascular disease affecting left dominant side,左側優勢側上肢單肢偏癱，其它腦血管疾病後遺症
+688,I69833,Monoplegia of upper limb following other cerebrovascular disease affecting right non-dominant side,右側非優勢側上肢單肢偏癱，其它腦血管疾病後遺症
+689,I69834,Monoplegia of upper limb following other cerebrovascular disease affecting left non-dominant side,左側非優勢側上肢單肢偏癱，其它腦血管疾病後遺症
+690,I69839,Monoplegia of upper limb following other cerebrovascular disease affecting unspecified side,未特定側性上肢單肢偏癱，其它腦血管疾病後遺症
+691,I6984,Monoplegia of lower limb following other cerebrovascular disease,下肢單肢偏癱，其他腦血管疾病後遺症
+692,I69841,Monoplegia of lower limb following other cerebrovascular disease affecting right dominant side,右側優勢側下肢單肢偏癱，其它腦血管疾病後遺症
+693,I69842,Monoplegia of lower limb following other cerebrovascular disease affecting left dominant side,左側優勢側下肢單肢偏癱，其它腦血管疾病後遺症
+694,I69843,Monoplegia of lower limb following other cerebrovascular disease affecting right non-dominant side,右側非優勢側下肢單肢偏癱，其它腦血管疾病後遺症
+695,I69844,Monoplegia of lower limb following other cerebrovascular disease affecting left non-dominant side,左側非優勢側下肢單肢偏癱，其它腦血管疾病後遺症
+696,I69849,Monoplegia of lower limb following other cerebrovascular disease affecting unspecified side,未特定側性下肢單肢偏癱，其它腦血管疾病後遺症
+697,I6985,Hemiplegia and hemiparesis following other cerebrovascular disease,偏癱/輕偏癱，其他腦血管疾病後遺症
+698,I69851,Hemiplegia and hemiparesis following other cerebrovascular disease affecting right dominant side,右側優勢側偏癱/輕偏癱，其它腦血管疾病後遺症
+699,I69852,Hemiplegia and hemiparesis following other cerebrovascular disease affecting left dominant side,左側優勢側偏癱/輕偏癱，其它腦血管疾病後遺症
+700,I69853,Hemiplegia and hemiparesis following other cerebrovascular disease affecting right non-dominant side,右側非優勢側偏癱/輕偏癱，其它腦血管疾病後遺症
+701,I69854,Hemiplegia and hemiparesis following other cerebrovascular disease affecting left non-dominant side,左側非優勢側偏癱/輕偏癱，其它腦血管疾病後遺症
+702,I69859,Hemiplegia and hemiparesis following other cerebrovascular disease affecting unspecified side,未特定側性偏癱/輕偏癱，其它腦血管疾病後遺症
+703,I6986,Other paralytic syndrome following other cerebrovascular disease,其他癱瘓症候群，其他腦血管疾病後遺症
+704,I69861,Other paralytic syndrome following other cerebrovascular disease affecting right dominant side,右側優勢側之其他癱瘓症候群，其它腦血管疾病後遺症
+705,I69862,Other paralytic syndrome following other cerebrovascular disease affecting left dominant side,左側優勢側之其他癱瘓症候群，其它腦血管疾病後遺症
+706,I69863,Other paralytic syndrome following other cerebrovascular disease affecting right non-dominant side,右側非優勢側之其他癱瘓症候群，其它腦血管疾病後遺症
+707,I69864,Other paralytic syndrome following other cerebrovascular disease affecting left non-dominant side,左側非優勢側之其他癱瘓症候群，其它腦血管疾病後遺症
+708,I69865,"Other paralytic syndrome following other cerebrovascular disease, bilateral",雙側之其他癱瘓症候群，其它腦血管疾病後遺症
+709,I69869,Other paralytic syndrome following other cerebrovascular disease affecting unspecified side,未特定側性之其他癱瘓症候群，其它腦血管疾病後遺症
+710,I6989,Other sequelae of other cerebrovascular disease,其他腦血管疾病後遺症
+711,I69890,Apraxia following other cerebrovascular disease,失用症，其它腦血管疾病後遺症
+712,I69891,Dysphagia following other cerebrovascular disease,吞嚥困難，其它腦血管疾病後遺症
+713,I69892,Facial weakness following other cerebrovascular disease,臉部鬆弛，其它腦血管疾病後遺症
+714,I69893,Ataxia following other cerebrovascular disease,共濟失調，其它腦血管疾病後遺症
+715,I69898,Other sequelae of other cerebrovascular disease,腦血管疾病後遺症
+716,I699,Sequelae of unspecified cerebrovascular diseases,未特定性腦血管疾病後遺症
+717,I6990,Unspecified sequelae of unspecified cerebrovascular disease,未特定之腦血管疾病後遺症
+718,I6991,Cognitive deficits following unspecified cerebrovascular disease,認知障礙，腦血管疾病後遺症
+719,I6992,Speech and language deficits following unspecified cerebrovascular disease,說話及語言功能障礙，未特定性腦血管疾病後遺症
+720,I69920,Aphasia following unspecified cerebrovascular disease,失語症，腦血管疾病後遺症
+721,I69921,Dysphasia following unspecified cerebrovascular disease,部份失語症，腦血管疾病後遺症
+722,I69922,Dysarthria following unspecified cerebrovascular disease,其他說話及語言功能障礙，腦血管疾病後遺症
+723,I69923,Fluency disorder following unspecified cerebrovascular disease,其他說話及語言功能障礙，腦血管疾患後遺症
+724,I69928,Other speech and language deficits following unspecified cerebrovascular disease,說話及語言功能障礙，腦血管疾病後遺症
+725,I6993,Monoplegia of upper limb following unspecified cerebrovascular disease,上肢單肢偏癱，未特定性腦血管疾病後遺症
+726,I69931,Monoplegia of upper limb following unspecified cerebrovascular disease affecting right dominant side,右側優勢側上肢單肢偏癱，腦血管疾病後遺症
+727,I69932,Monoplegia of upper limb following unspecified cerebrovascular disease affecting left dominant side,左側優勢側上肢單肢偏癱，腦血管疾病後遺症
+728,I69933,Monoplegia of upper limb following unspecified cerebrovascular disease affecting right non-dominant side,右側非優勢側上肢單肢偏癱，腦血管疾病後遺症
+729,I69934,Monoplegia of upper limb following unspecified cerebrovascular disease affecting left non-dominant side,左側非優勢側上肢單肢偏癱，腦血管疾病後遺症
+730,I69939,Monoplegia of upper limb following unspecified cerebrovascular disease affecting unspecified side,未特定側性之上肢單肢偏癱，腦血管疾病後遺症
+731,I6994,Monoplegia of lower limb following unspecified cerebrovascular disease,下肢單肢偏癱，未特定性腦血管疾病後遺症
+732,I69941,Monoplegia of lower limb following unspecified cerebrovascular disease affecting right dominant side,右側優勢側之下肢單肢偏癱，腦血管疾病後遺症
+733,I69942,Monoplegia of lower limb following unspecified cerebrovascular disease affecting left dominant side,左側優勢側之下肢單肢偏癱，腦血管疾病後遺症
+734,I69943,Monoplegia of lower limb following unspecified cerebrovascular disease affecting right non-dominant side,右側非優勢側之下肢單肢偏癱，腦血管疾病後遺症
+735,I69944,Monoplegia of lower limb following unspecified cerebrovascular disease affecting left non-dominant side,左側非優勢側之下肢單肢偏癱，腦血管疾病後遺症
+736,I69949,Monoplegia of lower limb following unspecified cerebrovascular disease affecting unspecified side,未特定側性之下肢單肢偏癱，腦血管疾病後遺症
+737,I6995,Hemiplegia and hemiparesis following unspecified cerebrovascular disease,偏癱/輕偏癱，未特定性腦血管疾病後遺症
+738,I69951,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right dominant side,右側優勢側偏癱，腦血管疾病後遺症
+739,I69952,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left dominant side,左側優勢側偏癱，腦血管疾病後遺症
+740,I69953,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting right non-dominant side,右側非優勢側偏癱，腦血管疾病後遺症
+741,I69954,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting left non-dominant side,左側非優勢側偏癱，腦血管疾病後遺症
+742,I69959,Hemiplegia and hemiparesis following unspecified cerebrovascular disease affecting unspecified side,未特定側性偏癱，腦血管疾病後遺症
+743,I6996,Other paralytic syndrome following unspecified cerebrovascular disease,其他癱瘓症候群；未特定性腦血管疾病後遺症
+744,I69961,Other paralytic syndrome following unspecified cerebrovascular disease affecting right dominant side,右側優勢側之其他癱瘓徵候群，腦血管疾病後遺症
+745,I69962,Other paralytic syndrome following unspecified cerebrovascular disease affecting left dominant side,左側優勢側之其他癱瘓徵候群，腦血管疾病後遺症
+746,I69963,Other paralytic syndrome following unspecified cerebrovascular disease affecting right non-dominant side,右側非優勢側之其他癱瘓徵候群，腦血管疾病後遺症
+747,I69964,Other paralytic syndrome following unspecified cerebrovascular disease affecting left non-dominant side,左側非優勢側之其他癱瘓徵候群，腦血管疾病後遺症
+748,I69965,"Other paralytic syndrome following unspecified cerebrovascular disease, bilateral",雙側之其他癱瘓徵候群，腦血管疾病後遺症
+749,I69969,Other paralytic syndrome following unspecified cerebrovascular disease affecting unspecified side,未特定側性之其他癱瘓徵候群，腦血管疾病後遺症
+750,I6999,Other sequelae of unspecified cerebrovascular disease,其他未特定性腦血管疾病後遺症
+751,I69990,Apraxia following unspecified cerebrovascular disease,失用症，腦血管疾病後遺症
+752,I69991,Dysphagia following unspecified cerebrovascular disease,吞嚥困難，腦血管疾病後遺症
+753,I69992,Facial weakness following unspecified cerebrovascular disease,其他腦血管疾病後遺症
+754,I69993,Ataxia following unspecified cerebrovascular disease,其他腦血管疾病後遺症
+755,I69998,Other sequelae following unspecified cerebrovascular disease,其他腦血管疾病後遺症
+756,I70,Atherosclerosis,動脈粥樣硬化
+757,I700,Atherosclerosis of aorta,主動脈粥樣硬化
+758,I701,Atherosclerosis of renal artery,腎動脈粥樣硬化
+759,I702,Atherosclerosis of native arteries of the extremities,自體四肢動脈粥樣硬化
+760,I7020,Unspecified atherosclerosis of native arteries of extremities,未特定自體四肢動脈粥樣硬化
+761,I70201,"Unspecified atherosclerosis of native arteries of extremities, right leg",右腳未特定自體動脈粥樣硬化
+762,I70202,"Unspecified atherosclerosis of native arteries of extremities, left leg",左腳未特定自體動脈粥樣硬化
+763,I70203,"Unspecified atherosclerosis of native arteries of extremities, bilateral legs",雙腳未特定自體動脈粥樣硬化
+764,I70208,"Unspecified atherosclerosis of native arteries of extremities, other extremity",其他側性肢體未特定自體動脈粥樣硬化
+765,I70209,"Unspecified atherosclerosis of native arteries of extremities, unspecified extremity",四肢動脈粥樣硬化
+766,I7021,Atherosclerosis of native arteries of extremities with intermittent claudication,自體四肢動脈粥樣硬化合併間歇性跛行
+767,I70211,"Atherosclerosis of native arteries of extremities with intermittent claudication, right leg",右腳自體動脈粥樣硬化伴有間歇性跛行
+768,I70212,"Atherosclerosis of native arteries of extremities with intermittent claudication, left leg",左腳自體動脈粥樣硬化伴有間歇性跛行
+769,I70213,"Atherosclerosis of native arteries of extremities with intermittent claudication, bilateral legs",雙腳自體動脈粥樣硬化伴有間歇性跛行
+770,I70218,"Atherosclerosis of native arteries of extremities with intermittent claudication, other extremity",其他側性肢體自體動脈粥樣硬化伴有間歇性跛行
+771,I70219,"Atherosclerosis of native arteries of extremities with intermittent claudication, unspecified extremity",四肢動脈粥樣硬化伴有間歇性跛行
+772,I7022,Atherosclerosis of native arteries of extremities with rest pain,自體四肢動脈粥樣硬化合併靜止時疼痛
+773,I70221,"Atherosclerosis of native arteries of extremities with rest pain, right leg",右腳自體動脈粥樣硬化伴有靜止時疼痛
+774,I70222,"Atherosclerosis of native arteries of extremities with rest pain, left leg",左腳自體動脈粥樣硬化伴有靜止時疼痛
+775,I70223,"Atherosclerosis of native arteries of extremities with rest pain, bilateral legs",雙腳自體動脈粥樣硬化伴有靜止時疼痛
+776,I70228,"Atherosclerosis of native arteries of extremities with rest pain, other extremity",其他側性肢體自體動脈粥樣硬化伴有靜止時疼痛
+777,I70229,"Atherosclerosis of native arteries of extremities with rest pain, unspecified extremity",四肢動脈粥樣硬化伴有靜止時疼痛
+778,I7023,Atherosclerosis of native arteries of right leg with ulceration,右側腿自體動脈粥樣硬化合併潰瘍
+779,I70231,Atherosclerosis of native arteries of right leg with ulceration of thigh,右腳自體動脈粥樣硬化伴有大腿潰瘍
+780,I70232,Atherosclerosis of native arteries of right leg with ulceration of calf,右腳自體動脈粥樣硬化伴有小腿潰瘍
+781,I70233,Atherosclerosis of native arteries of right leg with ulceration of ankle,右腳自體動脈粥樣硬化伴有腳踝潰瘍
+782,I70234,Atherosclerosis of native arteries of right leg with ulceration of heel and midfoot,右腳自體動脈粥樣硬化伴有腳跟和足弓潰瘍
+783,I70235,Atherosclerosis of native arteries of right leg with ulceration of other part of foot,右腳自體動脈粥樣硬化伴有腳部其他部位潰瘍
+784,I70238,Atherosclerosis of native arteries of right leg with ulceration of other part of lower right leg,右腳自體動脈粥樣硬化伴有右腳其他部位潰瘍
+785,I70239,Atherosclerosis of native arteries of right leg with ulceration of unspecified site,右腳自體動脈粥樣硬化伴有未特定部位潰瘍
+786,I7024,Atherosclerosis of native arteries of left leg with ulceration,左側腿自體動脈粥樣硬化合併潰瘍
+787,I70241,Atherosclerosis of native arteries of left leg with ulceration of thigh,左腳自體動脈粥樣硬化伴有大腿潰瘍
+788,I70242,Atherosclerosis of native arteries of left leg with ulceration of calf,左腳自體動脈粥樣硬化伴有小腿潰瘍
+789,I70243,Atherosclerosis of native arteries of left leg with ulceration of ankle,左腳自體動脈粥樣硬化伴有腳踝潰瘍
+790,I70244,Atherosclerosis of native arteries of left leg with ulceration of heel and midfoot,左腳自體動脈粥樣硬化伴有腳跟和足弓潰瘍
+791,I70245,Atherosclerosis of native arteries of left leg with ulceration of other part of foot,左腳自體動脈粥樣硬化伴有腳部其他部位潰瘍
+792,I70248,Atherosclerosis of native arteries of left leg with ulceration of other part of lower left leg,左腳自體動脈粥樣硬化伴有左腳其他部位潰瘍
+793,I70249,Atherosclerosis of native arteries of left leg with ulceration of unspecified site,左腳自體動脈粥樣硬化伴有未特定部位潰瘍
+794,I7025,Atherosclerosis of native arteries of other extremities with ulceration,四肢動脈粥樣硬化伴有潰瘍
+795,I7026,Atherosclerosis of native arteries of extremities with gangrene,自體四肢動脈粥樣硬化合併壞疽
+796,I70261,"Atherosclerosis of native arteries of extremities with gangrene, right leg",右腳自體動脈粥樣硬化伴有壞疽
+797,I70262,"Atherosclerosis of native arteries of extremities with gangrene, left leg",左腳自體動脈粥樣硬化伴有壞疽
+798,I70263,"Atherosclerosis of native arteries of extremities with gangrene, bilateral legs",雙腳自體動脈粥樣硬化伴有壞疽
+799,I70268,"Atherosclerosis of native arteries of extremities with gangrene, other extremity",其他側性肢體自體動脈粥樣硬化伴有壞疽
+800,I70269,"Atherosclerosis of native arteries of extremities with gangrene, unspecified extremity",四肢動脈粥樣硬化伴有壞疽
+801,I7029,Other atherosclerosis of native arteries of extremities,其他自體四肢動脈粥樣硬化
+802,I70291,"Other atherosclerosis of native arteries of extremities, right leg",右腳其他自體動脈粥樣硬化
+803,I70292,"Other atherosclerosis of native arteries of extremities, left leg",左腳其他自體動脈粥樣硬化
+804,I70293,"Other atherosclerosis of native arteries of extremities, bilateral legs",雙腳其他自體動脈粥樣硬化
+805,I70298,"Other atherosclerosis of native arteries of extremities, other extremity",其他側性肢體其他自體動脈粥樣硬化
+806,I70299,"Other atherosclerosis of native arteries of extremities, unspecified extremity",其他四肢動脈粥樣硬化
+807,I703,Atherosclerosis of unspecified type of bypass graft(s) of the extremities,未特定類型繞道手術後的四肢動脈粥樣硬化
+808,I7030,Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities,未特定類型繞道手術後的未特定四肢動脈粥樣硬化
+809,I70301,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg",右腳未特定類型繞道手術後之未特定動脈粥樣硬化
+810,I70302,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg",左腳未特定類型繞道手術後之未特定動脈粥樣硬化
+811,I70303,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs",雙腳未特定類型繞道手術後之未特定動脈粥樣硬化
+812,I70308,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity",其他側性肢體未特定類型繞道手術後之未特定動脈粥樣硬化
+813,I70309,"Unspecified atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity",未特定側性肢體未特定類型繞道手術後之未特定動脈粥樣硬化
+814,I7031,Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication,未特定類型繞道手術後的四肢動脈粥樣硬化合併間歇性跛行
+815,I70311,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, right leg",右腳未特定類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+816,I70312,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, left leg",左腳未特定類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+817,I70313,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs",雙腳未特定類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+818,I70318,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, other extremity",其他側性肢體未特定類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+819,I70319,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",未特定側性肢體未特定類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+820,I7032,Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain,未特定類型繞道手術後的四肢動脈粥樣硬化合併靜止時疼痛
+821,I70321,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, right leg",右腳未特定類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+822,I70322,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, left leg",左腳未特定類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+823,I70323,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, bilateral legs",雙腳未特定類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+824,I70328,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, other extremity",其他側性肢體未特定類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+825,I70329,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with rest pain, unspecified extremity",未特定側性肢體未特定類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+826,I7033,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration,右側腿未特定類型繞道手術後之動脈粥樣硬化合併潰瘍
+827,I70331,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of thigh,右腳未特定類型繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+828,I70332,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of calf,右腳未特定類型繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+829,I70333,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of ankle,右腳未特定類型繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+830,I70334,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of heel and midfoot,右腳未特定類型繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+831,I70335,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of foot,右腳未特定類型繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+832,I70338,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of other part of lower leg,右腳未特定類型繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+833,I70339,Atherosclerosis of unspecified type of bypass graft(s) of the right leg with ulceration of unspecified site,右腳未特定類型繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+834,I7034,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration,左側腿未特定類型繞道手術後之動脈粥樣硬化合併潰瘍
+835,I70341,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of thigh,左腳未特定類型繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+836,I70342,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of calf,左腳未特定類型繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+837,I70343,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of ankle,左腳未特定類型繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+838,I70344,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of heel and midfoot,左腳未特定類型繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+839,I70345,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of foot,左腳未特定類型繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+840,I70348,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of other part of lower leg,左腳未特定類型繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+841,I70349,Atherosclerosis of unspecified type of bypass graft(s) of the left leg with ulceration of unspecified site,左腳未特定類型繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+842,I7035,Atherosclerosis of unspecified type of bypass graft(s) of other extremity with ulceration,其他肢體未特定類型繞道手術後之動脈粥樣硬化伴有潰瘍
+843,I7036,Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene,未特定類型繞道手術後的四肢動脈粥樣硬化合併壞疽
+844,I70361,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, right leg",右腳未特定類型繞道手術後之動脈粥樣硬化伴有壞疽
+845,I70362,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, left leg",左腳未特定類型繞道手術後之動脈粥樣硬化伴有壞疽
+846,I70363,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, bilateral legs",雙腳未特定類型繞道手術後之動脈粥樣硬化伴有壞疽
+847,I70368,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, other extremity",其他側性肢體未特定類型繞道手術後之動脈粥樣硬化伴有壞疽
+848,I70369,"Atherosclerosis of unspecified type of bypass graft(s) of the extremities with gangrene, unspecified extremity",未特定側性肢體未特定類型繞道手術後之動脈粥樣硬化伴有壞疽
+849,I7039,Other atherosclerosis of unspecified type of bypass graft(s) of the extremities,未特定類型繞道手術後的其他四肢動脈粥樣硬化
+850,I70391,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, right leg",右腳未特定類型繞道手術後之其他動脈粥樣硬化
+851,I70392,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, left leg",左腳未特定類型繞道手術後之其他動脈粥樣硬化
+852,I70393,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, bilateral legs",雙腳未特定類型繞道手術後之其他動脈粥樣硬化
+853,I70398,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, other extremity",其他側性肢體未特定類型繞道手術後之其他動脈粥樣硬化
+854,I70399,"Other atherosclerosis of unspecified type of bypass graft(s) of the extremities, unspecified extremity",經繞道手術後的四肢動脈粥樣硬化
+855,I704,Atherosclerosis of autologous vein bypass graft(s) of the extremities,自體靜脈繞道手術後的四肢動脈粥樣硬化
+856,I7040,Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities,自體靜脈繞道手術後的未特定四肢動脈粥樣硬化
+857,I70401,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg",右腳自體靜脈繞道手術後之未特定動脈粥樣硬化
+858,I70402,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg",左腳自體靜脈繞道手術後之未特定動脈粥樣硬化
+859,I70403,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs",雙腳自體靜脈繞道手術後之未特定動脈粥樣硬化
+860,I70408,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity",其他側性肢體自體靜脈繞道手術後之未特定動脈粥樣硬化
+861,I70409,"Unspecified atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity",未特定側性肢體自體靜脈繞道手術後之未特定動脈粥樣硬化
+862,I7041,Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication,自體靜脈繞道手術後的四肢動脈粥樣硬化合併間歇性跛行
+863,I70411,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, right leg",右腳自體靜脈繞道手術後之動脈粥樣硬化伴有間歇性跛行
+864,I70412,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, left leg",左腳自體靜脈繞道手術後之動脈粥樣硬化伴有間歇性跛行
+865,I70413,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, bilateral legs",雙腳自體靜脈繞道手術後之動脈粥樣硬化伴有間歇性跛行
+866,I70418,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, other extremity",其他側性肢體自體靜脈繞道手術後之動脈粥樣硬化伴有間歇性跛行
+867,I70419,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",未特定側性肢體自體靜脈繞道手術後之動脈粥樣硬化伴有間歇性跛行
+868,I7042,Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain,自體靜脈繞道手術後的四肢動脈粥樣硬化合併靜止時疼痛
+869,I70421,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, right leg",右腳自體靜脈繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+870,I70422,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, left leg",左腳自體靜脈繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+871,I70423,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, bilateral legs",雙腳自體靜脈繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+872,I70428,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, other extremity",其他側性肢體自體靜脈繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+873,I70429,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with rest pain, unspecified extremity",未特定側性肢體自體靜脈繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+874,I7043,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration,右側腿自體靜脈繞道手術後之動脈粥樣硬化合併潰瘍
+875,I70431,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of thigh,右腳自體靜脈繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+876,I70432,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of calf,右腳自體靜脈繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+877,I70433,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of ankle,右腳自體靜脈繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+878,I70434,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of heel and midfoot,右腳自體靜脈繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+879,I70435,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of foot,右腳自體靜脈繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+880,I70438,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of other part of lower leg,右腳自體靜脈繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+881,I70439,Atherosclerosis of autologous vein bypass graft(s) of the right leg with ulceration of unspecified site,右腳自體靜脈繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+882,I7044,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration,左側腿自體靜脈繞道手術後之動脈粥樣硬化合併潰瘍
+883,I70441,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of thigh,左腳自體靜脈繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+884,I70442,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of calf,左腳自體靜脈繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+885,I70443,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of ankle,左腳自體靜脈繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+886,I70444,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of heel and midfoot,左腳自體靜脈繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+887,I70445,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of foot,左腳自體靜脈繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+888,I70448,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of other part of lower leg,左腳自體靜脈繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+889,I70449,Atherosclerosis of autologous vein bypass graft(s) of the left leg with ulceration of unspecified site,左腳自體靜脈繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+890,I7045,Atherosclerosis of autologous vein bypass graft(s) of other extremity with ulceration,其他肢體自體靜脈繞道手術後之動脈粥樣硬化伴有潰瘍
+891,I7046,Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene,自體靜脈繞道手術後的四肢動脈粥樣硬化合併壞疽
+892,I70461,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, right leg",右腳自體靜脈繞道手術後之動脈粥樣硬化伴有壞疽
+893,I70462,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, left leg",左腳自體靜脈繞道手術後之動脈粥樣硬化伴有壞疽
+894,I70463,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, bilateral legs",雙腳自體靜脈繞道手術後之動脈粥樣硬化伴有壞疽
+895,I70468,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, other extremity",其他側性肢體自體靜脈繞道手術後之動脈粥樣硬化伴有壞疽
+896,I70469,"Atherosclerosis of autologous vein bypass graft(s) of the extremities with gangrene, unspecified extremity",未特定側性肢體自體靜脈繞道手術後之動脈粥樣硬化伴有壞疽
+897,I7049,Other atherosclerosis of autologous vein bypass graft(s) of the extremities,自體靜脈繞道手術後的其他四肢動脈粥樣硬化
+898,I70491,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, right leg",右腳自體靜脈繞道手術後之其他動脈粥樣硬化
+899,I70492,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, left leg",左腳自體靜脈繞道手術後之其他動脈粥樣硬化
+900,I70493,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, bilateral legs",雙腳自體靜脈繞道手術後之其他動脈粥樣硬化
+901,I70498,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, other extremity",其他側性肢體自體靜脈繞道手術後之其他動脈粥樣硬化
+902,I70499,"Other atherosclerosis of autologous vein bypass graft(s) of the extremities, unspecified extremity",自体靜脈繞道手術後的四肢動脈粥樣硬化
+903,I705,Atherosclerosis of nonautologous biological bypass graft(s) of the extremities,生物性非自體人工血管繞道術後的四肢動脈粥樣硬化
+904,I7050,Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities,生物性非自體人工血管繞道術後的未特定四肢動脈粥樣硬化
+905,I70501,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg",右腳非自體之生物性人工血管繞道手術後之未特定動脈粥樣硬化
+906,I70502,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg",左腳非自體之生物性人工血管繞道手術後之未特定動脈粥樣硬化
+907,I70503,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs",雙腳非自體之生物性人工血管繞道手術後之未特定動脈粥樣硬化
+908,I70508,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity",其他側性肢體非自體之生物性人工血管繞道手術後之未特定動脈粥樣硬化
+909,I70509,"Unspecified atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity",未特定側性肢體非自體之生物性人工血管繞道手術後之未特定動脈粥樣硬化
+910,I7051,Atherosclerosis of nonautologous biological bypass graft(s) of the extremities intermittent claudication,生物性非自體人工血管繞道術後的四肢動脈粥樣硬化合併間歇性跛行
+911,I70511,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities intermittent claudication, right leg",右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有間歇性跛行
+912,I70512,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities intermittent claudication, left leg",左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有間歇性跛行
+913,I70513,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities intermittent claudication, bilateral legs",雙腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有間歇性跛行
+914,I70518,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities intermittent claudication, other extremity",其他側性肢體非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有間歇性跛行
+915,I70519,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities intermittent claudication, unspecified extremity",未特定側性肢體非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有間歇性跛行
+916,I7052,Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain,生物性非自體人工血管繞道術後的四肢動脈粥樣硬化合併靜止時疼痛
+917,I70521,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, right leg",右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+918,I70522,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, left leg",左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+919,I70523,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, bilateral legs",雙腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+920,I70528,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, other extremity",其他側性肢體非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+921,I70529,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with rest pain, unspecified extremity",未特定側性肢體非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+922,I7053,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration,右側腿生物性非自體人工血管繞道術後的動脈粥樣硬化合併潰瘍
+923,I70531,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of thigh,右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+924,I70532,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of calf,右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+925,I70533,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of ankle,右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+926,I70534,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of heel and midfoot,右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+927,I70535,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of foot,右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+928,I70538,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of other part of lower leg,右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+929,I70539,Atherosclerosis of nonautologous biological bypass graft(s) of the right leg with ulceration of unspecified site,右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+930,I7054,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration,左側腿生物性非自體人工血管繞道術後的動脈粥樣硬化合併潰瘍
+931,I70541,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of thigh,左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+932,I70542,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of calf,左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+933,I70543,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of ankle,左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+934,I70544,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of heel and midfoot,左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+935,I70545,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of foot,左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+936,I70548,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of other part of lower leg,左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+937,I70549,Atherosclerosis of nonautologous biological bypass graft(s) of the left leg with ulceration of unspecified site,左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+938,I7055,Atherosclerosis of nonautologous biological bypass graft(s) of other extremity with ulceration,其他肢體非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有潰瘍
+939,I7056,Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene,生物性非自體人工血管繞道術後的四肢動脈粥樣硬化合併壞疽
+940,I70561,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, right leg",右腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有壞疽
+941,I70562,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, left leg",左腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有壞疽
+942,I70563,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, bilateral legs",雙腳非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有壞疽
+943,I70568,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, other extremity",其他側性肢體非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有壞疽
+944,I70569,"Atherosclerosis of nonautologous biological bypass graft(s) of the extremities with gangrene, unspecified extremity",未特定側性肢體非自體之生物性人工血管繞道手術後之動脈粥樣硬化伴有壞疽
+945,I7059,Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities,生物性非自體人工血管繞道術後的其他四肢動脈粥樣硬化
+946,I70591,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, right leg",右腳非自體之生物性人工血管繞道手術後之其他動脈粥樣硬化
+947,I70592,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, left leg",左腳非自體之生物性人工血管繞道手術後之其他動脈粥樣硬化
+948,I70593,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, bilateral legs",雙腳非自體之生物性人工血管繞道手術後之其他動脈粥樣硬化
+949,I70598,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, other extremity",其他側性肢體非自體之生物性人工血管繞道手術後之其他動脈粥樣硬化
+950,I70599,"Other atherosclerosis of nonautologous biological bypass graft(s) of the extremities, unspecified extremity",生物性非自體人工血管繞道術後的四肢動脈粥樣硬化
+951,I706,Atherosclerosis of nonbiological bypass graft(s) of the extremities,非生物性繞道手術後的四肢動脈粥樣硬化
+952,I7060,Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities,非生物性繞道手術後的未特定四肢動脈粥樣硬化
+953,I70601,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg",右腳非生物性繞道手術後之未特定動脈粥樣硬化
+954,I70602,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg",左腳非生物性繞道手術後之未特定動脈粥樣硬化
+955,I70603,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs",雙腳非生物性繞道手術後之未特定動脈粥樣硬化
+956,I70608,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity",其他側性肢體非生物性繞道手術後之未特定動脈粥樣硬化
+957,I70609,"Unspecified atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity",未特定側性肢體非生物性繞道手術後之未特定動脈粥樣硬化
+958,I7061,Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication,非生物性繞道手術後的四肢動脈粥樣硬化合併間歇性跛行
+959,I70611,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, right leg",右腳非生物性繞道手術後之動脈粥樣硬化伴有間歇性跛行
+960,I70612,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, left leg",左腳非生物性繞道手術後之動脈粥樣硬化伴有間歇性跛行
+961,I70613,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, bilateral legs",雙腳非生物性繞道手術後之動脈粥樣硬化伴有間歇性跛行
+962,I70618,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, other extremity",其他側性肢體生物性非生物性繞道手術後之動脈粥樣硬化伴有間歇性跛行
+963,I70619,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",未特定側性肢體非生物性繞道手術後之動脈粥樣硬化伴有間歇性跛行
+964,I7062,Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain,非生物性繞道手術後的四肢動脈粥樣硬化合併靜止時疼痛
+965,I70621,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, right leg",右腳非生物性繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+966,I70622,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, left leg",左腳非生物性繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+967,I70623,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, bilateral legs",雙腳非生物性繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+968,I70628,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, other extremity",其他側性肢體非生物性繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+969,I70629,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with rest pain, unspecified extremity",未特定側性肢體非生物性繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+970,I7063,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration,右側腿非生物性繞道手術後的動脈粥樣硬化合併潰瘍
+971,I70631,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of thigh,右腳非生物性繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+972,I70632,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of calf,右腳非生物性繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+973,I70633,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of ankle,右腳非生物性繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+974,I70634,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of heel and midfoot,右腳非生物性繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+975,I70635,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of foot,右腳非生物性繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+976,I70638,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of other part of lower leg,右腳非生物性繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+977,I70639,Atherosclerosis of nonbiological bypass graft(s) of the right leg with ulceration of unspecified site,右腳非生物性繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+978,I7064,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration,左側腿非生物性繞道手術後的動脈粥樣硬化合併潰瘍
+979,I70641,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of thigh,左腳非生物性繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+980,I70642,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of calf,左腳非生物性繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+981,I70643,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of ankle,左腳非生物性繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+982,I70644,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of heel and midfoot,左腳非生物性繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+983,I70645,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of foot,左腳非生物性繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+984,I70648,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of other part of lower leg,左腳非生物性繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+985,I70649,Atherosclerosis of nonbiological bypass graft(s) of the left leg with ulceration of unspecified site,左腳非生物性繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+986,I7065,Atherosclerosis of nonbiological bypass graft(s) of other extremity with ulceration,其他肢體非生物性繞道手術後之動脈粥樣硬化伴有潰瘍
+987,I7066,Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene,非生物性繞道手術後的四肢動脈粥樣硬化合併壞疽
+988,I70661,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, right leg",右腳非生物性繞道手術後之動脈粥樣硬化伴有壞疽
+989,I70662,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, left leg",左腳非生物性繞道手術後之動脈粥樣硬化伴有壞疽
+990,I70663,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, bilateral legs",雙腳非生物性繞道手術後之動脈粥樣硬化伴有壞疽
+991,I70668,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, other extremity",其他側性肢體非生物性繞道手術後之動脈粥樣硬化伴有壞疽
+992,I70669,"Atherosclerosis of nonbiological bypass graft(s) of the extremities with gangrene, unspecified extremity",未特定側性肢體非生物性繞道手術後之動脈粥樣硬化伴有壞疽
+993,I7069,Other atherosclerosis of nonbiological bypass graft(s) of the extremities,非生物性繞道手術後的其他四肢動脈粥樣硬化
+994,I70691,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, right leg",右腳非生物性繞道手術後之其他動脈粥樣硬化
+995,I70692,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, left leg",左腳非生物性繞道手術後之其他動脈粥樣硬化
+996,I70693,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, bilateral legs",雙腳非生物性繞道手術後之其他動脈粥樣硬化
+997,I70698,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, other extremity",其他側性肢體非生物性繞道手術後之其他動脈粥樣硬化
+998,I70699,"Other atherosclerosis of nonbiological bypass graft(s) of the extremities, unspecified extremity",未特定側性肢體非生物性繞道手術後之其他動脈粥樣硬化
+999,I707,Atherosclerosis of other type of bypass graft(s) of the extremities,其他類型繞道手術後的四肢動脈粥樣硬化
+1000,I7070,Unspecified atherosclerosis of other type of bypass graft(s) of the extremities,其他類型繞道手術後的未特定四肢動脈粥樣硬化
+1001,I70701,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, right leg",右腳其他類型繞道手術後之未特定動脈粥樣硬化
+1002,I70702,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, left leg",左腳其他類型繞道手術後之未特定動脈粥樣硬化
+1003,I70703,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs",雙腳其他類型繞道手術後之未特定動脈粥樣硬化
+1004,I70708,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, other extremity",其他側性肢體其他類型繞道手術後之未特定動脈粥樣硬化
+1005,I70709,"Unspecified atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity",未特定側性肢體其他類型繞道手術後之未特定動脈粥樣硬化
+1006,I7071,Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication,其他類型繞道手術後的四肢動脈粥樣硬化合併間歇性跛行
+1007,I70711,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, right leg",右腳其他類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+1008,I70712,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, left leg",左腳其他類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+1009,I70713,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, bilateral legs",雙腳其他類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+1010,I70718,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, other extremity",其他側性肢體其他類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+1011,I70719,"Atherosclerosis of other type of bypass graft(s) of the extremities with intermittent claudication, unspecified extremity",未特定側性肢體其他類型繞道手術後之動脈粥樣硬化伴有間歇性跛行
+1012,I7072,Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain,其他類型繞道手術後的四肢動脈粥樣硬化合併靜止時疼痛
+1013,I70721,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, right leg",右腳其他類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+1014,I70722,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, left leg",左腳其他類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+1015,I70723,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, bilateral legs",雙腳其他類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+1016,I70728,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, other extremity",其他側性肢體其他類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+1017,I70729,"Atherosclerosis of other type of bypass graft(s) of the extremities with rest pain, unspecified extremity",未特定側性肢體其他類型繞道手術後之動脈粥樣硬化伴有靜止時疼痛
+1018,I7073,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration,右側腿其他類型繞道手術後的動脈粥樣硬化合併潰瘍
+1019,I70731,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of thigh,右腳其他類型繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+1020,I70732,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of calf,右腳其他類型繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+1021,I70733,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of ankle,右腳其他類型繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+1022,I70734,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of heel and midfoot,右腳其他類型繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+1023,I70735,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of foot,右腳其他類型繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+1024,I70738,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of other part of lower leg,右腳其他類型繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+1025,I70739,Atherosclerosis of other type of bypass graft(s) of the right leg with ulceration of unspecified site,右腳其他類型繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+1026,I7074,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration,左側腿其他類型繞道手術後的動脈粥樣硬化合併潰瘍
+1027,I70741,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of thigh,左腳其他類型繞道手術後之動脈粥樣硬化伴有大腿潰瘍
+1028,I70742,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of calf,左腳其他類型繞道手術後之動脈粥樣硬化伴有小腿潰瘍
+1029,I70743,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of ankle,左腳其他類型繞道手術後之動脈粥樣硬化伴有腳踝潰瘍
+1030,I70744,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of heel and midfoot,左腳其他類型繞道手術後之動脈粥樣硬化伴有腳跟和足弓潰瘍
+1031,I70745,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of foot,左腳其他類型繞道手術後之動脈粥樣硬化伴有腳部其他部位潰瘍
+1032,I70748,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of other part of lower leg,左腳其他類型繞道手術後之動脈粥樣硬化伴有小腿其他部位潰瘍
+1033,I70749,Atherosclerosis of other type of bypass graft(s) of the left leg with ulceration of unspecified site,左腳其他類型繞道手術後之動脈粥樣硬化伴有未特定部位潰瘍
+1034,I7075,Atherosclerosis of other type of bypass graft(s) of other extremity with ulceration,其他肢體其他類型繞道手術後之動脈粥樣硬化伴有潰瘍
+1035,I7076,Atherosclerosis of other type of bypass graft(s) of the extremities with gangree,其他類型繞道手術後的四肢動脈粥樣硬化合併壞疽
+1036,I70761,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, right leg",右腳其他類型繞道手術後之動脈粥樣硬化伴有壞疽
+1037,I70762,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, left leg",左腳其他類型繞道手術後之動脈粥樣硬化伴有壞疽
+1038,I70763,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, bilateral legs",雙腳其他類型繞道手術後之動脈粥樣硬化伴有壞疽
+1039,I70768,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, other extremity",其他側性肢體其他類型繞道手術後之動脈粥樣硬化伴有壞疽
+1040,I70769,"Atherosclerosis of other type of bypass graft(s) of the extremities with gangrene, unspecified extremity",未特定側性肢體其他類型繞道手術後之動脈粥樣硬化伴有壞疽
+1041,I7079,Other atherosclerosis of other type of bypass graft(s) of the extremities,其他類型繞道手術後的其他四肢動脈粥樣硬化
+1042,I70791,"Other atherosclerosis of other type of bypass graft(s) of the extremities, right leg",右腳其他類型繞道手術後之其他動脈粥樣硬化
+1043,I70792,"Other atherosclerosis of other type of bypass graft(s) of the extremities, left leg",左腳其他類型繞道手術後之其他動脈粥樣硬化
+1044,I70793,"Other atherosclerosis of other type of bypass graft(s) of the extremities, bilateral legs",雙腳其他類型繞道手術後之其他動脈粥樣硬化
+1045,I70798,"Other atherosclerosis of other type of bypass graft(s) of the extremities, other extremity",其他側性肢體其他類型繞道手術後之其他動脈粥樣硬化
+1046,I70799,"Other atherosclerosis of other type of bypass graft(s) of the extremities, unspecified extremity",未特定側性肢體其他類型繞道手術後之其他動脈粥樣硬化
+1047,I708,Atherosclerosis of other arteries,其他動脈之粥樣硬化
+1048,I709,Other and unspecified atherosclerosis,其他和未特定動脈粥樣硬化
+1049,I7090,Unspecified atherosclerosis,未特定之動脈粥樣硬化
+1050,I7091,Generalized atherosclerosis,全身的動脈粥樣硬化
+1051,I7092,Chronic total occlusion of artery of the extremities,四肢動脈慢性完全阻塞
+1052,I71,Aortic aneurysm dissection,主動脈瘤剝離
+1053,I710,Dissection of aorta,主動脈剝離
+1054,I7100,Dissection of unspecified site of aorta,未特定部位之主動脈瘤剝離
+1055,I7101,Dissection of thoracic aorta,胸主動脈瘤剝離
+1056,I7102,Dissection of abdominal aorta,腹主動脈瘤剝離
+1057,I7103,Dissection of thoracoabdominal aorta,胸腹主動脈瘤剝離
+1058,I711,"Thoracic aortic aneurysm, ruptured",胸主動脈瘤，已破裂
+1059,I712,"Thoracic aortic aneurysm, without rupture",胸主動脈瘤，未伴有破裂
+1060,I713,"Abdominal aortic aneurysm, ruptured",腹主動脈瘤，已破裂
+1061,I714,"Abdominal aortic aneurysm, without rupture",腹主動脈瘤，未伴有破裂
+1062,I715,"Thoracoabdominal aortic aneurysm, ruptured",胸腹主動脈瘤，已破裂
+1063,I716,"Thoracoabdominal aortic aneurysm, without rupture",胸腹主動脈瘤，未伴有破裂
+1064,I718,"Aortic aneurysm of unspecified site, ruptured",未特定部位之主動脈瘤，已破裂
+1065,I719,"Aortic aneurysm of unspecified site, without rupture",未特定部位之主動脈瘤，未伴有破裂
+1066,I72,Other aneurysm,其他動脈瘤
+1067,I720,"Aneurysm of carotid artery (common) (external) (internal, extracranial portion)",頸動脈瘤
+1068,I721,Aneurysm of artery of upper extremity,上肢動脈瘤
+1069,I722,Aneurysm of renal artery,腎動脈瘤
+1070,I723,Aneurysm of iliac artery,髂動脈瘤
+1071,I724,Aneurysm of artery of lower extremity,下肢動脈瘤
+1072,I728,Aneurysm of other specified arteries,鎖骨下動脈瘤
+1073,I729,Aneurysm of unspecified site,未特定部位動脈瘤
+1074,I73,Other peripheral vascular diseases,其他末梢血管疾病
+1075,I730,Raynaud's syndrome,Raynaud氏徵候群
+1076,I7300,Raynaud's syndrome without gangrene,Raynaud氏徵候群未伴有壞疽
+1077,I7301,Raynaud's syndrome with gangrene,Raynaud氏徵候群伴有壞疽
+1078,I731,Thromboangiitis obliterans [Buerger's disease],血栓閉塞性血管炎(Buerger’s病)
+1079,I738,Other specified peripheral vascular diseases,其他特定性末梢血管疾病
+1080,I7381,Erythromelalgia,紅斑性肢痛症
+1081,I7389,Other specified peripheral vascular diseases,其他特定之末梢血管疾病
+1082,I739,"Peripheral vascular disease, unspecified",末梢血管疾病，未特定
+1083,I74,Arterial embolism and thrombosis,動脈栓塞及血栓症
+1084,I740,Embolism and thrombosis of abdominal aorta,腹部主動脈栓塞及血栓症
+1085,I741,Embolism and thrombosis of other and unspecified parts of aorta,其他和未特定性之主動脈栓塞及血栓症
+1086,I7410,Embolism and thrombosis of unspecified parts of aorta,未特定主動脈栓塞及血栓症
+1087,I7411,Embolism and thrombosis of thoracic aorta,胸主動脈栓塞及血栓症
+1088,I7419,Embolism and thrombosis of other parts of aorta,其他主動脈栓塞及血栓症
+1089,I742,Embolism and thrombosis of arteries of the upper extremities,上肢動脈栓塞及血栓症
+1090,I743,Embolism and thrombosis of arteries of the lower extremities,下肢動脈栓塞及血栓症
+1091,I744,"Embolism and thrombosis of arteries of extremities, unspecified",動脈栓塞及血栓症，未特定
+1092,I745,Embolism and thrombosis of iliac artery,髂動脈栓塞及血栓症
+1093,I748,Embolism and thrombosis of other arteries,其他特定動脈之栓塞及血栓症
+1094,I749,Embolism and thrombosis of unspecified artery,未特定動脈栓塞及血栓症
+1095,I75,Atheroembolism,動脈粥狀硬化栓塞
+1096,I750,Atheroembolism of extremities,四肢動脈粥狀硬化栓塞
+1097,I7501,Atheroembolism of upper extremity,上肢動脈粥狀硬化栓塞
+1098,I75011,Atheroembolism of right upper extremity,右上肢動脈粥狀硬化栓塞
+1099,I75012,Atheroembolism of left upper extremity,左上肢動脈粥狀硬化栓塞
+1100,I75013,Atheroembolism of bilateral upper extremities,兩側上肢動脈粥狀硬化栓塞
+1101,I75019,Atheroembolism of unspecified upper extremity,未特定上肢動脈粥樣栓塞
+1102,I7502,Atheroembolism of lower extremity,下肢動脈粥狀硬化栓塞
+1103,I75021,Atheroembolism of right lower extremity,右下肢動脈粥狀硬化栓塞
+1104,I75022,Atheroembolism of left lower extremity,左下肢動脈粥狀硬化栓塞
+1105,I75023,Atheroembolism of bilateral lower extremities,兩側下肢動脈粥狀硬化栓塞
+1106,I75029,Atheroembolism of unspecified lower extremity,未特定下肢動脈粥樣栓塞
+1107,I758,Atheroembolism of other sites,其他特定之動脈粥狀硬化栓塞
+1108,I7581,Atheroembolism of kidney,腎動脈粥樣栓塞
+1109,I7589,Atheroembolism of other site,其他特定之動脈粥樣栓塞
+1110,I76,Septic arterial embolism,敗血性動脈栓塞
+1111,I77,Other disorders of arteries and arterioles,其他特定之動脈及小動脈疾患
+1112,I770,"Arteriovenous fistula, acquired",後天性動靜脈瘻管
+1113,I771,Stricture of artery,動脈狹窄
+1114,I772,Rupture of artery,動脈破裂
+1115,I773,Arterial fibromuscular dysplasia,腎動脈肌肉纖維發育不良
+1116,I774,Celiac artery compression syndrome,腹腔動脈受壓徵候群
+1117,I775,Necrosis of artery,動脈壞死
+1118,I776,"Arteritis, unspecified",動脈炎，未特定
+1119,I777,Other arterial dissection,其他特定之動脈剝離
+1120,I7771,Dissection of carotid artery,頸動脈剝離
+1121,I7772,Dissection of iliac artery,髂動脈剝離
+1122,I7773,Dissection of renal artery,腎動脈剝離
+1123,I7774,Dissection of vertebral artery,椎動脈剝離
+1124,I7779,Dissection of other artery,其他特定之動脈剝離
+1125,I778,Other specified disorders of arteries and arterioles,其他特定之動脈及小動脈疾患
+1126,I779,"Disorder of arteries and arterioles, unspecified",動脈及小動脈疾患，未特定
+1127,I78,Diseases of capillaries,其他毛細血管疾病
+1128,I780,Hereditary hemorrhagic telangiectasia,遺傳出血性毛細血管擴張症
+1129,I781,"Nevus, non-neoplastic",痣，非贅瘤性
+1130,I788,Other diseases of capillaries,其他毛細血管疾病
+1131,I789,"Disease of capillaries, unspecified",其他毛細血管疾病，未特定
+1132,I79,"Disorders of arteries, arterioles and capillaries in diseases classified elsewhere",其他疾患引起之動脈小動脈及毛細血管血管病變
+1133,I790,Aneurysm of aorta in diseases classified elsewhere,歸類於他處疾病所致之主動脈瘤
+1134,I791,Aortitis in diseases classified elsewhere,歸類於他處疾病所致之大動脈炎
+1135,I798,"Other disorders of arteries, arterioles and capillaries in diseases classified elsewhere",歸類於他處疾患所致之動脈小動脈及毛細血管血管病變
+1136,I80,Phlebitis and thrombophlebitis,靜脈炎及血栓靜脈炎
+1137,I800,Phlebitis and thrombophlebitis of superficial vessels of lower extremities,下肢表淺性血管靜脈炎及血栓靜脈炎
+1138,I8000,Phlebitis and thrombophlebitis of superficial vessels of unspecified lower extremity,未特定下肢表面血管靜脈炎及血栓靜脈炎
+1139,I8001,Phlebitis and thrombophlebitis of superficial vessels of right lower extremity,右側下肢表面血管靜脈炎及血栓靜脈炎
+1140,I8002,Phlebitis and thrombophlebitis of superficial vessels of left lower extremity,左側下肢表面血管靜脈炎及血栓靜脈炎
+1141,I8003,"Phlebitis and thrombophlebitis of superficial vessels of lower extremities, bilateral",雙側下肢表面血管靜脈炎及血栓靜脈炎
+1142,I801,Phlebitis and thrombophlebitis of femoral vein,股靜脈炎及血栓靜脈炎
+1143,I8010,Phlebitis and thrombophlebitis of unspecified femoral vein,未特定側性股（深部）（淺部）靜脈炎及血栓靜脈炎
+1144,I8011,Phlebitis and thrombophlebitis of right femoral vein,右側股（深部）（淺部）靜脈炎及血栓靜脈炎
+1145,I8012,Phlebitis and thrombophlebitis of left femoral vein,左側股（深部）（淺部）靜脈炎及血栓靜脈炎
+1146,I8013,"Phlebitis and thrombophlebitis of femoral vein, bilateral",雙側股（深部）（淺部）靜脈炎及血栓靜脈炎
+1147,I802,Phlebitis and thrombophlebitis of other and unspecified deep vessels of lower extremities,其他和未特定下肢深部血管靜脈炎及血栓靜脈炎
+1148,I8020,Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities,未明示下肢深部血管靜脈炎及血栓靜脈炎
+1149,I80201,Phlebitis and thrombophlebitis of unspecified deep vessels of right lower extremity,右側下肢未特定深部血管靜脈炎及血栓靜脈炎
+1150,I80202,Phlebitis and thrombophlebitis of unspecified deep vessels of left lower extremity,左側下肢未特定深部血管靜脈炎及血栓靜脈炎
+1151,I80203,"Phlebitis and thrombophlebitis of unspecified deep vessels of lower extremities, bilateral",雙側下肢未特定深部血管靜脈炎及血栓靜脈炎
+1152,I80209,Phlebitis and thrombophlebitis of unspecified deep vessels of unspecified lower extremity,未特定側性下肢未特定深部血管靜脈炎及血栓靜脈炎
+1153,I8021,Phlebitis and thrombophlebitis of iliac vein,髂靜脈炎及血栓靜脈炎
+1154,I80211,Phlebitis and thrombophlebitis of right iliac vein,右側髂靜脈炎及血栓靜脈炎
+1155,I80212,Phlebitis and thrombophlebitis of left iliac vein,左側髂靜脈炎及血栓靜脈炎
+1156,I80213,"Phlebitis and thrombophlebitis of iliac vein, bilateral",雙側髂靜脈炎及血栓靜脈炎
+1157,I80219,Phlebitis and thrombophlebitis of unspecified iliac vein,未特定側性髂靜脈炎及血栓靜脈炎
+1158,I8022,Phlebitis and thrombophlebitis of popliteal vein,膕靜脈炎及血栓靜脈炎
+1159,I80221,Phlebitis and thrombophlebitis of right popliteal vein,右側膕靜脈炎及血栓靜脈炎
+1160,I80222,Phlebitis and thrombophlebitis of left popliteal vein,左側膕靜脈炎及血栓靜脈炎
+1161,I80223,"Phlebitis and thrombophlebitis of popliteal vein, bilateral",雙側膕靜脈炎及血栓靜脈炎
+1162,I80229,Phlebitis and thrombophlebitis of unspecified popliteal vein,未特定側性膕靜脈炎及血栓靜脈炎
+1163,I8023,Phlebitis and thrombophlebitis of tibial vein,脛靜脈炎及血栓靜脈炎
+1164,I80231,Phlebitis and thrombophlebitis of right tibial vein,右側脛靜脈炎及血栓靜脈炎
+1165,I80232,Phlebitis and thrombophlebitis of left tibial vein,左側脛靜脈炎及血栓靜脈炎
+1166,I80233,"Phlebitis and thrombophlebitis of tibial vein, bilateral",雙側脛靜脈炎及血栓靜脈炎
+1167,I80239,Phlebitis and thrombophlebitis of unspecified tibial vein,未特定側性脛靜脈炎及血栓靜脈炎
+1168,I8029,Phlebitis and thrombophlebitis of other deep vessels of lower extremities,其他下肢深部血管靜脈炎及血栓靜脈炎
+1169,I80291,Phlebitis and thrombophlebitis of other deep vessels of right lower extremity,右側下肢其他深部血管靜脈炎及血栓靜脈炎
+1170,I80292,Phlebitis and thrombophlebitis of other deep vessels of left lower extremity,左側下肢其他深部血管靜脈炎及血栓靜脈炎
+1171,I80293,"Phlebitis and thrombophlebitis of other deep vessels of lower extremity, bilateral",雙側下肢其他深部血管靜脈炎及血栓靜脈炎
+1172,I80299,Phlebitis and thrombophlebitis of other deep vessels of unspecified lower extremity,未特定側性下肢其他深部血管靜脈炎及血栓靜脈炎
+1173,I803,"Phlebitis and thrombophlebitis of lower extremities, unspecified",下肢靜脈炎及血栓靜脈炎，未特定
+1174,I808,Phlebitis and thrombophlebitis of other sites,其他部位靜脈炎及血栓靜脈炎
+1175,I809,Phlebitis and thrombophlebitis of unspecified site,未特定部位靜脈炎及血栓靜脈炎
+1176,I81,Portal vein thrombosis,門靜脈血栓形成
+1177,I82,Other venous embolism and thrombosis,其他靜脈栓塞及血栓
+1178,I820,Budd-Chiari syndrome,Budd-Chiari症候群
+1179,I821,Thrombophlebitis migrans,游走性血栓靜脈炎
+1180,I822,Embolism and thrombosis of vena cava and other thoracic veins,上下腔靜脈及其他胸靜脈栓塞及血栓
+1181,I8221,Embolism and thrombosis of superior vena cava,上腔靜脈栓塞及血栓
+1182,I82210,Acute embolism and thrombosis of superior vena cava,上腔靜脈急性栓塞及血栓
+1183,I82211,Chronic embolism and thrombosis of superior vena cava,上腔靜脈慢性栓塞及血栓
+1184,I8222,Embolism and thrombosis of inferior vena cava,下腔靜脈栓塞及血栓
+1185,I82220,Acute embolism and thrombosis of inferior vena cava,急性下腔靜脈栓塞及血栓
+1186,I82221,Chronic embolism and thrombosis of inferior vena cava,慢性下腔靜脈栓塞及血栓
+1187,I8229,Embolism and thrombosis of other thoracic veins,其他胸靜脈栓塞及血栓
+1188,I82290,Acute embolism and thrombosis of other thoracic veins,其他胸靜脈急性栓塞及血栓
+1189,I82291,Chronic embolism and thrombosis of other thoracic veins,其他胸靜脈慢性栓塞及血栓
+1190,I823,Embolism and thrombosis of renal vein,腎靜脈栓塞及血栓
+1191,I824,Acute embolism and thrombosis of deep veins of lower extremity,下肢深部靜脈急性栓塞及血栓
+1192,I8240,Acute embolism and thrombosis of unspecified deep veins of lower extremity,未特定下肢深靜脈急性栓塞及血栓
+1193,I8241,Acute embolism and thrombosis of femoral vein,股靜脈急性栓塞及血栓
+1194,I82411,Acute embolism and thrombosis of right femoral vein,右側股靜脈急性栓塞及血栓
+1195,I82412,Acute embolism and thrombosis of left femoral vein,左側股靜脈急性栓塞及血栓
+1196,I82413,"Acute embolism and thrombosis of femoral vein, bilateral",雙側股靜脈急性栓塞及血栓
+1197,I82419,Acute embolism and thrombosis of unspecified femoral vein,未特定股靜脈急性栓塞及血栓
+1198,I8242,Acute embolism and thrombosis of iliac vein,髂靜脈急性栓塞及血栓
+1199,I82421,Acute embolism and thrombosis of right iliac vein,右側髂靜脈急性栓塞及血栓
+1200,I82422,Acute embolism and thrombosis of left iliac vein,左側髂靜脈急性栓塞及血栓
+1201,I82423,"Acute embolism and thrombosis of iliac vein, bilateral",雙側髂靜脈急性栓塞及血栓
+1202,I82429,Acute embolism and thrombosis of unspecified iliac vein,未特定側性髂靜脈急性栓塞及血栓
+1203,I8243,Acute embolism and thrombosis of popliteal vein,膕靜脈急性栓塞及血栓
+1204,I82431,Acute embolism and thrombosis of right popliteal vein,右側膕靜脈急性栓塞及血栓
+1205,I82432,Acute embolism and thrombosis of left popliteal vein,左側膕靜脈急性栓塞及血栓
+1206,I82433,"Acute embolism and thrombosis of popliteal vein, bilateral",雙側膕靜脈急性栓塞及血栓
+1207,I82439,Acute embolism and thrombosis of unspecified popliteal vein,未特定側性膕靜脈急性栓塞及血栓
+1208,I8244,Acute embolism and thrombosis of tibial vein,脛靜脈急性栓塞及血栓
+1209,I82441,Acute embolism and thrombosis of right tibial vein,右側脛靜脈急性栓塞及血栓
+1210,I82442,Acute embolism and thrombosis of left tibial vein,左側脛靜脈急性栓塞及血栓
+1211,I82443,"Acute embolism and thrombosis of tibial vein, bilateral",雙側脛靜脈急性栓塞及血栓
+1212,I82449,Acute embolism and thrombosis of unspecified tibial vein,未特定側性脛靜脈急性栓塞及血栓
+1213,I8249,Acute embolism and thrombosis of other deep vein of lower extremity,其他下肢深部靜脈急性栓塞及血栓
+1214,I82491,Acute embolism and thrombosis of other deep vein of right lower extremity,右側下肢其他深部靜脈急性栓塞及血栓
+1215,I82492,Acute embolism and thrombosis of other deep vein of left lower extremity,左側下肢其他深部靜脈急性栓塞及血栓
+1216,I82493,"Acute embolism and thrombosis of other deep vein of lower extremity, bilateral",雙側下肢其他深部靜脈急性栓塞及血栓
+1217,I82499,Acute embolism and thrombosis of other deep vein of unspecified lower extremity,未特定側性下肢其他深部靜脈急性栓塞及血栓
+1218,I825,Chronic embolism and thrombosis of deep veins of lower extremity,下肢深靜脈慢性栓塞及血栓
+1219,I8250,Chronic embolism and thrombosis of unspecified deep veins of lower extremity,下肢未特定深部靜脈慢性栓塞及血栓
+1220,I8251,Chronic embolism and thrombosis of femoral vein,股靜脈慢性栓塞及血栓
+1221,I82511,Chronic embolism and thrombosis of right femoral vein,右側股靜脈慢性栓塞及血栓
+1222,I82512,Chronic embolism and thrombosis of left femoral vein,左側股靜脈慢性栓塞及血栓
+1223,I82513,"Chronic embolism and thrombosis of femoral vein, bilateral",雙側股靜脈慢性栓塞及血栓
+1224,I82519,Chronic embolism and thrombosis of unspecified femoral vein,未特定側性股靜脈慢性栓塞及血栓
+1225,I8252,Chronic embolism and thrombosis of iliac vein,髂靜脈慢性栓塞及血栓
+1226,I82521,Chronic embolism and thrombosis of right iliac vein,右側髂靜脈慢性栓塞及血栓
+1227,I82522,Chronic embolism and thrombosis of left iliac vein,左側髂靜脈慢性栓塞及血栓
+1228,I82523,"Chronic embolism and thrombosis of iliac vein, bilateral",雙側髂靜脈慢性栓塞及血栓
+1229,I82529,Chronic embolism and thrombosis of unspecified iliac vein,未特定側性髂靜脈慢性栓塞及血栓
+1230,I8253,Chronic embolism and thrombosis of popliteal vein,膕靜脈慢性栓塞及血栓
+1231,I82531,Chronic embolism and thrombosis of right popliteal vein,右側膕靜脈慢性栓塞及血栓
+1232,I82532,Chronic embolism and thrombosis of left popliteal vein,左側膕靜脈慢性栓塞及血栓
+1233,I82533,"Chronic embolism and thrombosis of popliteal vein, bilateral",雙側膕靜脈慢性栓塞及血栓
+1234,I82539,Chronic embolism and thrombosis of unspecified popliteal vein,未特定側性膕靜脈慢性栓塞及血栓
+1235,I8254,Chronic embolism and thrombosis of tibial vein,脛靜脈慢性栓塞及血栓
+1236,I82541,Chronic embolism and thrombosis of right tibial vein,右側脛靜脈慢性栓塞及血栓
+1237,I82542,Chronic embolism and thrombosis of left tibial vein,左側脛靜脈慢性栓塞及血栓
+1238,I82543,"Chronic embolism and thrombosis of tibial vein, bilateral",雙側脛靜脈慢性栓塞及血栓
+1239,I82549,Chronic embolism and thrombosis of unspecified tibial vein,未特定側性脛靜脈慢性栓塞及血栓
+1240,I8259,Chronic embolism and thrombosis of other deep vein of lower extremity,其他下肢深部靜脈慢性栓塞及血栓
+1241,I82591,Chronic embolism and thrombosis of other deep vein of right lower extremity,右側下肢其他深部靜脈慢性栓塞及血栓
+1242,I82592,Chronic embolism and thrombosis of other deep vein of left lower extremity,左側下肢其他深部靜脈慢性栓塞及血栓
+1243,I82593,"Chronic embolism and thrombosis of other deep vein of lower extremity, bilateral",雙側下肢其他深部靜脈慢性栓塞及血栓
+1244,I82599,Chronic embolism and thrombosis of other deep vein of unspecified lower extremity,未特定側性下肢其他深部靜脈慢性栓塞及血栓
+1245,I826,Acute embolism and thrombosis of veins of upper extremity,上肢靜脈急性栓塞及血栓
+1246,I8260,Acute embolism and thrombosis of unspecified veins of upper extremity,未特定上肢靜脈急性栓塞及血栓
+1247,I82601,Acute embolism and thrombosis of unspecified veins of right upper extremity,右側上肢未特定深部靜脈急性栓塞及血栓
+1248,I82602,Acute embolism and thrombosis of unspecified veins of left upper extremity,左側上肢未特定深部靜脈急性栓塞及血栓
+1249,I82603,"Acute embolism and thrombosis of unspecified veins of upper extremity, bilateral",雙側上肢未特定深部靜脈急性栓塞及血栓
+1250,I82609,Acute embolism and thrombosis of unspecified veins of unspecified upper extremity,未特定側性上肢未特定深部靜脈急性栓塞及血栓
+1251,I8261,Acute embolism and thrombosis of superficial veins of upper extremity,上肢表淺靜脈急性栓塞及血栓
+1252,I82611,Acute embolism and thrombosis of superficial veins of right upper extremity,右側上肢表淺靜脈急性栓塞及血栓
+1253,I82612,Acute embolism and thrombosis of superficial veins of left upper extremity,左側上肢表淺靜脈急性栓塞及血栓
+1254,I82613,"Acute embolism and thrombosis of superficial veins of upper extremity, bilateral",雙側上肢表淺靜脈急性栓塞及血栓
+1255,I82619,Acute embolism and thrombosis of superficial veins of unspecified upper extremity,未特定側性上肢表淺靜脈急性栓塞及血栓
+1256,I8262,Acute embolism and thrombosis of deep veins of upper extremity,上肢深部靜脈急性栓塞及血栓
+1257,I82621,Acute embolism and thrombosis of deep veins of right upper extremity,右側上肢深部靜脈急性栓塞及血栓
+1258,I82622,Acute embolism and thrombosis of deep veins of left upper extremity,左側上肢深部靜脈急性栓塞及血栓
+1259,I82623,"Acute embolism and thrombosis of deep veins of upper extremity, bilateral",雙側上肢深部靜脈急性栓塞及血栓
+1260,I82629,Acute embolism and thrombosis of deep veins of unspecified upper extremity,未特定側性上肢深部靜脈急性栓塞及血栓
+1261,I827,Chronic embolism and thrombosis of veins of upper extremity,上肢靜脈慢性栓塞及血栓
+1262,I8270,Chronic embolism and thrombosis of unspecified veins of upper extremity,未特定上肢靜脈慢性栓塞及血栓
+1263,I82701,Chronic embolism and thrombosis of unspecified veins of right upper extremity,右側上肢未特定靜脈慢性栓塞及血栓
+1264,I82702,Chronic embolism and thrombosis of unspecified veins of left upper extremity,左側上肢未特定靜脈慢性栓塞及血栓
+1265,I82703,"Chronic embolism and thrombosis of unspecified veins of upper extremity, bilateral",雙側上肢未特定靜脈慢性栓塞及血栓
+1266,I82709,Chronic embolism and thrombosis of unspecified veins of unspecified upper extremity,未特定側性上肢未特定靜脈慢性栓塞及血栓
+1267,I8271,Chronic embolism and thrombosis of superficial veins of upper extremity,上肢表淺靜脈慢性栓塞及血栓
+1268,I82711,Chronic embolism and thrombosis of superficial veins of right upper extremity,右側上肢表淺靜脈慢性栓塞及血栓
+1269,I82712,Chronic embolism and thrombosis of superficial veins of left upper extremity,左側上肢表淺靜脈慢性栓塞及血栓
+1270,I82713,"Chronic embolism and thrombosis of superficial veins of upper extremity, bilateral",雙側上肢表淺靜脈慢性栓塞及血栓
+1271,I82719,Chronic embolism and thrombosis of superficial veins of unspecified upper extremity,未特定側性上肢表淺靜脈慢性栓塞及血栓
+1272,I8272,Chronic embolism and thrombosis of deep veins of upper extremity,上肢深部靜脈慢性栓塞及血栓
+1273,I82721,Chronic embolism and thrombosis of deep veins of right upper extremity,右側上肢深部靜脈慢性栓塞及血栓
+1274,I82722,Chronic embolism and thrombosis of deep veins of left upper extremity,左側上肢深部靜脈慢性栓塞及血栓
+1275,I82723,"Chronic embolism and thrombosis of deep veins of upper extremity, bilateral",雙側上肢深部靜脈慢性栓塞及血栓
+1276,I82729,Chronic embolism and thrombosis of deep veins of unspecified upper extremity,未特定側性上肢深部靜脈慢性栓塞及血栓
+1277,I828,Embolism and thrombosis of other specified veins,其他特定靜脈栓塞及血栓
+1278,I8281,Embolism and thrombosis of superficial veins of lower extremities,下肢表淺靜脈栓塞及血栓
+1279,I82811,Embolism and thrombosis of superficial veins of right lower extremities,右側上肢表淺靜脈栓塞及血栓
+1280,I82812,Embolism and thrombosis of superficial veins of left lower extremities,左側上肢表淺靜脈栓塞及血栓
+1281,I82813,"Embolism and thrombosis of superficial veins of lower extremities, bilateral",雙側上肢表淺靜脈栓塞及血栓
+1282,I82819,Embolism and thrombosis of superficial veins of unspecified lower extremities,未特定側性上肢表淺靜脈栓塞及血栓
+1283,I8289,Embolism and thrombosis of other specified veins,其他特定靜脈栓塞及血栓
+1284,I82890,Acute embolism and thrombosis of other specified veins,其他特定靜脈部位急性栓塞及血栓
+1285,I82891,Chronic embolism and thrombosis of other specified veins,其他特定靜脈部位慢性栓塞及血栓
+1286,I829,Embolism and thrombosis of unspecified vein,未特定靜脈栓塞及血栓
+1287,I8290,Acute embolism and thrombosis of unspecified vein,未特定靜脈部位急性栓塞及血栓
+1288,I8291,Chronic embolism and thrombosis of unspecified vein,未特定靜脈部位慢性栓塞及血栓
+1289,I82a,Embolism and thrombosis of axillary vein,腋靜脈栓塞及血栓
+1290,I82a1,Acute embolism and thrombosis of axillary vein,腋靜脈急性栓塞及血栓
+1291,I82a11,Acute embolism and thrombosis of right axillary vein,右側腋靜脈急性栓塞及血栓
+1292,I82a12,Acute embolism and thrombosis of left axillary vein,左側腋靜脈急性栓塞及血栓
+1293,I82a13,"Acute embolism and thrombosis of axillary vein, bilateral",雙側腋靜脈急性栓塞及血栓
+1294,I82a19,Acute embolism and thrombosis of unspecified axillary vein,未特定側性腋靜脈急性栓塞及血栓
+1295,I82a2,Chronic embolism and thrombosis of axillary vein,腋靜脈慢性栓塞及血栓
+1296,I82a21,Chronic embolism and thrombosis of right axillary vein,右側腋靜脈慢性栓塞及血栓
+1297,I82a22,Chronic embolism and thrombosis of left axillary vein,左側腋靜脈慢性栓塞及血栓
+1298,I82a23,"Chronic embolism and thrombosis of axillary vein, bilateral",雙側腋靜脈慢性栓塞及血栓
+1299,I82a29,Chronic embolism and thrombosis of unspecified axillary vein,未特定側性腋靜脈慢性栓塞及血栓
+1300,I82b,Embolism and thrombosis of subclavian vein,鎖骨下靜脈栓塞及血栓
+1301,I82b1,Acute embolism and thrombosis of subclavian vein,鎖骨下靜脈急性栓塞及血栓
+1302,I82b11,Acute embolism and thrombosis of right subclavian vein,右側鎖骨下靜脈急性栓塞及血栓
+1303,I82b12,Acute embolism and thrombosis of left subclavian vein,左側鎖骨下靜脈急性栓塞及血栓
+1304,I82b13,"Acute embolism and thrombosis of subclavian vein, bilateral",雙側鎖骨下靜脈急性栓塞及血栓
+1305,I82b19,Acute embolism and thrombosis of unspecified subclavian vein,未特定側性鎖骨下靜脈急性栓塞及血栓
+1306,I82b2,Chronic embolism and thrombosis of subclavian vein,鎖骨下靜脈慢性栓塞及血栓
+1307,I82b21,Chronic embolism and thrombosis of right subclavian vein,右側鎖骨下靜脈慢性栓塞及血栓
+1308,I82b22,Chronic embolism and thrombosis of left subclavian vein,左側鎖骨下靜脈慢性栓塞及血栓
+1309,I82b23,"Chronic embolism and thrombosis of subclavian vein, bilateral",雙側鎖骨下靜脈慢性栓塞及血栓
+1310,I82b29,Chronic embolism and thrombosis of unspecified subclavian vein,未特定側性鎖骨下靜脈慢性栓塞及血栓
+1311,I82c,Embolism and thrombosis of internal jugular vein,頸內靜脈栓塞及血栓
+1312,I82c1,Acute embolism and thrombosis of internal jugular vein,頸內靜脈急性栓塞及血栓
+1313,I82c11,Acute embolism and thrombosis of right internal jugular vein,右側頸內靜脈急性栓塞及血栓
+1314,I82c12,Acute embolism and thrombosis of left internal jugular vein,左側頸內靜脈急性栓塞及血栓
+1315,I82c13,"Acute embolism and thrombosis of internal jugular vein, bilateral",雙側頸內靜脈急性栓塞及血栓
+1316,I82c19,Acute embolism and thrombosis of unspecified internal jugular vein,未特定側性頸內靜脈急性栓塞及血栓
+1317,I82c2,Chronic embolism and thrombosis of internal jugular vein,頸內靜脈慢性栓塞及血栓
+1318,I82c21,Chronic embolism and thrombosis of right internal jugular vein,右側頸內靜脈慢性栓塞及血栓
+1319,I82c22,Chronic embolism and thrombosis of left internal jugular vein,左側頸內靜脈慢性栓塞及血栓
+1320,I82c23,"Chronic embolism and thrombosis of internal jugular vein, bilateral",雙側頸內靜脈慢性栓塞及血栓
+1321,I82c29,Chronic embolism and thrombosis of unspecified internal jugular vein,未特定側性頸內靜脈慢性栓塞及血栓
+1322,I83,Varicose veins of lower extremities,下肢靜脈曲張
+1323,I830,Varicose veins of lower extremities with ulcer,下肢靜脈曲張併潰瘍
+1324,I8300,Varicose veins of unspecified lower extremity with ulcer,未特定下肢靜脈曲張併潰瘍
+1325,I83001,Varicose veins of unspecified lower extremity with ulcer of thigh,未特定側性下肢靜脈曲張伴有大腿潰瘍
+1326,I83002,Varicose veins of unspecified lower extremity with ulcer of calf,未特定側性下肢靜脈曲張伴有小腿潰瘍
+1327,I83003,Varicose veins of unspecified lower extremity with ulcer of ankle,未特定側性下肢靜脈曲張伴有踝部潰瘍
+1328,I83004,Varicose veins of unspecified lower extremity with ulcer of heel and midfoot,未特定側性下肢靜脈曲張伴有腳跟及足中段潰瘍
+1329,I83005,Varicose veins of unspecified lower extremity with ulcer other part of foot,未特定側性下肢靜脈曲張伴有足其他部位潰瘍
+1330,I83008,Varicose veins of unspecified lower extremity with ulcer other part of lower leg,未特定側性下肢靜脈曲張伴有小腿其他部位潰瘍
+1331,I83009,Varicose veins of unspecified lower extremity with ulcer of unspecified site,未特定側性下肢靜脈曲張伴有未特定部位潰瘍
+1332,I8301,Varicose veins of right lower extremity with ulcer,右側下肢靜脈曲張併潰瘍
+1333,I83011,Varicose veins of right lower extremity with ulcer of thigh,右側下肢靜脈曲張伴有大腿潰瘍
+1334,I83012,Varicose veins of right lower extremity with ulcer of calf,右側下肢靜脈曲張伴有小腿潰瘍
+1335,I83013,Varicose veins of right lower extremity with ulcer of ankle,右側下肢靜脈曲張伴有踝部潰瘍
+1336,I83014,Varicose veins of right lower extremity with ulcer of heel and midfoot,右側下肢靜脈曲張伴有腳跟及足中段潰瘍
+1337,I83015,Varicose veins of right lower extremity with ulcer other part of foot,右側下肢靜脈曲張伴有足其他部位潰瘍
+1338,I83018,Varicose veins of right lower extremity with ulcer other part of lower leg,右側下肢靜脈曲張伴有小腿其他部位潰瘍
+1339,I83019,Varicose veins of right lower extremity with ulcer of unspecified site,右側下肢靜脈曲張伴有未特定部位潰瘍
+1340,I8302,Varicose veins of left lower extremity with ulcer,左側下肢靜脈曲張併潰瘍
+1341,I83021,Varicose veins of left lower extremity with ulcer of thigh,左側下肢靜脈曲張伴有大腿潰瘍
+1342,I83022,Varicose veins of left lower extremity with ulcer of calf,左側下肢靜脈曲張伴有小腿潰瘍
+1343,I83023,Varicose veins of left lower extremity with ulcer of ankle,左側下肢靜脈曲張伴有踝部潰瘍
+1344,I83024,Varicose veins of left lower extremity with ulcer of heel and midfoot,左側下肢靜脈曲張伴有腳跟及足中段潰瘍
+1345,I83025,Varicose veins of left lower extremity with ulcer other part of foot,左側下肢靜脈曲張伴有足其他部位潰瘍
+1346,I83028,Varicose veins of left lower extremity with ulcer other part of lower leg,左側下肢靜脈曲張伴有小腿其他部位潰瘍
+1347,I83029,Varicose veins of left lower extremity with ulcer of unspecified site,左側下肢靜脈曲張伴有未特定部位潰瘍
+1348,I831,Varicose veins of lower extremities with inflammation,下肢靜脈曲張併發炎
+1349,I8310,Varicose veins of unspecified lower extremity with inflammation,未特定側性下肢靜脈曲張伴有發炎
+1350,I8311,Varicose veins of right lower extremity with inflammation,右側下肢靜脈曲張伴有發炎
+1351,I8312,Varicose veins of left lower extremity with inflammation,左側下肢靜脈曲張伴有發炎
+1352,I832,Varicose veins of lower extremities with both ulcer and inflammation,下肢靜脈曲張併潰瘍及發炎
+1353,I8320,Varicose veins of unspecified lower extremity with both ulcer and inflammation,未特定下肢靜脈曲張併潰瘍及發炎
+1354,I83201,Varicose veins of unspecified lower extremity with both ulcer of thigh and inflammation,未特定側性下肢靜脈曲張伴有大腿潰瘍及發炎
+1355,I83202,Varicose veins of unspecified lower extremity with both ulcer of calf and inflammation,未特定側性下肢靜脈曲張伴有小腿潰瘍及發炎
+1356,I83203,Varicose veins of unspecified lower extremity with both ulcer of ankle and inflammation,未特定側性下肢靜脈曲張伴有踝部潰瘍及發炎
+1357,I83204,Varicose veins of unspecified lower extremity with both ulcer of heel and midfoot and inflammation,未特定側性下肢靜脈曲張伴有腳跟及足中段潰瘍及發炎
+1358,I83205,Varicose veins of unspecified lower extremity with both ulcer other part of foot and inflammation,未特定側性下肢靜脈曲張伴有足其他部位潰瘍及發炎
+1359,I83208,Varicose veins of unspecified lower extremity with both ulcer of other part of lower extremity and inflammation,未特定側性下肢靜脈曲張伴有下肢其他部位潰瘍及發炎
+1360,I83209,Varicose veins of unspecified lower extremity with both ulcer of unspecified site and inflammation,未特定側性下肢靜脈曲張伴有未特定部位潰瘍及發炎
+1361,I8321,Varicose veins of right lower extremity with both ulcer and inflammation,右側下肢靜脈曲張併發炎
+1362,I83211,Varicose veins of right lower extremity with both ulcer of thigh and inflammation,右側下肢靜脈曲張伴有大腿潰瘍及發炎
+1363,I83212,Varicose veins of right lower extremity with both ulcer of calf and inflammation,右側下肢靜脈曲張伴有小腿潰瘍及發炎
+1364,I83213,Varicose veins of right lower extremity with both ulcer of ankle and inflammation,右側下肢靜脈曲張伴有踝部潰瘍及發炎
+1365,I83214,Varicose veins of right lower extremity with both ulcer of heel and midfoot and inflammation,右側下肢靜脈曲張伴有腳跟及足中段潰瘍及發炎
+1366,I83215,Varicose veins of right lower extremity with both ulcer other part of foot and inflammation,右側下肢靜脈曲張伴有足其他部位潰瘍及發炎
+1367,I83218,Varicose veins of right lower extremity with both ulcer of other part of lower extremity and inflammation,右側下肢靜脈曲張伴有下肢其他部位潰瘍及發炎
+1368,I83219,Varicose veins of right lower extremity with both ulcer of unspecified site and inflammation,右側下肢靜脈曲張伴有未特定部位潰瘍及發炎
+1369,I8322,Varicose veins of left lower extremity with both ulcer and inflammation,左側下肢靜脈曲張併發炎
+1370,I83221,Varicose veins of left lower extremity with both ulcer of thigh and inflammation,左側下肢靜脈曲張伴有大腿潰瘍及發炎
+1371,I83222,Varicose veins of left lower extremity with both ulcer of calf and inflammation,左側下肢靜脈曲張伴有小腿潰瘍及發炎
+1372,I83223,Varicose veins of left lower extremity with both ulcer of ankle and inflammation,左側下肢靜脈曲張伴有踝部潰瘍及發炎
+1373,I83224,Varicose veins of left lower extremity with both ulcer of heel and midfoot and inflammation,左側下肢靜脈曲張伴有腳跟及足中段潰瘍及發炎
+1374,I83225,Varicose veins of left lower extremity with both ulcer other part of foot and inflammation,左側下肢靜脈曲張伴有足其他部位潰瘍及發炎
+1375,I83228,Varicose veins of left lower extremity with both ulcer of other part of lower extremity and inflammation,左側下肢靜脈曲張伴有下肢其他部位潰瘍及發炎
+1376,I83229,Varicose veins of left lower extremity with both ulcer of unspecified site and inflammation,左側下肢靜脈曲張伴有未特定部位潰瘍及發炎
+1377,I838,Varicose veins of lower extremities with other complications,下肢靜脈曲張伴有其他併發症
+1378,I8381,Varicose veins of lower extremities with pain,下肢靜脈曲張伴有疼痛
+1379,I83811,Varicose veins of right lower extremities with pain,右側下肢靜脈曲張伴有疼痛
+1380,I83812,Varicose veins of left lower extremities with pain,左側下肢靜脈曲張伴有疼痛
+1381,I83813,Varicose veins of bilateral lower extremities with pain,雙側下肢靜脈曲張伴有疼痛
+1382,I83819,Varicose veins of unspecified lower extremities with pain,未特定側性下肢靜脈曲張伴有疼痛
+1383,I8389,Varicose veins of lower extremities with other complications,下肢靜脈曲張伴有其他併發症
+1384,I83891,Varicose veins of right lower extremities with other complications,右側下肢靜脈曲張伴有其他併發症
+1385,I83892,Varicose veins of left lower extremities with other complications,左側下肢靜脈曲張伴有其他併發症
+1386,I83893,Varicose veins of bilateral lower extremities with other complications,雙側下肢靜脈曲張伴有其他併發症
+1387,I83899,Varicose veins of unspecified lower extremities with other complications,下肢靜脈曲張伴有其他併發症
+1388,I839,Asymptomatic varicose veins of lower extremities,無症狀的下肢靜脈曲張
+1389,I8390,Asymptomatic varicose veins of unspecified lower extremity,未特定側性下肢無症狀靜脈曲張
+1390,I8391,Asymptomatic varicose veins of right lower extremity,右側下肢無症狀靜脈曲張
+1391,I8392,Asymptomatic varicose veins of left lower extremity,左側下肢無症狀靜脈曲張
+1392,I8393,Asymptomatic varicose veins of bilateral lower extremities,雙側下肢無症狀靜脈曲張
+1393,I84,Hemorrhoids,痔瘡
+1394,I840,Thrombosed hemorrhoids,血栓性痔瘡
+1395,I8400,Unspecified thrombosed hemorrhoids,血栓性痔瘡
+1396,I8401,Internal thrombosed hemorrhoids,血栓性內痔
+1397,I8402,External thrombosed hemorrhoids,血栓性外痔
+1398,I8403,Internal and external thrombosed hemorrhoids,血栓性內痔及外痔
+1399,I841,Hemorrhoids with other complications,痔瘡伴有其他併發症
+1400,I8410,Unspecified hemorrhoids with other complications,未特定痔瘡伴有其他併發症
+1401,I84101,Unspecified bleeding hemorrhoids,出血性痔瘡
+1402,I84102,Unspecified prolapsed hemorrhoids,脫垂性痔瘡
+1403,I84103,Unspecified strangulated hemorrhoids,絞扼性痔瘡
+1404,I84104,Unspecified ulcerated hemorrhoids,潰瘍性痔瘡
+1405,I8411,Internal hemorrhoids with other complications,內痔伴有其他併發症
+1406,I84111,Internal bleeding hemorrhoids,出血性內痔
+1407,I84112,Internal prolapsed hemorrhoids,脫垂性內痔
+1408,I84113,Internal strangulated hemorrhoids,絞扼性內痔
+1409,I84114,Internal ulcerated hemorrhoids,潰瘍性內痔
+1410,I8412,External hemorrhoids with other complications,外痔伴有其他併發症
+1411,I84121,External bleeding hemorrhoids,出血性外痔
+1412,I84122,External prolapsed hemorrhoids,脫垂性外痔
+1413,I84123,External strangulated hemorrhoids,絞扼性外痔
+1414,I84124,External ulcerated hemorrhoids,潰瘍性外痔
+1415,I8413,Internal and external hemorrhoids with other complications,內外痔伴有其他合併症
+1416,I84131,Internal and external bleeding hemorrhoids,出血性內痔及外痔
+1417,I84132,Internal and external prolapsed hemorrhoids,脫垂性內痔及外痔
+1418,I84133,Internal and external strangulated hemorrhoids,絞扼性內痔及外痔
+1419,I84134,Internal and external ulcerated hemorrhoids,潰瘍性內痔及外痔
+1420,I842,Hemorrhoids without complication,痔瘡未提及併發症
+1421,I8420,Unspecified hemorrhoids without complication,痔瘡未伴有併發症
+1422,I8421,Internal hemorrhoids without complication,內痔未伴有併發症
+1423,I8422,External hemorrhoids without complication,外痔未伴有併發症
+1424,I8423,Internal and external hemorrhoids without complication,內痔及外痔未伴有併發症
+1425,I846,Residual hemorrhoidal skin tags,殘餘的痔性皮贅
+1426,I85,Esophageal varices,食道靜脈曲張
+1427,I850,Esophageal varices,食道靜脈曲張
+1428,I8500,Esophageal varices without bleeding,食道靜脈曲張未伴有出血
+1429,I8501,Esophageal varices with bleeding,食道靜脈曲張伴有出血
+1430,I851,Secondary esophageal varices,續發性食道靜脈曲張
+1431,I8510,Secondary esophageal varices without bleeding,續發性食道靜脈曲張未伴有出血
+1432,I8511,Secondary esophageal varices with bleeding,續發性食道靜脈曲張伴有出血
+1433,I86,Varicose veins of other sites,其他部位靜脈曲張
+1434,I860,Sublingual varices,舌下靜脈曲張
+1435,I861,Scrotal varices,陰囊靜脈曲張
+1436,I862,Pelvic varices,骨盆靜脈曲張
+1437,I863,Vulval varices,女陰靜脈曲張
+1438,I864,Gastric varices,胃靜脈曲張
+1439,I868,Varicose veins of other specified sites,其他特定部位靜脈曲張
+1440,I87,Other disorders of veins,靜脈其他疾患
+1441,I870,Postthrombotic syndrome,血栓後徵候群
+1442,I8700,Postthrombotic syndrome without complications,血栓後徵候群未提及併發症
+1443,I87001,Postthrombotic syndrome without complications of right lower extremity,右側下肢血栓後症候群未伴有併發症
+1444,I87002,Postthrombotic syndrome without complications of left lower extremity,左側下肢血栓後症候群未伴有併發症
+1445,I87003,Postthrombotic syndrome without complications of bilateral lower extremity,雙側下肢血栓後症候群未伴有併發症
+1446,I87009,Postthrombotic syndrome without complications of unspecified extremity,未特定側性下肢血栓後症候群未伴有併發症
+1447,I8701,Postthrombotic syndrome with ulcer,血栓後徵候群併潰瘍
+1448,I87011,Postthrombotic syndrome with ulcer of right lower extremity,右側下肢血栓後症候群伴有潰瘍
+1449,I87012,Postthrombotic syndrome with ulcer of left lower extremity,左側下肢血栓後症候群伴有潰瘍
+1450,I87013,Postthrombotic syndrome with ulcer of bilateral lower extremity,雙側下肢血栓後症候群伴有潰瘍
+1451,I87019,Postthrombotic syndrome with ulcer of unspecified lower extremity,未特定側性下肢血栓後症候群伴有潰瘍
+1452,I8702,Postthrombotic syndrome with inflammation,血栓後徵候群併發炎
+1453,I87021,Postthrombotic syndrome with inflammation of right lower extremity,右側下肢血栓後症候群伴有發炎
+1454,I87022,Postthrombotic syndrome with inflammation of left lower extremity,左側下肢血栓後症候群伴有發炎
+1455,I87023,Postthrombotic syndrome with inflammation of bilateral lower extremity,雙側下肢血栓後症候群伴有發炎
+1456,I87029,Postthrombotic syndrome with inflammation of unspecified lower extremity,未特定側性下肢血栓後症候群伴有發炎
+1457,I8703,Postthrombotic syndrome with ulcer and inflammation,血栓後徵候群併潰瘍及發炎
+1458,I87031,Postthrombotic syndrome with ulcer and inflammation of right lower extremity,右側下肢血栓後症候群伴有潰瘍及發炎
+1459,I87032,Postthrombotic syndrome with ulcer and inflammation of left lower extremity,左側下肢血栓後症候群伴有潰瘍及發炎
+1460,I87033,Postthrombotic syndrome with ulcer and inflammation of bilateral lower extremity,雙側下肢血栓後症候群伴有潰瘍及發炎
+1461,I87039,Postthrombotic syndrome with ulcer and inflammation of unspecified lower extremity,未特定側性下肢血栓後症候群伴有潰瘍及發炎
+1462,I8709,Postthrombotic syndrome with other complications,血栓後徵候群伴有其他合併症
+1463,I87091,Postthrombotic syndrome with other complications of right lower extremity,右側下肢血栓後症候群伴有其他併發症
+1464,I87092,Postthrombotic syndrome with other complications of left lower extremity,左側下肢血栓後症候群伴有其他併發症
+1465,I87093,Postthrombotic syndrome with other complications of bilateral lower extremity,雙側下肢血栓後症候群伴有其他併發症
+1466,I87099,Postthrombotic syndrome with other complications of unspecified lower extremity,未特定側性下肢血栓後症候群伴有其他併發症
+1467,I871,Compression of vein,靜脈壓迫
+1468,I872,Venous insufficiency (chronic) (peripheral),靜脈功能不足（慢性）（周邊）
+1469,I873,Chronic venous hypertension (idiopathic),慢性靜脈高血壓（特發性）
+1470,I8730,Chronic venous hypertension (idiopathic) without complications,慢性靜脈高血壓（特發性）未提及併發症
+1471,I87301,Chronic venous hypertension (idiopathic) without complications of right lower extremity,右側下肢慢性靜脈高壓(特發性)未伴有併發症
+1472,I87302,Chronic venous hypertension (idiopathic) without complications of left lower extremity,左側下肢慢性靜脈高壓(特發性)未伴有併發症
+1473,I87303,Chronic venous hypertension (idiopathic) without complications of bilateral lower extremity,雙側下肢慢性靜脈高壓(特發性)未伴有併發症
+1474,I87309,Chronic venous hypertension (idiopathic) without complications of unspecified lower extremity,未特定側性下肢慢性靜脈高壓(特發性)未伴有併發症
+1475,I8731,Chronic venous hypertension (idiopathic) with ulcer,慢性靜脈高血壓（特發性）併潰瘍
+1476,I87311,Chronic venous hypertension (idiopathic) with ulcer of right lower extremity,右側下肢慢性靜脈高壓(特發性)伴有潰瘍
+1477,I87312,Chronic venous hypertension (idiopathic) with ulcer of left lower extremity,左側下肢慢性靜脈高壓(特發性)伴有潰瘍
+1478,I87313,Chronic venous hypertension (idiopathic) with ulcer of bilateral lower extremity,雙側下肢慢性靜脈高壓(特發性)伴有潰瘍
+1479,I87319,Chronic venous hypertension (idiopathic) with ulcer of unspecified lower extremity,未特定側性下肢慢性靜脈高壓(特發性)伴有潰瘍
+1480,I8732,Chronic venous hypertension (idiopathic) with inflammation,慢性靜脈高血壓（特發性）併發炎
+1481,I87321,Chronic venous hypertension (idiopathic) with inflammation of right lower extremity,右側下肢慢性靜脈高壓(特發性)伴有發炎
+1482,I87322,Chronic venous hypertension (idiopathic) with inflammation of left lower extremity,左側下肢慢性靜脈高壓(特發性)伴有發炎
+1483,I87323,Chronic venous hypertension (idiopathic) with inflammation of bilateral lower extremity,雙側下肢慢性靜脈高壓(特發性)伴有發炎
+1484,I87329,Chronic venous hypertension (idiopathic) with inflammation of unspecified lower extremity,未特定側性下肢慢性靜脈高壓(特發性)伴有發炎
+1485,I8733,Chronic venous hypertension (idiopathic) with ulcer and inflammation,慢性靜脈高血壓（特發性）併潰瘍及發炎
+1486,I87331,Chronic venous hypertension (idiopathic) with ulcer and inflammation of right lower extremity,右側下肢慢性靜脈高壓(特發性)伴有潰瘍及發炎
+1487,I87332,Chronic venous hypertension (idiopathic) with ulcer and inflammation of left lower extremity,左側下肢慢性靜脈高壓(特發性)伴有潰瘍及發炎
+1488,I87333,Chronic venous hypertension (idiopathic) with ulcer and inflammation of bilateral lower extremity,雙側下肢慢性靜脈高壓(特發性)伴有潰瘍及發炎
+1489,I87339,Chronic venous hypertension (idiopathic) with ulcer and inflammation of unspecified lower extremity,未特定側性下肢慢性靜脈高壓(特發性)伴有潰瘍及發炎
+1490,I8739,Chronic venous hypertension (idiopathic) with other complications,慢性靜脈高血壓（特發性）伴有其他合併症
+1491,I87391,Chronic venous hypertension (idiopathic) with other complications of right lower extremity,右側下肢慢性靜脈高壓(特發性)伴有其他併發症
+1492,I87392,Chronic venous hypertension (idiopathic) with other complications of left lower extremity,左側下肢慢性靜脈高壓(特發性)伴有其他併發症
+1493,I87393,Chronic venous hypertension (idiopathic) with other complications of bilateral lower extremity,雙側下肢慢性靜脈高壓(特發性)伴有其他併發症
+1494,I87399,Chronic venous hypertension (idiopathic) with other complications of unspecified lower extremity,未特定側性下肢慢性靜脈高壓(特發性)伴有其他併發症
+1495,I878,Other specified disorders of veins,靜脈其他特定疾患
+1496,I879,"Disorder of vein, unspecified",靜脈疾患，未特定
+1497,I88,Nonspecific lymphadenitis,非特異性淋巴結炎
+1498,I880,Nonspecific mesenteric lymphadenitis,未特定性腸系膜淋巴腺炎
+1499,I881,"Chronic lymphadenitis, except mesenteric",腸系膜除外之慢性淋巴腺炎
+1500,I888,Other nonspecific lymphadenitis,其他未特定性淋巴腺炎
+1501,I889,"Nonspecific lymphadenitis, unspecified",淋巴腺炎，未特定
+1502,I89,Other noninfective disorders of lymphatic vessels and lymph nodes,其他非感染性之淋巴管和淋巴結疾患
+1503,I890,"Lymphedema, not elsewhere classified",其他淋巴水腫，他處未歸類者
+1504,I891,Lymphangitis,淋巴管炎
+1505,I898,Other specified noninfective disorders of lymphatic vessels and lymph nodes,其他特定非感染性之淋巴管及淋巴結疾患
+1506,I899,"Noninfective disorder of lymphatic vessels and lymph nodes, unspecified",非感染性之淋巴管及淋巴結疾患，未特定
+1507,I95,Hypotension,低血壓
+1508,I950,Idiopathic hypotension,特發性低血壓
+1509,I951,Orthostatic hypotension,直立性低血壓
+1510,I952,Hypotension due to drugs,藥物所致之低血壓
+1511,I953,Hypotension of hemodialysis,血液透析性低血壓
+1512,I958,Other hypotension,其他特定之低血壓
+1513,I9581,Postprocedural hypotension,處置後低血壓
+1514,I9589,Other hypotension,其他低血壓
+1515,I959,"Hypotension, unspecified",低血壓，未特定
+1516,I96,"Gangrene, not elsewhere classified",壞疽，他處未歸類者
+1517,I97,"Intraoperative and postprocedural complications and disorders of circulatory system, not elsewhere classified",循環系統術中及術後處置之併發症，他處未歸類者
+1518,I970,Postcardiotomy syndrome,心臟切開術後症候群
+1519,I971,Other postprocedural cardiac functional disturbances,其他術後處置併發心臟功能障礙
+1520,I9711,Postprocedural cardiac insufficiency,術後處置併發心臟功能不全
+1521,I97110,Postprocedural cardiac insufficiency following cardiac surgery,心臟手術後之醫療處置後心臟功能不全
+1522,I97111,Postprocedural cardiac insufficiency following other surgery,其他手術後之醫療處置後心臟功能不全
+1523,I9712,Postprocedural cardiac arrest,術後處置併發心臟休止
+1524,I97120,Postprocedural cardiac arrest following cardiac surgery,心臟手術後之醫療處置後心跳停止
+1525,I97121,Postprocedural cardiac arrest following other surgery,其他手術後之醫療處置後心跳停止
+1526,I9713,Postprocedural heart failure,術後處置併發心臟衰竭
+1527,I97130,Postprocedural heart failure following cardiac surgery,心臟手術後之醫療處置後心臟衰竭
+1528,I97131,Postprocedural heart failure following other surgery,其他手術後之醫療處置後心臟衰竭
+1529,I9719,Other postprocedural cardiac functional disturbances,其他術後處置併發心臟功能障礙
+1530,I97190,Other postprocedural cardiac functional disturbances following cardiac surgery,心臟手術後之其他醫療處置後心臟功能障礙
+1531,I97191,Other postprocedural cardiac functional disturbances following other surgery,其他手術後之其他醫療處置後心臟功能障礙
+1532,I972,Postmastectomy lymphedema syndrome,乳房切除後淋巴水腫徵候群
+1533,I973,Postprocedural hypertension,醫療處置後高血壓
+1534,I974,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a procedure,於循環系統的器官或結構之醫療處置術中併發出血及血腫
+1535,I9741,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a circulatory system procedure,於循環系統的器官或結構之循環系統醫療處置術中併發出血及血腫
+1536,I97410,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac catheterization,心導管術後併發循環系統器官或結構之術中出血和血腫
+1537,I97411,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating a cardiac bypass,心臟繞道術併發循環系統器官或結構之術中出血和血腫
+1538,I97418,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other circulatory system procedure,其他循環系統醫療處置併發循環系統器官或結構之術中出血和血腫
+1539,I9742,Intraoperative hemorrhage and hematoma of a circulatory system organ or structure complicating other procedure,其他醫療處置併發循環系統器官或結構之術中出血和血腫
+1540,I975,Accidental puncture and laceration of a circulatory system organ or structure during a procedure,於循環系統的器官或結構之醫療處置中意外刺穿及裂傷
+1541,I9751,Accidental puncture and laceration of a circulatory system organ or structure during a circulatory system procedure,循環系統醫療處置中循環系統器官或結構之意外刺穿及撕裂傷
+1542,I9752,Accidental puncture and laceration of a circulatory system organ or structure during other procedure,其他醫療處置中循環系統器官或結構之意外刺穿及撕裂傷
+1543,I976,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following a procedure,於循環系統的器官或結構之醫療處置術後併發出血及血腫
+1544,I9761,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following a circulatory system procedure,於循環系統的器官或結構之循環系統醫療處置術後併發出血或血腫
+1545,I97610,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following a cardiac catheterization,心導管術後循環系統器官或結構之醫療處置後出血和血腫
+1546,I97611,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following cardiac bypass,心臟繞道術後循環系統器官或結構之醫療處置後出血和血腫
+1547,I97618,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following other circulatory system procedure,其他循環系統醫療處置後循環系統器官或結構之醫療處置後出血和血腫
+1548,I9762,Postprocedural hemorrhage and hematoma of a circulatory system organ or structure following a other procedure,其他醫療處置後循環系統器官或結構之醫療處置後出血和血腫
+1549,I977,Intraoperative cardiac functional disturbances,術中處置之心臟功能障礙
+1550,I9771,Intraoperative cardiac arrest,術中處置之心臟休止
+1551,I97710,Intraoperative cardiac arrest during cardiac surgery,心臟手術時術中心跳停止
+1552,I97711,Intraoperative cardiac arrest during other surgery,其他手術時術中心跳停止
+1553,I9779,Other intraoperative cardiac functional disturbances,其他術中處置併發心臟功能障礙
+1554,I97790,Other intraoperative cardiac functional disturbances during cardiac surgery,心臟手術時其他術中心臟功能障礙
+1555,I97791,Other intraoperative cardiac functional disturbances during other surgery,其他手術時其他術中心臟功能障礙
+1556,I978,"Other intraoperative and postprocedural complications and disorders of the circulatory system, not elsewhere classified",循環系統其他術中及術後處置之併發症，他處未歸類者
+1557,I9781,Intraoperative cerebrovascular infarction,術中處置併發腦血管梗塞
+1558,I97810,Intraoperative cerebrovascular infarction during cardiac surgery,心臟手術時術中腦血管梗塞
+1559,I97811,Intraoperative cerebrovascular infarction during other surgery,其他手術時術中腦血管梗塞
+1560,I9782,Postprocedural cerebrovascular infarction,術後處置併發腦血管梗塞
+1561,I97820,Postprocedural cerebrovascular infarction during cardiac surgery,心臟手術醫療處置後腦血管梗塞
+1562,I97821,Postprocedural cerebrovascular infarction during other surgery,其他手術時醫療處置後腦血管梗塞
+1563,I9788,"Other intraoperative complications of the circulatory system, not elsewhere classified",循環系統其他術中併發症，他處未歸類者
+1564,I9789,"Other postprocedural complications and disorders of the circulatory system, not elsewhere classified",循環系統其他醫療處置後併發症及疾患，他處未歸類者
+1565,I99,Other and unspecified disorders of circulatory system,循環系統其他及未特定疾患
+1566,I998,Other disorder of circulatory system,其他特定之循環系統疾患
+1567,I999,Unspecified disorder of circulatory system,非特異性循環系統疾患
