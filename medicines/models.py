@@ -55,6 +55,7 @@ class MedicineRecord(models.Model):
         on_delete=models.CASCADE)
     dosage = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     subtotal = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+    rec_unit = models.CharField(max_length=50, blank=True, null=True, default='克')
 
 
 class Decoction(models.Model):
@@ -89,6 +90,7 @@ class DecoctionRecord(models.Model):
         on_delete=models.CASCADE)
     dosage = models.DecimalField(max_digits=10, decimal_places=2, default=0)
     subtotal = models.DecimalField(max_digits=10, decimal_places=2, default=0)
+    rec_unit = models.CharField(max_length=50, blank=True, null=True, default='錢')
 
 
 
