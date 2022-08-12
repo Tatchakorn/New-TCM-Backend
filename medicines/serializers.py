@@ -32,16 +32,15 @@ class MedicineSerializer(serializers.ModelSerializer):
 
 class MedicineRecordSerializer(serializers.ModelSerializer):
     medicine_name = serializers.CharField(source="medicine_id.name", read_only=True)
-    medicine_unit = serializers.CharField(source="medicine_id.unit", read_only=True)
     class Meta:
         model = MedicineRecord
         fields = (
             'medicine_id',
             'medicine_name',
-            'medicine_unit',
             'diagnosis_record_id',
             'dosage',
-            'subtotal',)
+            'subtotal',
+            'rec_unit')
 
 
 class DecoctionSerializers(serializers.ModelSerializer):
@@ -81,6 +80,7 @@ class DecoctionRecordSerializers(serializers.ModelSerializer):
             'decoction_component_data',
             'dosage',
             'subtotal',
+            'rec_unit'
         )
 
 
