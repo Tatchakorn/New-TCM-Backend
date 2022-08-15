@@ -1,3 +1,4 @@
+from numpy import source
 from rest_framework import serializers
 from .models import (
     Medicine, 
@@ -57,13 +58,16 @@ class DecoctionSerializers(serializers.ModelSerializer):
 
 
 class DecoctionComponentsSerializers(serializers.ModelSerializer):
-    
+    medicine_name = serializers.CharField(source="medicine_id.name", read_only=True)
+    decoction_name = serializers.CharField(source="decoction_id.name", read_only=True)
     class Meta:
         model = DecoctionComponents
         fields = (
             'id',
             'decoction_id',
             'medicine_id',
+            'medicine_name',
+            'decoction_name',
             'dosage',
             'unit',
         )
