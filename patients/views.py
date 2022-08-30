@@ -69,13 +69,25 @@ class DiagnosisRecordViewSet(viewsets.ModelViewSet):
     queryset = DiagnosisRecord.objects.all()
     serializer_class = DiagnosisRecordSerializer
 
-
+class EyeImageFilter(filters.FilterSet):
+    class Meta:
+        model = EyeImage
+        fields = {
+            'patient_id': ['exact']
+        }
 class EyeImageViewSet(viewsets.ModelViewSet):
+    filterset_class = EyeImageFilter
     queryset = EyeImage.objects.all()
     serializer_class = EyeImageSerializer
 
-
+class TongueImageFilter(filters.FilterSet):
+    class Meta:
+        model = TongueImage
+        fields = {
+            'patient_id': ['exact']
+        }
 class TongueImageViewSet(viewsets.ModelViewSet):
+    filterset_class = TongueImageFilter
     queryset = TongueImage.objects.all()
     serializer_class = TongueImageSerializer
 
